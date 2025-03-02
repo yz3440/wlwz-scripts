@@ -1,1 +1,244 @@
-{"type": "normal", "rawDescription": "【大堂，傍晚】", "location": "大堂", "timeOfDay": "傍晚", "performances": [{"type": "action", "description": "一路人正欲进店"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "站住，说你呢。"}]}, {"type": "dialog", "speaker": "路人", "performances": [{"type": "line", "line": "咋的了？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "从哪儿来，到哪儿去呀？这怀里藏的什么？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "老刑，人家是来吃饭的。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "吃饭的，那你为啥不进去呀？"}]}, {"type": "dialog", "speaker": "路人", "performances": [{"type": "line", "line": "我，我不吃了行了吧。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "站住，谁允许你走的，说你呢。你给我站住。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "老邢，邢育森！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "你叫我什么？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "邢大捕头你就行行好，给我们留条活路吧。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "邢捕头，这些天查来查去，见个人就问个半天，没人敢出门了，生意一天不如一天。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "生意差也就算了，你说现在连菜价也跟着往上涨，菜都买不着，还让不让人活了？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "没菜你还吃啊？我办案，跟菜涨价有什么关系？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你听我跟你解释，你想，大家为了少出门，都想买点菜囤着，市面上一共就那么些菜，你买我也买，抢来抢去，这菜价可不就涨上去了？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这些天，所有铺子的生意都不好了，有些小店撑不下去了，发点钱让伙计们都走人了。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "有些伙计钱花光了又找不到新工作，正琢磨着怎么投奔丐帮呢。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "为了这事儿，连我们书院都停课了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "要光是咱们镇也就算了，连左家庄都受了牵连。说咱这有贼，没有人敢来，那些赶大车的，好几天都没生意，没有饭吃了。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "不是，你们。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "还有赵庄，高家庄，马家河子那些挖地道的，开茶铺的，卖胭脂的，耍把式的……"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "够啦够啦。无论如何我是为了办案，要怪就怪那个贼，我一天抓不着他，我绝不罢休。"}, {"type": "speaker-action", "description": "看看门外"}, {"type": "line", "line": "站住，说你呢！你给我站住，哪里走！"}, {"type": "speaker-action", "description": "跑出门外"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "邢育森，邢育森。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，傍晚】",
+  "location": "大堂",
+  "timeOfDay": "傍晚",
+  "performances": [
+    {
+      "type": "action",
+      "description": "一路人正欲进店"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，说你呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "路人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从哪儿来，到哪儿去呀？这怀里藏的什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老刑，人家是来吃饭的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃饭的，那你为啥不进去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "路人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我不吃了行了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，谁允许你走的，说你呢。你给我站住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，邢育森！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你叫我什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "邢大捕头你就行行好，给我们留条活路吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "邢捕头，这些天查来查去，见个人就问个半天，没人敢出门了，生意一天不如一天。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "生意差也就算了，你说现在连菜价也跟着往上涨，菜都买不着，还让不让人活了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没菜你还吃啊？我办案，跟菜涨价有什么关系？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听我跟你解释，你想，大家为了少出门，都想买点菜囤着，市面上一共就那么些菜，你买我也买，抢来抢去，这菜价可不就涨上去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些天，所有铺子的生意都不好了，有些小店撑不下去了，发点钱让伙计们都走人了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有些伙计钱花光了又找不到新工作，正琢磨着怎么投奔丐帮呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了这事儿，连我们书院都停课了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要光是咱们镇也就算了，连左家庄都受了牵连。说咱这有贼，没有人敢来，那些赶大车的，好几天都没生意，没有饭吃了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有赵庄，高家庄，马家河子那些挖地道的，开茶铺的，卖胭脂的，耍把式的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够啦够啦。无论如何我是为了办案，要怪就怪那个贼，我一天抓不着他，我绝不罢休。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看看门外"
+        },
+        {
+          "type": "line",
+          "line": "站住，说你呢！你给我站住，哪里走！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑出门外"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "邢育森，邢育森。"
+        }
+      ]
+    }
+  ]
+}

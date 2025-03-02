@@ -4,21 +4,39 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "小郭还定在门口" },
+    {
+      "type": "action",
+      "description": "小郭还定在门口"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我说怎么的，一块儿吃点。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说怎么的，一块儿吃点。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "开饭了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "开饭了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "来来吃，吃饭。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来吃，吃饭。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -34,24 +52,45 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "对大嘴" },
-        { "type": "line", "line": "你客气点儿，刚才在厨房都吃俩大骨头棒子了。" }
+        {
+          "type": "speaker-action",
+          "description": "对大嘴"
+        },
+        {
+          "type": "line",
+          "line": "你客气点儿，刚才在厨房都吃俩大骨头棒子了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你没啃呐？你再敢说你没啃？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没啃呐？你再敢说你没啃？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我啃的那不都是你剩下的吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我啃的那不都是你剩下的吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "展堂。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -61,35 +100,63 @@
           "type": "line",
           "line": "骨髓。把骨头砸开呀，里边那白汤，那叫一香，那叫一滑，使劲那么一吸……"
         },
-        { "type": "speaker-action", "description": "有吮吸的声音" },
-        { "type": "line", "line": "谁吸的？" }
+        {
+          "type": "speaker-action",
+          "description": "有吮吸的声音"
+        },
+        {
+          "type": "line",
+          "line": "谁吸的？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "不是我啊，我没吸。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我啊，我没吸。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "使劲那么一吸……" },
-        { "type": "speaker-action", "description": "又有吮吸的声音" },
-        { "type": "line", "line": "那呢，她吸的。谁给她解的穴？" }
+        {
+          "type": "line",
+          "line": "使劲那么一吸……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又有吮吸的声音"
+        },
+        {
+          "type": "line",
+          "line": "那呢，她吸的。谁给她解的穴？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "没有解吧，呵呵。咋流口水了，你看。" }
+        {
+          "type": "line",
+          "line": "没有解吧，呵呵。咋流口水了，你看。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "她是不是饿了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是不是饿了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -104,72 +171,138 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "点啥头啊，定着呢。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "点啥头啊，定着呢。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "让我来。你知道错了吗？知道就眨个眼。" }
+        {
+          "type": "line",
+          "line": "让我来。你知道错了吗？知道就眨个眼。"
+        }
       ]
     },
-    { "type": "action", "description": "小郭眨眼" },
+    {
+      "type": "action",
+      "description": "小郭眨眼"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "知道，知道错了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道，知道错了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "那要是我把你放开，你逃不逃？不逃就眨个眼。" }
+        {
+          "type": "line",
+          "line": "那要是我把你放开，你逃不逃？不逃就眨个眼。"
+        }
       ]
     },
-    { "type": "action", "description": "小郭眨眼" },
+    {
+      "type": "action",
+      "description": "小郭眨眼"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "不逃了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不逃了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "白大哥。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "掌柜的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "解了吧，啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "解了吧，啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "行，葵花解穴手！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，葵花解穴手！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "咳咳……内力还在……" },
-        { "type": "speaker-action", "description": "坐到饭桌旁" }
+        {
+          "type": "line",
+          "line": "咳咳……内力还在……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐到饭桌旁"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哎哎，自己到厨房拿个碗去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，自己到厨房拿个碗去。"
+        }
+      ]
     },
-    { "type": "action", "description": "小郭跑向门口，老白拦住，小郭举起板凳" },
+    {
+      "type": "action",
+      "description": "小郭跑向门口，老白拦住，小郭举起板凳"
+    },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哎哎哎……放下，放下。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎……放下，放下。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -179,20 +312,34 @@
           "type": "line",
           "line": "三十秒之内，这条板凳就要化作一条五彩巨蟒，"
         },
-        { "type": "speaker-action", "description": "放下板凳" },
-        { "type": "line", "line": "把你们挨个活吃了。" }
+        {
+          "type": "speaker-action",
+          "description": "放下板凳"
+        },
+        {
+          "type": "line",
+          "line": "把你们挨个活吃了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "真的假的呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的假的呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "听他胡说呢。有那能耐还能让我点住。" }
+        {
+          "type": "line",
+          "line": "听他胡说呢。有那能耐还能让我点住。"
+        }
       ]
     },
     {
@@ -222,8 +369,16 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哎哎，展堂……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，展堂……"
+        }
+      ]
     },
-    { "type": "action", "description": "老白上楼去准备拦截" }
+    {
+      "type": "action",
+      "description": "老白上楼去准备拦截"
+    }
   ]
 }

@@ -1,1 +1,334 @@
-{"type": "normal", "rawDescription": "【后院，昼】", "location": "后院", "timeOfDay": "昼", "performances": [{"type": "action", "description": "大家聚到磨旁"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "趁掌柜的不在，一会小贝回来我先把她点住，小郭守住门口。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "点住之后呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "点住之后吕秀才上"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "我上去干嘛？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "展开说教，动之以情晓之以理之"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "好，她要是不听呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "关门放小郭，以排山倒海恐吓之"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "好！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "那万一要吓不住怎么办？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "大嘴上以美食诱惑之。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "好。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "她要不吃这套呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那就由我来，葵花点穴"}, {"type": "speaker-action", "description": "小贝上"}, {"type": "line", "line": "——笑脸相迎之。呵呵，莫掌门回来啦？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "你们干吗呢？"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "没干吗，没干吗。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "都解散吧，我回屋背书了。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "背啥书啊？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "今天邱小东代课，哼，我恨他一辈子！"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "为，为什么呀？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "今天他教大家背三字经，下课以后，大家都围着他管他叫邱先生，他还成立了一个四书五经派。四加五加起来，比我那八大派还多一派呢！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "这没什么的，你怕啥！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "是啊是啊！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "可我这派已经没人了呀！"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "我们不是人啊！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "那你们会背三字经吗？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "三字经……"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "人之初……"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "我说的是整篇！"}]}, {"type": "action", "description": "老白，小郭，大嘴愣，低头；秀才得意"}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "一群没用的东西！"}, {"type": "speaker-action", "description": "秀才附和着鄙视，然后指着自己，一脸得意,小贝朝秀才"}, {"type": "line", "line": "包括你！我宣布，咱们大家各回各家，各找各妈。八大派就此解散。"}, {"type": "speaker-action", "description": "朝房间走"}, {"type": "line", "line": "人之初，性本善，性相近，习相远……"}]}, {"type": "action", "description": "字幕：一个月后"}]}
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大家聚到磨旁"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "趁掌柜的不在，一会小贝回来我先把她点住，小郭守住门口。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "点住之后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "点住之后吕秀才上"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我上去干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展开说教，动之以情晓之以理之"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，她要是不听呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "关门放小郭，以排山倒海恐吓之"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那万一要吓不住怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴上以美食诱惑之。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她要不吃这套呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就由我来，葵花点穴"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小贝上"
+        },
+        {
+          "type": "line",
+          "line": "——笑脸相迎之。呵呵，莫掌门回来啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们干吗呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没干吗，没干吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都解散吧，我回屋背书了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "背啥书啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天邱小东代课，哼，我恨他一辈子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为，为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天他教大家背三字经，下课以后，大家都围着他管他叫邱先生，他还成立了一个四书五经派。四加五加起来，比我那八大派还多一派呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这没什么的，你怕啥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊是啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我这派已经没人了呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们不是人啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们会背三字经吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三字经……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人之初……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的是整篇！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白，小郭，大嘴愣，低头；秀才得意"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一群没用的东西！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才附和着鄙视，然后指着自己，一脸得意,小贝朝秀才"
+        },
+        {
+          "type": "line",
+          "line": "包括你！我宣布，咱们大家各回各家，各找各妈。八大派就此解散。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝房间走"
+        },
+        {
+          "type": "line",
+          "line": "人之初，性本善，性相近，习相远……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕：一个月后"
+    }
+  ]
+}

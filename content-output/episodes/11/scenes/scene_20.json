@@ -4,11 +4,19 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "秀才洗眼睛，小翠趁机将帐本放回原处。" },
+    {
+      "type": "action",
+      "description": "秀才洗眼睛，小翠趁机将帐本放回原处。"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "哎呀妈呀。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -23,111 +31,200 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "那就好，那就好。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "你眼睛还疼吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "睁不开。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "我帮你揉揉。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "别别别，男女授受不亲呐。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就好，那就好。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "嗨，你就把我当作男的不就妥了？来吧，来吧。" }
+        {
+          "type": "line",
+          "line": "你眼睛还疼吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "那你轻儿点啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "睁不开。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "你只要别乱动。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我帮你揉揉。"
+        }
+      ]
     },
-    { "type": "action", "description": "双手拇指朝秀才双眼猛的按了下去" },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "啊！我不是叫你轻儿点吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，男女授受不亲呐。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "我不是让你别乱动吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，你就把我当作男的不就妥了？来吧，来吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你轻儿点啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你只要别乱动。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "双手拇指朝秀才双眼猛的按了下去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！我不是叫你轻儿点吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是让你别乱动吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
       "performances": [
-        { "type": "line", "line": "来来来，我给你吹吹，我给你吹吹。" }
+        {
+          "type": "line",
+          "line": "来来来，我给你吹吹，我给你吹吹。"
+        }
       ]
     },
-    { "type": "action", "description": "赛掌柜跑去柜台翻" },
+    {
+      "type": "action",
+      "description": "赛掌柜跑去柜台翻"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "练的差不多了。哎？赛掌柜，找啥呢？" }
+        {
+          "type": "line",
+          "line": "练的差不多了。哎？赛掌柜，找啥呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "那个秀才的眼睛疼，我给他找点药膏。" }
+        {
+          "type": "line",
+          "line": "那个秀才的眼睛疼，我给他找点药膏。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "上账台找药膏？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "上账台找药膏？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "你这儿我也不熟，要不你给她找吧，我先走啊。" }
+        {
+          "type": "line",
+          "line": "你这儿我也不熟，要不你给她找吧，我先走啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你不看排练了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不看排练了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "我……我有事儿，明儿再看吧，你们好好练啊。" }
+        {
+          "type": "line",
+          "line": "我……我有事儿，明儿再看吧，你们好好练啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "秀才……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "恩？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
     }
   ]
 }

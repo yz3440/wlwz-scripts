@@ -1,1 +1,252 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "到了书院，千万要乖一点，啊……"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "嗯。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不要跟先生顶嘴。也不要跟同学闹别扭，啊。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "嗯！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "去吧，去吧。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "我的猪骨头，羊拐和沙包。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你是去读书去了，要这些乱七八糟的东西干啥？！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "我……"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "嗯！"}]}, {"type": "action", "description": "佟湘玉看了一下大家，将小贝要的东西拿给她"}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "上学咯！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你慢点跑，啊！不要摔着了！早去早回啊！我这样做，大家没有啥意见吧……"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "没意见！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那就麻烦大家过来跟我录个口供吧。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "口供？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "沙包谁给她缝的，猪骨头谁给她磨的，还有上次那个洒水枪谁给她做的，全部老老实实给我交代出来！"}]}, {"type": "action", "description": "大家各忙各的"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我还没有说完呢！"}, {"type": "speaker-action", "description": "朝小郭"}, {"type": "line", "line": "扣钱！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "当心，当心！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "扣钱，扣钱！"}]}, {"type": "action", "description": "老白抖抹桌布，佟又朝大嘴"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "扣钱！"}]}, {"type": "action", "description": "大嘴推开她，佟再朝秀才"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "秀才～扣钱！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "嘶嘶～～"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "按照店规～扣钱扣钱～～！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到了书院，千万要乖一点，啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要跟先生顶嘴。也不要跟同学闹别扭，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧，去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的猪骨头，羊拐和沙包。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是去读书去了，要这些乱七八糟的东西干啥？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉看了一下大家，将小贝要的东西拿给她"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上学咯！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你慢点跑，啊！不要摔着了！早去早回啊！我这样做，大家没有啥意见吧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没意见！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就麻烦大家过来跟我录个口供吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "口供？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "沙包谁给她缝的，猪骨头谁给她磨的，还有上次那个洒水枪谁给她做的，全部老老实实给我交代出来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家各忙各的"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没有说完呢！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝小郭"
+        },
+        {
+          "type": "line",
+          "line": "扣钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当心，当心！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扣钱，扣钱！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白抖抹桌布，佟又朝大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扣钱！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴推开她，佟再朝秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才～扣钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘶嘶～～"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "按照店规～扣钱扣钱～～！"
+        }
+      ]
+    }
+  ]
+}

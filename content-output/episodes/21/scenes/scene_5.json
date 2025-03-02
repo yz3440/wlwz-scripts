@@ -123,8 +123,14 @@
       "description": "吴扔银子"
     },
     {
-      "type": "line",
-      "line": "这边请，这边请。这边请，来来来这边请。"
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这边请，这边请。这边请，来来来这边请。"
+        }
+      ]
     }
   ]
 }

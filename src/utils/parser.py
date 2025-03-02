@@ -147,17 +147,19 @@ def find_missing_parts(parsed_text: str, original_text: str):
 
 import json
 import jsonschema
-from jsonschema import validate
+from jsonschema import validate, ValidationError
+from typing import Union
 
-# Define the JSON schema based on the provided example
-scene_script_schema = {
+# Define the schema for the "normal" scene type
+normal_scene_schema = {
     "type": "object",
     "required": ["type", "rawDescription", "location", "timeOfDay", "performances"],
     "properties": {
         "type": {"type": "string", "enum": ["normal"]},
         "rawDescription": {"type": "string"},
         "location": {"type": "string"},
-        "timeOfDay": {"type": "string"},
+        "timeOfDay": {"type": ["string", "null"]},
+        "context": {"type": ["string", "null"]},
         "performances": {
             "type": "array",
             "items": {
@@ -222,25 +224,56 @@ scene_script_schema = {
     "additionalProperties": False,
 }
 
+# Define the schema for the "cutscene" type
+cutscene_schema = {
+    "type": "object",
+    "required": ["type", "rawDescription", "cutSceneName"],
+    "properties": {
+        "type": {"type": "string", "enum": ["cutscene"]},
+        "rawDescription": {"type": "string"},
+        "cutSceneName": {"type": "string"},
+        "plot": {"type": "string"},  # Optional field
+    },
+    "additionalProperties": False,
+}
 
-def validate_scene_script_json(json_data: dict | str) -> bool:
+
+def validate_scene_script_json(json_data: Union[dict, str]) -> bool:
     """
-    Validate the provided JSON data against the screenplay schema.
+    Validate the provided JSON data against both screenplay schemas.
+    The JSON is considered valid if it passes either schema.
 
     Args:
-        json_data (dict or str): JSON data to validate, either as a Python dict or JSON string
+        json_data (Union[dict, str]): JSON data to validate, either as a Python dict or JSON string
 
     Returns:
-        bool: True if validation succeeds
+        bool: True if validation succeeds against either schema
 
     Raises:
-        jsonschema.exceptions.ValidationError: If validation fails
+        jsonschema.exceptions.ValidationError: If validation fails against both schemas
         json.JSONDecodeError: If json_data is a string and not valid JSON
     """
     # If input is a string, parse it as JSON
     if isinstance(json_data, str):
         json_data = json.loads(json_data)
 
-    # Validate against the schema
-    validate(instance=json_data, schema=scene_script_schema)
-    return True
+    # Try to validate against the normal scene schema
+    try:
+        validate(instance=json_data, schema=normal_scene_schema)
+        return True
+    except ValidationError as e:
+        normal_error = e
+
+    # If that fails, try to validate against the cutscene schema
+    try:
+        validate(instance=json_data, schema=cutscene_schema)
+        return True
+    except ValidationError as e:
+        cutscene_error = e
+
+    # If we get here, the JSON failed both validations
+    raise ValidationError(
+        f"JSON failed validation against both schemas.\n"
+        f"Normal scene error: {normal_error.message}\n"
+        f"Cutscene error: {cutscene_error.message}"
+    )

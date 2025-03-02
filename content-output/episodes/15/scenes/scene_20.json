@@ -4,11 +4,19 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "众人埋怨老白" },
+    {
+      "type": "action",
+      "description": "众人埋怨老白"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "好了，这事儿能怪我嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了，这事儿能怪我嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -23,27 +31,52 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "已经疯了……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "已经疯了……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "呵哈哈哈哈哈，真有他的！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵哈哈哈哈哈，真有他的！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "怎么了吗？那些散钱？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了吗？那些散钱？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "人家根本就没有数……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家根本就没有数……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "那怎么入的帐呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么入的帐呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -55,22 +88,38 @@
         }
       ]
     },
-    { "type": "action", "description": "哭" },
+    {
+      "type": "action",
+      "description": "哭"
+    },
     {
       "type": "dialog",
       "speaker": "李、吕、郭",
-      "performances": [{ "type": "line", "line": "掌柜的！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哈哈哈哈哈——跟我斗！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈哈——跟我斗！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "你不会又想出什么好办法了吧？" }
+        {
+          "type": "line",
+          "line": "你不会又想出什么好办法了吧？"
+        }
       ]
     },
     {
@@ -86,69 +135,126 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "够了！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不够！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "可以了！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不可以！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "有客人！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "客人都看着呢！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "不管，你爱吃不吃！" },
-        { "type": "line", "line": "啥意思吗？" }
+        {
+          "type": "line",
+          "line": "不够！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "我问你，那个玉牌，真的很值钱吗？" }
+        {
+          "type": "line",
+          "line": "可以了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不值钱，但它对我意义重大。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "这可是你第一次送给她的东西啊。" }
+        {
+          "type": "line",
+          "line": "不可以！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "人的一生很短暂的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "有客人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "客人都看着呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不管，你爱吃不吃！"
+        },
+        {
+          "type": "line",
+          "line": "啥意思吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，那个玉牌，真的很值钱吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不值钱，但它对我意义重大。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是你第一次送给她的东西啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人的一生很短暂的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "有几个第一次啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "有几个第一次啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -163,7 +269,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "但是这一次不一样嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是这一次不一样嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -178,7 +289,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "可我是在克制不住嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我是在克制不住嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -193,17 +309,32 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "还有钱呢。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有钱呢。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "前后加起来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "前后加起来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "五六十两呢。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "五六十两呢。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -218,51 +349,92 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "真的会有第二次吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的会有第二次吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "会的，一定会的，而且现在就有。" }
+        {
+          "type": "line",
+          "line": "会的，一定会的，而且现在就有。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "必须是最贵重的东西。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "没问题。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "还不能是哪都能买得着的。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你放心。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "而且是对你最重要的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "必须是最贵重的东西。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "重要无比，少了它我啥也干不了。" }
+        {
+          "type": "line",
+          "line": "没问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不能是哪都能买得着的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "而且是对你最重要的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "重要无比，少了它我啥也干不了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "什么呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -272,10 +444,16 @@
           "type": "line",
           "line": "这个鞋啊，当年少说也值十两银子，我穿了七八年破是破了点，但特别随脚，送你们吧！不要鞋还有鞋垫，真的，绑腿啊，腰带啊，袜子啊，都可以，千万别跟我客气！"
         },
-        { "type": "speaker-action", "description": "脱鞋" }
+        {
+          "type": "speaker-action",
+          "description": "脱鞋"
+        }
       ]
     },
-    { "type": "action", "description": "湘玉上楼，老白追" },
+    {
+      "type": "action",
+      "description": "湘玉上楼，老白追"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",

@@ -1,50 +1,16 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，昼】",
+  "rawDescription": "【大堂，夜】",
   "location": "大堂",
-  "timeOfDay": "昼",
+  "timeOfDay": "夜",
   "performances": [
     {
-      "type": "action",
-      "description": "湘玉给老白擦眼睛"
-    },
-    {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "哎呀呀，疼啊，你不能轻点儿啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哼，你娘也真行，就为了引你出来。活活偷了四十多颗官印。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "没偷啊，四十多颗官印都在衙门的匾额后面放着呢。而且昨晚还留了字条。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那也不成呀，那私闯公堂可是大罪。"
+          "line": "咳，咳，咳，这都啥时候了，我看他是不会来了。要来早来了。"
         }
       ]
     },
@@ -54,7 +20,51 @@
       "performances": [
         {
           "type": "line",
-          "line": "去去去去去。脸上还疼不疼了？"
+          "line": "实在不行，明天再逮吧。你看看小贝都困成什么样子了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，今天先收队吧，明天再逮，早点儿休息啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，搭把手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从楼上下"
+        },
+        {
+          "type": "line",
+          "line": "别铺了，都回各屋睡觉去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
         }
       ]
     },
@@ -64,17 +74,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "疼，火辣辣的疼。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我还水灵灵的疼呐。你娘也真是的啊。明知都是自个儿人，下手还那么重，干啥呢？"
+          "line": "那人不会再来了。"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎对了，你娘的手脚筋不是被挑了吗？"
+          "line": "你怎么知道的？"
         }
       ]
     },
@@ -94,17 +94,29 @@
       "performances": [
         {
           "type": "line",
-          "line": "又长上了呗。——厄，我问她了，她死活不说。"
+          "line": "甭问，现在还不是说的时候。哪天，我会一五一十地告诉你们"
+        },
+        {
+          "type": "speaker-action",
+          "description": "叉手，手上没有了红绳"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "是不敢说吧？逃狱那可是株连九族的。"
+          "line": "啊——那好，你们都回屋睡吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老白"
+        },
+        {
+          "type": "line",
+          "line": "对了，咱俩第一次见面的时候，我穿的什么衣服啊？"
         }
       ]
     },
@@ -114,17 +126,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你还有没有完了啊？不就因为我娘点了你几下吗？你要不服，你就上楼啊，我绝不拦着你。去呀。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我上楼干啥去？我还不如上衙门呢。"
+          "line": "这都多长时间了，我哪记得这个啊。"
         }
       ]
     },
@@ -134,63 +136,149 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎，大嘴，你可不要胡来啊。"
+          "line": "厄，小郭找你有点事……"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "咋的，你怕我告上去呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+          "type": "speaker-action",
+          "description": "转过脸对郭芙蓉"
+        },
         {
           "type": "line",
-          "line": "这可是掉脑袋的事情。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "怕了是吧？那卖身契还我，还我呀。你不还是吧，你等着。小六……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "给你给你给你！趁火打劫！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我这是见缝插针。哎呀妈呀，行了，这回又自由啦。老白啊，替我谢谢你娘啊，祝她早日入狱啊。"
+          "line": "啥事？"
         }
       ]
     },
     {
       "type": "action",
-      "description": "李大嘴被凌空点住"
+      "description": "郭芙蓉突然吹了老白一脸石灰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人上去撕面具"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！真脸！真的脸！耳朵，耳朵！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这好像——真的是真皮？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "起来！展堂，我的人呀！不是有个红丝带嘛，为啥不系上嘛！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人比划"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他已经看不见了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我嫌它勒手我就给解了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，疼不疼呀，快坐下来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，座在哪呢……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼不疼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，洒你一脸石灰你说疼不疼，赶紧给我洗洗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，快快快，拿水拿水！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "楼上声音传来"
     },
     {
       "type": "dialog",
@@ -198,27 +286,161 @@
       "performances": [
         {
           "type": "line",
-          "line": "下次再敢胡说八道。直接点死穴。"
+          "line": "不要用水擦，"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "众人哆嗦回头，一蒙面人出现在楼上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "否则皮会烫掉的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你你是谁呀？你要干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把你们统统杀了灭口。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别吓他们了，他们胆小。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们骂人的时候，胆可不小。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，娘！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚才骂他是狗娘养的，是哪位仁兄啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李大嘴逃被凌空点住"
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "拿回卖身契"
-        },
-        {
           "type": "line",
-          "line": "这个还是我来替你保管吧。"
+          "line": "啊，伯母好，我叫湘玉，渴不渴饿不饿呀？一路上辛苦得很吧？"
         }
       ]
     },
     {
       "type": "action",
-      "description": "白展堂在大嘴身上插小旗：欢迎光临，丰俭由您。"
+      "description": "白三娘吹气把老白眼睛吹好"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这我娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘——厄不，老白娘？——厄，白大娘？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，你们就叫我白三娘吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白三娘……"
+        }
+      ]
     }
   ]
 }

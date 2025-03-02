@@ -1,1 +1,262 @@
-{"type": "normal", "rawDescription": "【后院，昼】", "location": "后院", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "怡红酒楼开张了，你们都知道了吧？"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "知道了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我打算，派个人过去，弄点东西。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "弄？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "也就是趁他们不注意取点东西。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "取？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "是拿。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "哦，拿！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "老白，你去？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "为什么是我？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "他合适。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "老本行。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "呵呵呵。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哼你个头，坚决不去，退隐江湖很多年了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不去算了啊，过去之后无非就是拿点先进的经验，吃吃喝喝，玩玩闹闹费用我来出谁去？"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "我我我我，我去！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不要着急，一个一个来。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "speaker-action", "description": "戴斗笠，POSE"}, {"type": "line", "line": "还是我去吧，拿~东西我比较有经验。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "啥好吃啥好喝，你能有我有经验呐？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "就是，这也得有理论支持的，子曾经曰过……"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "去"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不要再曰了，我打算派小郭去。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "为啥呀？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "因为她是个女的，不会中美人计，小郭，走！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "拜拜！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怡红酒楼开张了，你们都知道了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我打算，派个人过去，弄点东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "弄？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就是趁他们不注意取点东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "取？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是拿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，拿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么是我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他合适。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老本行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼你个头，坚决不去，退隐江湖很多年了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不去算了啊，过去之后无非就是拿点先进的经验，吃吃喝喝，玩玩闹闹费用我来出谁去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我我我我，我去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要着急，一个一个来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "戴斗笠，POSE"
+        },
+        {
+          "type": "line",
+          "line": "还是我去吧，拿~东西我比较有经验。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥好吃啥好喝，你能有我有经验呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是，这也得有理论支持的，子曾经曰过……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再曰了，我打算派小郭去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为她是个女的，不会中美人计，小郭，走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜拜！"
+        }
+      ]
+    }
+  ]
+}

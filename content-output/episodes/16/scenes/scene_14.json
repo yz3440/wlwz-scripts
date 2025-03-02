@@ -1,1 +1,286 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "掌柜的！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "扔出去了么？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "三十里地，够了么？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "够了够了够了。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "笑不露齿，嫂子。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不露不露，这么早就回来了？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "我先回屋做功课啊，嫂子。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "呵呵呵——回来！"}, {"type": "speaker-action", "description": "对食客"}, {"type": "line", "line": "吃饭吃饭。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "干嘛？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "展堂……"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "干嘛，嫂子？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咋回事？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我扔了呀！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你是从哪捡回来的？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "西凉河呀。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你到西凉河干啥去了？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "捞鱼啊，结果鱼没捞着，就捞着这个包了。给我吧嫂子。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你想要是吧？想要你就拿去吧。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "——我不要了嫂子。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不要怕啊，放心大胆地拿啊，你倒是拿呀！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "白展堂——"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我真扔了！我昨天晚上走了三十里地，我才敢扔的。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那小贝咋会捡着的？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我给扔错方向了，我要是扔下游的话，它就漂不回来。我给扔上游了。这样，包我拿过来，我重扔。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "大白天的，你找死啊？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那我就晚上再去扔。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不行。如果不把这个东西处理掉，我连晚饭也吃不下。过来过来。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扔出去了么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十里地，够了么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了够了够了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑不露齿，嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不露不露，这么早就回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我先回屋做功课啊，嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵——回来！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对食客"
+        },
+        {
+          "type": "line",
+          "line": "吃饭吃饭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛，嫂子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我扔了呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是从哪捡回来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "西凉河呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你到西凉河干啥去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捞鱼啊，结果鱼没捞着，就捞着这个包了。给我吧嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想要是吧？想要你就拿去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——我不要了嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要怕啊，放心大胆地拿啊，你倒是拿呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真扔了！我昨天晚上走了三十里地，我才敢扔的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那小贝咋会捡着的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给扔错方向了，我要是扔下游的话，它就漂不回来。我给扔上游了。这样，包我拿过来，我重扔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大白天的，你找死啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我就晚上再去扔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行。如果不把这个东西处理掉，我连晚饭也吃不下。过来过来。"
+        }
+      ]
+    }
+  ]
+}

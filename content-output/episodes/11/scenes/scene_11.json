@@ -7,27 +7,52 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我错了，我真的错了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我错了，我真的错了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你错哪儿了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你错哪儿了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "展堂！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "老白？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你还知道回来？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还知道回来？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -42,7 +67,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "她咋这么快就让你回来了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她咋这么快就让你回来了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -57,19 +87,32 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "骂你啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "骂你啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "白郎，我平日里待你不薄，你为何这样待我？" }
+        {
+          "type": "line",
+          "line": "白郎，我平日里待你不薄，你为何这样待我？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你咋待她了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋待她了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -84,22 +127,42 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "然后呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "然后就，怒沉了一下。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后就，怒沉了一下。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "全沉了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "全沉了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -114,47 +177,86 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "沉完了之后呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "沉完了之后呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "她就回扬州了，估计这会儿已经出西凉河了。" }
+        {
+          "type": "line",
+          "line": "她就回扬州了，估计这会儿已经出西凉河了。"
+        }
       ]
     },
-    { "type": "action", "description": "十娘入" },
+    {
+      "type": "action",
+      "description": "十娘入"
+    },
     {
       "type": "dialog",
       "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "还没有。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没有。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你的嗓子咋了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的嗓子咋了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "受凉了，没得十天半个月好不了。" }
+        {
+          "type": "line",
+          "line": "受凉了，没得十天半个月好不了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "怎么回事儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事儿？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "我被他们赶下船了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我被他们赶下船了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "为啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -170,28 +272,51 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "知道错就好，你以后打算怎么办？" }
+        {
+          "type": "line",
+          "line": "知道错就好，你以后打算怎么办？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "那我还是要麻烦你。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我还是要麻烦你。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "他没有空。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他没有空。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "十娘",
-      "performances": [{ "type": "line", "line": "白公子" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "白公子"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你自己回去吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己回去吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -206,37 +331,74 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你还不走？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "一分钱没得，怎么走啊。" }]
-    },
-    { "type": "action", "description": "掌柜的从柜台取出一百两银子，交与十娘" },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这些钱够不够？" }]
-    },
-    { "type": "action", "description": "十娘方欲上手，掌柜的赶紧拿开" },
-    {
-      "type": "dialog",
-      "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "够了够了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "钱可以给，但是你要答应我一个条件。" }
+        {
+          "type": "line",
+          "line": "你还不走？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "什么条件？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "一分钱没得，怎么走啊。"
+        }
+      ]
     },
-    { "type": "action", "description": "掌柜耳语" }
+    {
+      "type": "action",
+      "description": "掌柜的从柜台取出一百两银子，交与十娘"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些钱够不够？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "十娘方欲上手，掌柜的赶紧拿开"
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了够了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱可以给，但是你要答应我一个条件。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么条件？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜耳语"
+    }
   ]
 }

@@ -1,36 +1,12 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，夜】",
-  "location": "大堂",
-  "timeOfDay": "夜",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
   "performances": [
     {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "大嘴，这么丰盛啊？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小米进"
-        },
-        {
-          "type": "line",
-          "line": "脚，那只，谁让你进来的？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，这今儿我请客，我不进来谁进来？"
-        }
-      ]
+      "type": "action",
+      "description": "搬出嫁妆兵器箱"
     },
     {
       "type": "dialog",
@@ -38,17 +14,211 @@
       "performances": [
         {
           "type": "line",
-          "line": "你，你哪来的钱？"
+          "line": "展堂，称手的兵器挑上两三件件，找姓岳的谈一谈。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "我没钱大嘴有啊。"
+          "line": "我跟他有啥好谈的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "软的我已经用过了，没有用，咱只好来点硬的——你不会不敢吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "敢是敢。问题是，这合适吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要小贝能平安，别的我啥都不管。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要是不比剑，我应该不会输给他，问题是人家是一派之长，把他得罪了，领一帮人到这寻仇怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要寻也是寻我嘛，跟你有啥关系嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要说你这人就太实诚了，脑子不会转弯儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦，你转一个我看一看？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实想赢得比赛，办法很多。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕：方案一"
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出招吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开始。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂洒了岳一脸石灰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人笑，小贝胜利"
+    },
+    {
+      "type": "action",
+      "description": "切回现实"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱能不能想个更高级点的办法？你不要脸小贝还要呢！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕：方案二"
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出招吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开始。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱有软猥甲，耶。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切回现实"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "关键的时候一个人都用不上！——但是他这个人迷信的很。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？要是迷信的话……"
         }
       ]
     },
@@ -58,27 +228,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "是是这顿饭是我输给他的，来，小米。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这还差不多，大嘴，客人呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我去请去。"
+          "line": "开饭啦，下楼吃饭啦。"
         }
       ]
     },
@@ -88,363 +238,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "你还有客人？"
+          "line": "咋回事吗？这点开的啥饭嘛。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "二位掌门请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "岳掌门请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门再请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "岳掌门再请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门再再请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "岳掌门再再请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不要再请了，再请就活活饿死了。来来来，坐坐，请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫、岳",
-      "performances": [
-        {
-          "type": "line",
-          "line": "请！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "两位掌门，在下丐帮关中分舵四袋弟子小米，今日得见真乃三生有幸。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "有事说事儿没事儿开吃。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门果然是快人快语啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我说话虽快但没我的暗器快。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "看来你似乎是很有信心喽？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "要不要见识一下？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "好啊。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "莫小贝凌空打灭蜡烛"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "极其热烈的鼓掌！不愧是衡山掌门！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "该你了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我就算了吧，当着暗器大师的面哪敢班门弄斧。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，不来可不让吃哦。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那好吧，既然是丐帮请客，那我就借酒献佛啦！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "把酒一泼"
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "见笑见笑，诸位请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这就完啦？唬弄谁呢你，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "白展堂拉小贝"
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "干吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这是天竺的招财金花，大吉大利。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "浪费，吃饭吃饭吃饭。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "两位你俩慢慢吃，我先出去一下。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小米大嘴出"
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "岳掌门请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门再请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "岳掌门再请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "莫掌门再再请。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "岳掌门再再请。"
+          "line": "迷信……"
         }
       ]
     }

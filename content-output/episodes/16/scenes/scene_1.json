@@ -1,1 +1,207 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "context": null, "performances": [{"type": "action", "description": "敲门声"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "来了，来了。来了。来了，来了，来了。——山贼，好几十个呢！"}]}, {"type": "dialog", "speaker": "山 贼", "performances": [{"type": "line", "line": "开门，开门。再不开门，就杀进去了，一个都不剩。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "佛前莲花开三朵。"}]}, {"type": "dialog", "speaker": "山 贼", "performances": [{"type": "line", "line": "春来杨柳摘几枝。——哎呀，道上的伙计。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "啊！是是是。哎，我们这是正宗的黑店。"}]}, {"type": "dialog", "speaker": "山 贼", "performances": [{"type": "line", "line": "那就巧了，我的强项就是黑吃黑，开门！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "行了，怕成什么样了阿。这个事啊，包在我身上了，让开！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "请问，哪位是当家的？"}]}, {"type": "dialog", "speaker": "山 贼", "performances": [{"type": "line", "line": "咋了？想单挑？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "单挑？ 我一个，单挑你们一群！接招吧！"}]}, {"type": "action", "description": "门外打斗声，吕秀才进"}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "是我，别怕。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "秀才？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "你们通知衙门，叫人来收尸吧。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎呀，你流血了。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "在哪呢？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "这儿……"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "这不是我的血，早知道，我就不用剑了。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你还会使剑呢？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "实不相瞒，再下正是神笔书生，吕落第。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了，来了。来了。来了，来了，来了。——山贼，好几十个呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "山 贼",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开门，开门。再不开门，就杀进去了，一个都不剩。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佛前莲花开三朵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "山 贼",
+      "performances": [
+        {
+          "type": "line",
+          "line": "春来杨柳摘几枝。——哎呀，道上的伙计。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！是是是。哎，我们这是正宗的黑店。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "山 贼",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就巧了，我的强项就是黑吃黑，开门！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，怕成什么样了阿。这个事啊，包在我身上了，让开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问，哪位是当家的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "山 贼",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了？想单挑？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "单挑？ 我一个，单挑你们一群！接招吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "门外打斗声，吕秀才进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我，别怕。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们通知衙门，叫人来收尸吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你流血了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在哪呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这儿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是我的血，早知道，我就不用剑了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还会使剑呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实不相瞒，再下正是神笔书生，吕落第。"
+        }
+      ]
+    }
+  ]
+}

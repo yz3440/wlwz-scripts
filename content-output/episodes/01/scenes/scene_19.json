@@ -8,44 +8,74 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "咱俩要是再不动手，没准又要多添几条人命。" }
+        {
+          "type": "line",
+          "line": "咱俩要是再不动手，没准又要多添几条人命。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小青",
       "performances": [
-        { "type": "line", "line": "小姐，那我们还等什么？" },
-        { "type": "speaker-action", "description": "拔剑" }
+        {
+          "type": "line",
+          "line": "小姐，那我们还等什么？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔剑"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "我先下去搜集证据，然后再把他们一网打尽。" }
+        {
+          "type": "line",
+          "line": "我先下去搜集证据，然后再把他们一网打尽。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "哎，那我干什么呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "原地待命，等我消息。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小青",
-      "performances": [{ "type": "line", "line": "小姐，小心啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，那我干什么呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "小青，你就等着和我一起名垂武侠史册吧。" }
+        {
+          "type": "line",
+          "line": "原地待命，等我消息。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姐，小心啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小青，你就等着和我一起名垂武侠史册吧。"
+        }
       ]
     }
   ]

@@ -1,1 +1,308 @@
-{"type": "normal", "rawDescription": "【后院，夜】", "location": "后院", "timeOfDay": "夜", "performances": [{"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "这活儿没法干了，哥几个跟你说一声啊，这菜我做不出来，我先走了。诸位多保重，后会有期啊。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "别着急吗，你好好想一想。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我咋想啊，八十样菜我来得及吗我。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎呀，咱们每个人都想几样，加在一块不就差不多啦。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "就是。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "老白，你见多识广，你先说两样。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我先想啊，我认为世界上最好吃的东西就是——馒头——哎呀，大嘴给我弄个馒头去，我饿疯了。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "要了命了你这是。来来来，快吃，快吃。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "听我说啊，早些年，我在大内的时候。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "大内？你还为皇上当过差啊？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "不是当差，我进宫的主要目的就是搞搬运工作。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "奥！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我，我啥也没偷啊，我啥也没偷。那到处都是锦衣卫啊，我转了几圈，一看啥也偷不着啊，就到御膳房偷了碗粥，哎呀人家那粥那好喝啊。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "那是什么粥啊？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "燕窝银耳桂花粥。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我现在哪儿给你整燕窝去，我呀。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "没燕窝，猪窝也成啊。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "啥玩意儿？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "量大管饱儿。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "粗鄙，庸俗。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你来一个俗的。你来。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "孔子曰食不厌精，脍不厌细。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎呀呀，一到关键时刻就不食人间烟火。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "这都废话，我先走了。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "大嘴你别走。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "你走了我们会不习惯的。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "那你们给我想个招啊。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "等等。大家都是朋友，谁也不想让大嘴走对不对？"}]}, {"type": "dialog", "speaker": "郭芙蓉、吕秀才", "performances": [{"type": "line", "line": "对。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "实在不行，我们就联手使个花招来对付掌柜的……"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这活儿没法干了，哥几个跟你说一声啊，这菜我做不出来，我先走了。诸位多保重，后会有期啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别着急吗，你好好想一想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我咋想啊，八十样菜我来得及吗我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，咱们每个人都想几样，加在一块不就差不多啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你见多识广，你先说两样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我先想啊，我认为世界上最好吃的东西就是——馒头——哎呀，大嘴给我弄个馒头去，我饿疯了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要了命了你这是。来来来，快吃，快吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听我说啊，早些年，我在大内的时候。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大内？你还为皇上当过差啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是当差，我进宫的主要目的就是搞搬运工作。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "奥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我啥也没偷啊，我啥也没偷。那到处都是锦衣卫啊，我转了几圈，一看啥也偷不着啊，就到御膳房偷了碗粥，哎呀人家那粥那好喝啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是什么粥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "燕窝银耳桂花粥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我现在哪儿给你整燕窝去，我呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没燕窝，猪窝也成啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥玩意儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "量大管饱儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "粗鄙，庸俗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你来一个俗的。你来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "孔子曰食不厌精，脍不厌细。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀呀，一到关键时刻就不食人间烟火。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这都废话，我先走了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴你别走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你走了我们会不习惯的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们给我想个招啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等。大家都是朋友，谁也不想让大嘴走对不对？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉、吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在不行，我们就联手使个花招来对付掌柜的……"
+        }
+      ]
+    }
+  ]
+}

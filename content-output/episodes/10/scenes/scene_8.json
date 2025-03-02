@@ -1,1 +1,214 @@
-{"type": "normal", "rawDescription": "【大堂，夜】", "location": "大堂", "timeOfDay": "夜", "performances": [{"type": "action", "description": "老邢带着小六醉醺醺入"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎哟，我的神啊！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "人呢，人呢，人呢？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我不是人？"}]}, {"type": "action", "description": "老邢打嗝"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "又喝了多少？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "不多，把这个给我打满了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咦，全喝完了？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "那啥，为了百姓，为了……百姓……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "自己喝就算了，还带着小六喝。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "我是他师父，我不带他谁带他呀！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你看看你看看，这还象个捕快的样子吗？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "他不象，你象啊？你别说，你还真地有点象个女捕快。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "大嘴 ~"}]}, {"type": "dialog", "speaker": "燕小六", "performances": [{"type": "line", "line": "不许你说我师父！"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "谁说他啦？"}]}, {"type": "dialog", "speaker": "燕小六", "performances": [{"type": "line", "line": "我师父有醉拳，醉拳"}, {"type": "speaker-action", "description": "斜斜晃晃中，倒在地上"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎，扶起来，快扶起来。"}]}, {"type": "dialog", "speaker": "燕小六", "performances": [{"type": "line", "line": "醉拳，醉拳没打，醉拳，无招胜有招……"}]}, {"type": "dialog", "speaker": "外面叫", "performances": [{"type": "line", "line": "救命啊，抢劫"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "有人抢劫——有人抢劫了！"}]}, {"type": "action", "description": "拔刀冲出门外"}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老邢带着小六醉醺醺入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，我的神啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人呢，人呢，人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是人？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老邢打嗝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又喝了多少？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不多，把这个给我打满了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咦，全喝完了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那啥，为了百姓，为了……百姓……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自己喝就算了，还带着小六喝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是他师父，我不带他谁带他呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看看你看看，这还象个捕快的样子吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他不象，你象啊？你别说，你还真地有点象个女捕快。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴 ~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许你说我师父！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说他啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我师父有醉拳，醉拳"
+        },
+        {
+          "type": "speaker-action",
+          "description": "斜斜晃晃中，倒在地上"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，扶起来，快扶起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "醉拳，醉拳没打，醉拳，无招胜有招……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "外面叫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "救命啊，抢劫"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有人抢劫——有人抢劫了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拔刀冲出门外"
+    }
+  ]
+}

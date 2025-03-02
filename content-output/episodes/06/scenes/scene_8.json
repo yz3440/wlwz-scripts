@@ -1,1 +1,276 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "action", "description": "满面伤痕的老邢疲惫地进门"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呀，我的神呀。"}, {"type": "speaker-action", "description": "见老邢一瘸一拐，赶紧扶住"}, {"type": "line", "line": "老邢，咋回事嘛。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "摔的，摔的。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "摔的？摔能摔成这样？你就不要再骗我了，是不是黑风寨那帮山贼干的呀？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "对对对。我也得和恶势力作斗争。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "老邢，你为了咱们镇，为了咱们镇上的百姓，真是牺牲太大了。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "保护百姓，维护治安，既是责任，也是义务。吃再多苦，也不在乎，受再多罪，也总要面对。这就是我，一个普普通通的小捕头，最想说的心里话。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "老邢，你辛苦了。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "佟掌柜，都不容易。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "喝点水吧。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "好好。"}]}, {"type": "action", "description": "蕙兰父女从门外进来。"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "回来了。"}]}, {"type": "action", "description": "老邢回头，面露惊恐，飞奔而出"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "老邢，你咋回事嘛，水都不喝了。"}]}, {"type": "dialog", "speaker": "杨蕙兰", "performances": [{"type": "line", "line": "也许我命中注定，是要孤独终老了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你也不要太灰心，要相信缘分。"}]}, {"type": "dialog", "speaker": "杨蕙兰", "performances": [{"type": "line", "line": "那你等到缘分了吗？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我还没有。不过快了。"}]}, {"type": "dialog", "speaker": "杨蕙兰", "performances": [{"type": "line", "line": "那就预祝你幸福啊，可别像我，想当寡妇都没机会。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你啥意思吗？当寡妇咋了嘛！你以为我想当寡妇呢。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "嫂子嫂子，我抄完啦！你看，每一张都这么多字儿，而且都是标准的蝇头小楷喔。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "再抄一百遍。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "凭、凭什么呀？三字经我早就背会啦！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我说的是史记。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "啊！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "啊什么？抄不完不许出门。"}]}, {"type": "action", "description": "小贝哭着跑出大堂"}, {"type": "action", "description": "字幕：第二场比武招亲后"}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "满面伤痕的老邢疲惫地进门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我的神呀。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "见老邢一瘸一拐，赶紧扶住"
+        },
+        {
+          "type": "line",
+          "line": "老邢，咋回事嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "摔的，摔的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "摔的？摔能摔成这样？你就不要再骗我了，是不是黑风寨那帮山贼干的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对。我也得和恶势力作斗争。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，你为了咱们镇，为了咱们镇上的百姓，真是牺牲太大了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "保护百姓，维护治安，既是责任，也是义务。吃再多苦，也不在乎，受再多罪，也总要面对。这就是我，一个普普通通的小捕头，最想说的心里话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，你辛苦了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，都不容易。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝点水吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "蕙兰父女从门外进来。"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老邢回头，面露惊恐，飞奔而出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，你咋回事嘛，水都不喝了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也许我命中注定，是要孤独终老了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也不要太灰心，要相信缘分。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你等到缘分了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没有。不过快了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就预祝你幸福啊，可别像我，想当寡妇都没机会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥意思吗？当寡妇咋了嘛！你以为我想当寡妇呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子嫂子，我抄完啦！你看，每一张都这么多字儿，而且都是标准的蝇头小楷喔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再抄一百遍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭、凭什么呀？三字经我早就背会啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的是史记。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊什么？抄不完不许出门。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝哭着跑出大堂"
+    },
+    {
+      "type": "action",
+      "description": "字幕：第二场比武招亲后"
+    }
+  ]
+}

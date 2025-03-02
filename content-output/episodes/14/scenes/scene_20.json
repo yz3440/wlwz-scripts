@@ -8,7 +8,10 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "发传单" },
+        {
+          "type": "speaker-action",
+          "description": "发传单"
+        },
         {
           "type": "line",
           "line": "诸位瞧一瞧，看一看啊最新出炉的防盗八法。有病的拿回去治病，没病的拿回去发财。已婚的拿回去生娃，未婚的拿回去相亲。都看看都看看。"
@@ -19,7 +22,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "也不知道折腾到啥时候，真不该揽这件事情。" }
+        {
+          "type": "line",
+          "line": "也不知道折腾到啥时候，真不该揽这件事情。"
+        }
       ]
     },
     {
@@ -56,46 +62,79 @@
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "莫与生人打交道，你不认字啊？" }
+        {
+          "type": "line",
+          "line": "莫与生人打交道，你不认字啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "够了！够了够了够了够了燕小六。" },
-        { "type": "speaker-action", "description": "对路人甲" },
-        { "type": "line", "line": "不要怕，我说他呢。你还让不让人做生意了你？" }
+        {
+          "type": "line",
+          "line": "够了！够了够了够了够了燕小六。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对路人甲"
+        },
+        {
+          "type": "line",
+          "line": "不要怕，我说他呢。你还让不让人做生意了你？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "你做你的生意，我防我的贼。井水不犯河水。" }
+        {
+          "type": "line",
+          "line": "你做你的生意，我防我的贼。井水不犯河水。"
+        }
       ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "说的好！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "师父。" }]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "六啊。这两天没什么异常情况吧？" }
+        {
+          "type": "line",
+          "line": "说的好！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "基本上没有。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊。这两天没什么异常情况吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "基本上没有。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -110,51 +149,92 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不可以。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "为什么不可以？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "这两天你知道把额们都折腾成什么样了吗？" }
+        {
+          "type": "line",
+          "line": "不可以。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "六啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么不可以？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这两天你知道把额们都折腾成什么样了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "我都是按照您的意思做的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我都是按照您的意思做的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "哎哎，这窗户，好好的吧。为啥都给钉上？" }
+        {
+          "type": "line",
+          "line": "哎哎，这窗户，好好的吧。为啥都给钉上？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "这个我可没让他钉啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个我可没让他钉啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "地道总是你让挖的吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "地道总是你让挖的吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "对啊，为了防强盗呀。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊，为了防强盗呀。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -180,7 +260,10 @@
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "郭姑娘我们也是没办法，没有贼你让我们咋办？" }
+        {
+          "type": "line",
+          "line": "郭姑娘我们也是没办法，没有贼你让我们咋办？"
+        }
       ]
     },
     {
@@ -197,7 +280,10 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "整天不干正事儿，整那些虚招子有什么用啊？" }
+        {
+          "type": "line",
+          "line": "整天不干正事儿，整那些虚招子有什么用啊？"
+        }
       ]
     },
     {
@@ -213,7 +299,12 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "发人深省，令人深思啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "发人深省，令人深思啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -228,22 +319,42 @@
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "麻烦你再把那地道堵上吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "麻烦你再把那地道堵上吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你说啥玩意儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥玩意儿？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "堵上。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "堵上。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我跟你拼了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你拼了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -259,80 +370,131 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "还有额的这个当票，马上你给我赎回来。" }
+        {
+          "type": "line",
+          "line": "还有额的这个当票，马上你给我赎回来。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "好，赎回来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，赎回来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "还有这些窗户上的扳子，你都给我拆了啊。" }
+        {
+          "type": "line",
+          "line": "还有这些窗户上的扳子，你都给我拆了啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "好拆拆拆。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好拆拆拆。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "还有我这件衣服都让他撕烂了。" }
+        {
+          "type": "line",
+          "line": "还有我这件衣服都让他撕烂了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "六啊，你怎么能干这种事儿啊？" }
+        {
+          "type": "line",
+          "line": "六啊，你怎么能干这种事儿啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "师父，她太漂亮了。不撕不行啊。" }
+        {
+          "type": "line",
+          "line": "师父，她太漂亮了。不撕不行啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "我打死你个不要脸的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我打死你个不要脸的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "不是师父，她太白了。她太漂亮了。" }
+        {
+          "type": "line",
+          "line": "不是师父，她太白了。她太漂亮了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "她太漂亮了，我打死你个不要脸的小畜生。" }
+        {
+          "type": "line",
+          "line": "她太漂亮了，我打死你个不要脸的小畜生。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哈哈。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哎，事儿还没办呢。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，事儿还没办呢。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "回来站住。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来站住。"
+        }
+      ]
     }
   ]
 }

@@ -5,7 +5,10 @@
   "timeOfDay": "昼",
   "context": null,
   "performances": [
-    { "type": "action", "description": "仿综艺节目" },
+    {
+      "type": "action",
+      "description": "仿综艺节目"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -14,31 +17,48 @@
           "type": "line",
           "line": "好，欢迎收看这一期的\"不比不知道，江湖真奇妙\""
         },
-        { "type": "speaker-action", "description": "冲镜头" },
+        {
+          "type": "speaker-action",
+          "description": "冲镜头"
+        },
         {
           "type": "line",
           "line": "你幸福不如我幸福，你满足不如我满足，观众朋友们，你们满不满足啊？"
         }
       ]
     },
-    { "type": "action", "description": "众人不语" },
+    {
+      "type": "action",
+      "description": "众人不语"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "听不到，大声点儿，你们满不满足？" }
+        {
+          "type": "line",
+          "line": "听不到，大声点儿，你们满不满足？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "不满足~~" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不满足~~"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "OK！那就哪儿凉快上哪儿呆着去。" },
+        {
+          "type": "line",
+          "line": "OK！那就哪儿凉快上哪儿呆着去。"
+        },
         {
           "type": "line",
           "line": "接下来我介绍一下今天到场的四位嘉宾。第一位，哇，好厉害啊，她就是来自同福客栈的佟掌柜！"
@@ -49,7 +69,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "对观众" },
+        {
+          "type": "speaker-action",
+          "description": "对观众"
+        },
         {
           "type": "line",
           "line": "同福客栈，你梦中的理想港湾，本店正在举行月末大酬宾活动，凭贵宾卡可以享受八至五折待遇，具体事宜请来人来函以及来而无往非礼也之洽谈。"
@@ -70,7 +93,10 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "speaker-action", "description": "对观众" },
+        {
+          "type": "speaker-action",
+          "description": "对观众"
+        },
         {
           "type": "line",
           "line": "外家出少林，内家归武当。衡山剑法，内外兼修，威力无穷，是你强身健体、居家旅行之必备必须以及必不可少之法宝。报名请咨询衡山武术学校，具体地址请咨询衡山老鸦口，往北三十里，往东二百六十里，往西七千八百六十里……"
@@ -120,12 +146,22 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "OK，下一位是……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "OK，下一位是……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我还没说完呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没说完呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -140,12 +176,22 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "早就准备好了，等死吧你！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "早就准备好了，等死吧你！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
-      "performances": [{ "type": "line", "line": "留着当笑柄去吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "留着当笑柄去吧！"
+        }
+      ]
     },
     {
       "type": "dialog",

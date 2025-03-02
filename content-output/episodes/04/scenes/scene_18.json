@@ -8,78 +8,150 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "规矩很简单，每人三个骰子，点大就算赢。" }
+        {
+          "type": "line",
+          "line": "规矩很简单，每人三个骰子，点大就算赢。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "别跟他玩，这个人很赖皮的！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别跟他玩，这个人很赖皮的！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "葵花点穴手~！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手~！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "掌柜的管管他~" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的管管他~"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你不要说话了！让他们先来。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "每局多少？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "一个月。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "太麻烦了，不如一局定胜负。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "好，就按您说的定！" }]
-    },
-    { "type": "action", "description": "两个人摇骰盅，定放到桌子上" },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "要不要加码啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "加多少？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "再加六个月！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要说话了！让他们先来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "我跟你加十二个月，一共两年！" }
+        {
+          "type": "line",
+          "line": "每局多少？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "好，就这么定了，开吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个月。"
+        }
+      ]
     },
-    { "type": "action", "description": "大嘴娘开盅，三个五，老白笑" },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太麻烦了，不如一局定胜负。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，就按您说的定！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两个人摇骰盅，定放到桌子上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不要加码啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "加多少？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再加六个月！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你加十二个月，一共两年！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，就这么定了，开吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴娘开盅，三个五，老白笑"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -101,29 +173,52 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这这怎么可能呢？……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这这怎么可能呢？……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "还加吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "再来！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "还来？你已经输给人家两年了。" }
+        {
+          "type": "line",
+          "line": "还加吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你不用管！来，接着来！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "再来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还来？你已经输给人家两年了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不用管！来，接着来！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -138,32 +233,62 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你不能走！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不能走！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "干啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "老太太，你还想再赌点啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老太太，你还想再赌点啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "你还有什么？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还有什么？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我还有工钱。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还有工钱。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "展堂——" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂——"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -178,37 +303,74 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "老白，你疯了吧？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你疯了吧？！"
+        }
+      ]
     },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "葵花点穴手！来！" }]
-    },
-    { "type": "action", "description": "老白不断跑动热身" },
-    {
-      "type": "dialog",
-      "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "哎呀，可以开始了吧！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "等死吧你！" }]
-    },
-    { "type": "action", "description": "两人摇骰盅落定" },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "看了看自己的骰子是三个六" },
-        { "type": "line", "line": "加不加码？" }
+        {
+          "type": "line",
+          "line": "葵花点穴手！来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白不断跑动热身"
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，可以开始了吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等死吧你！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人摇骰盅落定"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看了看自己的骰子是三个六"
+        },
+        {
+          "type": "line",
+          "line": "加不加码？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "别再加了吧……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别再加了吧……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -234,30 +396,59 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "这用不着您管，您就说您加还是不加？" }
+        {
+          "type": "line",
+          "line": "这用不着您管，您就说您加还是不加？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "加！我再加你这身衣裳！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "加！我再加你这身衣裳！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "好，就这么定了！开！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，就这么定了！开！"
+        }
+      ]
     },
-    { "type": "action", "description": "大嘴娘开盅三个五，老白笑，又鼓掌" },
+    {
+      "type": "action",
+      "description": "大嘴娘开盅三个五，老白笑，又鼓掌"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎呀，大嘴兄弟呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，大嘴兄弟呀！"
+        }
+      ]
     },
-    { "type": "action", "description": "大嘴娘在桌子底下一弹手指" },
+    {
+      "type": "action",
+      "description": "大嘴娘在桌子底下一弹手指"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这就不能怪我不仁义啦……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就不能怪我不仁义啦……"
+        }
+      ]
     },
     {
       "type": "action",
@@ -267,8 +458,14 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "指大嘴娘" },
-        { "type": "line", "line": "你出老千！" }
+        {
+          "type": "speaker-action",
+          "description": "指大嘴娘"
+        },
+        {
+          "type": "line",
+          "line": "你出老千！"
+        }
       ]
     },
     {
@@ -284,70 +481,136 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "可我明明是三个六！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我明明是三个六！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "大白天说梦话，大家说三个几？" }
+        {
+          "type": "line",
+          "line": "大白天说梦话，大家说三个几？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "掌柜、小郭、吕秀才",
-      "performances": [{ "type": "line", "line": "三个四！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三个四！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "三个四我还就不信了，再来！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三个四我还就不信了，再来！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "先把衣裳脱了再说！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "先把衣裳脱了再说！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "现在就脱啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在就脱啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "脱！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "脱！"
+        }
+      ]
     },
-    { "type": "action", "description": "老白脱完衣服，给大嘴" },
+    {
+      "type": "action",
+      "description": "老白脱完衣服，给大嘴"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那个地儿太背，咱俩换一下……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个地儿太背，咱俩换一下……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "好好好。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "娘……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "你还有什么能赌的东西？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还有什么能赌的东西？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我还有这辈子！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还有这辈子！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -362,9 +625,17 @@
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "没问题！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题！"
+        }
+      ]
     },
-    { "type": "action", "description": "两人摇骰盅落定" },
+    {
+      "type": "action",
+      "description": "两人摇骰盅落定"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -373,7 +644,10 @@
           "type": "speaker-action",
           "description": "看了看骰盅里为三个六，立刻开盅"
         },
-        { "type": "line", "line": "看看这是几！！" }
+        {
+          "type": "line",
+          "line": "看看这是几！！"
+        }
       ]
     },
     {
@@ -383,33 +657,66 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我这回看你还怎么出老千！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这回看你还怎么出老千！"
+        }
+      ]
     },
-    { "type": "action", "description": "大嘴娘与老白对笑" },
+    {
+      "type": "action",
+      "description": "大嘴娘与老白对笑"
+    },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "你还加吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还加吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "加！把刚才我输的全都加上！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "加！把刚才我输的全都加上！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "你要输了拿什么还？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要输了拿什么还？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "拿我这条命！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿我这条命！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "那就下辈子见吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就下辈子见吧！"
+        }
+      ]
     },
     {
       "type": "action",
@@ -419,8 +726,14 @@
       "type": "dialog",
       "speaker": "众人",
       "performances": [
-        { "type": "speaker-action", "description": "趴过去看" },
-        { "type": "line", "line": "啊……" }
+        {
+          "type": "speaker-action",
+          "description": "趴过去看"
+        },
+        {
+          "type": "line",
+          "line": "啊……"
+        }
       ]
     },
     {
@@ -430,12 +743,22 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "怎么会这样？……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么会这样？……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "怎么样，认输不认输？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样，认输不认输？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -451,58 +774,112 @@
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "我不要你的命，把你的右手留下就行了！" }
+        {
+          "type": "line",
+          "line": "我不要你的命，把你的右手留下就行了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "右手？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "右手？！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "儿啊，给为娘把刀拿来！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "儿啊，给为娘把刀拿来！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "娘！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "拿来！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿来！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "我能吃饭能拿刀的右手啊……！！" }
+        {
+          "type": "line",
+          "line": "我能吃饭能拿刀的右手啊……！！"
+        }
       ]
     },
-    { "type": "action", "description": "大嘴去厨房" },
+    {
+      "type": "action",
+      "description": "大嘴去厨房"
+    },
     {
       "type": "dialog",
       "speaker": "秀才、郭芙蓉",
       "performances": [
-        { "type": "line", "line": "大嘴、大嘴！" },
-        { "type": "speaker-action", "description": "追出去" }
+        {
+          "type": "line",
+          "line": "大嘴、大嘴！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "追出去"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "老人家……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老人家……"
+        }
+      ]
     },
-    { "type": "action", "description": "大嘴娘不让掌柜的劝" },
-    { "type": "action", "description": "大嘴（拿着刀）、小郭、秀才回来" },
+    {
+      "type": "action",
+      "description": "大嘴娘不让掌柜的劝"
+    },
+    {
+      "type": "action",
+      "description": "大嘴（拿着刀）、小郭、秀才回来"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "大嘴，使不得，大嘴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，使不得，大嘴！"
+        }
+      ]
     },
-    { "type": "action", "description": "掌柜的想把刀抢回来，大嘴递给他娘" },
+    {
+      "type": "action",
+      "description": "掌柜的想把刀抢回来，大嘴递给他娘"
+    },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
@@ -517,7 +894,10 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "您想得倒挺周全。" },
+        {
+          "type": "line",
+          "line": "您想得倒挺周全。"
+        },
         {
           "type": "speaker-action",
           "description": "右手放到桌子上，掌柜的要护"
@@ -528,18 +908,31 @@
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "准备好，我数到三就动手，一！" }
+        {
+          "type": "line",
+          "line": "准备好，我数到三就动手，一！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "老太太——" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老太太——"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "三！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三！"
+        }
+      ]
     },
     {
       "type": "action",
@@ -548,7 +941,12 @@
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "三！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三！"
+        }
+      ]
     },
     {
       "type": "action",
@@ -558,9 +956,18 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "惨叫" },
-        { "type": "line", "line": "啊！" },
-        { "type": "speaker-action", "description": "后意识到没事儿" }
+        {
+          "type": "speaker-action",
+          "description": "惨叫"
+        },
+        {
+          "type": "line",
+          "line": "啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "后意识到没事儿"
+        }
       ]
     },
     {
@@ -570,42 +977,82 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你什么意思？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "刚才那下心里什么感觉？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚才那下心里什么感觉？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "老太太问你话呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老太太问你话呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴、吕秀才",
-      "performances": [{ "type": "line", "line": "快说呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "快说呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我觉得我这辈子完了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得我这辈子完了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "还有呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "不该跟您赌这盘儿……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不该跟您赌这盘儿……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "就光这盘儿吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就光这盘儿吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -631,7 +1078,10 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "老太太，我向您保证，从今以后，再也不赌了！" }
+        {
+          "type": "line",
+          "line": "老太太，我向您保证，从今以后，再也不赌了！"
+        }
       ]
     },
     {
@@ -647,25 +1097,49 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "老太太……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老太太……"
+        }
+      ]
     },
-    { "type": "action", "description": "众人去送" },
     {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "站住——" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你还想干啥啊？" }]
+      "type": "action",
+      "description": "众人去送"
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "请问前辈尊姓大名？" },
-        { "type": "speaker-action", "description": "跪下" }
+        {
+          "type": "line",
+          "line": "站住——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还想干啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问前辈尊姓大名？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跪下"
+        }
       ]
     },
     {
@@ -682,61 +1156,103 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "站起" },
-        { "type": "line", "line": "您就是传说中的——断指轩辕？" }
+        {
+          "type": "speaker-action",
+          "description": "站起"
+        },
+        {
+          "type": "line",
+          "line": "您就是传说中的——断指轩辕？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "那都是过去的事儿啦！休得再提。" }
+        {
+          "type": "line",
+          "line": "那都是过去的事儿啦！休得再提。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "等等，等等，您不是缺了一个手指头吗？" }
+        {
+          "type": "line",
+          "line": "等等，等等，您不是缺了一个手指头吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "看我这左手……" },
-        { "type": "speaker-action", "description": "抬起左手" }
+        {
+          "type": "line",
+          "line": "看我这左手……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抬起左手"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "数" },
-        { "type": "line", "line": "一二三四、是五个嘛……" }
+        {
+          "type": "speaker-action",
+          "description": "数"
+        },
+        {
+          "type": "line",
+          "line": "一二三四、是五个嘛……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "没错，是……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，是……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "那传说中——您不是被砍了一个手指头吗？" }
+        {
+          "type": "line",
+          "line": "那传说中——您不是被砍了一个手指头吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "我这只手啊，原来是六指儿。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这只手啊，原来是六指儿。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "啊——" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊——"
+        }
+      ]
     }
   ]
 }

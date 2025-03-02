@@ -12,74 +12,138 @@
           "type": "speaker-action",
           "description": "把小郭替小贝写的文章，放在桌子上"
         },
-        { "type": "speaker-action", "description": "生气的" },
-        { "type": "line", "line": "这是不是你做的？" }
+        {
+          "type": "speaker-action",
+          "description": "生气的"
+        },
+        {
+          "type": "line",
+          "line": "这是不是你做的？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "是啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "拍桌子" },
-        { "type": "line", "line": "你为啥要这么做？" }
+        {
+          "type": "speaker-action",
+          "description": "拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "你为啥要这么做？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "不为什么，想写就写喽！" },
-        { "type": "speaker-action", "description": "手里转手绢" }
+        {
+          "type": "line",
+          "line": "不为什么，想写就写喽！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "手里转手绢"
+        }
       ]
     },
-    { "type": "action", "description": "秀才、老白进屋" },
+    {
+      "type": "action",
+      "description": "秀才、老白进屋"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "又敲桌子" },
-        { "type": "line", "line": "你再说一遍？" }
+        {
+          "type": "speaker-action",
+          "description": "又敲桌子"
+        },
+        {
+          "type": "line",
+          "line": "你再说一遍？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "态度开始强硬" },
+        {
+          "type": "speaker-action",
+          "description": "态度开始强硬"
+        },
         {
           "type": "line",
           "line": "不为什么，想写就写，想做就做了！有什么后果，我一个人承担！接招吧！"
         },
-        { "type": "speaker-action", "description": "看见老白，语速越发加快" }
+        {
+          "type": "speaker-action",
+          "description": "看见老白，语速越发加快"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "态度转怒为喜" },
-        { "type": "line", "line": "你真是太棒了！" },
-        { "type": "speaker-action", "description": "指小郭" },
-        { "type": "speaker-action", "description": "猛拍小郭腿一下" }
+        {
+          "type": "speaker-action",
+          "description": "态度转怒为喜"
+        },
+        {
+          "type": "line",
+          "line": "你真是太棒了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小郭"
+        },
+        {
+          "type": "speaker-action",
+          "description": "猛拍小郭腿一下"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀？"
+        }
+      ]
     },
-    { "type": "action", "description": "掌柜的帮着去揉" },
+    {
+      "type": "action",
+      "description": "掌柜的帮着去揉"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "十分高兴" },
-        { "type": "speaker-action", "description": "对着老白、秀才" },
+        {
+          "type": "speaker-action",
+          "description": "十分高兴"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对着老白、秀才"
+        },
         {
           "type": "line",
           "line": "七十几个学生就小贝一个人考进去了，就是因为这篇孔赋。"
@@ -90,16 +154,28 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "指字" },
-        { "type": "line", "line": "那字念贼！" }
+        {
+          "type": "speaker-action",
+          "description": "指字"
+        },
+        {
+          "type": "line",
+          "line": "那字念贼！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "拿起文章" },
-        { "type": "line", "line": "咋回事儿呢？" }
+        {
+          "type": "speaker-action",
+          "description": "拿起文章"
+        },
+        {
+          "type": "line",
+          "line": "咋回事儿呢？"
+        }
       ]
     },
     {
@@ -115,62 +191,107 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "为什么？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "因为先生是搞老庄的，老庄你们都知道吧？" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我知道啊，就猪八戒那地方……" }]
-    },
-    { "type": "action", "description": "掌柜的拿扇子捂嘴笑" },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        { "type": "line", "line": "人家是搞老庄的，老庄……" },
-        { "type": "speaker-action", "description": "用普通话" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        { "type": "speaker-action", "description": "拱秀才" },
-        { "type": "line", "line": "咋回事，秀才？" }
+        {
+          "type": "line",
+          "line": "啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "这个就是，以后慢慢跟你解释……" }
+        {
+          "type": "line",
+          "line": "为什么？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "小郭呀小郭，你不愧是秀外慧中，文武双全呀！" }
+        {
+          "type": "line",
+          "line": "因为先生是搞老庄的，老庄你们都知道吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道啊，就猪八戒那地方……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的拿扇子捂嘴笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家是搞老庄的，老庄……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用普通话"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拱秀才"
+        },
+        {
+          "type": "line",
+          "line": "咋回事，秀才？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个就是，以后慢慢跟你解释……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭呀小郭，你不愧是秀外慧中，文武双全呀！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "无奈" },
-        { "type": "line", "line": "不敢当，我也是无意中才走到文学之路上……" }
+        {
+          "type": "speaker-action",
+          "description": "无奈"
+        },
+        {
+          "type": "line",
+          "line": "不敢当，我也是无意中才走到文学之路上……"
+        }
       ]
     },
     {
@@ -187,29 +308,55 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "做出痛苦的表情" },
-        { "type": "line", "line": "啊？" }
+        {
+          "type": "speaker-action",
+          "description": "做出痛苦的表情"
+        },
+        {
+          "type": "line",
+          "line": "啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "从秀才手中把卷子夺走" },
+        {
+          "type": "speaker-action",
+          "description": "从秀才手中把卷子夺走"
+        },
         {
           "type": "line",
           "line": "这是卷子，拿过来，你也看不懂，白天做不完晚上做啊！"
         },
-        { "type": "speaker-action", "description": "对老白、秀才" },
-        { "type": "line", "line": "你们负责给她做好饭啊。" },
-        { "type": "speaker-action", "description": "笑着走了" }
+        {
+          "type": "speaker-action",
+          "description": "对老白、秀才"
+        },
+        {
+          "type": "line",
+          "line": "你们负责给她做好饭啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑着走了"
+        }
       ]
     },
-    { "type": "action", "description": "老白、秀才也跟出去" },
+    {
+      "type": "action",
+      "description": "老白、秀才也跟出去"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎，哎！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，哎！"
+        }
+      ]
     }
   ]
 }

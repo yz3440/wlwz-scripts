@@ -4,12 +4,18 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "刑捕头与客栈其他人分析案情" },
+    {
+      "type": "action",
+      "description": "刑捕头与客栈其他人分析案情"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "各位，根据我的推测。" },
+        {
+          "type": "line",
+          "line": "各位，根据我的推测。"
+        },
         {
           "type": "speaker-action",
           "description": "以手中小棍指向桌上案发现场地图"
@@ -23,7 +29,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这是个窗户。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是个窗户。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -38,34 +49,62 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "为啥呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "街上没人不容易被人发现。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [{ "type": "line", "line": "这也叫理由？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "抓贼嘛，有时就这么简单。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "街上没人不容易被人发现。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
       "performances": [
-        { "type": "line", "line": "这么大的缸，这么小的窗。怎么出去呢？" }
+        {
+          "type": "line",
+          "line": "这也叫理由？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抓贼嘛，有时就这么简单。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么大的缸，这么小的窗。怎么出去呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "展堂呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂呢？"
+        }
+      ]
     }
   ]
 }

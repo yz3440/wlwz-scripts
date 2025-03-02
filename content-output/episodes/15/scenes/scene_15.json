@@ -1,1 +1,282 @@
-{"type": "normal", "rawDescription": "【厨房，昼】", "location": "厨房", "timeOfDay": "昼", "performances": [{"type": "action", "description": "大嘴偷吃东西"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎呀妈呀，掌柜的，这我自个儿给自个儿炖着吃的。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不可能，自己能吃这么一大锅。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我肚子大，饭量大，没辙啊。我知道错了，我再也不敢了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "没有关系，人嘛这一辈子谁没有犯错误的时候。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "掌柜的您啥意思啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "多久没有看见你姑夫了呀？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我看他干啥呀，我找骂呢。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这叫啥话嘛，人家咋说也是长辈，又是咱本地的知县，把关系搞搞好，对大家都有好处嘛。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我倒想搞，我哪有钱送礼。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你没有钱，我有呀。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎呀妈呀，这老些。掌柜的，你这太客气了！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这才叫礼多人不怪嘛。现在就给娄知县送过去。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎哎！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "……顺便把展堂那快牌子拿回来。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你说啥玩意儿？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "就在公堂的匾额后头，顺手拿一下就行。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "掌柜的，我虽然傻，但我还不至于不要命。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "大嘴，大到吃八方的嘴……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "吃八十方我也不去，这玩意儿弄不好就掉脑袋的事！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我知道，这可是展堂第一次送东西给我，人的这一辈子，能有多少个第一次，这也许就是命中注定……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "好好好行行行，我去我去行不行，但咱可说好了啊，万一我拿不回来你可别怪我。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不可能，在咱店儿你最机灵了，大嘴出马一个顶八，八八八八八……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我不喜欢！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "八八八八八……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我不喜欢！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "八八八八八……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我不喜欢！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【厨房，昼】",
+  "location": "厨房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴偷吃东西"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，掌柜的，这我自个儿给自个儿炖着吃的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，自己能吃这么一大锅。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我肚子大，饭量大，没辙啊。我知道错了，我再也不敢了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有关系，人嘛这一辈子谁没有犯错误的时候。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的您啥意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多久没有看见你姑夫了呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看他干啥呀，我找骂呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这叫啥话嘛，人家咋说也是长辈，又是咱本地的知县，把关系搞搞好，对大家都有好处嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我倒想搞，我哪有钱送礼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没有钱，我有呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，这老些。掌柜的，你这太客气了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这才叫礼多人不怪嘛。现在就给娄知县送过去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "……顺便把展堂那快牌子拿回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥玩意儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就在公堂的匾额后头，顺手拿一下就行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，我虽然傻，但我还不至于不要命。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，大到吃八方的嘴……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃八十方我也不去，这玩意儿弄不好就掉脑袋的事！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，这可是展堂第一次送东西给我，人的这一辈子，能有多少个第一次，这也许就是命中注定……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好行行行，我去我去行不行，但咱可说好了啊，万一我拿不回来你可别怪我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，在咱店儿你最机灵了，大嘴出马一个顶八，八八八八八……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不喜欢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "八八八八八……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不喜欢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "八八八八八……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不喜欢！"
+        }
+      ]
+    }
+  ]
+}

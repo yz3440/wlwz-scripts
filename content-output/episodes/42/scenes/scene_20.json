@@ -1,444 +1,228 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，夜】",
-  "location": "大堂",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
   "timeOfDay": "夜",
   "performances": [
     {
+      "type": "action",
+      "description": "白展堂捂着耳朵坐，另一白展堂上"
+    },
+    {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "假白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "咳，咳，咳，这都啥时候了，我看他是不会来了。要来早来了。"
+          "line": "他们这么骂你，你难道一点儿都不生气吗？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "真白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "实在不行，明天再逮吧。你看看小贝都困成什么样子了。"
+          "line": "你——"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "假白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "行，今天先收队吧，明天再逮，早点儿休息啊。"
+          "line": "要不要我去帮你教训他们一下？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "真白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "来来来，搭把手。"
+          "line": "用不着，你离我远点就行。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "假白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，你离我远点就行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "假白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？你什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许学我，听见没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "假白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许学我，听见没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再学我可不客气了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "假白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再学我可不客气了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，有本事跟我学到底。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "假白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，有本事跟我学到底。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
       "performances": [
         {
           "type": "speaker-action",
-          "description": "从楼上下"
-        },
-        {
-          "type": "line",
-          "line": "别铺了，都回各屋睡觉去吧。"
+          "description": "抽自己一个耳光"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "为啥呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那人不会再来了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你怎么知道的？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "甭问，现在还不是说的时候。哪天，我会一五一十地告诉你们"
-        },
-        {
-          "type": "speaker-action",
-          "description": "叉手，手上没有了红绳"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊——那好，你们都回屋睡吧。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对老白"
-        },
-        {
-          "type": "line",
-          "line": "对了，咱俩第一次见面的时候，我穿的什么衣服啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这都多长时间了，我哪记得这个啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "厄，小郭找你有点事……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "假白展堂",
       "performances": [
         {
           "type": "speaker-action",
-          "description": "转过脸对郭芙蓉"
+          "description": "抽自己一个耳光"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "又抽自己一个耳光"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "假白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "也抽自己一个耳光"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手。"
         },
         {
+          "type": "speaker-action",
+          "description": "点自己"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "假白展堂",
+      "performances": [
+        {
           "type": "line",
-          "line": "啥事？"
+          "line": "葵花点——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "真白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，跟我斗。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "郭芙蓉突然吹了老白一脸石灰"
+      "description": "假白展堂把真白展堂点住"
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "假白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "啊！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人上去撕面具"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊！真脸！真的脸！耳朵，耳朵！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这好像——真的是真皮？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "起来！展堂，我的人呀！不是有个红丝带嘛，为啥不系上嘛！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人比划"
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "他已经看不见了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我嫌它勒手我就给解了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎呀，疼不疼呀，快坐下来。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "来，座在哪呢……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "疼不疼？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "废话，洒你一脸石灰你说疼不疼，赶紧给我洗洗。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哦，快快快，拿水拿水！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "楼上声音传来"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不要用水擦，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人哆嗦回头，一蒙面人出现在楼上"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "否则皮会烫掉的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你你是谁呀？你要干啥呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "把你们统统杀了灭口。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你别吓他们了，他们胆小。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "他们骂人的时候，胆可不小。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎呀，娘！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "娘？！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "刚才骂他是狗娘养的，是哪位仁兄啊？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "李大嘴逃被凌空点住"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊，伯母好，我叫湘玉，渴不渴饿不饿呀？一路上辛苦得很吧？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "白三娘吹气把老白眼睛吹好"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这我娘。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "娘——厄不，老白娘？——厄，白大娘？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "呵呵，你们就叫我白三娘吧。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "白三娘……"
+          "line": "呵呵，跟我斗。"
         }
       ]
     }

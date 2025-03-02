@@ -1,1 +1,250 @@
-{"type": "normal", "rawDescription": "【客栈外，昼】", "location": "客栈外", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "老邢！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "走不走？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "抓我可以，先给我个罪名。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "大明律第七卷第二十九条规定，聚众赌博，轻者杖责，重者砍手！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我们又没有赌钱！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "可你们赌东西了，老太太。"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "哎！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "您那些东西全价是多少？"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "至少五十文。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "听见了吧，至少——才五十文啊？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "不是，绝对不止呀，就光是那些地瓜干，卖到市面上那都得五百文呐。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你咋不说五百两银子呐？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "加上无花果还有那些柴鸡蛋，差不多是这个数。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "郭芙蓉！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "白展堂，屁股等着挨板子吧啊！跟你的娇臀说再见！走！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "老白，你别走……"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "老邢，又不是我一个人赌的，你凭啥光打我呀？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "人家是污点证人，按律可以免去刑则。"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "用不着！我们放弃这个权利。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎？娘！"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "带走带走，连大嘴一块拾掇，照死了打！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "大嘴啊，"}, {"type": "speaker-action", "description": "铐大嘴"}, {"type": "line", "line": "你娘说的啊，对不住了啊！"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "打！"}]}, {"type": "action", "description": "小郭扶大嘴娘回客栈"}]}
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走不走？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抓我可以，先给我个罪名。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大明律第七卷第二十九条规定，聚众赌博，轻者杖责，重者砍手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们又没有赌钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可你们赌东西了，老太太。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您那些东西全价是多少？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "至少五十文。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听见了吧，至少——才五十文啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，绝对不止呀，就光是那些地瓜干，卖到市面上那都得五百文呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋不说五百两银子呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "加上无花果还有那些柴鸡蛋，差不多是这个数。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭芙蓉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂，屁股等着挨板子吧啊！跟你的娇臀说再见！走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你别走……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，又不是我一个人赌的，你凭啥光打我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家是污点证人，按律可以免去刑则。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着！我们放弃这个权利。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？娘！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "带走带走，连大嘴一块拾掇，照死了打！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "铐大嘴"
+        },
+        {
+          "type": "line",
+          "line": "你娘说的啊，对不住了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭扶大嘴娘回客栈"
+    }
+  ]
+}

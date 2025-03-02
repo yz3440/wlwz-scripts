@@ -4,27 +4,48 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "秀才写招牌，同福武馆" },
+    {
+      "type": "action",
+      "description": "秀才写招牌，同福武馆"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "怎么样？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我看我看。字是好字呀。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "就是名字不太合适。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "怎么不合适啊？\"同福\"多好啊？" }
+        {
+          "type": "line",
+          "line": "我看我看。字是好字呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是名字不太合适。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不合适啊？\"同福\"多好啊？"
+        }
       ]
     },
     {
@@ -40,7 +61,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "切。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "切。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -55,25 +81,41 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你怎么不要十成呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么不要十成呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "那也太黑了点儿吧。总得给你留点儿私房钱嘛。" }
+        {
+          "type": "line",
+          "line": "那也太黑了点儿吧。总得给你留点儿私房钱嘛。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你，无情，无耻，无理取闹。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，无情，无耻，无理取闹。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "我怎么无情？怎么无耻？怎么无理取闹？" }
+        {
+          "type": "line",
+          "line": "我怎么无情？怎么无耻？怎么无理取闹？"
+        }
       ]
     },
     {
@@ -89,13 +131,21 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "对对对。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "哎呀，大嘴，听这意思，你也有股份喽？" }
+        {
+          "type": "line",
+          "line": "哎呀，大嘴，听这意思，你也有股份喽？"
+        }
       ]
     },
     {
@@ -112,7 +162,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "呵呵，那你别跟着凑热闹，边儿呆着去！" }
+        {
+          "type": "line",
+          "line": "呵呵，那你别跟着凑热闹，边儿呆着去！"
+        }
       ]
     },
     {
@@ -128,13 +181,21 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "大嘴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "speaker-action", "description": "对观众，广告" },
+        {
+          "type": "speaker-action",
+          "description": "对观众，广告"
+        },
         {
           "type": "line",
           "line": "两个月之前，我跟你一样，两个月之后，你将跟我一样。相信我，给同福一个机会，也给自己一个机会，详情请咨询同福武馆——关中大侠的武馆！"
@@ -145,65 +206,121 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "鼓掌，谢谢，谢谢。该你了，上。" }
+        {
+          "type": "line",
+          "line": "鼓掌，谢谢，谢谢。该你了，上。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "Trust me,you can make it." }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "瞧瞧这肌肉。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "The muscle．" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这线条。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "The figure." }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这，这啤酒肚。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "怎么翻？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "直接翻。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "The beerbelly." }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "Trust me,you can make it."
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "瞧瞧着小洋文，多 Good。就这两天突击的。" }
+        {
+          "type": "line",
+          "line": "瞧瞧这肌肉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "The muscle．"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这线条。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "The figure."
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，这啤酒肚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么翻？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "直接翻。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "The beerbelly."
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞧瞧着小洋文，多 Good。就这两天突击的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "会洋文，有什么用吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "会洋文，有什么用吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -219,20 +336,34 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "学外国人的中国话" },
-        { "type": "line", "line": "中国功夫我们喜欢，我们现在就要报名。" }
+        {
+          "type": "speaker-action",
+          "description": "学外国人的中国话"
+        },
+        {
+          "type": "line",
+          "line": "中国功夫我们喜欢，我们现在就要报名。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕、李",
-      "performances": [{ "type": "line", "line": "让我报名吧，让我报名吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "让我报名吧，让我报名吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "行行，别吵吵，还没开业呢，过两天再说。" }
+        {
+          "type": "line",
+          "line": "行行，别吵吵，还没开业呢，过两天再说。"
+        }
       ]
     },
     {
@@ -248,18 +379,36 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "就这两天吧，有问题吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就这两天吧，有问题吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "没问题呀，场地在哪儿呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题呀，场地在哪儿呀？"
+        }
+      ]
     },
-    { "type": "action", "description": "众人被问住了" },
+    {
+      "type": "action",
+      "description": "众人被问住了"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "小郭，招呼客人去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，招呼客人去。"
+        }
+      ]
     }
   ]
 }

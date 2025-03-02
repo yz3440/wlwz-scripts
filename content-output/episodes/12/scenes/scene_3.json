@@ -7,12 +7,22 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "来了来了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "菜齐了。吃饭吃饭。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "菜齐了。吃饭吃饭。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -27,7 +37,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你要竹的还是骨的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要竹的还是骨的？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -42,7 +57,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你到底要不要筷子。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你到底要不要筷子。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -67,18 +87,36 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "小郭……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "展堂。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂。"
+        }
+      ]
     },
-    { "type": "action", "description": "老白递筷子笼" },
+    {
+      "type": "action",
+      "description": "老白递筷子笼"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你自己挑。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己挑。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -113,63 +151,112 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "不吃了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你不吃，你那馒头给我啊。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "反了反了，全反了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我不是没有反吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你，你是没有机会，有机会你第一个反。" }
+        {
+          "type": "line",
+          "line": "不吃了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "没错，但谁反我都不会反的。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "呦，吃着咧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不吃，你那馒头给我啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "呦，这里不欢迎你，请你出去。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [
-        { "type": "line", "line": "你看你，我就是来问个字。问完我就走。" }
+        {
+          "type": "line",
+          "line": "反了反了，全反了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "什么字啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是没有反吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "吕轻侯。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，你是没有机会，有机会你第一个反。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，但谁反我都不会反的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦，吃着咧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦，这里不欢迎你，请你出去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看你，我就是来问个字。问完我就走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么字啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕轻侯。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -184,15 +271,29 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "那它啥样儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那它啥样儿？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "啥样，" },
-        { "type": "speaker-action", "description": "指大嘴" },
-        { "type": "line", "line": "你看见大嘴吃饭的样子了吧？他就很像个饕餮。" }
+        {
+          "type": "line",
+          "line": "啥样，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指大嘴"
+        },
+        {
+          "type": "line",
+          "line": "你看见大嘴吃饭的样子了吧？他就很像个饕餮。"
+        }
       ]
     }
   ]

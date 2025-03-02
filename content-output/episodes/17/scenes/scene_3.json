@@ -7,24 +7,42 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那，就在大嘴他们屋。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "他们咋睡到这个屋了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "是他们自己要求的，——嫌客房太贵。" }
+        {
+          "type": "line",
+          "line": "那，就在大嘴他们屋。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "三个人挤一个屋，不难受吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们咋睡到这个屋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他们自己要求的，——嫌客房太贵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三个人挤一个屋，不难受吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -39,48 +57,96 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "能是谁呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "能是谁呢？"
+        }
+      ]
     },
-    { "type": "action", "description": "小郭敲门" },
+    {
+      "type": "action",
+      "description": "小郭敲门"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "三位大侠，我们佟掌柜求见。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三位大侠，我们佟掌柜求见。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "三人",
-      "performances": [{ "type": "line", "line": "师妹。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "师妹。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "谁是你师妹？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁是你师妹？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "小贝呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你们是？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们是？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝小芸",
-      "performances": [{ "type": "line", "line": "衡山后学祝小芸有礼。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "衡山后学祝小芸有礼。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "周敦儒",
-      "performances": [{ "type": "line", "line": "就你有礼，我们都没礼？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就你有礼，我们都没礼？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "噢，你们是衡山派的呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，你们是衡山派的呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -92,23 +158,39 @@
         }
       ]
     },
-    { "type": "action", "description": "小芸撩撩头发" },
+    {
+      "type": "action",
+      "description": "小芸撩撩头发"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "这位是师弟呀？——你们找小贝干啥？" }
+        {
+          "type": "line",
+          "line": "这位是师弟呀？——你们找小贝干啥？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "周敦儒",
-      "performances": [{ "type": "line", "line": "当掌门。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "当掌门。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -143,28 +225,51 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那就从你们仨里头选呗。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就从你们仨里头选呗。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "三人",
-      "performances": [{ "type": "line", "line": "你什么意思啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "没意思……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "没意思是什么意思？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "我就随便说了一句真的没意思……" }
+        {
+          "type": "line",
+          "line": "没意思……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没意思是什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就随便说了一句真的没意思……"
+        }
       ]
     },
     {
@@ -180,7 +285,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我真的是没什么意思……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真的是没什么意思……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -195,7 +305,12 @@
     {
       "type": "dialog",
       "speaker": "祝小芸",
-      "performances": [{ "type": "line", "line": "不要血口喷人。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要血口喷人。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -210,7 +325,12 @@
     {
       "type": "dialog",
       "speaker": "祝小芸",
-      "performances": [{ "type": "line", "line": "周师兄欺人太甚。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "周师兄欺人太甚。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -225,22 +345,42 @@
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "都闭嘴。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "都闭嘴。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "周敦儒",
-      "performances": [{ "type": "line", "line": "怕了吧，祝小姐。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怕了吧，祝小姐。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝小芸",
-      "performances": [{ "type": "line", "line": "是他逼我的。看剑。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他逼我的。看剑。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "住手，好吧，来吧，看剑吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手，好吧，来吧，看剑吧。"
+        }
+      ]
     }
   ]
 }

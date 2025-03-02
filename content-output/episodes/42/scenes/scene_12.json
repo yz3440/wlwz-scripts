@@ -1,16 +1,46 @@
 {
   "type": "normal",
-  "rawDescription": "【后院，夜】",
-  "location": "后院",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
   "timeOfDay": "夜",
   "performances": [
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "你也别站着了，坐吧。"
+          "line": "哎呀，我不洗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了行了，要我说啊，还不如找地儿躲两天。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "躲躲躲哪儿去呀，人家在暗我们在明，躲哪儿都一样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我们总不能一直这么提心吊胆下去吧？——有芙蓉在，我们当然是不会担心的了。"
         }
       ]
     },
@@ -20,37 +50,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "别坐啦，有话赶紧说，我明儿还早起呢。"
+          "line": "就她那两下子。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "你每天都起得很早吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "废话，我不起早，客人你伺候啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你还伺候客人呢？"
+          "line": "哎，你什么意思啊，我武功比你差了还是怎么了？有本事你点我啊？你点我啊？"
         }
       ]
     },
@@ -60,37 +70,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "又是废话，谁家跑堂的不伺候客人呐？"
+          "line": "噼噼——"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "跑堂儿，你没觉得辛苦吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你今儿咋问我这个呢？我不一直都干这个吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你就不能换个职业，这么好的身手，干跑堂不可惜了吗？"
+          "line": "刚才怎么回事儿？"
         }
       ]
     },
@@ -100,41 +90,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "嗯？谁告诉你我身手好来着？"
+          "line": "刚才那叫口技，噼噼。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "还跟我装呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "燕捕头的话，我怎么听不明白啊？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "啃手指头"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，别啃指甲了，这么大人了，还啃。"
+          "line": "我跟你拼了，老白。"
         }
       ]
     },
@@ -144,21 +110,51 @@
       "performances": [
         {
           "type": "line",
-          "line": "我啃不啃，跟你有啥关系？"
+          "line": "葵花点——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了行了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，好了好了，赶紧休息吧，把体力都耗光了，敌人真的来了咋办呀。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "小郭偷看"
+      "description": "众人准备休息"
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "指甲啃坏了不要紧，手指头啃坏了，拿啥点穴？"
+          "line": "睡不着啊，白大哥讲个故事吧。"
         }
       ]
     },
@@ -168,41 +164,37 @@
       "performances": [
         {
           "type": "line",
-          "line": "点穴？谁告诉你我会点穴的？"
+          "line": "白大哥没心情，改天吧。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "你从没跟别人提起过吗？口儿够紧的，不愧是——盗圣！"
+          "line": "嫂子你看他欺负我。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "紧张"
-        },
-        {
           "type": "line",
-          "line": "你！你说谁是盗圣？"
+          "line": "好好好好好，老白，随便讲一个，上次那个就行。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "众人",
       "performances": [
         {
           "type": "line",
-          "line": "你呀，难道还是我呀？"
+          "line": "好好好讲啊。"
         }
       ]
     },
@@ -212,7 +204,95 @@
       "performances": [
         {
           "type": "line",
-          "line": "现在是法制社会啊，凡事都讲个证据，你说我是盗圣，证据呢？"
+          "line": "好吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人起身围拢"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上回书说到，刚刚到了三更天，书生有点困了，躺到了床上，忽然他听到了几声猫叫，喵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你听就听，你哆嗦什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "冷，那个猫叫以后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这时候书生下了炕，准备出门看看，刚到门口，就听到，恩~~~门竟然自己开了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "门开了，小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇啊——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，小六，你下回你进门你先知会一声行不行啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等等等会儿，我问你我是谁？"
         }
       ]
     },
@@ -222,7 +302,91 @@
       "performances": [
         {
           "type": "line",
-          "line": "哈哈哈，千万别逼我动手喔。"
+          "line": "郭芙蓉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算你聪明，你的伤好了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没大碍了，没骨折，吃了点儿药，休息两天就没事儿了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就早点儿休息吧，那你今天还住这儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是来找老白的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，咱哥俩单独聊聊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去，找你呢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白起身走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭……"
         }
       ]
     }

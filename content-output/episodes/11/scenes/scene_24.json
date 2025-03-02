@@ -7,38 +7,71 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "上酒，上酒！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "上酒，上酒！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "老刑，要啥酒啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "你们这儿有什么好酒？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "女儿红，七十年的。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "不要，要最贵的，最贵的酒。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "最贵的还是女儿红啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老刑，要啥酒啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "那就赶紧上吧，顺便把西街唱小曲的给我叫来。" }
+        {
+          "type": "line",
+          "line": "你们这儿有什么好酒？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "女儿红，七十年的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要，要最贵的，最贵的酒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最贵的还是女儿红啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就赶紧上吧，顺便把西街唱小曲的给我叫来。"
+        }
       ]
     },
     {
@@ -65,32 +98,51 @@
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "我不要溜肥肠，我要最贵的菜，最贵的。" }
+        {
+          "type": "line",
+          "line": "我不要溜肥肠，我要最贵的菜，最贵的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "最贵的还是溜肥肠。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "最贵的还是溜肥肠。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "不要胡说。老邢，你是不是发财了？" }
+        {
+          "type": "line",
+          "line": "不要胡说。老邢，你是不是发财了？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "前两个月的餐补，全发下来了。" }
+        {
+          "type": "line",
+          "line": "前两个月的餐补，全发下来了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你不是说衙门钱紧吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是说衙门钱紧吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -102,11 +154,19 @@
         }
       ]
     },
-    { "type": "action", "description": "湘玉倒" },
+    {
+      "type": "action",
+      "description": "湘玉倒"
+    },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "掌柜的掌柜的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的掌柜的。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -121,7 +181,12 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "行了行了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了。"
+        }
+      ]
     }
   ]
 }

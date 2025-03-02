@@ -1,64 +1,20 @@
 {
   "type": "normal",
-  "rawDescription": "【后院，昼】",
-  "location": "后院",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
     {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "开什么玩笑，这绝对不行，我找我娘说个明白。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不行，我都坚持到现在了，你这么一去，不是前功尽弃了吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我要不去，你这辈子都毁了！——娘，你太过分了！"
-        }
-      ]
-    },
-    {
       "type": "action",
-      "description": "大堂传来老白被点的声音"
+      "description": "掌柜的穿夜行衣蒙面下楼"
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "天哪，我的神呀！这可咋办呀！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "撩开帘欲出"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "谁让你把帘撩起来了，又想干活了是不是？把帘撩下！"
+          "line": "呀？掌柜的！"
         }
       ]
     },
@@ -68,37 +24,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "你——"
+          "line": "吵吵啥，干活去。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白三娘",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "我的规矩，你是不是都忘了？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "没有忘，展堂没有跟你说吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "说什么？"
+          "line": "你怎么穿成这个样子？"
         }
       ]
     },
@@ -108,37 +44,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "展堂，你娘找你。"
+          "line": "这就是我婆婆给我做的，你觉得怎么样呀？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白三娘",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "甭喊了，让我给点住了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你为啥要点他？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "上来就说太过分了，你说他眼里还有我这娘吗？"
+          "line": "还凑合吧，但是这是飞贼的打扮，你穿成这样好像不太合适吧？"
         }
       ]
     },
@@ -148,37 +64,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "确实太过分了。"
+          "line": "没有办法，这就是不干活的代价。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白三娘",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "嗯？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我说是他。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "放肆，他是你的夫君，就算他再过分，也没有你说话的权利。"
+          "line": "什么代价啊？"
         }
       ]
     },
@@ -188,37 +84,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "你不是说男尊女卑，纯属胡扯吗？"
+          "line": "第一，除了自己的丈夫，不能给任何男人看。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白三娘",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "那是对外，对内加倍。我告诉你，再让我抓住，家法伺候！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我先回屋去了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "等等，你不是有事儿要跟我说吗？"
+          "line": "那你怎么吃饭呢？"
         }
       ]
     },
@@ -228,17 +104,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "我想说，展堂为了让我少点儿苦，编了个幌子骗你。"
+          "line": "躲在一个没有人的角落里，撩开吃，吃完了就放下。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白三娘",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "什么幌子？"
+          "line": "咦哟哟，这老太太够变态的。"
         }
       ]
     },
@@ -248,17 +124,137 @@
       "performances": [
         {
           "type": "line",
-          "line": "他想说，我俩是假结婚。"
+          "line": "更变态的还在后头呢。第二，除了自己的丈夫不能看任何男人。第三，除了自己的丈夫不能跟任何男人说话。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白三娘",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "嗯？"
+          "line": "这些条件你不会都答应了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不答应怎么办嘛，我可不想再挨着饿干活了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "问题是，这三条往那儿一戳，你以后还怎么开店呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是还有你的嘛，如果以后我要有什么吩咐的话，你直接帮我传达好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但你得另外给我加工钱喽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你可不要趁火打劫喽！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不肯就算喽，反正我那点工钱也够我花了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要不肯，我还有展堂呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是不会帮你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不信啊，你试试就知道喽。"
         }
       ]
     }

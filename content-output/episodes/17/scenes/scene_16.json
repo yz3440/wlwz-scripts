@@ -8,13 +8,21 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你自己看，好好看看。这就是你造的孽。" }
+        {
+          "type": "line",
+          "line": "你自己看，好好看看。这就是你造的孽。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我又怎么啦？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又怎么啦？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -29,46 +37,82 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "他们还敢偷东西了？来人呐。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们还敢偷东西了？来人呐。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "三人",
-      "performances": [{ "type": "line", "line": "掌门有何吩咐？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "把银子给我还回去。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "还？还给谁啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌门有何吩咐？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "从哪儿偷的，给我还到哪儿去。" }
+        {
+          "type": "line",
+          "line": "把银子给我还回去。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "谁说是偷的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还？还给谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从哪儿偷的，给我还到哪儿去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说是偷的？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝小芸",
       "performances": [
-        { "type": "line", "line": "这些银子，是我们卖艺赚来的。" }
+        {
+          "type": "line",
+          "line": "这些银子，是我们卖艺赚来的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟、莫",
-      "performances": [{ "type": "line", "line": "卖艺？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "卖艺？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -83,24 +127,42 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "卖艺胸口为什么会疼啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "胸口碎大石，你说疼不疼？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "陆师兄啊，你拿这个罐子碎给我看吧。陆师兄~~" }
+        {
+          "type": "line",
+          "line": "卖艺胸口为什么会疼啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "缓一缓，缓一缓。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "胸口碎大石，你说疼不疼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "陆师兄啊，你拿这个罐子碎给我看吧。陆师兄~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "缓一缓，缓一缓。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -116,32 +178,51 @@
       "type": "dialog",
       "speaker": "祝小芸",
       "performances": [
-        { "type": "line", "line": "居然还有人不分青红皂白，诬陷我们偷窃。" }
+        {
+          "type": "line",
+          "line": "居然还有人不分青红皂白，诬陷我们偷窃。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "周敦儒",
       "performances": [
-        { "type": "line", "line": "衡山派虽不算大，但这点气节还有。" }
+        {
+          "type": "line",
+          "line": "衡山派虽不算大，但这点气节还有。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "祝小芸",
       "performances": [
-        { "type": "line", "line": "哪怕是饿死，我们也不会干这种鸡鸣狗盗之事。" }
+        {
+          "type": "line",
+          "line": "哪怕是饿死，我们也不会干这种鸡鸣狗盗之事。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "哪那么多废话，送客。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪那么多废话，送客。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "周、祝",
-      "performances": [{ "type": "line", "line": "佟掌柜请。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜请。"
+        }
+      ]
     }
   ]
 }

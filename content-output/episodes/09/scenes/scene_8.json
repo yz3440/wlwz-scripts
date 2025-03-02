@@ -1,1 +1,198 @@
-{"type": "normal", "rawDescription": "【女寝，夜】", "location": "女寝", "timeOfDay": "夜", "performances": [{"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "我的神呀，哎，这些泥人谁捏的？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "我捏的呀，别动别动，我捏了一下午呐，碰坏了怎么办。"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "这个是李逵吧？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "那个是张飞！"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "那这个呢？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "那个是岳飞。"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "你说是就是吧，那这个呢？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "这个是王菲。"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "你这些是跟谁学的？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "没跟谁学，就是照着画上自己捏下来的。"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "那还有旁的没有吗？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "没啦，就那些还是背着我嫂子偷偷藏下来的，要是让我嫂子知道，又该罚我啦。"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "她为什么要罚你？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "因为我贪玩呗。"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "捏泥人算玩，画画就不算玩啦？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "你说什么？我没听清啊……"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "走，咱到院子里挖点土去，走！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "干吗？"}]}, {"type": "dialog", "speaker": "窦先生", "performances": [{"type": "line", "line": "玩吗，玩艺术吗，走！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【女寝，夜】",
+  "location": "女寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的神呀，哎，这些泥人谁捏的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我捏的呀，别动别动，我捏了一下午呐，碰坏了怎么办。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个是李逵吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个是张飞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那这个呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个是岳飞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说是就是吧，那这个呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个是王菲。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这些是跟谁学的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没跟谁学，就是照着画上自己捏下来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还有旁的没有吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没啦，就那些还是背着我嫂子偷偷藏下来的，要是让我嫂子知道，又该罚我啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她为什么要罚你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我贪玩呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捏泥人算玩，画画就不算玩啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？我没听清啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走，咱到院子里挖点土去，走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "玩吗，玩艺术吗，走！"
+        }
+      ]
+    }
+  ]
+}

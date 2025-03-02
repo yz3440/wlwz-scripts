@@ -691,8 +691,14 @@
       "description": "众人欲抢"
     },
     {
-      "type": "line",
-      "line": "葵花点！"
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点！"
+        }
+      ]
     },
     {
       "type": "dialog",

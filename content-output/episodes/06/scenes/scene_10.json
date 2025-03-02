@@ -4,48 +4,89 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "蕙兰父女带着行李下楼" },
     {
-      "type": "dialog",
-      "speaker": "蕙兰父",
-      "performances": [{ "type": "line", "line": "哎，伙计，" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎。" }]
+      "type": "action",
+      "description": "蕙兰父女带着行李下楼"
     },
     {
       "type": "dialog",
       "speaker": "蕙兰父",
-      "performances": [{ "type": "line", "line": "帮着把箱子抬一下。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，伙计，"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎，来了来了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "哎哎等等。咱俩还没比呢。" }]
+      "speaker": "蕙兰父",
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮着把箱子抬一下。"
+        }
+      ]
     },
     {
       "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [{ "type": "line", "line": "你？你会武功吗？" }]
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，来了来了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "不会，但是我有勇气——还有足够的金疮药。" }
+        {
+          "type": "line",
+          "line": "哎哎等等。咱俩还没比呢。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "杨蕙兰",
-      "performances": [{ "type": "line", "line": "好吧，什么时候比？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你？你会武功吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会，但是我有勇气——还有足够的金疮药。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，什么时候比？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -60,24 +101,47 @@
     {
       "type": "dialog",
       "speaker": "蕙兰父",
-      "performances": [{ "type": "line", "line": "蕙兰，还要比啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰，还要比啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "行李我拿！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行李我拿！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "蕙兰父",
-      "performances": [{ "type": "line", "line": "麻烦你了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "麻烦你了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "没事儿，没事儿。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，没事儿。"
+        }
+      ]
     },
-    { "type": "action", "description": "老白把箱子抬到二楼，放下，开始解绳子" },
+    {
+      "type": "action",
+      "description": "老白把箱子抬到二楼，放下，开始解绳子"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
@@ -88,26 +152,49 @@
         }
       ]
     },
-    { "type": "action", "description": "小贝和小郭扭打着从后院进" },
     {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "史记抄完了吗？你就出门！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我用不着你管。" }]
+      "type": "action",
+      "description": "小贝和小郭扭打着从后院进"
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你还敢顶嘴？谁借你胆儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "史记抄完了吗？你就出门！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "你喽。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我用不着你管。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还敢顶嘴？谁借你胆儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你喽。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -122,19 +209,32 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我现在去哪儿给你找能打的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我现在去哪儿给你找能打的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "你拍十，我拍十，这个媳妇娶得值。" }
+        {
+          "type": "line",
+          "line": "你拍十，我拍十，这个媳妇娶得值。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哪个媳妇？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪个媳妇？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -149,20 +249,36 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉、莫小贝",
-      "performances": [{ "type": "line", "line": "比武招亲？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "比武招亲？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "能打的来啦，你咋不去啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "能打的来啦，你咋不去啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "看来姑奶奶又要重出一次江湖了。" }
+        {
+          "type": "line",
+          "line": "看来姑奶奶又要重出一次江湖了。"
+        }
       ]
     },
-    { "type": "action", "description": "字幕：李大嘴急着去比武招亲" }
+    {
+      "type": "action",
+      "description": "字幕：李大嘴急着去比武招亲"
+    }
   ]
 }

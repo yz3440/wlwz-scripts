@@ -7,17 +7,32 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "娘，我后背火辣辣的疼。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，我后背火辣辣的疼。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "过两天结嘎巴就好了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "过两天结嘎巴就好了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "不是，那您给我刺的啥字呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，那您给我刺的啥字呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -29,36 +44,69 @@
         }
       ]
     },
-    { "type": "action", "description": "众人进客房" },
+    {
+      "type": "action",
+      "description": "众人进客房"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "皇上驾到！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "皇上驾到！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "皇上来了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "皇上来了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "草民李氏叩见皇上！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "草民李氏叩见皇上！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "赶紧起来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧起来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "娘，您起来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，您起来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "谢皇上隆恩。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢皇上隆恩。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -83,12 +131,22 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "免礼平身！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "免礼平身！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "尚书大人也来啦？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "尚书大人也来啦？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -103,73 +161,131 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "那臣就先行告退了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那臣就先行告退了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "尚书大人走好，有空常来玩啊！" }
+        {
+          "type": "line",
+          "line": "尚书大人走好，有空常来玩啊！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "李卿家，朕来问你，你在京城住得还习惯吗？" }
+        {
+          "type": "line",
+          "line": "李卿家，朕来问你，你在京城住得还习惯吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "不大习惯……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "那就赶紧回去呗。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "尚书大人您又回来啦？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "吕卿家你还有啥事儿吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不大习惯……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "臣听说李状元要送母还乡，特来辞行。" }
+        {
+          "type": "line",
+          "line": "那就赶紧回去呗。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "没有的事儿，我哪都不去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "尚书大人您又回来啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕卿家你还有啥事儿吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "臣听说李状元要送母还乡，特来辞行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有的事儿，我哪都不去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "尖细嗓音" },
-        { "type": "line", "line": "为什么呀？" }
+        {
+          "type": "speaker-action",
+          "description": "尖细嗓音"
+        },
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "他怎么这么说话呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他怎么这么说话呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "太监！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "太监！"
+        }
+      ]
     },
-    { "type": "action", "description": "老白指大嘴，大嘴忙着赔不是" },
+    {
+      "type": "action",
+      "description": "老白指大嘴，大嘴忙着赔不是"
+    },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
@@ -184,20 +300,34 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "低沉的沙哑声" },
-        { "type": "line", "line": "李卿家！" }
+        {
+          "type": "speaker-action",
+          "description": "低沉的沙哑声"
+        },
+        {
+          "type": "line",
+          "line": "李卿家！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "臣在。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "臣在。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "低沉的沙哑声" },
+        {
+          "type": "speaker-action",
+          "description": "低沉的沙哑声"
+        },
         {
           "type": "line",
           "line": "朕给你两个选择，这一呢，就是送母回乡；这二呢，就是即日出征北伐。"
@@ -207,32 +337,59 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "伐谁啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "伐谁啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "低沉的沙哑声" },
-        { "type": "line", "line": "伐探花。" }
+        {
+          "type": "speaker-action",
+          "description": "低沉的沙哑声"
+        },
+        {
+          "type": "line",
+          "line": "伐探花。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "他不是让我儿子给撕了吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他不是让我儿子给撕了吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "是啊，他不让我给撕了吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，他不让我给撕了吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "尖细" },
-        { "type": "line", "line": "正因为如此啊，他们家不干了，现在要造反！" }
+        {
+          "type": "speaker-action",
+          "description": "尖细"
+        },
+        {
+          "type": "line",
+          "line": "正因为如此啊，他们家不干了，现在要造反！"
+        }
       ]
     },
     {
@@ -259,35 +416,61 @@
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "等等！丈八蛇矛，我怎么听着这么耳熟呢？" }
+        {
+          "type": "line",
+          "line": "等等！丈八蛇矛，我怎么听着这么耳熟呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "就张飞使的那个。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就张飞使的那个。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "咳！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "反正就是特厉害的那种！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "他再厉害，能敌得过我儿子的方天画戟吗？" }
+        {
+          "type": "line",
+          "line": "咳！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你还真把你儿子当吕布了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "反正就是特厉害的那种！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他再厉害，能敌得过我儿子的方天画戟吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还真把你儿子当吕布了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -303,45 +486,78 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "低沉的沙哑声" },
-        { "type": "line", "line": "那好吧，李卿家。" }
+        {
+          "type": "speaker-action",
+          "description": "低沉的沙哑声"
+        },
+        {
+          "type": "line",
+          "line": "那好吧，李卿家。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "在！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "在！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "低沉的沙哑声" },
-        { "type": "line", "line": "明儿就去兵部，领十个步兵上前线去吧！" }
+        {
+          "type": "speaker-action",
+          "description": "低沉的沙哑声"
+        },
+        {
+          "type": "line",
+          "line": "明儿就去兵部，领十个步兵上前线去吧！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "十个够吗，十个不够！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "十个够吗，十个不够！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "记住了，务必要将那十万叛军一举击溃！" }
+        {
+          "type": "line",
+          "line": "记住了，务必要将那十万叛军一举击溃！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "十万？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "十万？！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "低沉的沙哑声" },
+        {
+          "type": "speaker-action",
+          "description": "低沉的沙哑声"
+        },
         {
           "type": "line",
           "line": "此战非同寻常，只许胜不许败，如若败了，满门抄斩！"
@@ -351,46 +567,87 @@
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "儿啊……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "老太太——" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "儿啊……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "老太太，你现在后悔还来得及呀！" }
+        {
+          "type": "line",
+          "line": "老太太——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老太太，你现在后悔还来得及呀！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "儿啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "儿啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "哎！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "收拾行装，" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "收拾行装，"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "咱回家……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱回家……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "上前线！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "上前线！"
+        }
+      ]
     },
-    { "type": "action", "description": "掌柜、秀才、老白气的背过身去" },
+    {
+      "type": "action",
+      "description": "掌柜、秀才、老白气的背过身去"
+    },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
@@ -404,55 +661,98 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "娘！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘！"
+        }
+      ]
     },
-    { "type": "action", "description": "小郭端着粥跑进客房" },
+    {
+      "type": "action",
+      "description": "小郭端着粥跑进客房"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "状元爷，快给你娘喂口离别粥吧。" }
+        {
+          "type": "line",
+          "line": "状元爷，快给你娘喂口离别粥吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "这就算了，免了吧！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "这可是御赐的蛋花粥啊！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "谢皇上赐粥。" },
         {
-          "type": "speaker-action",
-          "description": "端起喝，有些许痛苦的咽下去，转而笑起来"
-        },
-        { "type": "line", "line": "好粥啊，好粥！" }
+          "type": "line",
+          "line": "这就算了，免了吧！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "耶！以后我天天给您赐啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是御赐的蛋花粥啊！"
+        }
+      ]
     },
-    { "type": "action", "description": "癫狂的状态跑出去" },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "这位皇上，我能跟我儿单独谈谈吗？" }
+        {
+          "type": "line",
+          "line": "谢皇上赐粥。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "端起喝，有些许痛苦的咽下去，转而笑起来"
+        },
+        {
+          "type": "line",
+          "line": "好粥啊，好粥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶！以后我天天给您赐啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "癫狂的状态跑出去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位皇上，我能跟我儿单独谈谈吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "起驾回宫。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "起驾回宫。"
+        }
+      ]
     },
     {
       "type": "action",
@@ -461,17 +761,32 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "娘，你你干吗打我呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，你你干吗打我呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "你啥不好学，偏偏学会扯谎！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥不好学，偏偏学会扯谎！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我没扯谎啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没扯谎啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -486,7 +801,12 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "娘，我这不是没办法吗。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，我这不是没办法吗。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -502,13 +822,21 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "娘，我知道错了，我不会学坏啊。" }
+        {
+          "type": "line",
+          "line": "娘，我知道错了，我不会学坏啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "大嘴娘",
-      "performances": [{ "type": "line", "line": "好吧，收拾收拾，送娘回去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，收拾收拾，送娘回去。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -524,9 +852,15 @@
       "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
-        { "type": "line", "line": "要真是皇上赐的粥，能这么难喝吗？啊？" }
+        {
+          "type": "line",
+          "line": "要真是皇上赐的粥，能这么难喝吗？啊？"
+        }
       ]
     },
-    { "type": "action", "description": "大嘴娘、大嘴会心的笑" }
+    {
+      "type": "action",
+      "description": "大嘴娘、大嘴会心的笑"
+    }
   ]
 }

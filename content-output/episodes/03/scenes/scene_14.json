@@ -4,69 +4,135 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "秀才趴在桌上睡着了" },
     {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "醒醒！哎哟，醒醒！醒醒！" }]
-    },
-    { "type": "action", "description": "！" },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "嗯？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "秀才，你昨晚写什么了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "没写什么，正思考着呢！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那你思考什么啦？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        { "type": "line", "line": "最重要的问题就是，我要写什么。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那你要写什么呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "回屋想会。" }]
+      "type": "action",
+      "description": "秀才趴在桌上睡着了"
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "哎，哎！" },
-        { "type": "speaker-action", "description": "指桌子" },
-        { "type": "line", "line": "你先把你这给我收拾了行不行！说你呢！" }
+        {
+          "type": "line",
+          "line": "醒醒！哎哟，醒醒！醒醒！"
+        }
       ]
     },
-    { "type": "action", "description": "莫小贝拿着包袱从门帘上，小郭拉住她" },
+    {
+      "type": "action",
+      "description": "！"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎——莫小贝！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，你昨晚写什么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没写什么，正思考着呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你思考什么啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最重要的问题就是，我要写什么。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你要写什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回屋想会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，哎！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指桌子"
+        },
+        {
+          "type": "line",
+          "line": "你先把你这给我收拾了行不行！说你呢！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "莫小贝拿着包袱从门帘上，小郭拉住她"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎——莫小贝！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "哎，哎！——你把包还我！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，哎！——你把包还我！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -82,45 +148,81 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "我们书院后面那么多野草，得烧一烧。" }
+        {
+          "type": "line",
+          "line": "我们书院后面那么多野草，得烧一烧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "啊，那你带刀干什么？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "宣纸太宽，裁小了好写字呀！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那你拿绳子绑什么？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，那你带刀干什么？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "我说又跟你没关系，你管那么多事儿干吗？！" }
+        {
+          "type": "line",
+          "line": "宣纸太宽，裁小了好写字呀！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎呀～……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你拿绳子绑什么？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "哦……找我曰你呢吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说又跟你没关系，你管那么多事儿干吗？！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你还真把自己当莫子了呀？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀～……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……找我曰你呢吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还真把自己当莫子了呀？！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -165,43 +267,80 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "她抢我书包我怎么去上学啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她抢我书包我怎么去上学啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "哎……不是的，掌柜的，她这个包吧……" }
+        {
+          "type": "line",
+          "line": "哎……不是的，掌柜的，她这个包吧……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "把书包还她！迟到了算你的啊！" }
+        {
+          "type": "line",
+          "line": "把书包还她！迟到了算你的啊！"
+        }
       ]
     },
-    { "type": "action", "description": "小贝得意" },
+    {
+      "type": "action",
+      "description": "小贝得意"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "好好读书啊，快去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好读书啊，快去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎，掌柜的，她……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，掌柜的，她……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "干活咧！马上就要开门咧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "干活咧！马上就要开门咧。"
+        }
+      ]
     },
-    { "type": "action", "description": "小郭想争辩，插不上嘴" },
+    {
+      "type": "action",
+      "description": "小郭想争辩，插不上嘴"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "大嘴！秀才！开门开门了啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴！秀才！开门开门了啊！"
+        }
+      ]
     }
   ]
 }

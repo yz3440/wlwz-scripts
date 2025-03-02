@@ -1,1 +1,126 @@
-{"type": "normal", "rawDescription": "【屋顶，夜】", "location": "屋顶", "timeOfDay": "夜", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "有钱了不起啊，有钱就可以随便欺负人啊？把额逼急了，额回家拿三万两银子，咱对着砸，看你能撑多久。这帮没有良心的，一个也不上来劝，额在这儿冻着，冻死我算啦。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "嫂子。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "小贝，你咋上来了？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "来陪陪你啊。"}, {"type": "speaker-action", "description": "给佟披斗篷"}, {"type": "line", "line": "你穿这么少，不冷啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不冷，还是你疼嫂子。不像那些没有良心的。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "你们是不是吵架了？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你咋知道呀？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "他们在楼下开你的批判会呢。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "他们都说了啥呢？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "没请见，我刚听了两句，他们就把我赶上来啦。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我倒要听听，我佟湘玉有啥对不起你们的。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有钱了不起啊，有钱就可以随便欺负人啊？把额逼急了，额回家拿三万两银子，咱对着砸，看你能撑多久。这帮没有良心的，一个也不上来劝，额在这儿冻着，冻死我算啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，你咋上来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来陪陪你啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给佟披斗篷"
+        },
+        {
+          "type": "line",
+          "line": "你穿这么少，不冷啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不冷，还是你疼嫂子。不像那些没有良心的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们是不是吵架了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋知道呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们在楼下开你的批判会呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们都说了啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没请见，我刚听了两句，他们就把我赶上来啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我倒要听听，我佟湘玉有啥对不起你们的。"
+        }
+      ]
+    }
+  ]
+}

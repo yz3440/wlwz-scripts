@@ -7,17 +7,32 @@
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "咋样儿姐夫？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋样儿姐夫？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "别提了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别提了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "啊？还没有找着啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？还没有找着啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -32,29 +47,52 @@
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "那到南边去找她嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那到南边去找她嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎呀，南边是西凉河！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，南边是西凉河！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "哎呀，她不会跳河吧姐夫？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，她不会跳河吧姐夫？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "不会吧？谁又没招她，她跳什么河呀……" }
+        {
+          "type": "line",
+          "line": "不会吧？谁又没招她，她跳什么河呀……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白、李",
-      "performances": [{ "type": "line", "line": "没招她？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没招她？！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -70,13 +108,21 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你以为人人都跟你一样啊？没心没肺！" }
+        {
+          "type": "line",
+          "line": "你以为人人都跟你一样啊？没心没肺！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我、我错了还不行嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我、我错了还不行嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -91,84 +137,156 @@
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "说啥？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥？！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "我是说她失踪了，不是那个\"没\"了……" }
+        {
+          "type": "line",
+          "line": "我是说她失踪了，不是那个\"没\"了……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "不行，我找她去！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行，我找她去！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你人生地不熟的你上哪儿找啊？" }
+        {
+          "type": "line",
+          "line": "你人生地不熟的你上哪儿找啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟石头",
       "performances": [
-        { "type": "line", "line": "不知道，反正我找不见她我就……" }
+        {
+          "type": "line",
+          "line": "不知道，反正我找不见她我就……"
+        }
       ]
     },
-    { "type": "action", "description": "无双进" },
+    {
+      "type": "action",
+      "description": "无双进"
+    },
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "对不起……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
-      "performances": [{ "type": "line", "line": "谢谢你……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢你……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "两人同声",
-      "performances": [{ "type": "line", "line": "你说啥？？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥？？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "哎呀，我在到处找你。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我在到处找你。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
-      "performances": [{ "type": "line", "line": "我也是呀……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也是呀……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "呃……你没事吧，挺好的吧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……你没事吧，挺好的吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
-      "performances": [{ "type": "line", "line": "挺好的……你呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "挺好的……你呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟石头",
-      "performances": [{ "type": "line", "line": "啊哈……我也挺好的，嘿嘿……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊哈……我也挺好的，嘿嘿……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我就说没事儿么……呵呵……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就说没事儿么……呵呵……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "呵呵呵呵……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵呵……"
+        }
+      ]
     }
   ]
 }

@@ -7,7 +7,12 @@
     {
       "type": "dialog",
       "speaker": "清 风",
-      "performances": [{ "type": "line", "line": "您这是干什么呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "您这是干什么呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -22,32 +27,62 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "师父！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "清 风",
-      "performances": [{ "type": "line", "line": "师父一头撞到柜子上了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父一头撞到柜子上了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "快快。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "快快。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "师父您这是何苦的呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父您这是何苦的呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "不要拉我。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要拉我。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "先坐下坐下。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "先坐下坐下。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -62,19 +97,35 @@
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "少放盐？那还能吃吗？走开！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "少放盐？那还能吃吗？走开！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "葵花！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
       "performances": [
-        { "type": "speaker-action", "description": "把刀架自己脖子上" },
-        { "type": "line", "line": "别。" }
+        {
+          "type": "speaker-action",
+          "description": "把刀架自己脖子上"
+        },
+        {
+          "type": "line",
+          "line": "别。"
+        }
       ]
     },
     {
@@ -100,7 +151,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "别别。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -115,7 +171,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "大嘴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -130,31 +191,52 @@
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "你想说什么呀你？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想说什么呀你？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "师父，您看这刀面上刻的啥呢，啊？" }
+        {
+          "type": "line",
+          "line": "师父，您看这刀面上刻的啥呢，啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "旺德福。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "旺德福。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "那为啥要刻在这一面，没刻在这面啊？" }
+        {
+          "type": "line",
+          "line": "那为啥要刻在这一面，没刻在这面啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "我哪知道啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -170,7 +252,10 @@
       "type": "dialog",
       "speaker": "诸葛孔方",
       "performances": [
-        { "type": "line", "line": "那反面怎么还刻着\"泰瑞宝\"？" }
+        {
+          "type": "line",
+          "line": "那反面怎么还刻着\"泰瑞宝\"？"
+        }
       ]
     },
     {
@@ -186,7 +271,12 @@
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "什么玄机啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么玄机啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -211,17 +301,32 @@
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "那到底是淡是咸呐？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那到底是淡是咸呐？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "您说呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "您说呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "诸葛孔方",
-      "performances": [{ "type": "line", "line": "Whatever!" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "Whatever!"
+        }
+      ]
     }
   ]
 }

@@ -1,1 +1,126 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "本捕头正式宣布，同福客栈佟掌柜的小姑子莫小贝，举办了本镇第一个个人艺术展，鼓掌！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "好好好！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "虽然只是捏泥巴……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "但是也是来之不易的胜利，再次鼓掌！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "大家有兴趣可以到后院看看，不看也无所谓，为了庆祝这个伟大而隆重的艺坛盛事，佟掌柜决定，请大家——把前两天的账结了"}]}, {"type": "action", "description": "众食客跑"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "你不能硬问人家要帐……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "额没有问他要帐，问他回锅肉还上不上啊！"}]}, {"type": "dialog", "speaker": "食客甲", "performances": [{"type": "line", "line": "早上了。"}]}, {"type": "action", "description": "小贝哭，食客甲往后院走"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你干啥去？"}]}, {"type": "dialog", "speaker": "食客甲", "performances": [{"type": "line", "line": "看看小贝艺术展。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "哇噻，终于有人看我艺术展！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本捕头正式宣布，同福客栈佟掌柜的小姑子莫小贝，举办了本镇第一个个人艺术展，鼓掌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "虽然只是捏泥巴……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是也是来之不易的胜利，再次鼓掌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大家有兴趣可以到后院看看，不看也无所谓，为了庆祝这个伟大而隆重的艺坛盛事，佟掌柜决定，请大家——把前两天的账结了"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众食客跑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不能硬问人家要帐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额没有问他要帐，问他回锅肉还上不上啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早上了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝哭，食客甲往后院走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干啥去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看小贝艺术展。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻，终于有人看我艺术展！"
+        }
+      ]
+    }
+  ]
+}

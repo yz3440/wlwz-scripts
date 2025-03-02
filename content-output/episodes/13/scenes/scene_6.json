@@ -1,1 +1,226 @@
-{"type": "normal", "rawDescription": "【客房，昼】", "location": "客房", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "指如疾风，势如闪电。指如疾风，势如闪电。指如疾风，势如闪电。"}, {"type": "speaker-action", "description": "掌柜推门入"}, {"type": "line", "line": "醒醒，醒醒，我需要你啊。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你你你刚才说啥？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我真的真的需要你啊。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "展堂。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "干啥玩意儿你。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "展堂，你知道我等这句话都等了多长时间了吗？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "什什什么话呀？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你既然都说了。还好意思问人家。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "噢，我说的是手，手啊，我需要你啊，老板娘等着我给她干活呢。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "啊……我也是。展堂的手啊，我需要你。你要早一点恢复，好给我干活。你要乖一点啊，不要乱动。明天我再来给你讲笑话。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎呀，我的天呐。看来是不能装了，再装啊，非得她把我吓死不可。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "啥破玩艺儿啊，这是！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "怎么的了？我看看。怎么了，这不挺好的吗？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "好啥玩意儿啊，全是字，你让我咋看？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "废话，没字能叫书啊？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "那我不管，你答应过我的。这事儿你要不帮我解决了，咱俩的兄弟就没得做了。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎呀，还讹我，我就不帮你解决，怎么的。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎呀妈呀，手好了。能动……"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "叫唤啥呀，叫唤。不就没字的吗？我给你弄去。全是画，一个字都没有。上刀山下火海也给你弄去。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哈哈，铁子。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "摊上你我倒八辈子霉了我跟你说。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电。指如疾风，势如闪电。指如疾风，势如闪电。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜推门入"
+        },
+        {
+          "type": "line",
+          "line": "醒醒，醒醒，我需要你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你你你刚才说啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真的真的需要你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥玩意儿你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你知道我等这句话都等了多长时间了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什什什么话呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你既然都说了。还好意思问人家。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，我说的是手，手啊，我需要你啊，老板娘等着我给她干活呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……我也是。展堂的手啊，我需要你。你要早一点恢复，好给我干活。你要乖一点啊，不要乱动。明天我再来给你讲笑话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我的天呐。看来是不能装了，再装啊，非得她把我吓死不可。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥破玩艺儿啊，这是！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么的了？我看看。怎么了，这不挺好的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啥玩意儿啊，全是字，你让我咋看？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，没字能叫书啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我不管，你答应过我的。这事儿你要不帮我解决了，咱俩的兄弟就没得做了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，还讹我，我就不帮你解决，怎么的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，手好了。能动……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫唤啥呀，叫唤。不就没字的吗？我给你弄去。全是画，一个字都没有。上刀山下火海也给你弄去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，铁子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "摊上你我倒八辈子霉了我跟你说。"
+        }
+      ]
+    }
+  ]
+}

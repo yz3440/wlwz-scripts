@@ -4,23 +4,39 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "字幕，两个时辰后" },
+    {
+      "type": "action",
+      "description": "字幕，两个时辰后"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "咋回事嘛，生个娃都该娶媳妇了，还不回来！" }
+        {
+          "type": "line",
+          "line": "咋回事嘛，生个娃都该娶媳妇了，还不回来！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "恐怕是回不来了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "恐怕是回不来了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你说啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -35,12 +51,22 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "回来了回来了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来了回来了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋样？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋样？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -56,40 +82,84 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "大嘴！" },
-        { "type": "speaker-action", "description": "对小郭" },
-        { "type": "line", "line": "还有啥好说的？牌子呢？" },
-        { "type": "line", "line": "这是个啥嘛？" }
+        {
+          "type": "line",
+          "line": "大嘴！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小郭"
+        },
+        {
+          "type": "line",
+          "line": "还有啥好说的？牌子呢？"
+        },
+        {
+          "type": "line",
+          "line": "这是个啥嘛？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我姑夫给你题的字。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我姑夫给你题的字。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "就这呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "还有啥呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "牌子！我的牌子！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就这呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "哎呀，我耳朵，" },
-        { "type": "speaker-action", "description": "对食客" },
-        { "type": "line", "line": "没事儿，吃饭吃饭" },
-        { "type": "speaker-action", "description": "对湘玉" },
+        {
+          "type": "line",
+          "line": "还有啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "牌子！我的牌子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我耳朵，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对食客"
+        },
+        {
+          "type": "line",
+          "line": "没事儿，吃饭吃饭"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对湘玉"
+        },
         {
           "type": "line",
           "line": "你急啥呀，你不都说好了吗，我拿不会来你也不怪我吗？"
@@ -99,7 +169,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "怎么会这样，怎么会这样嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么会这样，怎么会这样嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -114,7 +189,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "行了行了，说正题！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，说正题！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -129,7 +209,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "为啥吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -144,55 +229,106 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "然后呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "然后我就给你带回来了呗。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后我就给你带回来了呗。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "看看看看，写啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看看看，写啥呀？"
+        }
+      ]
     },
-    { "type": "action", "description": "打开卷轴，是\"下不为例\"四个大字" },
+    {
+      "type": "action",
+      "description": "打开卷轴，是\"下不为例\"四个大字"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "掌柜的，没事儿……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，没事儿……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "我就不相信，拿不回牌子，我就不活了！" }
+        {
+          "type": "line",
+          "line": "我就不相信，拿不回牌子，我就不活了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "食客",
-      "performances": [{ "type": "line", "line": "花生米……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "花生米……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "来了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "小郭，写啥呀，你给我念念？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，写啥呀，你给我念念？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "可怜的大嘴呀……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "可怜的大嘴呀……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "可怜的大嘴——这咋少个字呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "可怜的大嘴——这咋少个字呢？"
+        }
+      ]
     }
   ]
 }

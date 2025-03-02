@@ -1,1 +1,32 @@
-{"type": "normal", "rawDescription": "【大堂，夜】", "location": "大堂", "timeOfDay": "夜", "performances": [{"type": "action", "description": "秀才拿鸡毛掸子给掌柜的"}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "掌柜的，这是我亲手做的，留给你防身。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "好秀才，难得你有这份心，自己留着赶蚊子用吧。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才拿鸡毛掸子给掌柜的"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，这是我亲手做的，留给你防身。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好秀才，难得你有这份心，自己留着赶蚊子用吧。"
+        }
+      ]
+    }
+  ]
+}

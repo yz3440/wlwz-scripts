@@ -1,27 +1,36 @@
 {
   "type": "normal",
-  "rawDescription": "【后院，夜】",
-  "location": "后院",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
   "timeOfDay": "夜",
-  "context": "",
   "performances": [
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "燕捕头，我再也不敢了，我也是一不小心才上了贼船的，这么多年来，我命再苦没怨过政府，点儿再背也没怨过社会，您大人有大量，就原谅我这一回吧。"
+          "line": "不好了，不好了，老白的身份暴露了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "众人",
       "performances": [
         {
           "type": "line",
-          "line": "你咋能这样呢？"
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六已经知道老白是盗圣，现在正逼问他呢。"
         }
       ]
     }

@@ -4,71 +4,139 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "众人争一个烧饼" },
+    {
+      "type": "action",
+      "description": "众人争一个烧饼"
+    },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "给我给我，我我我。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我给我，我我我。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "分啥那分啥呢，啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "分啥那分啥呢，啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "大嘴——" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴——"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "大嘴叔，您终于回来了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴叔，您终于回来了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我饿呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我饿呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "咋的了这都是？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的了这都是？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我们都快饿死了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们都快饿死了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "叫小郭再也别做饭了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫小郭再也别做饭了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "她还没做够呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她还没做够呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "非但没有做够，还上瘾了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "非但没有做够，还上瘾了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "就因为你娘那天说的两个字。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就因为你娘那天说的两个字。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "哪俩字呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪俩字呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "好粥！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好粥！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -80,7 +148,10 @@
         }
       ]
     },
-    { "type": "action", "description": "小郭从后面进来，端着汤" },
+    {
+      "type": "action",
+      "description": "小郭从后面进来，端着汤"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
@@ -91,18 +162,29 @@
         }
       ]
     },
-    { "type": "action", "description": "众人作呕，大嘴去闻，立刻转过身去" },
+    {
+      "type": "action",
+      "description": "众人作呕，大嘴去闻，立刻转过身去"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "哎哟，你做这玩意儿是给人吃的啊？" }
+        {
+          "type": "line",
+          "line": "哎哟，你做这玩意儿是给人吃的啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你什么意思啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -117,18 +199,31 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "李大嘴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "怎么的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么的？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "你可以污辱我的人格，但你不能侮辱我的事业！" }
+        {
+          "type": "line",
+          "line": "你可以污辱我的人格，但你不能侮辱我的事业！"
+        }
       ]
     },
     {
@@ -145,45 +240,89 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "排山倒海" },
-        { "type": "speaker-action", "description": "击倒大嘴" }
+        {
+          "type": "line",
+          "line": "排山倒海"
+        },
+        {
+          "type": "speaker-action",
+          "description": "击倒大嘴"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "哎呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你过来！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你过来！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我就不去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就不去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "好，你过不过来？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，你过不过来？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我就不去！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就不去！"
+        }
+      ]
     },
-    { "type": "action", "description": "把大嘴的上衣脱下" },
+    {
+      "type": "action",
+      "description": "把大嘴的上衣脱下"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "别动……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别动……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "咋的了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的了？"
+        }
+      ]
     },
     {
       "type": "action",
@@ -192,9 +331,17 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "咋的了？咋的了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的了？咋的了？"
+        }
+      ]
     },
-    { "type": "action", "description": "\"好汉饶命\"出现在观众面前" },
+    {
+      "type": "action",
+      "description": "\"好汉饶命\"出现在观众面前"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",

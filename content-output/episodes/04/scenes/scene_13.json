@@ -1,1 +1,514 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "展堂，你是不是又开始赌钱了？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "啥叫又啊！我啥时候赌过钱呐。再说了，老邢天天跟这儿转悠，谁敢赌啊！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那老邢要是不转悠，你就敢了？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "小赌怡情，大赌才伤身呢，咱玩的又不大，人生在世就图一乐呗！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "好好乐吧，迟早有你哭的时候。赶紧帮忙收拾。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "好好好……"}]}, {"type": "action", "description": "李大嘴抱包裹入大堂"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "站住！手里拿的啥呀？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "地瓜干，我娘亲手晒的。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我尝尝。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你尝尝，味道咋样？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "再给我两根。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "别别别，一共没几根，你吃了别人不吃了。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "大嘴，坐这儿。咱俩来一局。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "来局啥呀？"}]}, {"type": "action", "description": "白展堂拿出骰盅"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "赌博犯法你不知道啊？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "说啥呢？咱又不赌钱！怕啥呢，没事儿！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "别别别，我答应过我娘的，打死也不能赌。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "站住！瞧你那没出息的样儿！给我坐这儿，你就一辈子当你娘的乖乖儿吧——儿啊，千万不要跟陌生人说话，免得让人把心给偷了去……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "行行行，不就赌吗？我奉陪到底！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "是条汉子！大嘴，咱玩得不大，一局两根地瓜干。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "那你要输了拿啥赔呀？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "小郭得给我洗半年的衣裳，十根地瓜干换一次洗衣裳，怎么样？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "就这么定了！"}]}, {"type": "action", "description": "晃色盅，白展堂故意输掉"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "嘿嘿，地瓜干你吃不着了。再来！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "接着来！"}]}, {"type": "action", "description": "转场，白展堂独自吃一大堆地瓜干，郭芙蓉入大堂"}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎呀，我的小蛮腰啊！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "妹儿啊，来，吃两根地瓜干！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎，哪儿弄来的？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我赢的。哎，诸位啊，大嘴又输给我了，这可是大嘴他娘亲手晒的，来来来，给大家发发，别抠门儿，来！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "发什么发，缺德吧你就，我鄙视你！大嘴人呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "回家拿东西去了，没看今儿菜都我炒的吗？输给我两百多根地瓜干，三斤无花果和五斤柴鸡蛋。"}, {"type": "speaker-action", "description": "对食客"}, {"type": "line", "line": "来，吃着啊，别客气。"}]}, {"type": "action", "description": "李大嘴扶大嘴娘入大堂"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "娘，您慢点儿啊！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎哟，老太太！今儿怎么有空过来了？"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "我儿子是跟你赌的？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "是我。我地瓜干、无花果和柴鸡蛋呢？"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "在门外头呢！等着啊！进来吧！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "来拿进来！"}]}, {"type": "action", "description": "邢育森入"}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎？老邢……"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "老白"}, {"type": "speaker-action", "description": "拷住白展堂"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎，干什么，干什么，老邢？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "干什么老邢？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "对不住了啊~走！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "干吗？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "干吗要抓人呀？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "干吗呀你，老邢？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "干吗呀……"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "走！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你是不是又开始赌钱了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥叫又啊！我啥时候赌过钱呐。再说了，老邢天天跟这儿转悠，谁敢赌啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那老邢要是不转悠，你就敢了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小赌怡情，大赌才伤身呢，咱玩的又不大，人生在世就图一乐呗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好乐吧，迟早有你哭的时候。赶紧帮忙收拾。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李大嘴抱包裹入大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！手里拿的啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "地瓜干，我娘亲手晒的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我尝尝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你尝尝，味道咋样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再给我两根。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，一共没几根，你吃了别人不吃了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，坐这儿。咱俩来一局。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来局啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂拿出骰盅"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赌博犯法你不知道啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥呢？咱又不赌钱！怕啥呢，没事儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，我答应过我娘的，打死也不能赌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！瞧你那没出息的样儿！给我坐这儿，你就一辈子当你娘的乖乖儿吧——儿啊，千万不要跟陌生人说话，免得让人把心给偷了去……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，不就赌吗？我奉陪到底！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是条汉子！大嘴，咱玩得不大，一局两根地瓜干。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你要输了拿啥赔呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭得给我洗半年的衣裳，十根地瓜干换一次洗衣裳，怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就这么定了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "晃色盅，白展堂故意输掉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿，地瓜干你吃不着了。再来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "接着来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "转场，白展堂独自吃一大堆地瓜干，郭芙蓉入大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我的小蛮腰啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妹儿啊，来，吃两根地瓜干！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，哪儿弄来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我赢的。哎，诸位啊，大嘴又输给我了，这可是大嘴他娘亲手晒的，来来来，给大家发发，别抠门儿，来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "发什么发，缺德吧你就，我鄙视你！大嘴人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回家拿东西去了，没看今儿菜都我炒的吗？输给我两百多根地瓜干，三斤无花果和五斤柴鸡蛋。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对食客"
+        },
+        {
+          "type": "line",
+          "line": "来，吃着啊，别客气。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李大嘴扶大嘴娘入大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，您慢点儿啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，老太太！今儿怎么有空过来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我儿子是跟你赌的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我。我地瓜干、无花果和柴鸡蛋呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在门外头呢！等着啊！进来吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来拿进来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "邢育森入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？老邢……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拷住白展堂"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，干什么，干什么，老邢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么老邢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不住了啊~走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干吗要抓人呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干吗呀你，老邢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干吗呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走！"
+        }
+      ]
+    }
+  ]
+}

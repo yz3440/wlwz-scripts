@@ -1,1 +1,232 @@
-{"type": "normal", "rawDescription": "【佟寝，昼】", "location": "佟寝", "timeOfDay": "昼", "performances": [{"type": "action", "description": "掌柜的房间内，大家开始乱哄哄地讨论"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呀，好啦，一个一个来嘛。展堂先来。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我没别的说的啊，就一句话，让她走，马上就走。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "她走了，欠我的银子谁还？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我来还……"}, {"type": "speaker-action", "description": "秀才、掌柜看老白"}, {"type": "line", "line": "那是不可能的。但是再让她这么折腾下去，咱这店迟早得关门。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "肯定的。整整三天了，每次一到清帐的时候，她就突然出现。要么玩我那算盘珠子，要么翻我的帐本，前几天的帐到现在还没清呢。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "speaker-action", "description": "坐下"}, {"type": "line", "line": "大晚上不睡觉，非逼着我起来给她做宵夜，还顿顿不带重样的。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那你就不会不弄吗？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "立马排山倒海伺候之。你挨一下试试。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你听听。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "她还敢动手了，就不怕展堂点她。"}]}, {"type": "action", "description": "拍桌子，站起来"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "可不敢点，可不敢点呐。你头脚点了，第二天她就敢上衙门口喊冤去。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "喊就喊呗，谁信呐。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "掌柜的，你是知不道啊，就她那副嘴脸，变化之快，演技之高，在我平生所见的人当中只有青霞和曼玉能与之抗衡。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那还得是她发挥失常，青霞曼玉超水平发挥呀。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "还真成个祸害了。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "掌柜的，这是帐本自己翻翻吧，这几天叫她折腾的客流量活活少了一半呀。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "本来也没有多少——那就更加不能容忍了！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "对呀！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你们先下去吧。"}]}, {"type": "action", "description": "秀才、大嘴、老白往屋外走"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我一定要找她问个明白。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的房间内，大家开始乱哄哄地讨论"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，好啦，一个一个来嘛。展堂先来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没别的说的啊，就一句话，让她走，马上就走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她走了，欠我的银子谁还？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来还……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才、掌柜看老白"
+        },
+        {
+          "type": "line",
+          "line": "那是不可能的。但是再让她这么折腾下去，咱这店迟早得关门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定的。整整三天了，每次一到清帐的时候，她就突然出现。要么玩我那算盘珠子，要么翻我的帐本，前几天的帐到现在还没清呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        },
+        {
+          "type": "line",
+          "line": "大晚上不睡觉，非逼着我起来给她做宵夜，还顿顿不带重样的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就不会不弄吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "立马排山倒海伺候之。你挨一下试试。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听听。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她还敢动手了，就不怕展堂点她。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拍桌子，站起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不敢点，可不敢点呐。你头脚点了，第二天她就敢上衙门口喊冤去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊就喊呗，谁信呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你是知不道啊，就她那副嘴脸，变化之快，演技之高，在我平生所见的人当中只有青霞和曼玉能与之抗衡。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还得是她发挥失常，青霞曼玉超水平发挥呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还真成个祸害了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，这是帐本自己翻翻吧，这几天叫她折腾的客流量活活少了一半呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本来也没有多少——那就更加不能容忍了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们先下去吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才、大嘴、老白往屋外走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我一定要找她问个明白。"
+        }
+      ]
+    }
+  ]
+}

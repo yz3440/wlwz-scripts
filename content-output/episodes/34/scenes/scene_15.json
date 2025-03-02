@@ -8,21 +8,30 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "你吵吵啥呀！你把小贝吵起来你负责啊？" }
+        {
+          "type": "line",
+          "line": "你吵吵啥呀！你把小贝吵起来你负责啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "对不起，但我是有感而发！掌柜的她想寻死哪！" }
+        {
+          "type": "line",
+          "line": "对不起，但我是有感而发！掌柜的她想寻死哪！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白、李",
       "performances": [
-        { "type": "line", "line": "不！我们不信！掌柜的决不可能做这种傻事！" }
+        {
+          "type": "line",
+          "line": "不！我们不信！掌柜的决不可能做这种傻事！"
+        }
       ]
     },
     {
@@ -38,26 +47,45 @@
     {
       "type": "dialog",
       "speaker": "白、李",
-      "performances": [{ "type": "line", "line": "不，我们还是不信！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，我们还是不信！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "缓和" },
-        { "type": "line", "line": "为什么呀？" }
+        {
+          "type": "speaker-action",
+          "description": "缓和"
+        },
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "因为我不识字儿你给我念念！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我不识字儿你给我念念！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "干咳" },
+        {
+          "type": "speaker-action",
+          "description": "干咳"
+        },
         {
           "type": "line",
           "line": "嗯嗯……那你们听好了啊……\"大家好我轻轻地走了，正如我轻轻地来……\""
@@ -68,31 +96,55 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "再指女寝窗" },
-        { "type": "line", "line": "那儿念去，那儿。" }
+        {
+          "type": "speaker-action",
+          "description": "再指女寝窗"
+        },
+        {
+          "type": "line",
+          "line": "那儿念去，那儿。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "\"……挥一挥衣袖……说声 Bye-bye\"" }
+        {
+          "type": "line",
+          "line": "\"……挥一挥衣袖……说声 Bye-bye\""
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "白白？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "白白？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我小名叫\"白白\"" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我小名叫\"白白\""
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "啊……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -108,7 +160,10 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "行了，拉倒吧，我还想多活两年儿呢。" }
+        {
+          "type": "line",
+          "line": "行了，拉倒吧，我还想多活两年儿呢。"
+        }
       ]
     },
     {
@@ -124,13 +179,21 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "赎赎啥罪呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "赎赎啥罪呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "这上面没写，我估计吧，是说小贝的罪！" }
+        {
+          "type": "line",
+          "line": "这上面没写，我估计吧，是说小贝的罪！"
+        }
       ]
     },
     {
@@ -147,7 +210,10 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "你接着念哪！掌柜的后面说啥了？" }
+        {
+          "type": "line",
+          "line": "你接着念哪！掌柜的后面说啥了？"
+        }
       ]
     },
     {
@@ -163,21 +229,40 @@
     {
       "type": "dialog",
       "speaker": "三人",
-      "performances": [{ "type": "line", "line": "嘘……一、二、三——出来！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘……一、二、三——出来！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "嫂子！嫂子！嫂子！" },
-        { "type": "speaker-action", "description": "哭腔" },
-        { "type": "line", "line": "啊～～～！" }
+        {
+          "type": "line",
+          "line": "嫂子！嫂子！嫂子！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭腔"
+        },
+        {
+          "type": "line",
+          "line": "啊～～～！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "行了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了！"
+        }
+      ]
     }
   ]
 }

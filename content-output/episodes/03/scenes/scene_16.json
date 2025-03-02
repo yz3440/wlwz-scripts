@@ -4,48 +4,89 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "秀才已经写完帮规，老白大嘴围着观看" },
+    {
+      "type": "action",
+      "description": "秀才已经写完帮规，老白大嘴围着观看"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你这也叫帮规啊，啊？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这也叫帮规啊，啊？！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "整个一入狱指南呐！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "整个一入狱指南呐！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "哎，我完全是按照掌柜的意思写的。" }
+        {
+          "type": "line",
+          "line": "哎，我完全是按照掌柜的意思写的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "她叫你去死，你也去啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她叫你去死，你也去啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "第七条——掌门有令莫敢不从。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "第七条——掌门有令莫敢不从。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "客人",
-      "performances": [{ "type": "line", "line": "倒酒！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒酒！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "哎，来了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，来了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "要不我再拿回去改一改？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不我再拿回去改一改？"
+        }
+      ]
     },
     {
       "type": "action",
@@ -54,78 +95,145 @@
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "佟掌柜……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "佟掌柜不在……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜不在……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "佟掌柜她在吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜她在吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "不在，您是……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不在，您是……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "朱先生啊……哎哟，您这胡子怎么刮啦？！" }
+        {
+          "type": "line",
+          "line": "朱先生啊……哎哟，您这胡子怎么刮啦？！"
+        }
       ]
     },
-    { "type": "action", "description": "朱先生摆手" },
+    {
+      "type": "action",
+      "description": "朱先生摆手"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "刮了好，刮了好，看着年轻！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "刮了好，刮了好，看着年轻！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那你这眼睛怎么青了呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "快坐下，快坐下！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "佟掌柜……这啥时候回来啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你这眼睛怎么青了呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "哟，那可说不准了，你找她有事啊？" }
+        {
+          "type": "line",
+          "line": "快坐下，快坐下！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "求求各位，您救救我吧……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜……这啥时候回来啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，那可说不准了，你找她有事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "求求各位，您救救我吧……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哟，你别哭你别哭。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，你别哭你别哭。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你别哭啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别哭啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你有事跟我说，我在这顶半个家呢，说。" }
+        {
+          "type": "line",
+          "line": "你有事跟我说，我在这顶半个家呢，说。"
+        }
       ]
     },
     {
@@ -141,7 +249,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "算了，她一直就这样！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了，她一直就这样！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -156,7 +269,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -171,7 +289,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "还有啊？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有啊？！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -186,7 +309,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "什么感觉？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么感觉？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -201,67 +329,132 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "请神容易送神难呐！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "请神容易送神难呐！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "自作孽不可活，活该！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "自作孽不可活，活该！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "这他怎么这么说话呢！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这他怎么这么说话呢！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你不用理他。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不用理他。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "别理他。脑子不好使。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别理他。脑子不好使。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "告辞啦……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "告辞啦……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "走啊，朱先生？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走啊，朱先生？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "慢点慢点慢点啊……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点慢点慢点啊……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "慢点啊，小郭扶着！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点啊，小郭扶着！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "你们家的耗子逮着了吧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们家的耗子逮着了吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哦！逮着了逮着了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦！逮着了逮着了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "我说今儿没听见叫呢！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说今儿没听见叫呢！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "啊，是啊是啊……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，是啊是啊……"
+        }
+      ]
     },
     {
       "type": "action",

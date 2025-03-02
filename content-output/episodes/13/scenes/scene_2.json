@@ -1,1 +1,270 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "还让不让人活了。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我还真没看出来掌柜的还有这一手啊。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "早知道就不把《笑林广记》借给她，又来了，让我死了算了。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "没用的东西。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "你说什么？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我问你，要是有人欺负你打你骂你，你该怎么办？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "报官。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "切，那官府要是不管呢？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "找小白大嘴他们。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "那他们要是也不管呢？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "你什么意思啊？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "告诉你，行走江湖，讲究的就是人不犯我，我不犯人。人若犯我，我必犯人。还是不懂？"}, {"type": "speaker-action", "description": "秀才摇头"}, {"type": "line", "line": "我看你这个呆样子我就想野蛮，她笑，你也别闲着呀。她笑一声，你就笑两声，看谁笑得过谁。这就叫以彼之道，还制彼身。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "我也没她那个体力呀。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎呀，算了算了，我也不忍心野蛮了。看我的啊，看好了。哈哈哈，哈哈……咳咳……"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "等，你就这么干笑啊，不自然的。加点什么东西，看我的。寻寻觅觅，冷冷清清，凄凄惨惨戚戚，哈哈哈哈"}]}, {"type": "action", "description": "大嘴从厨房出"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "笑啥呢？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "咋暖还寒时候，最难将息，三杯两盏淡酒，怎敌它晚来风急。哈哈哈哈……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哈哈哈哈……哎呀妈呀笑死我了"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "怎么你就不行了"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哈哈哈哈哈哈……你想人家喝三两杯酒，他来晚了，不让他喝了，他就跟人家急了，还疯急，啥人呐。哈哈哈哈."}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "大嘴大嘴，别笑了，大嘴，有什么好笑的？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "那咋的？兴你们笑，不兴我笑啊？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "你能笑，但是，问题是这不好笑啊。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "大嘴，你没文化就不要不懂装懂，你看我，懂都不要让人家知道我懂。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "咋的？店是你开的呀？我想笑就笑，想哭就哭怎么的？"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还让不让人活了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还真没看出来掌柜的还有这一手啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早知道就不把《笑林广记》借给她，又来了，让我死了算了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没用的东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，要是有人欺负你打你骂你，你该怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "报官。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，那官府要是不管呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找小白大嘴他们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他们要是也不管呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "告诉你，行走江湖，讲究的就是人不犯我，我不犯人。人若犯我，我必犯人。还是不懂？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才摇头"
+        },
+        {
+          "type": "line",
+          "line": "我看你这个呆样子我就想野蛮，她笑，你也别闲着呀。她笑一声，你就笑两声，看谁笑得过谁。这就叫以彼之道，还制彼身。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也没她那个体力呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，算了算了，我也不忍心野蛮了。看我的啊，看好了。哈哈哈，哈哈……咳咳……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等，你就这么干笑啊，不自然的。加点什么东西，看我的。寻寻觅觅，冷冷清清，凄凄惨惨戚戚，哈哈哈哈"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴从厨房出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋暖还寒时候，最难将息，三杯两盏淡酒，怎敌它晚来风急。哈哈哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈……哎呀妈呀笑死我了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么你就不行了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈哈哈……你想人家喝三两杯酒，他来晚了，不让他喝了，他就跟人家急了，还疯急，啥人呐。哈哈哈哈."
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴大嘴，别笑了，大嘴，有什么好笑的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咋的？兴你们笑，不兴我笑啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你能笑，但是，问题是这不好笑啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你没文化就不要不懂装懂，你看我，懂都不要让人家知道我懂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的？店是你开的呀？我想笑就笑，想哭就哭怎么的？"
+        }
+      ]
+    }
+  ]
+}

@@ -27,62 +27,116 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "跟你嫂子道个别。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你嫂子道个别。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我走了啊，嫂子。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "走吧！" }]
-    },
-    { "type": "action", "description": "老白小贝出" },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "哎，咋了这是？怎么回事儿？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "没事，走吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "走哪去啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "衙门。前方带路。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "别别别，衙门这会儿正乱着呢。别去。" }
+        {
+          "type": "line",
+          "line": "我走了啊，嫂子。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋咧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白小贝出"
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "衙门死人了！就昨晚逮的那个胖老太太。" }
+        {
+          "type": "line",
+          "line": "哎，咋了这是？怎么回事儿？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "她咋死的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走哪去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衙门。前方带路。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，衙门这会儿正乱着呢。别去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋咧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衙门死人了！就昨晚逮的那个胖老太太。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她咋死的？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -97,7 +151,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "然后呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -112,27 +171,52 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "有……人……就咽气了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "有……人……就咽气了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "好可怜啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好可怜啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "嗯？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "可怜人必有可恨之处。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "可怜人必有可恨之处。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -154,16 +238,29 @@
         }
       ]
     },
-    { "type": "action", "description": "佟湘玉奔出" },
+    {
+      "type": "action",
+      "description": "佟湘玉奔出"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "这么晚了你干什么去啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么晚了你干什么去啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "展堂，小贝，回来！！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，小贝，回来！！"
+        }
+      ]
     },
     {
       "type": "dialog",

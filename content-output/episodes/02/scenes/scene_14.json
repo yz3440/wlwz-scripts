@@ -4,122 +4,228 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "老邢、小六进客栈" },
+    {
+      "type": "action",
+      "description": "老邢、小六进客栈"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "笑" },
-        { "type": "line", "line": "哟！这不是邢大捕头吗。" }
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "哟！这不是邢大捕头吗。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "speaker-action", "description": "客气的" },
-        { "type": "line", "line": "郭女侠，昨天的事儿对不住了啊" },
-        { "type": "speaker-action", "description": "抱拳，小六在一旁附和" },
-        { "type": "line", "line": "！" }
+        {
+          "type": "speaker-action",
+          "description": "客气的"
+        },
+        {
+          "type": "line",
+          "line": "郭女侠，昨天的事儿对不住了啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抱拳，小六在一旁附和"
+        },
+        {
+          "type": "line",
+          "line": "！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "没事儿，今天吃点什么呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，今天吃点什么呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "全听您的，你给我们上什么，我们就吃什么。" }
+        {
+          "type": "line",
+          "line": "全听您的，你给我们上什么，我们就吃什么。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "听我的？行" },
+        {
+          "type": "line",
+          "line": "听我的？行"
+        },
         {
           "type": "speaker-action",
           "description": "从正在收拾的桌子上拿起剩馒头"
         },
-        { "type": "line", "line": "，这还有人家剩的半个馒头吃了吧！" },
-        { "type": "speaker-action", "description": "递给老邢" }
+        {
+          "type": "line",
+          "line": "，这还有人家剩的半个馒头吃了吧！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "递给老邢"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "六儿，你不是饿了吗" },
-        { "type": "speaker-action", "description": "要给小六" },
-        { "type": "line", "line": "……" }
+        {
+          "type": "line",
+          "line": "六儿，你不是饿了吗"
+        },
+        {
+          "type": "speaker-action",
+          "description": "要给小六"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎，这是专门孝敬您的！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这是专门孝敬您的！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "师父！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父！"
+        }
+      ]
     },
-    { "type": "action", "description": "老邢吃剩馒头" },
+    {
+      "type": "action",
+      "description": "老邢吃剩馒头"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "好吃吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吃吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "面倒是够筋道，就是太干了，有喝的吧？" }
+        {
+          "type": "line",
+          "line": "面倒是够筋道，就是太干了，有喝的吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "有" },
-        { "type": "speaker-action", "description": "拿起剩汤" },
-        { "type": "line", "line": "！这还有人家剩的半碗汤，喝了吧" },
-        { "type": "speaker-action", "description": "小郭在一旁笑" }
+        {
+          "type": "line",
+          "line": "有"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿起剩汤"
+        },
+        {
+          "type": "line",
+          "line": "！这还有人家剩的半碗汤，喝了吧"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭在一旁笑"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "师父！" },
+        {
+          "type": "line",
+          "line": "师父！"
+        },
         {
           "type": "speaker-action",
           "description": "看的生气，把汤抢过来，摔到桌子上"
         },
-        { "type": "line", "line": "我跟你拼了我！跟你拼了！" },
-        { "type": "speaker-action", "description": "拔刀" }
+        {
+          "type": "line",
+          "line": "我跟你拼了我！跟你拼了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "排山倒海！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海！"
+        }
+      ]
     },
     {
       "type": "action",
       "description": "击倒小六，小六被老邢扶住，刀落在小郭脚上，小郭看到出血了，大声喊"
     },
-    { "type": "action", "description": "小六、老邢从客栈赶忙逃走" },
-    { "type": "action", "description": "店里的人去帮小郭，秀才扶着" },
+    {
+      "type": "action",
+      "description": "小六、老邢从客栈赶忙逃走"
+    },
+    {
+      "type": "action",
+      "description": "店里的人去帮小郭，秀才扶着"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "大声" },
-        { "type": "line", "line": "我的脚！" }
+        {
+          "type": "speaker-action",
+          "description": "大声"
+        },
+        {
+          "type": "line",
+          "line": "我的脚！"
+        }
       ]
     }
   ]

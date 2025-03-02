@@ -1,1 +1,334 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呀，他们要是来了可咋办呀？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎呀：放心吧，大白天的她还能打上门来啊。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "是，要来也得半夜来。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "恩？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "到时候咱就把门关上，死活不开门。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "她要是把门揣开了怎么办呢？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "那就跟他们拼了。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "咱五个人跟人一百多个拼。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "啊，那应该是三个人，我们俩都是妇人家，怎么能动手呢。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "全靠你们啦，对吧，秀才。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "我是个读书人，君子动口他不动手，是不是啊，大嘴。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我是独苗啊，你说我要是出点啥事儿，那我们家不就绝后了吗，是不是，老白。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我，我是朝廷钦犯呐，我要是死了，那么多的大案要案谁来扛啊。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "亲娘咧，大伙都知道啦。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "知道什么？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "倒水。钱掌柜那个万利当铺遭了大案子啦。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "啊？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "坐下，"}]}, {"type": "action", "description": "指食客"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "不该听的别听"}, {"type": "speaker-action", "description": "对众人"}, {"type": "line", "line": "平白无故地，好几十两银子丢了。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "咳。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "在咱们镇这算个大案。又到了我大显身手的时候了。初步认定，这是个高手干的。现在没有留下任何痕迹啊。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我昨晚早就睡了。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "他什么意思啊？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "所以今天精神特别好。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "看见什么可疑人物，马上向我汇报啊。"}]}, {"type": "action", "description": "指食客们"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "别看了，吃饭。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你看你吓那样儿。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "干什么，别弄。"}]}, {"type": "dialog", "speaker": "陆一鸣", "performances": [{"type": "line", "line": "掌柜的，这点银子，你先拿着。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你哪儿来的这些银子。"}]}, {"type": "dialog", "speaker": "陆一鸣", "performances": [{"type": "line", "line": "这，你甭管，你给我准备点好酒，啊。掌门仪式不能太寒酸。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，他们要是来了可咋办呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀：放心吧，大白天的她还能打上门来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，要来也得半夜来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到时候咱就把门关上，死活不开门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她要是把门揣开了怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就跟他们拼了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱五个人跟人一百多个拼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，那应该是三个人，我们俩都是妇人家，怎么能动手呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "全靠你们啦，对吧，秀才。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是个读书人，君子动口他不动手，是不是啊，大嘴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是独苗啊，你说我要是出点啥事儿，那我们家不就绝后了吗，是不是，老白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我是朝廷钦犯呐，我要是死了，那么多的大案要案谁来扛啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "亲娘咧，大伙都知道啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒水。钱掌柜那个万利当铺遭了大案子啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐下，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "指食客"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不该听的别听"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对众人"
+        },
+        {
+          "type": "line",
+          "line": "平白无故地，好几十两银子丢了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在咱们镇这算个大案。又到了我大显身手的时候了。初步认定，这是个高手干的。现在没有留下任何痕迹啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我昨晚早就睡了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "所以今天精神特别好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看见什么可疑人物，马上向我汇报啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "指食客们"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别看了，吃饭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看你吓那样儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么，别弄。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，这点银子，你先拿着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你哪儿来的这些银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，你甭管，你给我准备点好酒，啊。掌门仪式不能太寒酸。"
+        }
+      ]
+    }
+  ]
+}

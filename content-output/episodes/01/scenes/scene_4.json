@@ -17,7 +17,12 @@
     {
       "type": "dialog",
       "speaker": "吕秀才、李大嘴",
-      "performances": [{ "type": "line", "line": "不会的，不会的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会的，不会的。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -32,35 +37,66 @@
     {
       "type": "dialog",
       "speaker": "吕秀才、李大嘴",
-      "performances": [{ "type": "line", "line": "是是是。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是是是。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你说咱们镇上怎么就来了这两个魔头呢？" }
+        {
+          "type": "line",
+          "line": "你说咱们镇上怎么就来了这两个魔头呢？"
+        }
       ]
     },
-    { "type": "action", "description": "客栈外，两个人影顺着墙爬上房去" },
+    {
+      "type": "action",
+      "description": "客栈外，两个人影顺着墙爬上房去"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你指的是雌雄双煞吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你指的是雌雄双煞吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "什么煞？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么煞？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "就是一男一女两个二傻子呗。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是一男一女两个二傻子呗。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你不要命咧，又胡说。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要命咧，又胡说。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -72,11 +108,19 @@
         }
       ]
     },
-    { "type": "action", "description": "门外传来响声" },
+    {
+      "type": "action",
+      "description": "门外传来响声"
+    },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哎呀……妈呀……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀……妈呀……"
+        }
+      ]
     },
     {
       "type": "action",

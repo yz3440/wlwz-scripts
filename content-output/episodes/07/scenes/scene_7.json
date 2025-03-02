@@ -4,7 +4,10 @@
   "location": "后院",
   "timeOfDay": "夜",
   "performances": [
-    { "type": "action", "description": "秀才在后院自言自语" },
+    {
+      "type": "action",
+      "description": "秀才在后院自言自语"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
@@ -15,69 +18,119 @@
         }
       ]
     },
-    { "type": "action", "description": "秀才敲小郭的门" },
+    {
+      "type": "action",
+      "description": "秀才敲小郭的门"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "谁呀，来了来了，干嘛呀，这么晚了有事儿吗？" }
+        {
+          "type": "line",
+          "line": "谁呀，来了来了，干嘛呀，这么晚了有事儿吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "也没什么事。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "没事你，你？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "我就是想问问你，你有没有去过天下第二泉呐……" }
+        {
+          "type": "line",
+          "line": "也没什么事。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "无锡惠山那个？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "啊！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "没去过。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事你，你？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "我也没去过，我听人说起过二次……" }
+        {
+          "type": "line",
+          "line": "我就是想问问你，你有没有去过天下第二泉呐……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "二次？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "无锡惠山那个？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "就是两次，天下第二泉旁边有个二清观……" }
+        {
+          "type": "line",
+          "line": "啊！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "二清观？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没去过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也没去过，我听人说起过二次……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二次？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是两次，天下第二泉旁边有个二清观……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二清观？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -92,7 +145,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "二个？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "二个？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -107,7 +165,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你到底想说什么啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你到底想说什么啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -117,7 +180,10 @@
           "type": "line",
           "line": "说起这二泉映月啊，你喜欢听音乐吧，很多声音很好听的，"
         },
-        { "type": "speaker-action", "description": "掏出钱袋" },
+        {
+          "type": "speaker-action",
+          "description": "掏出钱袋"
+        },
         {
           "type": "line",
           "line": "你看这个这个，铜钱的声音，很清脆很好听，像天籁之声，看钱你明白吗？"
@@ -128,20 +194,44 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "啊，" },
-        { "type": "speaker-action", "description": "点头" },
-        { "type": "line", "line": "我知道你想干什么了，" },
-        { "type": "speaker-action", "description": "大呼一口气" },
-        { "type": "line", "line": "你是看不得我在这里受苦，特地给我送钱来的" },
-        { "type": "speaker-action", "description": "拿走钱袋" },
-        { "type": "line", "line": "秀才你真好！" }
+        {
+          "type": "line",
+          "line": "啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "点头"
+        },
+        {
+          "type": "line",
+          "line": "我知道你想干什么了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大呼一口气"
+        },
+        {
+          "type": "line",
+          "line": "你是看不得我在这里受苦，特地给我送钱来的"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿走钱袋"
+        },
+        {
+          "type": "line",
+          "line": "秀才你真好！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "拿出发簪" },
+        {
+          "type": "speaker-action",
+          "description": "拿出发簪"
+        },
         {
           "type": "line",
           "line": "娘啊，你在天之灵一定要保佑我把银子要回来，郭芙蓉我跟你拼了！"
@@ -152,43 +242,78 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "开门出来" },
-        { "type": "line", "line": "你手里拿的什么？" }
+        {
+          "type": "speaker-action",
+          "description": "开门出来"
+        },
+        {
+          "type": "line",
+          "line": "你手里拿的什么？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "没什么……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "拿出来起我看一眼！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "没什么。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "拿出来吗，拿出来，排山……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "别排别排，这是我娘留给我的簪子。" }
+        {
+          "type": "line",
+          "line": "没什么……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "这么贵重的东西呀，" },
-        { "type": "speaker-action", "description": "抢过簪子" },
+        {
+          "type": "line",
+          "line": "拿出来起我看一眼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没什么。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿出来吗，拿出来，排山……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别排别排，这是我娘留给我的簪子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么贵重的东西呀，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抢过簪子"
+        },
         {
           "type": "line",
           "line": "你怎么舍得送给我呢？"
@@ -212,17 +337,32 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "妹妹~~" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "妹妹~~"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "明天聊啊……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "明天聊啊……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "天啦，子啊，你带我走吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "天啦，子啊，你带我走吧！"
+        }
+      ]
     }
   ]
 }

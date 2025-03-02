@@ -1,1 +1,168 @@
-{"type": "normal", "rawDescription": "【男寝，昼】", "location": "男寝", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "老白。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "恩？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你说你小脸煞白还系一红腰带呢，你臊不臊啊。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你懂啥呀？我今年本命年我系红腰带咋啦？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "人呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "嘘！她叫她的，咱聊咱的！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "反正也没生意，去了也是闲着。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "掌柜的问起来怎么办呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "有我俩护着你呢，没事！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "要是你俩不在呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那你就跑。反正她穿裙子追不上你。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "那要是追上了呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那你就点她的穴。瞧好了，指如疾风，势入闪电，指如疾风，势入闪电……"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "要点哪个穴啊？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "涌泉穴！就在脚心！你往地上一躺，反手一指，保准她浑身酸麻，寸步难行。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "寸步难行？让你们决不敢走人！到大堂去，快走！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说你小脸煞白还系一红腰带呢，你臊不臊啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你懂啥呀？我今年本命年我系红腰带咋啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘！她叫她的，咱聊咱的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "反正也没生意，去了也是闲着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的问起来怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有我俩护着你呢，没事！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要是你俩不在呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就跑。反正她穿裙子追不上你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那要是追上了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就点她的穴。瞧好了，指如疾风，势入闪电，指如疾风，势入闪电……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要点哪个穴啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "涌泉穴！就在脚心！你往地上一躺，反手一指，保准她浑身酸麻，寸步难行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "寸步难行？让你们决不敢走人！到大堂去，快走！"
+        }
+      ]
+    }
+  ]
+}

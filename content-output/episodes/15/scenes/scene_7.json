@@ -1,1 +1,222 @@
-{"type": "normal", "rawDescription": "【客栈外，夜】", "location": "客栈外", "timeOfDay": "夜", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你在哪？你行行好，快点出来吧，你要再不出来，我就，真的喊不动了，你要多少钱你就直说，不管多少钱都行，只要你把牌子还给我，还给我，臭先生……"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "别吵吵，我在这儿呢！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "在哪？你在哪儿呢？"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "你脚底下！"}]}, {"type": "action", "description": "湘玉吓得趴在地上"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "臭先生……"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "别叫我臭先生，我姓雷，大名雷老五！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "老雷，你在底下干啥吗？"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "睡觉，有光的地方我睡不着。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你还是上来说嘛，我老蹲着，累得很。"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "你下来！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我咋下去嘛？"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "门旁边柱子有个老鼠洞你看见没有？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "看见了……"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "你就从那个洞里钻进来。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这么小个洞，让我咋钻吗！"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "堂堂盗圣，连缩骨法都不会呀？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "谁告诉你我是盗圣了？"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "你不是盗圣，你戴着那块牌子干什么？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "盗圣是我的男人……你还在吗？"}]}, {"type": "dialog", "speaker": "雷老五", "performances": [{"type": "line", "line": "你先回去吧，除了盗圣，我谁都不见。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那好，你先休息啊，明天一早，我让他在店里等你啊"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，夜】",
+  "location": "客栈外",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你在哪？你行行好，快点出来吧，你要再不出来，我就，真的喊不动了，你要多少钱你就直说，不管多少钱都行，只要你把牌子还给我，还给我，臭先生……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别吵吵，我在这儿呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在哪？你在哪儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你脚底下！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉吓得趴在地上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "臭先生……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别叫我臭先生，我姓雷，大名雷老五！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老雷，你在底下干啥吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡觉，有光的地方我睡不着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是上来说嘛，我老蹲着，累得很。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你下来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我咋下去嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "门旁边柱子有个老鼠洞你看见没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看见了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就从那个洞里钻进来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么小个洞，让我咋钻吗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "堂堂盗圣，连缩骨法都不会呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁告诉你我是盗圣了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是盗圣，你戴着那块牌子干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盗圣是我的男人……你还在吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先回去吧，除了盗圣，我谁都不见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，你先休息啊，明天一早，我让他在店里等你啊"
+        }
+      ]
+    }
+  ]
+}

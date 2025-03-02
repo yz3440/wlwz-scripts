@@ -18,8 +18,14 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "别瞎说了，我娘子才不会走呢。" },
-        { "type": "speaker-action", "description": "见蕙兰父女进门" },
+        {
+          "type": "line",
+          "line": "别瞎说了，我娘子才不会走呢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "见蕙兰父女进门"
+        },
         {
           "type": "line",
           "line": "哎呀，回来啦。那啥，这是我新炖的鸡汤，你赶快补补啊。"
@@ -39,38 +45,62 @@
     {
       "type": "dialog",
       "speaker": "李大嘴、蕙兰父",
-      "performances": [{ "type": "line", "line": "没错，没错，一点错没有。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，没错，一点错没有。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "杨蕙兰",
       "performances": [
-        { "type": "line", "line": "那为什么要让我天下无敌？为什么？" }
+        {
+          "type": "line",
+          "line": "那为什么要让我天下无敌？为什么？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "蕙兰父",
       "performances": [
-        { "type": "line", "line": "蕙兰蕙兰，鸡汤。蕙兰，鸡汤。" }
+        {
+          "type": "line",
+          "line": "蕙兰蕙兰，鸡汤。蕙兰，鸡汤。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "这不行，我要帮她，我一定要帮她。" }
+        {
+          "type": "line",
+          "line": "这不行，我要帮她，我一定要帮她。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你怎么帮啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么帮啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我要打败她，给她一个归宿。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要打败她，给她一个归宿。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -85,29 +115,55 @@
     {
       "type": "dialog",
       "speaker": "食客",
-      "performances": [{ "type": "line", "line": "上酒。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "上酒。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "来了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "有你在，我死不了！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你别逗了，我可打不过她。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "谁让你跟她打了呀？我是让你助我一臂之力。" },
-        { "type": "speaker-action", "description": "附耳悄悄话" }
+        {
+          "type": "line",
+          "line": "有你在，我死不了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别逗了，我可打不过她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁让你跟她打了呀？我是让你助我一臂之力。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "附耳悄悄话"
+        }
       ]
     }
   ]

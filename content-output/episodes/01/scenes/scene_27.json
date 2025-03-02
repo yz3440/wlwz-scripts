@@ -17,7 +17,12 @@
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "那你呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -32,19 +37,32 @@
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "不是还有银子吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是还有银子吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "与钱无关。我留下来只是想找一个答案。" }
+        {
+          "type": "line",
+          "line": "与钱无关。我留下来只是想找一个答案。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "什么答案？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么答案？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -59,41 +77,75 @@
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "肯定吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "确定一定以及肯定。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小青",
       "performances": [
-        { "type": "line", "line": "告辞。" },
-        { "type": "speaker-action", "description": "指老白" },
+        {
+          "type": "line",
+          "line": "告辞。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指老白"
+        },
         {
           "type": "line",
           "line": "你不许欺负我们家小姐，不然的话告诉老爷，让他一掌拍死你。"
         }
       ]
     },
-    { "type": "action", "description": "小青出客栈" },
+    {
+      "type": "action",
+      "description": "小青出客栈"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "哎哟，姐姐，她不欺负我就谢天谢地啦。" }
+        {
+          "type": "line",
+          "line": "哎哟，姐姐，她不欺负我就谢天谢地啦。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "对门外" },
-        { "type": "line", "line": "路上小心一点啊……" },
-        { "type": "speaker-action", "description": "回头对众人" },
-        { "type": "line", "line": "有什么粗活累活，只管招呼吧。" }
+        {
+          "type": "speaker-action",
+          "description": "对门外"
+        },
+        {
+          "type": "line",
+          "line": "路上小心一点啊……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头对众人"
+        },
+        {
+          "type": "line",
+          "line": "有什么粗活累活，只管招呼吧。"
+        }
       ]
     },
     {
@@ -109,7 +161,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "有这个必要吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "有这个必要吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -125,42 +182,71 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "行了行了，你就说一个总数好了。" }
+        {
+          "type": "line",
+          "line": "行了行了，你就说一个总数好了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "一共是四十八两七钱。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "这么便宜呀。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "我再把零头给你去掉一共是四十八两。" }
+        {
+          "type": "line",
+          "line": "一共是四十八两七钱。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "没问题。那我每个月的工钱是多少？" }
+        {
+          "type": "line",
+          "line": "这么便宜呀。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "两钱银子。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我再把零头给你去掉一共是四十八两。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那也就是说，我给你……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题。那我每个月的工钱是多少？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两钱银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也就是说，我给你……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -176,16 +262,30 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "向外跑" },
-        { "type": "line", "line": "小青，等等我……" }
+        {
+          "type": "speaker-action",
+          "description": "向外跑"
+        },
+        {
+          "type": "line",
+          "line": "小青，等等我……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "葵花点穴手！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
     },
-    { "type": "action", "description": "郭芙蓉被点住" },
+    {
+      "type": "action",
+      "description": "郭芙蓉被点住"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
@@ -199,13 +299,26 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "好。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
     },
-    { "type": "action", "description": "把小郭搬到店门口边上" },
+    {
+      "type": "action",
+      "description": "把小郭搬到店门口边上"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "爹……救我……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "爹……救我……"
+        }
+      ]
     }
   ]
 }

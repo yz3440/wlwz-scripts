@@ -1,1 +1,38 @@
-{"type": "normal", "rawDescription": "【大堂，夜】", "location": "大堂", "timeOfDay": "夜", "performances": [{"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "十八里铺的薛神医呀，多好的人呀。那天正给乞丐治病拔火罐……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "刚点上火，雌雄双煞从天而降，对他们一阵拳打脚踢，边打还边说我们这是替天行道。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "等他们行完道以后，薛神医大病一场，从此闭馆，再也不给人看病了。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十八里铺的薛神医呀，多好的人呀。那天正给乞丐治病拔火罐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚点上火，雌雄双煞从天而降，对他们一阵拳打脚踢，边打还边说我们这是替天行道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等他们行完道以后，薛神医大病一场，从此闭馆，再也不给人看病了。"
+        }
+      ]
+    }
+  ]
+}

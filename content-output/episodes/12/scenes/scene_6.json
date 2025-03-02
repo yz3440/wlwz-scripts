@@ -4,18 +4,29 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "众人等待掌柜发月钱" },
+    {
+      "type": "action",
+      "description": "众人等待掌柜发月钱"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "这是你的，大嘴。省着点花啊。" }
+        {
+          "type": "line",
+          "line": "这是你的，大嘴。省着点花啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "谢谢掌柜的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢掌柜的。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -25,10 +36,22 @@
           "type": "line",
           "line": "这是你的，秀才。前天你把碗打碎了，那个钱就不扣你的了啊。"
         },
-        { "type": "speaker-action", "description": "送钱给老白" },
-        { "type": "line", "line": "这是你的。" },
-        { "type": "speaker-action", "description": "送钱给小郭" },
-        { "type": "line", "line": "这是你的。" }
+        {
+          "type": "speaker-action",
+          "description": "送钱给老白"
+        },
+        {
+          "type": "line",
+          "line": "这是你的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "送钱给小郭"
+        },
+        {
+          "type": "line",
+          "line": "这是你的。"
+        }
       ]
     },
     {
@@ -55,7 +78,10 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "我还有助理了呢，光切菜的，就有俩呢。" }
+        {
+          "type": "line",
+          "line": "我还有助理了呢，光切菜的，就有俩呢。"
+        }
       ]
     },
     {
@@ -81,7 +107,12 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这么早，有啥生意啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么早，有啥生意啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -103,12 +134,18 @@
         }
       ]
     },
-    { "type": "action", "description": "众人笑" },
+    {
+      "type": "action",
+      "description": "众人笑"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "不用你管，额的事儿，额自己会处理的。" }
+        {
+          "type": "line",
+          "line": "不用你管，额的事儿，额自己会处理的。"
+        }
       ]
     },
     {
@@ -154,64 +191,116 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "那现在有吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那现在有吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "当然有了，没有就叫他现给你做。" }
+        {
+          "type": "line",
+          "line": "当然有了，没有就叫他现给你做。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "真的，走着，走着！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的，走着，走着！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "走走走……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "莫小贝！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嫂子。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走走走……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "……吃完就回来啊，不要耽误人家干活。" }
+        {
+          "type": "line",
+          "line": "莫小贝！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "耶，吃点心去喽。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "忍住，一定要忍住，额自己能行的。" }
+        {
+          "type": "line",
+          "line": "……吃完就回来啊，不要耽误人家干活。"
+        }
       ]
     },
-    { "type": "action", "description": "老刑入" },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶，吃点心去喽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "忍住，一定要忍住，额自己能行的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老刑入"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "咋了你这是？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了你这是？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "风大，眼睛进沙子啦。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "风大，眼睛进沙子啦。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -226,7 +315,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "全都死了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "全都死了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -241,24 +335,42 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "他们都不要额啦。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们都不要额啦。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "太不象话了，这是赤果果的背叛。" }
+        {
+          "type": "line",
+          "line": "太不象话了，这是赤果果的背叛。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "是赤裸裸。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是赤裸裸。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "我知道，不行，我找他们去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，不行，我找他们去。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -273,37 +385,66 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "佟湘玉，你什么意思？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉，你什么意思？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "站住，有什么话冲我说，冲我说。" }
+        {
+          "type": "line",
+          "line": "站住，有什么话冲我说，冲我说。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "你是佟掌柜吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是佟掌柜吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "不是就一边儿呆着。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是就一边儿呆着。"
+        }
+      ]
     },
-    { "type": "action", "description": "老刑拔刀——休息着" },
+    {
+      "type": "action",
+      "description": "老刑拔刀——休息着"
+    },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "佟湘玉，你这么做太过分了吧。" }
+        {
+          "type": "line",
+          "line": "佟湘玉，你这么做太过分了吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "额做啥了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "额做啥了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -315,7 +456,10 @@
         }
       ]
     },
-    { "type": "action", "description": "老白等回客栈" },
+    {
+      "type": "action",
+      "description": "老白等回客栈"
+    },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
@@ -329,25 +473,41 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这不都跟你学的吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不都跟你学的吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "你以为使两出反间计，就能把我们挑拨开了？" }
+        {
+          "type": "line",
+          "line": "你以为使两出反间计，就能把我们挑拨开了？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "幼稚，相当的幼稚。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "幼稚，相当的幼稚。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "别说是月钱五两，就是五十两——你出得起吗？" }
+        {
+          "type": "line",
+          "line": "别说是月钱五两，就是五十两——你出得起吗？"
+        }
       ]
     },
     {
@@ -363,17 +523,32 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "而且个个不是省油的灯啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "而且个个不是省油的灯啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "恩？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "夸你们呐。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "夸你们呐。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -388,41 +563,72 @@
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "等死吧你们。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "等死吧你们。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "亲娘咧，她们要出事，我看看去啊。" }
+        {
+          "type": "line",
+          "line": "亲娘咧，她们要出事，我看看去啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你们——" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们——"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "行了，别傻笑了。知道错了吗？" }
+        {
+          "type": "line",
+          "line": "行了，别傻笑了。知道错了吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "知道了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "错哪儿了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "错哪儿了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我……我不应该不信任大家。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……我不应该不信任大家。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -437,13 +643,21 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "然也，子曾经曰过……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "然也，子曾经曰过……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "钱是好东西，但不是最好的东西。" }
+        {
+          "type": "line",
+          "line": "钱是好东西，但不是最好的东西。"
+        }
       ]
     },
     {
@@ -459,12 +673,22 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "恩？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我说我自己，我干活，呵呵。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说我自己，我干活，呵呵。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -479,17 +703,32 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "注意脚。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "注意脚。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "大嘴……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我得买点儿菜去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我得买点儿菜去。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -504,13 +743,21 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "你怎么老追我一个人？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么老追我一个人？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "秀才，拿银子来，秀才……小郭拿出来。" }
+        {
+          "type": "line",
+          "line": "秀才，拿银子来，秀才……小郭拿出来。"
+        }
       ]
     }
   ]

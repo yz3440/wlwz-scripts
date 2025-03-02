@@ -1,1 +1,242 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呀，她咋还不回来呢？会不会是叫人家给发现了？不会不会，小郭是老江湖了，这点小事还是能办好的。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "掌柜的，这日子没法过了！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咋了，咋了？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "他俩欺负人~"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "来来来，坐坐坐"}, {"type": "speaker-action", "description": "老白和大嘴提着桶出来，看到秀才转身就走"}, {"type": "line", "line": "——站住，你俩过来，你们俩是不是欺负他了？"}]}, {"type": "dialog", "speaker": "白展堂、李大嘴", "performances": [{"type": "line", "line": "没有啊！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "还没有？凭什么把我的屋里的饭菜倒地沟里了？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "对啊，凭什么呀？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你那剩菜都捂成泔水了，谁还敢吃啊？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "就是！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "对啊，都是泔水了，你还要给人吃，你要给谁吃啊？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "我又不是给他们吃，我给门口叫花子吃。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这个主意是谁想出来的？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "我家先祖……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你家先祖让人家叫花子吃泔水？人家叫花子也是人，这不是缺德吗？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "这不是我家先祖的本意。我们家祖训交代我们每年要周济穷人，但我又缺钱筹粮，所以，我不得已才去搜集那些剩菜剩饭，为了凑齐那桌福寿宴，我都两天没吃东西了，爷啊……祖先啊……你不要怪孩儿，不是孩儿不孝顺，实在是孩儿无能为力啊。人善被人欺马善被人骑，你交待给我的最后一件事情，我也没能做到，孩儿实在是对不起你啊。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "秀才，对不住啊。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "好事是好事，可这……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "秀才，你不要难过了啊，行善积德的事情我们必须要做，再说我们的馆子也空了好几天了，也该冲冲晦气了，大嘴，你做一桌好饭，让小米过来吃，他要是不吃我们自己吃。"}, {"type": "speaker-action", "description": "哭"}, {"type": "line", "line": "记住啊，越是在困难的时候，我们越要团结。"}, {"type": "speaker-action", "description": "将大家的手握到一块"}, {"type": "line", "line": "秀才，你吃点东西吧。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "不，不用了。小米不吃到嘴里，还不到我吃饭的时候。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那就喝点水吧，来……"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，她咋还不回来呢？会不会是叫人家给发现了？不会不会，小郭是老江湖了，这点小事还是能办好的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，这日子没法过了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了，咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他俩欺负人~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，坐坐坐"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白和大嘴提着桶出来，看到秀才转身就走"
+        },
+        {
+          "type": "line",
+          "line": "——站住，你俩过来，你们俩是不是欺负他了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没有？凭什么把我的屋里的饭菜倒地沟里了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊，凭什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你那剩菜都捂成泔水了，谁还敢吃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊，都是泔水了，你还要给人吃，你要给谁吃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又不是给他们吃，我给门口叫花子吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个主意是谁想出来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我家先祖……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你家先祖让人家叫花子吃泔水？人家叫花子也是人，这不是缺德吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是我家先祖的本意。我们家祖训交代我们每年要周济穷人，但我又缺钱筹粮，所以，我不得已才去搜集那些剩菜剩饭，为了凑齐那桌福寿宴，我都两天没吃东西了，爷啊……祖先啊……你不要怪孩儿，不是孩儿不孝顺，实在是孩儿无能为力啊。人善被人欺马善被人骑，你交待给我的最后一件事情，我也没能做到，孩儿实在是对不起你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，对不住啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好事是好事，可这……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，你不要难过了啊，行善积德的事情我们必须要做，再说我们的馆子也空了好几天了，也该冲冲晦气了，大嘴，你做一桌好饭，让小米过来吃，他要是不吃我们自己吃。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "记住啊，越是在困难的时候，我们越要团结。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "将大家的手握到一块"
+        },
+        {
+          "type": "line",
+          "line": "秀才，你吃点东西吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，不用了。小米不吃到嘴里，还不到我吃饭的时候。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就喝点水吧，来……"
+        }
+      ]
+    }
+  ]
+}

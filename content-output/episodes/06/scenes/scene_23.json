@@ -1,1 +1,316 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "action", "description": "众人聚在楼梯上。老邢从楼上下来"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "老邢，怎么样了？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "哎呀。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "说说说。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "金银二老死得太惨了，浑身发黑，都快不成人形了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那咋还不抬下来呢？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "房顶上都是蝎子，谁敢上去啊。"}, {"type": "speaker-action", "description": "指老白"}, {"type": "line", "line": "你上去？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我不去。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "speaker-action", "description": "老邢指掌柜"}, {"type": "line", "line": "你上去？"}]}, {"type": "action", "description": "掌柜摇手，老邢指小郭"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "你？"}]}, {"type": "action", "description": "小郭摇头"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "要不就我去呗。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "秀才拦住。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "大嘴大嘴，你别去，你万一被蜇死咋办呢？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "蜇死就蜇死呗，谁叫咱比某些人有种？比某些人吃得多呢？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "李大嘴，李秀莲！你还有完没完了？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我就想证明一下我比你们有种！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你给我站住！就为了证明你有种，证明你没白吃，你就把命搭上，你这不有病吗你！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "病得不轻啊你！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我不都你们逼的吗？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "大嘴，有种和鲁莽完全不是一码事儿！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "那有啥区别啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我给你讲个故事啊。我有个堂兄，从小脑子瓜得很，瓜就是傻，傻就是瓜。别人说他不敢酒后骑马，非要骑，结果从马上摔下来，断了十几根肋条，别人说他不敢下水，大冬天里扑通就往水里跳，结果冻出一身的毛病，现在还在炕上躺着呢。这就是鲁莽。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你听明白了吗？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我明白了，有些事情明明有更好的解决办法，你不用，非要没头没脑乱冲一气，这说明什么？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "说明这是愚蠢，而不是有种。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "行了行了，赶紧收拾一下把脸洗了。做点儿吃的，快点儿。事不过三，老邢，这次能不能挺过去呀？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "肯定能啊，包我身上了啊。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "包你身上，别忘了，上官云顿还没到呢，他随时可能出现。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "咋又走了？"}]}, {"type": "action", "description": "大嘴望向楼上，沉思状"}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人聚在楼梯上。老邢从楼上下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，怎么样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说说说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "金银二老死得太惨了，浑身发黑，都快不成人形了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咋还不抬下来呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "房顶上都是蝎子，谁敢上去啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指老白"
+        },
+        {
+          "type": "line",
+          "line": "你上去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老邢指掌柜"
+        },
+        {
+          "type": "line",
+          "line": "你上去？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜摇手，老邢指小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭摇头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不就我去呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才拦住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴大嘴，你别去，你万一被蜇死咋办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蜇死就蜇死呗，谁叫咱比某些人有种？比某些人吃得多呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴，李秀莲！你还有完没完了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就想证明一下我比你们有种！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我站住！就为了证明你有种，证明你没白吃，你就把命搭上，你这不有病吗你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "病得不轻啊你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不都你们逼的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，有种和鲁莽完全不是一码事儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那有啥区别啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你讲个故事啊。我有个堂兄，从小脑子瓜得很，瓜就是傻，傻就是瓜。别人说他不敢酒后骑马，非要骑，结果从马上摔下来，断了十几根肋条，别人说他不敢下水，大冬天里扑通就往水里跳，结果冻出一身的毛病，现在还在炕上躺着呢。这就是鲁莽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听明白了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我明白了，有些事情明明有更好的解决办法，你不用，非要没头没脑乱冲一气，这说明什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说明这是愚蠢，而不是有种。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，赶紧收拾一下把脸洗了。做点儿吃的，快点儿。事不过三，老邢，这次能不能挺过去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定能啊，包我身上了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包你身上，别忘了，上官云顿还没到呢，他随时可能出现。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋又走了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴望向楼上，沉思状"
+    }
+  ]
+}

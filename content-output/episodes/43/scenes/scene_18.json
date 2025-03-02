@@ -1,12 +1,12 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，昼】",
-  "location": "大堂",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
   "timeOfDay": "昼",
   "performances": [
     {
       "type": "action",
-      "description": "掌柜的穿夜行衣蒙面下楼"
+      "description": "白三娘进，掌柜的装晕"
     },
     {
       "type": "dialog",
@@ -14,7 +14,47 @@
       "performances": [
         {
           "type": "line",
-          "line": "呀？掌柜的！"
+          "line": "掌柜的，你是给活活累晕的呀，你醒醒，你醒醒，你醒醒啊。你要不醒，我们一大家人可怎么活呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别装了，我知道你醒着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我想找我的媳妇谈谈不行啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谈什么啊？——慢慢谈啊，我先下去了。"
         }
       ]
     },
@@ -24,37 +64,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "吵吵啥，干活去。"
+          "line": "小郭……你，你不要过来啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白三娘",
       "performances": [
         {
           "type": "line",
-          "line": "你怎么穿成这个样子？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这就是我婆婆给我做的，你觉得怎么样呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "还凑合吧，但是这是飞贼的打扮，你穿成这样好像不太合适吧？"
+          "line": "你别害怕，娘不会再为难你了，真的，娘以后再也不让你干活了。"
         }
       ]
     },
@@ -64,37 +84,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "没有办法，这就是不干活的代价。"
+          "line": "你可以发个誓吗？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白三娘",
       "performances": [
         {
           "type": "line",
-          "line": "什么代价啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "第一，除了自己的丈夫，不能给任何男人看。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那你怎么吃饭呢？"
+          "line": "我可以发誓，娘以后要是再逼你干活，嗯，就让我失去你这儿媳——和儿子。"
         }
       ]
     },
@@ -104,37 +104,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "躲在一个没有人的角落里，撩开吃，吃完了就放下。"
+          "line": "谢天谢地，你是我生平见过的最善良的婆婆。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白三娘",
       "performances": [
         {
           "type": "line",
-          "line": "咦哟哟，这老太太够变态的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "更变态的还在后头呢。第二，除了自己的丈夫不能看任何男人。第三，除了自己的丈夫不能跟任何男人说话。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这些条件你不会都答应了吧？"
+          "line": "那你知道我为什么要那样对待你吗？"
         }
       ]
     },
@@ -144,37 +124,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "不答应怎么办嘛，我可不想再挨着饿干活了。"
+          "line": "心理变态？——是不可能的，你不管做什么都是为了我好。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白三娘",
       "performances": [
         {
           "type": "line",
-          "line": "问题是，这三条往那儿一戳，你以后还怎么开店呐？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不是还有你的嘛，如果以后我要有什么吩咐的话，你直接帮我传达好了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "没问题。"
+          "line": "你知道就好，当我们白家的媳妇，男尊女卑，三从四德——"
         }
       ]
     },
@@ -184,37 +144,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "小郭。"
+          "line": "我一定会遵守的。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白三娘",
       "performances": [
         {
           "type": "line",
-          "line": "但你得另外给我加工钱喽。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你可不要趁火打劫喽！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不肯就算喽，反正我那点工钱也够我花了。"
+          "line": "那倒没有必要，我是想说，我们是武林中人，没那么迂腐。男尊女卑，纯属胡扯；三从四德，更是可乐。让它们通通见鬼去。"
         }
       ]
     },
@@ -224,37 +164,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "你要不肯，我还有展堂呢。"
+          "line": "啊嗬嗬，你是我生平见过的最开明的婆婆。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白三娘",
       "performances": [
         {
           "type": "line",
-          "line": "他是不会帮你的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "为啥？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不信啊，你试试就知道喽。"
+          "line": "等我说完了你再夸，当我们白家的儿媳妇，另有一套规矩——"
         }
       ]
     }

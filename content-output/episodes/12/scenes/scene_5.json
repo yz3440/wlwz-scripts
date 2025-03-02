@@ -1,1 +1,288 @@
-{"type": "normal", "rawDescription": "【男寝，夜】", "location": "男寝", "timeOfDay": "夜", "performances": [{"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我长这么大，连我娘都没有打过我，她敢打我。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "她也没打你呀。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "她到是敢，姑奶奶这套惊涛掌白练啦？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "你一掌拍过去，老白一指就点过来。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "放心，我绝不管这闲事儿，不他她这股邪火压下去，咱们几个都没好日子过。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "要我说实在不行，那咱就那啥呗。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "那啥？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你想啊，对门连你都能给二两银子，更别说我们了。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "李大嘴你什么意思啊？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我又没说一定要去。你说掌柜的那样儿，呵呵，是吧，啊。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "是什么呀？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我可告诉你，李大嘴，咱们跟掌柜的再怎么吵，那也是内部矛盾，你小子要敢趁机胡思乱想，别怪我们不客气啊。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "不是，我说啥了，我又没说我一定要去，是吧。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你倒是想去，人家搭理你吗？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你还真别说，人家赛掌柜今天下午还真偷偷找我了，你知道她给我开的啥价吗？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "啥价啊？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "掌柜的。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "说出来听听嘛。有钱就是好呀，想挖谁就挖谁，连招呼都不用打。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "不是，掌柜的，我没说我一定要去呀。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你一定要去呀，千万不要为了面子耽误了你的大好前程。还有你们，都去。没有关系，少了你们额一样开店。不就是个跑堂的嘛，只要有两条腿，谁不会呀。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "鸡还有两条腿，你怎么不用它啊。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "还有打杂的，额从乡下随便招一个管吃管住，连月钱都免了。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你应该找一要饭的，都不用管吃管住，你只要给两个馒头什么活都帮你干 。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "还有帐房，九九乘法表都背不全。好意思赚这份钱嘛。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "我，我有算盘，我背那乱七八糟的干嘛呀。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "没有想到，真的没有想到，这就是额招的伙计！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "掌柜的，你听我说……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你们想说啥，额全都知道。用不着解释，真的，额绝不会记恨你们，明天一早，额把月钱都给你们发了。从今往后，你们走你们的阳关道，额走额的独木桥，咱们分道扬镳！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我长这么大，连我娘都没有打过我，她敢打我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她也没打你呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她到是敢，姑奶奶这套惊涛掌白练啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你一掌拍过去，老白一指就点过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心，我绝不管这闲事儿，不他她这股邪火压下去，咱们几个都没好日子过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要我说实在不行，那咱就那啥呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想啊，对门连你都能给二两银子，更别说我们了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没说一定要去。你说掌柜的那样儿，呵呵，是吧，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我可告诉你，李大嘴，咱们跟掌柜的再怎么吵，那也是内部矛盾，你小子要敢趁机胡思乱想，别怪我们不客气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，我说啥了，我又没说我一定要去，是吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你倒是想去，人家搭理你吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还真别说，人家赛掌柜今天下午还真偷偷找我了，你知道她给我开的啥价吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥价啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说出来听听嘛。有钱就是好呀，想挖谁就挖谁，连招呼都不用打。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，掌柜的，我没说我一定要去呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你一定要去呀，千万不要为了面子耽误了你的大好前程。还有你们，都去。没有关系，少了你们额一样开店。不就是个跑堂的嘛，只要有两条腿，谁不会呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鸡还有两条腿，你怎么不用它啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有打杂的，额从乡下随便招一个管吃管住，连月钱都免了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你应该找一要饭的，都不用管吃管住，你只要给两个馒头什么活都帮你干 。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有帐房，九九乘法表都背不全。好意思赚这份钱嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我有算盘，我背那乱七八糟的干嘛呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有想到，真的没有想到，这就是额招的伙计！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你听我说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们想说啥，额全都知道。用不着解释，真的，额绝不会记恨你们，明天一早，额把月钱都给你们发了。从今往后，你们走你们的阳关道，额走额的独木桥，咱们分道扬镳！"
+        }
+      ]
+    }
+  ]
+}

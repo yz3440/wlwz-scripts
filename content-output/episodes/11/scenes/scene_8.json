@@ -1,1 +1,166 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "老白。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "来了来了，已经到胡同口了，全看你的了。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "全看你的了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这是你的娃？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "嫂子。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "小贝。你咋成了这个样子？这是咋啦？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "别动，别动。这是十娘买给我的。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "把这个钗子还给人家。"}]}, {"type": "dialog", "speaker": "扈十娘", "performances": [{"type": "line", "line": "不用了，就五十两银子。要是喜欢的话，明天我们再去买。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你说啥？五十两？这怎么好意思吗？你看……"}]}, {"type": "dialog", "speaker": "扈十娘", "performances": [{"type": "line", "line": "小贝，去给他们看看，什么叫天生丽质难自弃。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "小郭姐姐，我终于买到最大的张飞啦。"}]}, {"type": "dialog", "speaker": "扈十娘", "performances": [{"type": "line", "line": "你不是说有什么事情要找我吗？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你看，你来这儿两天了，把这个地方一占，我们也没有办法做生意了。"}]}, {"type": "dialog", "speaker": "扈十娘", "performances": [{"type": "line", "line": "一百两银子还够啊？"}, {"type": "speaker-action", "description": "掌柜的目瞪口呆"}, {"type": "line", "line": "够不够啊？"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了，已经到胡同口了，全看你的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "全看你的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你的娃？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝。你咋成了这个样子？这是咋啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别动，别动。这是十娘买给我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把这个钗子还给人家。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，就五十两银子。要是喜欢的话，明天我们再去买。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥？五十两？这怎么好意思吗？你看……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，去给他们看看，什么叫天生丽质难自弃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐，我终于买到最大的张飞啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是说有什么事情要找我吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看，你来这儿两天了，把这个地方一占，我们也没有办法做生意了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一百两银子还够啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜的目瞪口呆"
+        },
+        {
+          "type": "line",
+          "line": "够不够啊？"
+        }
+      ]
+    }
+  ]
+}

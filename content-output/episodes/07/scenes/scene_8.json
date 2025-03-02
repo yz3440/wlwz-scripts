@@ -1,1 +1,236 @@
-{"type": "normal", "rawDescription": "【男寝，夜】", "location": "男寝", "timeOfDay": "夜", "performances": [{"type": "action", "description": "秀才回屋哭"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我说你还有完没完啦？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "没完，敢情不是你的钱。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "不就二钱银子吗，回头我帮你要去！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "这可是你说的。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我说的，别看我书没念多少，可啥是朋友，啥是义气，我比你明白，放心，你的事儿就是我的事儿，你的钱……"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "等一会儿，还是我的钱。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "瞧你小气那劲儿，我还能贪你那点碎银子啊。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "大嘴，我不是这意思，大嘴，大哥，你要是能把我的钱要回来，我就……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "就借我一钱？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "啊？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "跟你开玩笑呢，都是兄弟，谈钱就外了，赶紧睡觉吧。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "大嘴，那银子不帮我要了？"}]}, {"type": "action", "description": "大嘴装打鼾"}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "一钱就一钱，你早点还啊……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "speaker-action", "description": "又醒了"}, {"type": "line", "line": "发了工钱，我马上还啊，睡觉睡觉！"}]}, {"type": "action", "description": "秀才凑近了吹油灯，吹了半天没灭"}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "大嘴……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "又咋的啦？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "吹不灭。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你对准了！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "对准了啊"}, {"type": "speaker-action", "description": "再吹"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎呀妈呀，牙漏风都跑上面去了"}, {"type": "speaker-action", "description": "在床沿一吹就灭"}, {"type": "line", "line": "明儿记得补牙去呀！"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才回屋哭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说你还有完没完啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没完，敢情不是你的钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不就二钱银子吗，回头我帮你要去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是你说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的，别看我书没念多少，可啥是朋友，啥是义气，我比你明白，放心，你的事儿就是我的事儿，你的钱……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一会儿，还是我的钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞧你小气那劲儿，我还能贪你那点碎银子啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，我不是这意思，大嘴，大哥，你要是能把我的钱要回来，我就……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就借我一钱？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你开玩笑呢，都是兄弟，谈钱就外了，赶紧睡觉吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，那银子不帮我要了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴装打鼾"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一钱就一钱，你早点还啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "又醒了"
+        },
+        {
+          "type": "line",
+          "line": "发了工钱，我马上还啊，睡觉睡觉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才凑近了吹油灯，吹了半天没灭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又咋的啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吹不灭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你对准了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对准了啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "再吹"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，牙漏风都跑上面去了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "在床沿一吹就灭"
+        },
+        {
+          "type": "line",
+          "line": "明儿记得补牙去呀！"
+        }
+      ]
+    }
+  ]
+}

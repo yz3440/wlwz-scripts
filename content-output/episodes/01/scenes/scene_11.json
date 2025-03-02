@@ -18,13 +18,21 @@
       "type": "dialog",
       "speaker": "小青",
       "performances": [
-        { "type": "line", "line": "小姐，你怎么知道那是河盗呢？" }
+        {
+          "type": "line",
+          "line": "小姐，你怎么知道那是河盗呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你见过哪个摆渡的不收钱呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你见过哪个摆渡的不收钱呢？"
+        }
+      ]
     }
   ]
 }

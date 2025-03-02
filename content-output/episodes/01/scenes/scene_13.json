@@ -8,7 +8,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "这么多的胜利成果呀，难道还不够吗？" }
+        {
+          "type": "line",
+          "line": "这么多的胜利成果呀，难道还不够吗？"
+        }
       ]
     },
     {
@@ -24,12 +27,22 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "咱又不图这个。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱又不图这个。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "那图什么呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那图什么呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -44,25 +57,41 @@
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "那下一步干吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那下一步干吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "踩点儿。咱们脚下就是一家不折不扣的黑店。" }
+        {
+          "type": "line",
+          "line": "踩点儿。咱们脚下就是一家不折不扣的黑店。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小青",
-      "performances": [{ "type": "line", "line": "你怎么知道？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么知道？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "你见过哪家客栈门前不点灯啊？" }
+        {
+          "type": "line",
+          "line": "你见过哪家客栈门前不点灯啊？"
+        }
       ]
     }
   ]

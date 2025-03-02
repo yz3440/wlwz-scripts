@@ -1,1 +1,208 @@
-{"type": "normal", "rawDescription": "【客房，夜】", "location": "客房", "timeOfDay": "夜", "performances": [{"type": "action", "description": "小郭在床下搜索，老白上"}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "有事吗？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "找啥呢？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你们这闹耗子我找窝呢。有事儿吗？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "没事儿。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "没事儿就出去。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "小的来主要是问问你，需不需要洗个热水澡，我给你打水去。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "不用。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "speaker-action", "description": "指镜子"}, {"type": "line", "line": "您瞧。"}]}, {"type": "action", "description": "镜子里小郭灰头土脸"}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "呦～那也不用。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你放心，没人笑话你。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "笑我什么？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "笑你身子骨弱呀。你看你这瘦胳膊瘦腿的，一看……"}]}, {"type": "action", "description": "小郭对老白使分筋错骨手"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎呀妈呀，哎呀没想到，劲儿还不小啊。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你可以出去了。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你刚才那招是分筋错骨手吧。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你怎么知道？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你就说是还是不是吧。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "事已至此，就休怪我不客气了――排山倒海！"}]}, {"type": "action", "description": "黑屏，传来老白的嚎叫声"}]}
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭在床下搜索，老白上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有事吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这闹耗子我找窝呢。有事儿吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿就出去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小的来主要是问问你，需不需要洗个热水澡，我给你打水去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指镜子"
+        },
+        {
+          "type": "line",
+          "line": "您瞧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜子里小郭灰头土脸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦～那也不用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心，没人笑话你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑我什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑你身子骨弱呀。你看你这瘦胳膊瘦腿的，一看……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭对老白使分筋错骨手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，哎呀没想到，劲儿还不小啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你可以出去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你刚才那招是分筋错骨手吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么知道？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就说是还是不是吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "事已至此，就休怪我不客气了――排山倒海！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "黑屏，传来老白的嚎叫声"
+    }
+  ]
+}

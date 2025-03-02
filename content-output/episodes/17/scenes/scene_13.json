@@ -1,1 +1,382 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不行不行不行，绝对不能让小贝再这么下去了。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "又咋地了？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "人家为了满足她的各种要求，连配剑都给当了。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "可不是吗？刚来的时候啊。三个人，三把剑。现在可好，就剩一把了。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "再这么下去啊，连衣服都得当了。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "当就当呗，再苦也是他们受着。跟咱有啥关系啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "额就怕呀，等他们把东西当个精光之后，小贝还是要着要那，最后逼他们走上犯罪的道路啊。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "迟早会有这么一天的，你就相信我吧。"}]}, {"type": "dialog", "speaker": "陈公子", "performances": [{"type": "line", "line": "算帐。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "谢谢啊，陈公子。还合你的口味吧？"}]}, {"type": "dialog", "speaker": "陈公子", "performances": [{"type": "line", "line": "难吃。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "最近店里有事，多担待啊。这顿就算额请你了。慢走啊，下次再来啊。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "慢走啊。再来啊，客官。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这边这边，这边请。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "门哪儿呢。"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "佟掌柜。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呦，老钱，你这又是咋啦？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "为了对你好，再把我折腾成什么样儿我也认了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你还是回去吧。"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "扶我进去。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "咋整的，你说这个，又挨打了？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "说一句话就走。佟老板赶快逃命吧。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咋了？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "我娘子回家之后，思前想后。她觉得心理窝囊，回家搬救兵去了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "搬啥救兵？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "她家是开武馆的。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "咳，武馆算什么呀？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "不光是武馆，她还有十二个兄弟。个个都是武混混。我听说还有一个，曾经在太平山当过山大王。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "啊？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "我这次来，一来是给你报信，二来是给你送点东西。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "啥东西？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "我家里藏了一根长白山的千年人参。你拿去熬汤，只要你被打的还剩一口气，喝下此汤，定把你的命给勾回来。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎呀，钱老板呐，你真是好人呐。"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "在这儿呢。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "快拿出来。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "千年老参呢？"}, {"type": "speaker-action", "description": "打开一看，五跟须子"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "参我已经给吃了。正好你们五个人一人一根须子。将就着补补吧，保重。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行不行不行，绝对不能让小贝再这么下去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又咋地了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家为了满足她的各种要求，连配剑都给当了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不是吗？刚来的时候啊。三个人，三把剑。现在可好，就剩一把了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再这么下去啊，连衣服都得当了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当就当呗，再苦也是他们受着。跟咱有啥关系啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额就怕呀，等他们把东西当个精光之后，小贝还是要着要那，最后逼他们走上犯罪的道路啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "迟早会有这么一天的，你就相信我吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陈公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算帐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢啊，陈公子。还合你的口味吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陈公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "难吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最近店里有事，多担待啊。这顿就算额请你了。慢走啊，下次再来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢走啊。再来啊，客官。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这边这边，这边请。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "门哪儿呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，老钱，你这又是咋啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了对你好，再把我折腾成什么样儿我也认了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是回去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扶我进去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋整的，你说这个，又挨打了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说一句话就走。佟老板赶快逃命吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我娘子回家之后，思前想后。她觉得心理窝囊，回家搬救兵去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "搬啥救兵？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她家是开武馆的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，武馆算什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不光是武馆，她还有十二个兄弟。个个都是武混混。我听说还有一个，曾经在太平山当过山大王。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这次来，一来是给你报信，二来是给你送点东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥东西？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我家里藏了一根长白山的千年人参。你拿去熬汤，只要你被打的还剩一口气，喝下此汤，定把你的命给勾回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，钱老板呐，你真是好人呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在这儿呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快拿出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千年老参呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "打开一看，五跟须子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "参我已经给吃了。正好你们五个人一人一根须子。将就着补补吧，保重。"
+        }
+      ]
+    }
+  ]
+}

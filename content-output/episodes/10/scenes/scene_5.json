@@ -7,40 +7,71 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "来来来，鸡蛋来喽！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，鸡蛋来喽！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "好了好了好了，已经是第八杯了。" }
+        {
+          "type": "line",
+          "line": "好了好了好了，已经是第八杯了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "我自有分寸。满上满上满上。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我自有分寸。满上满上满上。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "好好。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "小六的也满上。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "我不喝酒，师傅。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "就一杯，一杯，也不枉咱为师一场，干啦。" },
+        {
+          "type": "line",
+          "line": "小六的也满上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不喝酒，师傅。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就一杯，一杯，也不枉咱为师一场，干啦。"
+        },
         {
           "type": "line",
           "line": "这人啊，真是各有天命啊，碰见那个命好的，一生下来，武功就准备好了，直接学就行了。"
@@ -51,26 +82,45 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "那也未必能学得好，给家里丢脸的人大有人在。" }
+        {
+          "type": "line",
+          "line": "那也未必能学得好，给家里丢脸的人大有人在。"
+        }
       ]
     },
-    { "type": "action", "description": "芙蓉窘" },
+    {
+      "type": "action",
+      "description": "芙蓉窘"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "也是。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "也是。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "那什么， 我把湿衣服晾了去。" }
+        {
+          "type": "line",
+          "line": "那什么， 我把湿衣服晾了去。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "去吧去吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧去吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -86,21 +136,35 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "还有混了好多年，一招都没有学成的。" }
+        {
+          "type": "line",
+          "line": "还有混了好多年，一招都没有学成的。"
+        }
       ]
     },
-    { "type": "action", "description": "大嘴窘" },
+    {
+      "type": "action",
+      "description": "大嘴窘"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "那啥，我把这牛肉回回锅去啊。" }
+        {
+          "type": "line",
+          "line": "那啥，我把这牛肉回回锅去啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "快点拿回来啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "快点拿回来啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -116,19 +180,35 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "两年？还有读了好多年，啥都没有考出来的。" }
+        {
+          "type": "line",
+          "line": "两年？还有读了好多年，啥都没有考出来的。"
+        }
       ]
     },
-    { "type": "action", "description": "秀才窘" },
+    {
+      "type": "action",
+      "description": "秀才窘"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我去把下午的帐清了去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去把下午的帐清了去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "去吧去吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧去吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -143,7 +223,12 @@
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "师父，你别说了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，你别说了！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -155,7 +240,10 @@
         }
       ]
     },
-    { "type": "action", "description": "小六吹了一曲哀怨的" },
+    {
+      "type": "action",
+      "description": "小六吹了一曲哀怨的"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
@@ -169,16 +257,30 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "快乐的！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "快乐的！"
+        }
+      ]
     },
-    { "type": "action", "description": "小六拿起锁呐，刚吹了一两个音" },
+    {
+      "type": "action",
+      "description": "小六拿起锁呐，刚吹了一两个音"
+    },
     {
       "type": "dialog",
       "speaker": "小米",
       "performances": [
-        { "type": "line", "line": "来人呐，救命呐，有人抢劫了。" }
+        {
+          "type": "line",
+          "line": "来人呐，救命呐，有人抢劫了。"
+        }
       ]
     },
-    { "type": "action", "description": "老邢、小六出，众人出" }
+    {
+      "type": "action",
+      "description": "老邢、小六出，众人出"
+    }
   ]
 }

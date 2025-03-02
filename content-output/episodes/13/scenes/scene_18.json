@@ -29,35 +29,61 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "我的心潮也有些澎湃了，还是你来吧。" }
+        {
+          "type": "line",
+          "line": "我的心潮也有些澎湃了，还是你来吧。"
+        }
       ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "好吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "女士优先。" }]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "本届冠军是同福客栈莫小贝选送的小红。" }
+        {
+          "type": "line",
+          "line": "好吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "女士优先。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本届冠军是同福客栈莫小贝选送的小红。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "小红，小红。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小红，小红。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "给大家说两句吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "给大家说两句吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -72,12 +98,22 @@
     {
       "type": "dialog",
       "speaker": "老 罗",
-      "performances": [{ "type": "line", "line": "掌柜的，掌柜的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "怎么没回家呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么没回家呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -92,7 +128,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "干啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -108,8 +149,14 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "画外音" },
-        { "type": "line", "line": "今后打死额，也不办什么大赛了！" }
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "今后打死额，也不办什么大赛了！"
+        }
       ]
     }
   ]

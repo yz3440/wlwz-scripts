@@ -17,13 +17,21 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不用了吧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "不用也行啊，反正我会恨你一辈子。" }
+        {
+          "type": "line",
+          "line": "不用也行啊，反正我会恨你一辈子。"
+        }
       ]
     },
     {
@@ -49,35 +57,61 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "酷日？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你还敢挑我刺啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我擦还不行吗。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "小郭，过来给我捶捶腿。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "酷日？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "好啊，那你要左腿还是右腿啊？" }
+        {
+          "type": "line",
+          "line": "你还敢挑我刺啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我擦还不行吗。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你看着办吧。哎呀妈呀！疼！疼啊！疼！" }
+        {
+          "type": "line",
+          "line": "小郭，过来给我捶捶腿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，那你要左腿还是右腿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看着办吧。哎呀妈呀！疼！疼啊！疼！"
+        }
       ]
     },
     {
@@ -90,26 +124,49 @@
         }
       ]
     },
-    { "type": "action", "description": "钱掌柜鼻青脸肿进" },
+    {
+      "type": "action",
+      "description": "钱掌柜鼻青脸肿进"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎呀妈呀，这谁呀这是？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，这谁呀这是？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哎哟，老钱？你这是咋了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，老钱？你这是咋了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "没事，一出门撞门上了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，一出门撞门上了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "撞门能撞成这样？满脑袋青？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "撞门能撞成这样？满脑袋青？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -154,7 +211,12 @@
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "什么联？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么联？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -169,41 +231,72 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉、郭芙蓉",
-      "performances": [{ "type": "line", "line": "嘿嘿哈哈……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿哈哈……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "哇——！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇——！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "老钱？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老钱？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "哭吧，哭吧，哭出来就好了啊。" }
+        {
+          "type": "line",
+          "line": "哭吧，哭吧，哭出来就好了啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "咿——啊——啊——啊——啊——！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿——啊——啊——啊——啊——！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "哎呀，够了！你要再敢哭，就把你送回家。" }
+        {
+          "type": "line",
+          "line": "哎呀，够了！你要再敢哭，就把你送回家。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "别对我这样……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别对我这样……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -218,28 +311,51 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "是啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "命中注定，一辈子吃苦。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那你都吃啥苦了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "兄弟，乘法口诀会算吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "命中注定，一辈子吃苦。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "一一得一，一二得二，二二得四……" }
+        {
+          "type": "line",
+          "line": "那你都吃啥苦了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "兄弟，乘法口诀会算吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一一得一，一二得二，二二得四……"
+        }
       ]
     },
     {
@@ -255,27 +371,52 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "不知道啊……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不知道啊……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "啪！就一大嘴巴呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啪！就一大嘴巴呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这你也得挨打？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这你也得挨打？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "这算好的，行酒令知道吧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这算好的，行酒令知道吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "知道。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -290,27 +431,52 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "不知道啊……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不知道啊……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "抑扬顿挫。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "抑扬顿挫。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "啊——！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊——！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "啪！又一大嘴巴呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啪！又一大嘴巴呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这还让不让人活了这？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还让不让人活了这？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -325,7 +491,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那咱俩干的差不多呀。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咱俩干的差不多呀。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -341,7 +512,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "那你都有那么大家业了，你还要工钱干吗。" }
+        {
+          "type": "line",
+          "line": "那你都有那么大家业了，你还要工钱干吗。"
+        }
       ]
     },
     {
@@ -358,64 +532,125 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "那你到底做啥事情了，她才会这么对你嘛？" }
+        {
+          "type": "line",
+          "line": "那你到底做啥事情了，她才会这么对你嘛？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "私藏小金库。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "私藏小金库。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "奥……多少钱？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "奥……多少钱？"
+        }
+      ]
     },
-    { "type": "action", "description": "老钱伸三个手指头" },
+    {
+      "type": "action",
+      "description": "老钱伸三个手指头"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "三十两？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十两？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "三百两？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三百两？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "三千两？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三千两？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "三文钱……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "三文钱……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "啊？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "你说这日子还能过吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说这日子还能过吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "老钱……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老钱……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "佟老板……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟老板……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你受苦了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你受苦了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -431,7 +666,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "没问题，我这别的没有，吃的管够，你想吃啥？" }
+        {
+          "type": "line",
+          "line": "没问题，我这别的没有，吃的管够，你想吃啥？"
+        }
       ]
     },
     {
@@ -447,29 +685,52 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这还没要求呢……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还没要求呢……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "快，去叫大嘴做点吃的，快点。" }
+        {
+          "type": "line",
+          "line": "快，去叫大嘴做点吃的，快点。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "搁点肉！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "搁点肉！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "放心放心。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心放心。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "大嘴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴！"
+        }
+      ]
     }
   ]
 }

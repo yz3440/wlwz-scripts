@@ -65,11 +65,17 @@
         {
           "type": "line",
           "line": "你觉得我像个慈善家吗？"
-        },
-        {
-          "type": "action",
-          "description": "小贝摇头"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝摇头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "那不就得了，一边去。"

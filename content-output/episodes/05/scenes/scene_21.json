@@ -4,7 +4,10 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "老白在擦桌子。" },
+    {
+      "type": "action",
+      "description": "老白在擦桌子。"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -18,13 +21,21 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "不了不了，我还有事儿。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不了不了，我还有事儿。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "喝口茶能耽误啥功夫，来来来。" }
+        {
+          "type": "line",
+          "line": "喝口茶能耽误啥功夫，来来来。"
+        }
       ]
     },
     {
@@ -40,7 +51,12 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "好好。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -55,18 +71,31 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "走了啊，常来啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走了啊，常来啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "好好好。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "哎呀，一起终于恢复正常啦。看啥呢？" }
+        {
+          "type": "line",
+          "line": "哎呀，一起终于恢复正常啦。看啥呢？"
+        }
       ]
     },
     {
@@ -82,13 +111,21 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "问吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "问吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "那个抚远将军的九龙杯，你是咋偷的？" }
+        {
+          "type": "line",
+          "line": "那个抚远将军的九龙杯，你是咋偷的？"
+        }
       ]
     },
     {
@@ -104,7 +141,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "啊？哦，扬州知府的小妾？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？哦，扬州知府的小妾？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -119,7 +161,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "江南四大贼王？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "江南四大贼王？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -135,7 +182,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "那你那些传说该不会都是假的吧？" }
+        {
+          "type": "line",
+          "line": "那你那些传说该不会都是假的吧？"
+        }
       ]
     },
     {
@@ -152,43 +202,86 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "好好，" },
-        { "type": "speaker-action", "description": "激动状，接过钱包" },
-        { "type": "line", "line": "谢谢。" },
-        { "type": "speaker-action", "description": "翻开钱包，沉思，怒道" },
-        { "type": "line", "line": "原来是你。" }
+        {
+          "type": "line",
+          "line": "好好，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "激动状，接过钱包"
+        },
+        {
+          "type": "line",
+          "line": "谢谢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "翻开钱包，沉思，怒道"
+        },
+        {
+          "type": "line",
+          "line": "原来是你。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "什么是我呀？我怎么了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你这个杀千刀的老贼！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "别别别，怎么回事儿你？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我杀了你，白展堂。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "怎么回事儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么是我呀？我怎么了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "这是我的钱包。你给我站住，别跑。" }
+        {
+          "type": "line",
+          "line": "你这个杀千刀的老贼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，怎么回事儿你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我杀了你，白展堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我的钱包。你给我站住，别跑。"
+        }
       ]
     }
   ]

@@ -1,1 +1,200 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "action", "description": "众参赛鸡主人挤在门外砸门"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "来了来了来了。门还要呢，门还要呢。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "开门，开门。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "干啥呀？"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "你说干什么呀？你说干什么呀？"}]}, {"type": "dialog", "speaker": "刘掌柜", "performances": [{"type": "line", "line": "干什么，这事儿得问你啊，买鸡的时候说的好好的，怎么突然一下翻脸啦。"}]}, {"type": "dialog", "speaker": "五号客串", "performances": [{"type": "line", "line": "你们这不蒙人呢吗？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "静一静，静一静。看看这是啥，看看。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "什么呀，这是？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "本次大赛的最终解释权归主办方所有。知道啥意思吗？知道吧？"}]}, {"type": "dialog", "speaker": "小 谢", "performances": [{"type": "line", "line": "好小子，跟我们耍赖怎么着？"}]}, {"type": "dialog", "speaker": "四号客串", "performances": [{"type": "line", "line": "我们应该到衙门告你去。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "静一静，静一静。我知道，你们的心情我能理解，可这是规定，我也没有办法呀，是不是？"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "没办法，退钱呗。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我有一个好消息忘了告诉大家，每个人都有奖，但奖品不多，每个人一个鸡蛋。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "这就把我们给蒙了？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "还有，每人一块奖牌，这是本次大赛组委会特别定制的喔，小刘这只鸡最佳新鸡奖。小赵这只鸡，最佳美腿奖。小谢这只鸡，最佳生蛋奖。"}]}, {"type": "dialog", "speaker": "小 谢", "performances": [{"type": "line", "line": "公的。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "最佳打鸣奖。你这只，最佳黑鸡奖，你看人多白。你这只最佳白鸡奖，人也不黑嘛。你这只最佳公鸡奖，"}, {"type": "speaker-action", "description": "又发错，将奖牌交给旁边的六号客串"}, {"type": "line", "line": "公鸡给你，最佳母鸡奖。鼓掌，哈哈，多好啊，好啊，都有奖了，都回去吧，回去享受去了，回去亲去。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众参赛鸡主人挤在门外砸门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了来了。门还要呢，门还要呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开门，开门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说干什么呀？你说干什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "刘掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么，这事儿得问你啊，买鸡的时候说的好好的，怎么突然一下翻脸啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "五号客串",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这不蒙人呢吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "静一静，静一静。看看这是啥，看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么呀，这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本次大赛的最终解释权归主办方所有。知道啥意思吗？知道吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 谢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好小子，跟我们耍赖怎么着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "四号客串",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们应该到衙门告你去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "静一静，静一静。我知道，你们的心情我能理解，可这是规定，我也没有办法呀，是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没办法，退钱呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有一个好消息忘了告诉大家，每个人都有奖，但奖品不多，每个人一个鸡蛋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就把我们给蒙了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有，每人一块奖牌，这是本次大赛组委会特别定制的喔，小刘这只鸡最佳新鸡奖。小赵这只鸡，最佳美腿奖。小谢这只鸡，最佳生蛋奖。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 谢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "公的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最佳打鸣奖。你这只，最佳黑鸡奖，你看人多白。你这只最佳白鸡奖，人也不黑嘛。你这只最佳公鸡奖，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又发错，将奖牌交给旁边的六号客串"
+        },
+        {
+          "type": "line",
+          "line": "公鸡给你，最佳母鸡奖。鼓掌，哈哈，多好啊，好啊，都有奖了，都回去吧，回去享受去了，回去亲去。"
+        }
+      ]
+    }
+  ]
+}

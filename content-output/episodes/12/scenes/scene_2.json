@@ -4,40 +4,69 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "赛掌柜、小翠入" },
+    {
+      "type": "action",
+      "description": "赛掌柜、小翠入"
+    },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "佟掌柜。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "呦，赛掌柜呀，怎么又有空来了？" }
+        {
+          "type": "line",
+          "line": "呦，赛掌柜呀，怎么又有空来了？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "我来坐坐，你不欢迎啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来坐坐，你不欢迎啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "欢迎，就是没有空位，不好意思。" }
+        {
+          "type": "line",
+          "line": "欢迎，就是没有空位，不好意思。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "哎，那不是空位吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，那不是空位吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这是给客人留的位置。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是给客人留的位置。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -52,48 +81,82 @@
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "必须得是一级龙井。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "没有。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "那就极品毛尖吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "必须得是一级龙井。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "也没有。额这儿就有茉莉花茶，还是前两年的。" }
+        {
+          "type": "line",
+          "line": "没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就极品毛尖吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也没有。额这儿就有茉莉花茶，还是前两年的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "就是它了，陈茶口感涩，但是味儿香。" }
+        {
+          "type": "line",
+          "line": "就是它了，陈茶口感涩，但是味儿香。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "不错。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不错。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "那好，等着，饿这就给你沏去，啊。展堂。" }
+        {
+          "type": "line",
+          "line": "那好，等着，饿这就给你沏去，啊。展堂。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -108,7 +171,12 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "加料，啥料儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "加料，啥料儿？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -124,30 +192,50 @@
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "speaker-action", "description": "对老白" },
-        { "type": "line", "line": "帅哥，你在这儿干多长时间了？" }
+        {
+          "type": "speaker-action",
+          "description": "对老白"
+        },
+        {
+          "type": "line",
+          "line": "帅哥，你在这儿干多长时间了？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "没干多长时间啊，怎么了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没干多长时间啊，怎么了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "那你，你知道谁家的发型做的好嘛？" }
+        {
+          "type": "line",
+          "line": "那你，你知道谁家的发型做的好嘛？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "这个嘛，你听我慢慢跟你道来。" }
+        {
+          "type": "line",
+          "line": "这个嘛，你听我慢慢跟你道来。"
+        }
       ]
     },
-    { "type": "action", "description": "切镜头，二人就坐桌旁" },
+    {
+      "type": "action",
+      "description": "切镜头，二人就坐桌旁"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -161,7 +249,12 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "那你一般都在哪家做？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你一般都在哪家做？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -176,17 +269,32 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "哇噻，手感真好啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻，手感真好啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我看看你这个啊。你这不行。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看看你这个啊。你这不行。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "真的？那我一定得去看看。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的？那我一定得去看看。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -202,166 +310,294 @@
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "哎呀，算啦，还是哪天你亲自带我去吧。" }
+        {
+          "type": "line",
+          "line": "哎呀，算啦，还是哪天你亲自带我去吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那也行。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "当面介绍，省得麻烦。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "勉强" },
-        { "type": "line", "line": "那也行，哪天我去的时候叫上你俩啊。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "那我就谢谢你了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "聊什么呐，这么开心？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [
-        { "type": "line", "line": "没聊啥，就是聊聊时尚，侃侃发型啥的。" }
+        {
+          "type": "line",
+          "line": "那也行。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "别的一概没聊，我可以做证。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "当面介绍，省得麻烦。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "那啥，你俩喝茶，我招呼别的客人去了啊。" }
+        {
+          "type": "speaker-action",
+          "description": "勉强"
+        },
+        {
+          "type": "line",
+          "line": "那也行，哪天我去的时候叫上你俩啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "哎，那事儿，咱俩就说定了啊。" }
+        {
+          "type": "line",
+          "line": "那我就谢谢你了。"
+        }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "说定了。" }]
-    },
-    {
-      "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "说定什么了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "聊什么呐，这么开心？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "小秘密，你忙着，我走了啊。翠儿。" }
+        {
+          "type": "line",
+          "line": "没聊啥，就是聊聊时尚，侃侃发型啥的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "哎。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别的一概没聊，我可以做证。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那啥，你俩喝茶，我招呼别的客人去了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，那事儿，咱俩就说定了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说定了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你的茉莉花。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说定什么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小秘密，你忙着，我走了啊。翠儿。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "咦，您自己留着腌咸菜吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "忍住忍住。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的茉莉花。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "白先生，千万可别忘了啊。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "忘不了，去吧去吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "忍不住了——白展堂！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "咋的了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋回事你说吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "什么怎么回事儿啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你跟她，用不着额说了吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你还是说吧，到底怎么回事儿？" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "还想抵赖，我全都看见啦。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        { "type": "line", "line": "你看见啥了，你看见了你还问我？" }
+        {
+          "type": "line",
+          "line": "咦，您自己留着腌咸菜吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "呵呵，……好，心中还藏着小秘密是吧？" }
+        {
+          "type": "line",
+          "line": "忍住忍住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白先生，千万可别忘了啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "什么小秘密，你到底说什么呢？" }
+        {
+          "type": "line",
+          "line": "忘不了，去吧去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "忍不住了——白展堂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋回事你说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么怎么回事儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你跟她，用不着额说了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是说吧，到底怎么回事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还想抵赖，我全都看见啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看见啥了，你看见了你还问我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，……好，心中还藏着小秘密是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么小秘密，你到底说什么呢？"
+        }
       ]
     },
     {

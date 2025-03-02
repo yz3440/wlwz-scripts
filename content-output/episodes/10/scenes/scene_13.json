@@ -11,40 +11,76 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "有杀气！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "帮我照顾好我七婶娘！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
       "performances": [
-        { "type": "speaker-action", "description": "吃鸡腿" },
-        { "type": "line", "line": "你七婶娘昨天不是才出殡吗？" }
+        {
+          "type": "line",
+          "line": "有杀气！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "你把鸡腿还给我！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮我照顾好我七婶娘！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
-      "performances": [{ "type": "line", "line": "谁吃你鸡腿，咸死了！" }]
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "吃鸡腿"
+        },
+        {
+          "type": "line",
+          "line": "你七婶娘昨天不是才出殡吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "我的鸡腿，我的鸡腿！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你把鸡腿还给我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁吃你鸡腿，咸死了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的鸡腿，我的鸡腿！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "小六子，你丢人不丢人啊你？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六子，你丢人不丢人啊你？"
+        }
+      ]
     },
     {
       "type": "action",
@@ -53,32 +89,51 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "对不起，对不起啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，对不起啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
       "performances": [
-        { "type": "line", "line": "你吃独食是不是，让你穿肠烂肚。" }
+        {
+          "type": "line",
+          "line": "你吃独食是不是，让你穿肠烂肚。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "烂也是烂你的，过些天，这些都是你的。" }
+        {
+          "type": "line",
+          "line": "烂也是烂你的，过些天，这些都是你的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
-      "performances": [{ "type": "line", "line": "过些天还能吃啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "过些天还能吃啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "哎，谁叫你进来的，出去出去出去！" }
+        {
+          "type": "line",
+          "line": "哎，谁叫你进来的，出去出去出去！"
+        }
       ]
     },
     {
@@ -94,12 +149,22 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "小郭！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "排山……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -121,40 +186,77 @@
         }
       ]
     },
-    { "type": "action", "description": "外面爆竹声，怡红楼开业了" },
     {
-      "type": "dialog",
-      "speaker": "丫环甲",
-      "performances": [{ "type": "line", "line": "恭祝怡红楼开张大吉啊！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [{ "type": "line", "line": "哈哈！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "开张就开张，还大吉个啥！" }]
+      "type": "action",
+      "description": "外面爆竹声，怡红楼开业了"
     },
     {
       "type": "dialog",
       "speaker": "丫环甲",
       "performances": [
-        { "type": "line", "line": "每位贵客送汾酒一壶，膏蟹八两！" }
+        {
+          "type": "line",
+          "line": "恭祝怡红楼开张大吉啊！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
-      "performances": [{ "type": "line", "line": "去那边吃了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈！"
+        }
+      ]
     },
-    { "type": "action", "description": "众食客纷纷离去" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开张就开张，还大吉个啥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "丫环甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每位贵客送汾酒一壶，膏蟹八两！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去那边吃了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众食客纷纷离去"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉、佟湘玉",
-      "performances": [{ "type": "line", "line": "哎，结帐结帐！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，结帐结帐！"
+        }
+      ]
     },
-    { "type": "action", "description": "秀才出去，将菜倒入备好的桶中" }
+    {
+      "type": "action",
+      "description": "秀才出去，将菜倒入备好的桶中"
+    }
   ]
 }

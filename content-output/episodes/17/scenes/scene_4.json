@@ -4,48 +4,83 @@
   "location": "大堂",
   "timeOfDay": "夜",
   "performances": [
-    { "type": "action", "description": "四个人围在柜台前哈气连天" },
+    {
+      "type": "action",
+      "description": "四个人围在柜台前哈气连天"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "一打就是俩时辰，他们也不嫌累啊？" }
+        {
+          "type": "line",
+          "line": "一打就是俩时辰，他们也不嫌累啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "哎呀，额实在是困的不行了，你们也早点睡吧。" }
+        {
+          "type": "line",
+          "line": "哎呀，额实在是困的不行了，你们也早点睡吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "掌柜的，让我跟你挤一宿吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，让我跟你挤一宿吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "可以，但是不能乱翻东西。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "可以，但是不能乱翻东西。"
+        }
+      ]
     },
-    { "type": "action", "description": "老白和小贝进" },
+    {
+      "type": "action",
+      "description": "老白和小贝进"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "小贝！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "这熊孩子还你，要杀要剐随你便。" }
+        {
+          "type": "line",
+          "line": "这熊孩子还你，要杀要剐随你便。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋咧？啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋咧？啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -61,7 +96,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "哎呀，你不要管，你不要管，你说你的。" }
+        {
+          "type": "line",
+          "line": "哎呀，你不要管，你不要管，你说你的。"
+        }
       ]
     },
     {
@@ -77,7 +115,12 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "就我花光的，你没花呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就我花光的，你没花呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -92,7 +135,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你咋能这么惯着她吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋能这么惯着她吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -107,7 +155,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "展堂，你受委屈了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你受委屈了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -122,59 +175,112 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你还学会偷东西了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我就是吃了，怎么着吧？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "站住，莫小贝，你再走一步我看看。" }
+        {
+          "type": "line",
+          "line": "你还学会偷东西了？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嫂子，我不敢了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "是她吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就是吃了，怎么着吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "就是她。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，莫小贝，你再走一步我看看。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嫂子，我不敢啦。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，我不敢了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "她什么意思这是？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是她吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是她。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "你等着啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，我不敢啦。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "陆一鸣",
-      "performances": [{ "type": "line", "line": "她要干什么？她要干什么？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她什么意思这是？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "把糖葫芦还你。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你等着啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她要干什么？她要干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把糖葫芦还你。"
+        }
+      ]
     }
   ]
 }

@@ -217,11 +217,17 @@
         {
           "type": "line",
           "line": "那你就流动着写，"
-        },
-        {
-          "type": "action",
-          "description": "秀才欲走"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才欲走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "回来，不行就是家信或者情书也行。"

@@ -4,12 +4,18 @@
   "location": "屋顶",
   "timeOfDay": "夜",
   "performances": [
-    { "type": "action", "description": "小郭学猫叫" },
+    {
+      "type": "action",
+      "description": "小郭学猫叫"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "拜托你手脚就不能利索一点儿！" }
+        {
+          "type": "line",
+          "line": "拜托你手脚就不能利索一点儿！"
+        }
       ]
     },
     {
@@ -25,19 +31,32 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "这就叫江湖。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就叫江湖。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小青",
       "performances": [
-        { "type": "line", "line": "你老说江湖江湖，什么是江湖啊？" }
+        {
+          "type": "line",
+          "line": "你老说江湖江湖，什么是江湖啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "江湖，就是江湖。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖，就是江湖。"
+        }
+      ]
     }
   ]
 }

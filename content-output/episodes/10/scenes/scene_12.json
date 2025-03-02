@@ -4,77 +4,142 @@
   "location": "厨房",
   "timeOfDay": "夜",
   "performances": [
-    { "type": "action", "description": "秀才潜入厨房，郭芙蓉随后入" },
+    {
+      "type": "action",
+      "description": "秀才潜入厨房，郭芙蓉随后入"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "哈欠……饿死我了——好像有人呐？" }
+        {
+          "type": "line",
+          "line": "哈欠……饿死我了——好像有人呐？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "啊，有贼啊！老白，大嘴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，有贼啊！老白，大嘴！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "葵花点穴手！有人，打！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！有人，打！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "排山倒海！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
     },
-    { "type": "action", "description": "混战" },
+    {
+      "type": "action",
+      "description": "混战"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "等等……听声好像是秀才？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等……听声好像是秀才？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉、李大嘴",
-      "performances": [{ "type": "line", "line": "啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "大嘴，拿油灯。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "来，拿过来我看看！——哎呀，秀才真是你。" }
+        {
+          "type": "line",
+          "line": "大嘴，拿油灯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，拿过来我看看！——哎呀，秀才真是你。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "搞什么鬼呀你？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "搞什么鬼呀你？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "下手太狠了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "下手太狠了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "打着你了吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "打着你了吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "我觉得好象谁打了我一下擀面杖，谁打的？" }
+        {
+          "type": "line",
+          "line": "我觉得好象谁打了我一下擀面杖，谁打的？"
+        }
       ]
     },
     {
@@ -90,57 +155,106 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我的乌眼圈谁打的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的乌眼圈谁打的？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "下手太狠了，太狠了！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "哎哟，千辛万苦拿这些馒头……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [{ "type": "line", "line": "是偷的！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "下手太狠了，太狠了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "不是偷，是拿；偷者，不告而拿也！" }
+        {
+          "type": "line",
+          "line": "哎哟，千辛万苦拿这些馒头……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是偷的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是偷，是拿；偷者，不告而拿也！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你告谁了，告谁了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你告谁了，告谁了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "指着大嘴" },
-        { "type": "line", "line": "告他了。" }
+        {
+          "type": "speaker-action",
+          "description": "指着大嘴"
+        },
+        {
+          "type": "line",
+          "line": "告他了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你还敢告我，你告我啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还敢告我，你告我啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我不是告，是告。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是告，是告。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "那不还是告吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不还是告吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -156,20 +270,31 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "那你也不能拿这些，你吃得了吗？你。" }
+        {
+          "type": "line",
+          "line": "那你也不能拿这些，你吃得了吗？你。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "不是我吃，是我施舍给别人的。" }
+        {
+          "type": "line",
+          "line": "不是我吃，是我施舍给别人的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你拿偷来的东西去施舍啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拿偷来的东西去施舍啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -184,18 +309,31 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哟，你还大发慈悲了你？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，你还大发慈悲了你？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我什么时候小肚鸡肠了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我什么时候小肚鸡肠了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "前两天你还为二钱银子追着我要！" }
+        {
+          "type": "line",
+          "line": "前两天你还为二钱银子追着我要！"
+        }
       ]
     },
     {
@@ -212,31 +350,57 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "呸，少来了——不行我得去冷敷一下。" },
-        { "type": "speaker-action", "description": "边向外走" },
-        { "type": "line", "line": "哎，下手太狠了！" }
+        {
+          "type": "line",
+          "line": "呸，少来了——不行我得去冷敷一下。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边向外走"
+        },
+        {
+          "type": "line",
+          "line": "哎，下手太狠了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "我也得出去转转，看拿~点药回来。" },
-        { "type": "speaker-action", "description": "出去" }
+        {
+          "type": "line",
+          "line": "我也得出去转转，看拿~点药回来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出去"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "行了。" },
-        { "type": "speaker-action", "description": "也要往外走" }
+        {
+          "type": "line",
+          "line": "行了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "也要往外走"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "大嘴，大嘴，这馒头都脏了……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，大嘴，这馒头都脏了……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -251,13 +415,21 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "还是我祖宗！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是我祖宗！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "瞧你小心眼儿，我还贪你一祖宗啊！" }
+        {
+          "type": "line",
+          "line": "瞧你小心眼儿，我还贪你一祖宗啊！"
+        }
       ]
     },
     {
@@ -274,13 +446,21 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "行行行，都给你，我再给你蒸三屉够不够？" }
+        {
+          "type": "line",
+          "line": "行行行，都给你，我再给你蒸三屉够不够？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "谢谢谢谢！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢谢谢！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -295,7 +475,12 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "你这是监守自盗！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这是监守自盗！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -310,27 +495,52 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "哎，你心虚啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你心虚啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "这是你偷馒头啊，掌柜的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你偷馒头啊，掌柜的？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "别喊别喊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "别喊别喊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "干啥 ？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥 ？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "进屋再说，进屋再说！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "进屋再说，进屋再说！"
+        }
+      ]
     }
   ]
 }

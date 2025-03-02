@@ -1,1 +1,779 @@
-{"type": "normal", "rawDescription": "【尚儒客站门口，昼】", "location": "尚儒客站门口", "timeOfDay": "昼", "context": null, "performances": [{"type": "dialog", "speaker": "家 丁", "performances": [{"type": "line", "line": "大小姐，您就跟我回去吧，老爷都不等了，您在这儿还等什么劲儿啊？走吧，我去雇马车。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "等等，等不到我的夫君，我死也不会回去的。"}]}, {"type": "dialog", "speaker": "家 丁", "performances": [{"type": "line", "line": "都三天了，连个口信儿都没有，说出去„"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你不要再说了，要回你们回，我坚决不回~"}]}, {"type": "dialog", "speaker": "家 丁", "performances": [{"type": "line", "line": "唉~~老爷那儿还有一大堆的事儿等我办呢，唉~~大小姐，您自己多保重。"}, {"type": "speaker-action", "description": "说完家丁转身走了"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你回来，你回来，你回来~~，你回来~~„"}]}, {"type": "action", "description": "李捕头和刑捕快又远处走来，看见湘玉在街上大喊"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "快去问问，那女的嚎啥呢？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "哎哎哎，我们李捕头问了阿，你大白天你嚎什么呢？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你管呢，我愿意喊。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "哎？！在七侠镇还没有人敢你这么喊的，你回来，回来什么呀？回来！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你以为我想喊吗？你以为我不想回家吗？你以为我赶了一千多里地就为了坐在这儿瞎喊吗？你回来~~"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你还敢叫板了是不是？小刑，把她给我逮到衙门去，重打四十大板！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "好，我告诉你啊，你这个„"}, {"type": "speaker-action", "description": "转向李"}, {"type": "line", "line": "你看，这样做有点儿不太合规矩。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "是吗？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "嗯嗯。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我让你逮就逮！天塌下来我顶着呢。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "不是，这个事情„"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "咋的？我是捕头，我话不顶用了是吧？我把你从乡下调来，不是让你跟我作对的，你知道不？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "好好好好„"}, {"type": "speaker-action", "description": "回头对湘玉"}, {"type": "line", "line": "新娘子！麻烦你跟我们走一趟吧，走！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我不走，我不走！"}]}, {"type": "action", "description": "两人拉扯中，路过的两个人中白衣人想上前，黑衣人将其拉住"}, {"type": "dialog", "speaker": "黑衣人", "performances": [{"type": "line", "line": "哎！你干吗去？"}]}, {"type": "dialog", "speaker": "白衣人", "performances": [{"type": "line", "line": "你没看她身上有颗夜明珠嘛?"}]}, {"type": "action", "description": "湘玉抵抗中咬了刑捕快一口"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "哎呦呦„"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你给我放开，松手，松手！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "她咬着我呢。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "松口松口，你不松口是吧？别怪我对你不客气了阿？是你自找的！"}, {"type": "speaker-action", "description": "抽刀要砍"}, {"type": "line", "line": "呀~~~~！"}]}, {"type": "dialog", "speaker": "白衣人", "performances": [{"type": "line", "line": "住手!"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "来者何人？"}]}, {"type": "dialog", "speaker": "黑衣人", "performances": [{"type": "line", "line": "她的官人！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "官人？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "小宝，是你吗？"}, {"type": "speaker-action", "description": "说着抱住了黑衣人，白抓过湘玉"}]}, {"type": "dialog", "speaker": "白衣人", "performances": [{"type": "line", "line": "这儿呢。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎，等死我了，干什么吗？我还以为你不想娶我了。"}]}, {"type": "dialog", "speaker": "白衣人", "performances": [{"type": "line", "line": "这怎么可能呢。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "这这..这可咋办呀？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "一块儿带走呗。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "嗯？！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我答应了，知县老爷也不答应啊，哈哈……"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "speaker-action", "description": "暗自对李说"}, {"type": "line", "line": "这是真正的高手。"}, {"type": "speaker-action", "description": "转身对黑白二人说"}, {"type": "line", "line": "二位刚才对不住的地方，别往心里去阿……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "回头摆酒的时候记得叫一声啊~"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "跟过去看看。"}]}, {"type": "action", "description": "黑衣人跟过去，白偷偷开新娘旁边嫁妆的柜子"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "相公，你还在呢吧？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "在呢在呢。"}, {"type": "speaker-action", "description": "说完伸手去摘湘玉腰间的夜明珠，被湘玉拉住手"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咱们走吧。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "走？上哪儿去？哦，回家是吧？家在哪儿？家里怎么走啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你连家怎么走都不知道吗？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我当然知道了，我在想怎么能不绕弯子直接到，你知道吗？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我怎么能知道，这又不是在我们陕西的汉中。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "汉中？汉中我熟啊，汉中有个龙门镖局天下闻名阿！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你这个龙门镖局的女婿名气也不小。"}, {"type": "speaker-action", "description": "白听此言吓得闪到一边"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "龙门镖局的女婿？！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咋咧，你不想当是吗？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "想当想当，我能跟龙门镖局攀上亲家，这是我上辈子修来的福气呀！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "小嘴儿甜的，怪不得人家叫你桃花剑。"}, {"type": "speaker-action", "description": "白又吓得闪到一边"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "桃花剑？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "又咋咧？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我，我就是疾恶如仇桃花剑，衡山派掌门莫小宝？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "喊，接着喊，大点儿声喊，生怕人家别人不知道是吧？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "娘子，你在这儿坐着，我去去就来。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "speaker-action", "description": "抓住白"}, {"type": "line", "line": "你不能走，从今天起你走到哪儿我就跟到哪儿，咱们俩再也不能分开。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "大姐阿。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你管我叫啥？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "不是，娘子阿。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我这一路上来呀，太辛苦了，我实在是太累了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那咱们就在这儿住下吧。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "不用，我的意思是„"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "有人吗？！我们要住店~~"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "不用„"}, {"type": "speaker-action", "description": "说着湘玉把白拉进了客栈"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【尚儒客站门口，昼】",
+  "location": "尚儒客站门口",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "家 丁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大小姐，您就跟我回去吧，老爷都不等了，您在这儿还等什么劲儿啊？走吧，我去雇马车。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，等不到我的夫君，我死也不会回去的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "家 丁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都三天了，连个口信儿都没有，说出去„"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要再说了，要回你们回，我坚决不回~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "家 丁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉~~老爷那儿还有一大堆的事儿等我办呢，唉~~大小姐，您自己多保重。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完家丁转身走了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你回来，你回来，你回来~~，你回来~~„"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李捕头和刑捕快又远处走来，看见湘玉在街上大喊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快去问问，那女的嚎啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，我们李捕头问了阿，你大白天你嚎什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你管呢，我愿意喊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？！在七侠镇还没有人敢你这么喊的，你回来，回来什么呀？回来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为我想喊吗？你以为我不想回家吗？你以为我赶了一千多里地就为了坐在这儿瞎喊吗？你回来~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还敢叫板了是不是？小刑，把她给我逮到衙门去，重打四十大板！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我告诉你啊，你这个„"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转向李"
+        },
+        {
+          "type": "line",
+          "line": "你看，这样做有点儿不太合规矩。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯嗯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我让你逮就逮！天塌下来我顶着呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，这个事情„"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的？我是捕头，我话不顶用了是吧？我把你从乡下调来，不是让你跟我作对的，你知道不？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好好„"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头对湘玉"
+        },
+        {
+          "type": "line",
+          "line": "新娘子！麻烦你跟我们走一趟吧，走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不走，我不走！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人拉扯中，路过的两个人中白衣人想上前，黑衣人将其拉住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！你干吗去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没看她身上有颗夜明珠嘛?"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉抵抗中咬了刑捕快一口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦呦„"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我放开，松手，松手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她咬着我呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "松口松口，你不松口是吧？别怪我对你不客气了阿？是你自找的！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抽刀要砍"
+        },
+        {
+          "type": "line",
+          "line": "呀~~~~！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手!"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来者何人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她的官人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "官人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小宝，是你吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说着抱住了黑衣人，白抓过湘玉"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这儿呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，等死我了，干什么吗？我还以为你不想娶我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这怎么可能呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这这..这可咋办呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一块儿带走呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我答应了，知县老爷也不答应啊，哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "暗自对李说"
+        },
+        {
+          "type": "line",
+          "line": "这是真正的高手。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身对黑白二人说"
+        },
+        {
+          "type": "line",
+          "line": "二位刚才对不住的地方，别往心里去阿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回头摆酒的时候记得叫一声啊~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟过去看看。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "黑衣人跟过去，白偷偷开新娘旁边嫁妆的柜子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "相公，你还在呢吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在呢在呢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完伸手去摘湘玉腰间的夜明珠，被湘玉拉住手"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱们走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走？上哪儿去？哦，回家是吧？家在哪儿？家里怎么走啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你连家怎么走都不知道吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我当然知道了，我在想怎么能不绕弯子直接到，你知道吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么能知道，这又不是在我们陕西的汉中。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "汉中？汉中我熟啊，汉中有个龙门镖局天下闻名阿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这个龙门镖局的女婿名气也不小。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "白听此言吓得闪到一边"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "龙门镖局的女婿？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋咧，你不想当是吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想当想当，我能跟龙门镖局攀上亲家，这是我上辈子修来的福气呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小嘴儿甜的，怪不得人家叫你桃花剑。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "白又吓得闪到一边"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "桃花剑？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又咋咧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我就是疾恶如仇桃花剑，衡山派掌门莫小宝？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊，接着喊，大点儿声喊，生怕人家别人不知道是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘子，你在这儿坐着，我去去就来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抓住白"
+        },
+        {
+          "type": "line",
+          "line": "你不能走，从今天起你走到哪儿我就跟到哪儿，咱们俩再也不能分开。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大姐阿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你管我叫啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，娘子阿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这一路上来呀，太辛苦了，我实在是太累了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咱们就在这儿住下吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用，我的意思是„"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有人吗？！我们要住店~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用„"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说着湘玉把白拉进了客栈"
+        }
+      ]
+    }
+  ]
+}

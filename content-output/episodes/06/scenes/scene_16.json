@@ -1,1 +1,272 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "蕙兰…"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "轻轻的走了，又如她轻轻地来了，挥一挥双刀，只留下俩刀鞘。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "说啥呐？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "这都多少天了，大嘴，您也该歇会儿了吧？你再这样下去啊，身子骨吃不消的呀。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我自己的事儿，我用不着你操心！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "不要再生气啦，大不了我赔你个老婆了。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你拿啥赔啊？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你就算了吧。你想嫁，我还不想娶呢。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎，我哪点配不上你啊，李大嘴？你要那么想比武招亲啊，回头我单给你摆一局。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "还要比啊？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "别激动，没你什么事儿，啊。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "幸好没我事儿。有一个好消息和一个坏消息，想听哪个？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "好的。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "黑风寨已经被扫平啦！现场一片狼籍。那帮山贼不是缺了胳膊就是少了腿呀。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你们办事效率还挺高的嘛。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "不是我们干的。下面说坏消息啊，还有一小撮山贼流窜在外，随时过来寻仇哟。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "寻什么仇？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "据现场山贼供认，有名女子在山寨门口比武招亲，致使山贼死伤大半，事后，她说自己住在七侠镇，欢迎报仇。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "啊？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "别紧张，下面还有好消息和坏消息。想听哪个啊。"}]}, {"type": "dialog", "speaker": "郭芙蓉、李大嘴", "performances": [{"type": "line", "line": "坏的。"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "她说她叫郭芙蓉。"}]}, {"type": "action", "description": "小郭滑至地上"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "下面说好消息。该女子临走之前，对山贼严刑逼供，把方圆五百里的山寨全都问出来啦。她到一个山寨就到门口大喊，我是郭芙蓉，我是郭芙蓉。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "那也就是说…（哭腔）爹，救我！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "蕙兰…蕙兰…"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰…"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "轻轻的走了，又如她轻轻地来了，挥一挥双刀，只留下俩刀鞘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这都多少天了，大嘴，您也该歇会儿了吧？你再这样下去啊，身子骨吃不消的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我自己的事儿，我用不着你操心！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再生气啦，大不了我赔你个老婆了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拿啥赔啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就算了吧。你想嫁，我还不想娶呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我哪点配不上你啊，李大嘴？你要那么想比武招亲啊，回头我单给你摆一局。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还要比啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别激动，没你什么事儿，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "幸好没我事儿。有一个好消息和一个坏消息，想听哪个？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "黑风寨已经被扫平啦！现场一片狼籍。那帮山贼不是缺了胳膊就是少了腿呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们办事效率还挺高的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我们干的。下面说坏消息啊，还有一小撮山贼流窜在外，随时过来寻仇哟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "寻什么仇？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "据现场山贼供认，有名女子在山寨门口比武招亲，致使山贼死伤大半，事后，她说自己住在七侠镇，欢迎报仇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别紧张，下面还有好消息和坏消息。想听哪个啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉、李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坏的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她说她叫郭芙蓉。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭滑至地上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "下面说好消息。该女子临走之前，对山贼严刑逼供，把方圆五百里的山寨全都问出来啦。她到一个山寨就到门口大喊，我是郭芙蓉，我是郭芙蓉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也就是说…（哭腔）爹，救我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰…蕙兰…"
+        }
+      ]
+    }
+  ]
+}

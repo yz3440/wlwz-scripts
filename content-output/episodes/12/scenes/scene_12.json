@@ -1,1 +1,236 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "菜呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "别着急，马上就到。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "菜来了。来了，来了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这是个啥菜嘛？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "九九还阳羹。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "味道不错。剩下的菜呢？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "没了。你看啊，这个羹里啊有九样东西，这个肉圆和芹菜一块吃呢，是一样，竹笋和火腿一样吃呢，又是一样。这竹笋和芹菜吃呢，它又是一样，等这九样全搭配齐全了吃到最后，就是九九八十一样，这回没算错啊，呵呵"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这么精彩的点子，是谁想出来的呀？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我呀，除了我——还有他们。主要是他们，我就是起了个头，名儿是他取的。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "名儿是我取的，配料是她选的。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我只选了几样菜，那个具体是他做的。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我就把菜放锅里面了，具体……我，我我错了，是我错了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "行了，额也不难为你了，你就老老实实的给我做，就两个凉菜，四个热菜，外加一个汤，一个甜品，这总行了吧？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎呀妈呀，没问题包我身上了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "慢着，额还有个要求，这些菜，一定要新，要奇。要闻所未闻，见所未见。如果有一样和怡红楼重了的，你就等着吧。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "诸位多保重，我回家了。"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "哎，大嘴"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "别着急再想一想。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我咋想啊。烧菜无非就是烹炒煮炸煎烤焖，是吧？再新能新到哪儿去？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "说你笨你就不聪明，同样的菜，你换一种烧法，不就成新的了吗？焖的换成煮的，煮的换成炸的，看你们几个大眼瞪小眼的，跟傻子似的，怎么的，我说错啦，啊——"}, {"type": "speaker-action", "description": "老白回头见掌柜的在楼上"}, {"type": "line", "line": "错了，而且是大错特错。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你现在应该在哪儿？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "尊敬的各位客官，首先请接受我诚挚的祝福。进来吃两口。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "菜呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别着急，马上就到。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "菜来了。来了，来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是个啥菜嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "九九还阳羹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "味道不错。剩下的菜呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没了。你看啊，这个羹里啊有九样东西，这个肉圆和芹菜一块吃呢，是一样，竹笋和火腿一样吃呢，又是一样。这竹笋和芹菜吃呢，它又是一样，等这九样全搭配齐全了吃到最后，就是九九八十一样，这回没算错啊，呵呵"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么精彩的点子，是谁想出来的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我呀，除了我——还有他们。主要是他们，我就是起了个头，名儿是他取的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "名儿是我取的，配料是她选的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我只选了几样菜，那个具体是他做的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就把菜放锅里面了，具体……我，我我错了，是我错了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，额也不难为你了，你就老老实实的给我做，就两个凉菜，四个热菜，外加一个汤，一个甜品，这总行了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，没问题包我身上了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢着，额还有个要求，这些菜，一定要新，要奇。要闻所未闻，见所未见。如果有一样和怡红楼重了的，你就等着吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "诸位多保重，我回家了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，大嘴"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别着急再想一想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我咋想啊。烧菜无非就是烹炒煮炸煎烤焖，是吧？再新能新到哪儿去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说你笨你就不聪明，同样的菜，你换一种烧法，不就成新的了吗？焖的换成煮的，煮的换成炸的，看你们几个大眼瞪小眼的，跟傻子似的，怎么的，我说错啦，啊——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白回头见掌柜的在楼上"
+        },
+        {
+          "type": "line",
+          "line": "错了，而且是大错特错。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你现在应该在哪儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "尊敬的各位客官，首先请接受我诚挚的祝福。进来吃两口。"
+        }
+      ]
+    }
+  ]
+}

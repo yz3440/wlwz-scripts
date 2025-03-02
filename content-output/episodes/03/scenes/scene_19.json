@@ -4,110 +4,196 @@
   "location": "大堂",
   "timeOfDay": "夜",
   "performances": [
-    { "type": "action", "description": "秀才站在桌上，拿着绳子，准备上吊" },
+    {
+      "type": "action",
+      "description": "秀才站在桌上，拿着绳子，准备上吊"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "秀才！秀才！干啥呢！来人呐！" },
-        { "type": "speaker-action", "description": "拽住秀才" },
-        { "type": "line", "line": "秀才，好死不如赖活着" },
+        {
+          "type": "line",
+          "line": "秀才！秀才！干啥呢！来人呐！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拽住秀才"
+        },
+        {
+          "type": "line",
+          "line": "秀才，好死不如赖活着"
+        },
         {
           "type": "speaker-action",
           "description": "将秀才拽下桌，大嘴、小郭、小贝从门帘跑进，掌柜从楼上下"
         },
-        { "type": "line", "line": "人生没有过不去的坎……" }
+        {
+          "type": "line",
+          "line": "人生没有过不去的坎……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你干吗呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干吗呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我没想死！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没想死！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "没？那你这是干啥呢，你？啊？！" }
+        {
+          "type": "line",
+          "line": "没？那你这是干啥呢，你？啊？！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "就是啊！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "头悬梁。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你吓死我了你！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "朝老白" },
-        { "type": "line", "line": "你坐那，" },
+        {
+          "type": "line",
+          "line": "头悬梁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你吓死我了你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "朝老白"
+        },
+        {
+          "type": "line",
+          "line": "你坐那，"
+        },
         {
           "type": "speaker-action",
           "description": "指凳子。老白坐过去，然后脸色变得难看"
         },
-        { "type": "line", "line": "锥刺股。" }
+        {
+          "type": "line",
+          "line": "锥刺股。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "啊！！扎死我了！！！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！！扎死我了！！！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "咋的啦？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎呀妈呀！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "这楔子削得够尖的呀！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "让你多嘴，告诉朱先生我写小说。" }
+        {
+          "type": "line",
+          "line": "咋的啦？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那不是我说的……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这楔子削得够尖的呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "被人再说什么话我已经不会往心里去了。" }
+        {
+          "type": "line",
+          "line": "让你多嘴，告诉朱先生我写小说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不是我说的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "被人再说什么话我已经不会往心里去了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "早就该这样了，你是咋想通的？" }
+        {
+          "type": "line",
+          "line": "早就该这样了，你是咋想通的？"
+        }
       ]
     },
     {
@@ -124,8 +210,14 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "趴在床上，大嘴在帮他按摩" },
-        { "type": "line", "line": "哎呀，你要求还真不高啊……哎呀妈呀！" }
+        {
+          "type": "speaker-action",
+          "description": "趴在床上，大嘴在帮他按摩"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，你要求还真不高啊……哎呀妈呀！"
+        }
       ]
     },
     {
@@ -158,104 +250,189 @@
         }
       ]
     },
-    { "type": "action", "description": "众人鼓掌" },
+    {
+      "type": "action",
+      "description": "众人鼓掌"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你想好写啥了没？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想好写啥了没？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "这个题材，还没有人碰过。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个题材，还没有人碰过。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "啥题材啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥题材啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "武侠。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "武侠。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "武侠？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "武侠是啥呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "就是江湖恩怨，儿女情仇呗！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你知道啥叫江湖吗？！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "你们不都是来自江湖吗？我问你就行了。" }
+        {
+          "type": "line",
+          "line": "武侠？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哦……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "题目有没有？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "题目还没想好。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "我给你想一个，就叫《白发魔头传》！" }
+        {
+          "type": "line",
+          "line": "武侠是啥呀？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我写的是武侠，不是神怪！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是江湖恩怨，儿女情仇呗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道啥叫江湖吗？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们不都是来自江湖吗？我问你就行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "题目有没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "题目还没想好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你想一个，就叫《白发魔头传》！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我写的是武侠，不是神怪！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "那就叫《四大神捕》！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就叫《四大神捕》！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "朝廷的人你也敢碰？你个厨子不想活了！" }
+        {
+          "type": "line",
+          "line": "朝廷的人你也敢碰？你个厨子不想活了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "哎，我有一个——《射鸟英雄传》！" }
+        {
+          "type": "line",
+          "line": "哎，我有一个——《射鸟英雄传》！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "有点鸟意思啊，说啥的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "有点鸟意思啊，说啥的？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -271,20 +448,31 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "俗！而且小气。我要写的是整个武林。" }
+        {
+          "type": "line",
+          "line": "俗！而且小气。我要写的是整个武林。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "哎……我有一个——《天龙十二部》。" }
+        {
+          "type": "line",
+          "line": "哎……我有一个——《天龙十二部》。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "说什么的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说什么的？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -299,7 +487,12 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "不知所云！自己想明白再说。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不知所云！自己想明白再说。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -328,7 +521,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "武～林～外～传……接着写呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "武～林～外～传……接着写呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -338,33 +536,69 @@
           "type": "line",
           "line": "剩下的还没想好呢。哎呀……需要一只新的毛笔，得是湖州的"
         },
-        { "type": "speaker-action", "description": "老白\"哼\"了一声，闪" },
-        { "type": "line", "line": "还要双棉靴，一到晚上就觉得冷" },
-        { "type": "speaker-action", "description": "小郭\"切\"了一声，闪" },
-        { "type": "line", "line": "还要有夜宵，一到半夜肚子饿得慌" },
-        { "type": "speaker-action", "description": "掌柜打个呵欠，闪" },
+        {
+          "type": "speaker-action",
+          "description": "老白\"哼\"了一声，闪"
+        },
+        {
+          "type": "line",
+          "line": "还要双棉靴，一到晚上就觉得冷"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭\"切\"了一声，闪"
+        },
+        {
+          "type": "line",
+          "line": "还要有夜宵，一到半夜肚子饿得慌"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜打个呵欠，闪"
+        },
         {
           "type": "line",
           "line": "最好呢，能有碗热汤面，别忘了卧俩鸡蛋啊，要流黄的"
         },
-        { "type": "speaker-action", "description": "大嘴\"嗤\"一声，闪" },
-        { "type": "line", "line": "还有啊……哎，人呢，就剩你一个啊？" }
+        {
+          "type": "speaker-action",
+          "description": "大嘴\"嗤\"一声，闪"
+        },
+        {
+          "type": "line",
+          "line": "还有啊……哎，人呢，就剩你一个啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嗯，我想跟你一起吃。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，我想跟你一起吃。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "那好，替我磨墨吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，替我磨墨吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嗯……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯……"
+        }
+      ]
     }
   ]
 }

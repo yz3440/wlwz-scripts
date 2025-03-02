@@ -1,1 +1,400 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我来。钱掌柜，吃好啊，你一个人来的呀？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "嗯。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "最近生意还好吧。"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "想当东西啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呀，我有啥好当的嘛？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "嗯？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你娶亲了么？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "废话，我——什么意思啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我是想……你先吃，先吃。"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "其实我早就喜欢你了，咱俩上次第一次见面就喜欢你了。真的，可是我们家娘子，使这一带有名的窝里横，所以我，我不敢纳妾。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "谁让你纳妾了？"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "不当妾？休妻就更不敢了，这要让我娘子知道了，这——"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呀，我不会让她知道的。这些首饰呀。"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "嫁妆都准备好了？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不是的。"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "佟老板，你的一番心意，我就是死也心甘情愿。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎呀，不是的，你听我说，这些首饰……"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "你先留着，我回去先探探她的口风儿，她只要一松口，我一定把你娶到手。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "钱掌柜，我跟你说……"}]}, {"type": "dialog", "speaker": "钱掌柜", "performances": [{"type": "line", "line": "等我的好消息。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哎，钱掌柜！"}]}, {"type": "action", "description": "钱掌柜出，老邢入"}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "这是咋了？风风火火的？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "喝多了。咋？你也来一壶？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "可不敢喝酒。这几天得全天候待岗。随传随到。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咋咧？出啥事情了吗？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "太平山的信王墓被盗啦。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "啥时候的事情？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "半个月前的事儿。为了这事儿，连兵部刘侍郎都到啦。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "都来咱这儿了？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "啊！据可靠线报，部分赃款还在这一带流传。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不可能！"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "怎么不可能？你别以为治安好就没有坏人了啊。你到大街看看啊，看看挺老实的人，没准就是一个流窜多年的江洋大盗。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "那你们下一步打算怎么办啊？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "守株待兔。我们在所有商铺都埋了点儿，保密啊，我只对你一个人说的。"}, {"type": "speaker-action", "description": "指食客"}, {"type": "line", "line": "吃饭！到时候，只等罪犯出现，人赃俱获，连审都免了，直接推倒法场，咔嚓。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "speaker-action", "description": "掌柜的摸脖子"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "你摸脖子干什么？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这才四月份，哪来的蚊子呀？"}]}, {"type": "dialog", "speaker": "邢育森", "performances": [{"type": "line", "line": "哈哈哈哈。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来。钱掌柜，吃好啊，你一个人来的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最近生意还好吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想当东西啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我有啥好当的嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娶亲了么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，我——什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是想……你先吃，先吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实我早就喜欢你了，咱俩上次第一次见面就喜欢你了。真的，可是我们家娘子，使这一带有名的窝里横，所以我，我不敢纳妾。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁让你纳妾了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不当妾？休妻就更不敢了，这要让我娘子知道了，这——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我不会让她知道的。这些首饰呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫁妆都准备好了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟老板，你的一番心意，我就是死也心甘情愿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，不是的，你听我说，这些首饰……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先留着，我回去先探探她的口风儿，她只要一松口，我一定把你娶到手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱掌柜，我跟你说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等我的好消息。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，钱掌柜！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱掌柜出，老邢入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是咋了？风风火火的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝多了。咋？你也来一壶？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不敢喝酒。这几天得全天候待岗。随传随到。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋咧？出啥事情了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太平山的信王墓被盗啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥时候的事情？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "半个月前的事儿。为了这事儿，连兵部刘侍郎都到啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都来咱这儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！据可靠线报，部分赃款还在这一带流传。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不可能？你别以为治安好就没有坏人了啊。你到大街看看啊，看看挺老实的人，没准就是一个流窜多年的江洋大盗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们下一步打算怎么办啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "守株待兔。我们在所有商铺都埋了点儿，保密啊，我只对你一个人说的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指食客"
+        },
+        {
+          "type": "line",
+          "line": "吃饭！到时候，只等罪犯出现，人赃俱获，连审都免了，直接推倒法场，咔嚓。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掌柜的摸脖子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你摸脖子干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这才四月份，哪来的蚊子呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈。"
+        }
+      ]
+    }
+  ]
+}

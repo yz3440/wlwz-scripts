@@ -1,1 +1,156 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "action", "description": "湘玉背着大袋子进"}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "哈哈哈哈，以为能难倒我。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "什么呀，这是？"}, {"type": "line", "line": "这么多钱，你想干吗呀？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "三十两银子，我全都换成了一文一文的散钱。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "行了行了行了！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这就送到衙门去……"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "为什么呀？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "税款喽！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "不对吧，前两天刚交过税的？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "无所谓，就说算错帐了，漏交的。这么多的钱，我看他们数到什么时候去！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你不是想趁人家数钱的时候……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "正有此意！跟我斗，等着我得好消息呀！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "这次能成吗，这次能成吗，这次能成吗，这次能成吗？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "成不成我是不知道啊，我只知道，再不成，她就要疯了"}]}, {"type": "dialog", "speaker": "客人", "performances": [{"type": "line", "line": "算帐。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "湘玉背着大袋子进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈，以为能难倒我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么呀，这是？"
+        },
+        {
+          "type": "line",
+          "line": "这么多钱，你想干吗呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十两银子，我全都换成了一文一文的散钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了行了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就送到衙门去……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "税款喽！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不对吧，前两天刚交过税的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓，就说算错帐了，漏交的。这么多的钱，我看他们数到什么时候去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是想趁人家数钱的时候……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "正有此意！跟我斗，等着我得好消息呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这次能成吗，这次能成吗，这次能成吗，这次能成吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "成不成我是不知道啊，我只知道，再不成，她就要疯了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "客人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算帐。"
+        }
+      ]
+    }
+  ]
+}

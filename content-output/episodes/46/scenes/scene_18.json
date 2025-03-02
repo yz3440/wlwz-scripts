@@ -1,116 +1,12 @@
 {
   "type": "normal",
-  "rawDescription": "【佟寝，昼】",
-  "location": "佟寝",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
   "timeOfDay": "昼",
   "performances": [
     {
       "type": "action",
-      "description": "搬出嫁妆兵器箱"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "展堂，称手的兵器挑上两三件件，找姓岳的谈一谈。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我跟他有啥好谈的呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "软的我已经用过了，没有用，咱只好来点硬的——你不会不敢吧？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "敢是敢。问题是，这合适吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "只要小贝能平安，别的我啥都不管。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "只要是不比剑，我应该不会输给他，问题是人家是一派之长，把他得罪了，领一帮人到这寻仇怎么办？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "要寻也是寻我嘛，跟你有啥关系嘛？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "要说你这人就太实诚了，脑子不会转弯儿。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "呦，你转一个我看一看？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "其实想赢得比赛，办法很多。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "字幕：方案一"
+      "description": "岳松涛占卜，佟湘玉敲门"
     },
     {
       "type": "dialog",
@@ -118,23 +14,37 @@
       "performances": [
         {
           "type": "line",
-          "line": "出招吧。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "开始。"
+          "line": "门开着呢。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "白展堂洒了岳一脸石灰"
+      "description": "佟湘玉跪下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哎哎哎，你这是干吗？来来来，快起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "跪下"
+        },
+        {
+          "type": "line",
+          "line": "请岳掌门高抬贵手，放过小贝吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -142,17 +52,9 @@
       "performances": [
         {
           "type": "line",
-          "line": "啊！！"
+          "line": "我本来就没打算把她怎么着啊？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人笑，小贝胜利"
-    },
-    {
-      "type": "action",
-      "description": "切回现实"
     },
     {
       "type": "dialog",
@@ -160,13 +62,9 @@
       "performances": [
         {
           "type": "line",
-          "line": "咱能不能想个更高级点的办法？你不要脸小贝还要呢！"
+          "line": "暗器不长眼，交起手来，万一有个什么闪失，我怎么对的起她死去的兄长啊？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "字幕：方案二"
     },
     {
       "type": "dialog",
@@ -174,61 +72,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "出招吧！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "开始。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "咱有软猥甲，耶。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "切回现实"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "关键的时候一个人都用不上！——但是他这个人迷信的很。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "恩？要是迷信的话……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "开饭啦，下楼吃饭啦。"
+          "line": "哎呀，这你放心好了。我呀手下有数，来来来。"
         }
       ]
     },
@@ -238,17 +82,77 @@
       "performances": [
         {
           "type": "line",
-          "line": "咋回事吗？这点开的啥饭嘛。"
+          "line": "那你还把那几个掌门伤成那个样子？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "岳松涛",
       "performances": [
         {
           "type": "line",
-          "line": "迷信……"
+          "line": "那是他们自找啊！本来都说好了的吗，点到为止，可是他们非不听啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你开个价吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开什么价啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要你肯放水，什么条件我都能够答应你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你把我看成什么人了？我岳松涛虽然不是什么正人君子，但这种见不得人的下流伎俩绝不肯为！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "岳掌门……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请。"
         }
       ]
     }

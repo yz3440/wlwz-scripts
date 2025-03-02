@@ -8,16 +8,29 @@
       "type": "action",
       "description": "\"同福客栈\"匾额特写，镜头下拉，到大门口"
     },
-    { "type": "action", "description": "老邢从大门出来，掌柜跟出" },
+    {
+      "type": "action",
+      "description": "老邢从大门出来，掌柜跟出"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "我得走~" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我得走~"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "老邢……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -32,46 +45,82 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你听我说……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "啥也别说了。事已至此，各安天命。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不要走……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "我得走。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你走，我就死给你看。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "你这是何苦呢？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        { "type": "line", "line": "不苦。留不住你的心，也要留住你的人。" }
+        {
+          "type": "line",
+          "line": "你听我说……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "要是人也留不住呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥也别说了。事已至此，各安天命。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要走……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我得走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你走，我就死给你看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这是何苦呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不苦。留不住你的心，也要留住你的人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要是人也留不住呢？"
+        }
+      ]
     },
     {
       "type": "dialog",

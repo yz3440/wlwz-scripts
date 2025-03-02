@@ -4,51 +4,98 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "老白在门口招呼客人" },
+    {
+      "type": "action",
+      "description": "老白在门口招呼客人"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "客官，来里边请！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "客官，来里边请！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "练功" },
-        { "type": "line", "line": "排山倒海！" },
-        { "type": "speaker-action", "description": "不小心扫帚磕到头" },
-        { "type": "line", "line": "白展堂你完蛋啦！" }
+        {
+          "type": "speaker-action",
+          "description": "练功"
+        },
+        {
+          "type": "line",
+          "line": "排山倒海！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "不小心扫帚磕到头"
+        },
+        {
+          "type": "line",
+          "line": "白展堂你完蛋啦！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "我倒觉得该完蛋的是你" },
-        { "type": "speaker-action", "description": "拿着香从柜台走到小郭面前" },
+        {
+          "type": "line",
+          "line": "我倒觉得该完蛋的是你"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿着香从柜台走到小郭面前"
+        },
         {
           "type": "line",
           "line": "，我这儿是客栈又不是垃圾站，给你一柱香，收拾不完，不要想吃晚饭"
         },
-        { "type": "speaker-action", "description": "香供到关公像前" },
-        { "type": "line", "line": "！" }
+        {
+          "type": "speaker-action",
+          "description": "香供到关公像前"
+        },
+        {
+          "type": "line",
+          "line": "！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "懒洋洋地扫地" },
-        { "type": "line", "line": "如果勤劳也是一种错误，那我就马上改掉好了" },
-        { "type": "speaker-action", "description": "把扫帚放一边" },
-        { "type": "line", "line": "~" }
+        {
+          "type": "speaker-action",
+          "description": "懒洋洋地扫地"
+        },
+        {
+          "type": "line",
+          "line": "如果勤劳也是一种错误，那我就马上改掉好了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把扫帚放一边"
+        },
+        {
+          "type": "line",
+          "line": "~"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "勤劳都成这样了，懒起来还不成猪窝了" },
+        {
+          "type": "line",
+          "line": "勤劳都成这样了，懒起来还不成猪窝了"
+        },
         {
           "type": "speaker-action",
           "description": "把抹布给到小郭肩膀上、扫帚塞到小郭手里"
@@ -59,21 +106,38 @@
         }
       ]
     },
-    { "type": "action", "description": "大嘴从后院端菜过来" },
+    {
+      "type": "action",
+      "description": "大嘴从后院端菜过来"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "咋的了，咋的了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的了，咋的了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "指大嘴" },
-        { "type": "line", "line": "你一厨子凑什么热闹赶紧送菜去！" }
+        {
+          "type": "speaker-action",
+          "description": "指大嘴"
+        },
+        {
+          "type": "line",
+          "line": "你一厨子凑什么热闹赶紧送菜去！"
+        }
       ]
     },
-    { "type": "action", "description": "大嘴走到小郭旁边" },
+    {
+      "type": "action",
+      "description": "大嘴走到小郭旁边"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
@@ -87,82 +151,164 @@
     {
       "type": "dialog",
       "speaker": "李大嘴、白展堂",
-      "performances": [{ "type": "line", "line": "那就是跟朝廷过不去！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就是跟朝廷过不去！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "问老白" },
-        { "type": "line", "line": "他姑夫谁啊？" }
+        {
+          "type": "speaker-action",
+          "description": "问老白"
+        },
+        {
+          "type": "line",
+          "line": "他姑夫谁啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "咱知县大老爷呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱知县大老爷呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "你咋跟外人说呢" },
-        { "type": "speaker-action", "description": "对着四周" },
-        { "type": "line", "line": "？低调都低调啊" },
-        { "type": "speaker-action", "description": "指小郭" },
-        { "type": "line", "line": "！自己心里明白就行了，别可哪儿吵吵啊！" }
-      ]
-    },
-    { "type": "action", "description": "老邢、小六进客栈" },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        { "type": "line", "line": "哟，邢捕头来啦！" },
-        { "type": "speaker-action", "description": "指小六" },
-        { "type": "line", "line": "这谁呀？" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "新带的徒弟小六。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        { "type": "speaker-action", "description": "作揖" },
-        { "type": "line", "line": "给大哥大嫂道喜了！" }
+        {
+          "type": "line",
+          "line": "你咋跟外人说呢"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对着四周"
+        },
+        {
+          "type": "line",
+          "line": "？低调都低调啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小郭"
+        },
+        {
+          "type": "line",
+          "line": "！自己心里明白就行了，别可哪儿吵吵啊！"
+        }
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        { "type": "speaker-action", "description": "把小六拽回来" },
-        { "type": "line", "line": "那啥，小六过去专门帮人迎亲的……" }
-      ]
+      "type": "action",
+      "description": "老邢、小六进客栈"
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "哎呀！瞧这小子多喜兴" },
-        { "type": "speaker-action", "description": "摸小六脸，马上缩回来" },
-        { "type": "line", "line": "，哎，二位在这儿坐！我给您弄壶酒去啊。" }
+        {
+          "type": "line",
+          "line": "哟，邢捕头来啦！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小六"
+        },
+        {
+          "type": "line",
+          "line": "这谁呀？"
+        }
       ]
     },
-    { "type": "action", "description": "老邢坐下，小六站在一边，低声进行对话" },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "你个榆木脑袋！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "新带的徒弟小六。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "我怎么啦，师父？" }]
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "作揖"
+        },
+        {
+          "type": "line",
+          "line": "给大哥大嫂道喜了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把小六拽回来"
+        },
+        {
+          "type": "line",
+          "line": "那啥，小六过去专门帮人迎亲的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！瞧这小子多喜兴"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摸小六脸，马上缩回来"
+        },
+        {
+          "type": "line",
+          "line": "，哎，二位在这儿坐！我给您弄壶酒去啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老邢坐下，小六站在一边，低声进行对话"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你个榆木脑袋！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么啦，师父？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -172,7 +318,10 @@
           "type": "line",
           "line": "我把你从乡下调上来，是让你给他们鞠躬行礼的？"
         },
-        { "type": "speaker-action", "description": "小六腼腆的笑" },
+        {
+          "type": "speaker-action",
+          "description": "小六腼腆的笑"
+        },
         {
           "type": "line",
           "line": "不许笑！干咱们这行，讲究的就是个气势，你整天眉开眼笑嘻嘻哈哈的，你震得住谁啊？"
@@ -183,37 +332,76 @@
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "明白了师父，" },
-        { "type": "speaker-action", "description": "指小郭" }
+        {
+          "type": "line",
+          "line": "明白了师父，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小郭"
+        }
       ]
     },
-    { "type": "action", "description": "小六把菜给扣到桌子上" },
+    {
+      "type": "action",
+      "description": "小六把菜给扣到桌子上"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "你，把这收了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，把这收了！"
+        }
+      ]
     },
-    { "type": "action", "description": "小郭把筷子扔掉，小六拔刀" },
+    {
+      "type": "action",
+      "description": "小郭把筷子扔掉，小六拔刀"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "你还敢瞪眼，我砍你了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还敢瞪眼，我砍你了！"
+        }
+      ]
     },
-    { "type": "action", "description": "老邢把小六拽住" },
+    {
+      "type": "action",
+      "description": "老邢把小六拽住"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "哎，过了过了，咱们是捕快不是土匪！" }
+        {
+          "type": "line",
+          "line": "哎，过了过了，咱们是捕快不是土匪！"
+        }
       ]
     },
-    { "type": "action", "description": "作揖着过去" },
+    {
+      "type": "action",
+      "description": "作揖着过去"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "那我这就给她赔不是去……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我这就给她赔不是去……"
+        }
+      ]
     },
-    { "type": "action", "description": "又被老邢拉住" },
+    {
+      "type": "action",
+      "description": "又被老邢拉住"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",
@@ -222,109 +410,192 @@
           "type": "speaker-action",
           "description": "冲到小六面前，气的回头摇手指"
         },
-        { "type": "line", "line": "看为师的！" },
+        {
+          "type": "line",
+          "line": "看为师的！"
+        },
         {
           "type": "speaker-action",
           "description": "对小郭"
         },
-        { "type": "line", "line": "小妹妹呀，" }
+        {
+          "type": "line",
+          "line": "小妹妹呀，"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "愤怒地拿扫帚摔地" },
-        { "type": "line", "line": "少废话，把这给我收了！" }
+        {
+          "type": "speaker-action",
+          "description": "愤怒地拿扫帚摔地"
+        },
+        {
+          "type": "line",
+          "line": "少废话，把这给我收了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "这个不急，我怀疑这里边有东西" },
-        { "type": "speaker-action", "description": "指菜" },
-        { "type": "line", "line": "……" }
+        {
+          "type": "line",
+          "line": "这个不急，我怀疑这里边有东西"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指菜"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "急躁" },
-        { "type": "line", "line": "什么东西？" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "盐，不信你尝尝——" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        { "type": "speaker-action", "description": "急躁" },
-        { "type": "line", "line": "废话！什么菜不放盐？" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        { "type": "speaker-action", "description": "敲桌子" },
-        { "type": "line", "line": "我说的是私盐！你好大的胆竟敢私藏私盐，" },
-        { "type": "speaker-action", "description": "挥手示意小郭" },
-        { "type": "line", "line": "走，跟我去趟衙门！" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        { "type": "speaker-action", "description": "往后退一下" },
-        { "type": "line", "line": "凭什么？！" }
+        {
+          "type": "speaker-action",
+          "description": "急躁"
+        },
+        {
+          "type": "line",
+          "line": "什么东西？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "不去也行，" },
-        { "type": "speaker-action", "description": "指桌子上" },
-        { "type": "line", "line": "把这个给我收拾了……" }
+        {
+          "type": "line",
+          "line": "盐，不信你尝尝——"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "指老邢" },
+        {
+          "type": "speaker-action",
+          "description": "急躁"
+        },
+        {
+          "type": "line",
+          "line": "废话！什么菜不放盐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "敲桌子"
+        },
+        {
+          "type": "line",
+          "line": "我说的是私盐！你好大的胆竟敢私藏私盐，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "挥手示意小郭"
+        },
+        {
+          "type": "line",
+          "line": "走，跟我去趟衙门！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "往后退一下"
+        },
+        {
+          "type": "line",
+          "line": "凭什么？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不去也行，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指桌子上"
+        },
+        {
+          "type": "line",
+          "line": "把这个给我收拾了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指老邢"
+        },
         {
           "type": "line",
           "line": "你做梦！我现在就跟你去衙门，你今天把话给我说清楚了！走"
         },
-        { "type": "speaker-action", "description": "拉老邢走" },
-        { "type": "line", "line": "——" }
+        {
+          "type": "speaker-action",
+          "description": "拉老邢走"
+        },
+        {
+          "type": "line",
+          "line": "——"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "speaker-action", "description": "连忙挥手" },
+        {
+          "type": "speaker-action",
+          "description": "连忙挥手"
+        },
         {
           "type": "line",
           "line": "哎，不用了，知县老爷太忙，咱不打扰知县老爷……"
         }
       ]
     },
-    { "type": "action", "description": "老白、掌柜、大嘴拉开双方" },
+    {
+      "type": "action",
+      "description": "老白、掌柜、大嘴拉开双方"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "speaker-action", "description": "指责的态度" },
+        {
+          "type": "speaker-action",
+          "description": "指责的态度"
+        },
         {
           "type": "line",
           "line": "小郭你干啥呀？你怎么净闯祸呀？你怎么这么不懂事啊你呀？"
@@ -335,59 +606,114 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "邢捕头别生气啊，孩子脑子不好使。" }
+        {
+          "type": "line",
+          "line": "邢捕头别生气啊，孩子脑子不好使。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "对对对，小郭本来也没啥错。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，小郭本来也没啥错。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "生气" },
-        { "type": "line", "line": "你们„姑奶奶我不干啦！走开" },
+        {
+          "type": "speaker-action",
+          "description": "生气"
+        },
+        {
+          "type": "line",
+          "line": "你们„姑奶奶我不干啦！走开"
+        },
         {
           "type": "speaker-action",
           "description": "把扫帚一摔，推开大嘴向后院走去"
         },
-        { "type": "line", "line": "！" }
+        {
+          "type": "line",
+          "line": "！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "大嘴看一下，让她不要在后院砸东西" },
-        { "type": "speaker-action", "description": "大嘴去后院" },
-        { "type": "line", "line": "。" }
+        {
+          "type": "line",
+          "line": "大嘴看一下，让她不要在后院砸东西"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴去后院"
+        },
+        {
+          "type": "line",
+          "line": "。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "speaker-action", "description": "手往后指" },
-        { "type": "line", "line": "这哪买的个丫头，反了教儿了还！信不信" },
-        { "type": "speaker-action", "description": "拔刀，客人跑掉" },
-        { "type": "line", "line": "！" }
+        {
+          "type": "speaker-action",
+          "description": "手往后指"
+        },
+        {
+          "type": "line",
+          "line": "这哪买的个丫头，反了教儿了还！信不信"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔刀，客人跑掉"
+        },
+        {
+          "type": "line",
+          "line": "！"
+        }
       ]
     },
-    { "type": "action", "description": "老白、秀才、掌柜追" },
+    {
+      "type": "action",
+      "description": "老白、秀才、掌柜追"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "没给钱呢……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没给钱呢……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "去扶老邢坐下" },
-        { "type": "line", "line": "老邢，我信我信" },
-        { "type": "speaker-action", "description": "把老邢的刀给插回去" },
+        {
+          "type": "speaker-action",
+          "description": "去扶老邢坐下"
+        },
+        {
+          "type": "line",
+          "line": "老邢，我信我信"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把老邢的刀给插回去"
+        },
         {
           "type": "line",
           "line": "，你教训她倒没有关系，我就怕她爹知道了这事不太好办……"
@@ -398,8 +724,14 @@
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "speaker-action", "description": "没好气的" },
-        { "type": "line", "line": "他爹谁呀！" }
+        {
+          "type": "speaker-action",
+          "description": "没好气的"
+        },
+        {
+          "type": "line",
+          "line": "他爹谁呀！"
+        }
       ]
     },
     {
@@ -409,18 +741,31 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "郭巨侠！郭巨侠！！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭巨侠！郭巨侠！！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "这名字怎么那么怪啊，师父？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这名字怎么那么怪啊，师父？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "speaker-action", "description": "喘粗气" },
+        {
+          "type": "speaker-action",
+          "description": "喘粗气"
+        },
         {
           "type": "line",
           "line": "这不是名字，这是称呼，一般人都叫大侠……可她爹是大侠中的大侠，所以叫巨侠呀！"
@@ -431,8 +776,14 @@
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "speaker-action", "description": "疑惑" },
-        { "type": "line", "line": "有那么厉害吗？" }
+        {
+          "type": "speaker-action",
+          "description": "疑惑"
+        },
+        {
+          "type": "line",
+          "line": "有那么厉害吗？"
+        }
       ]
     },
     {
@@ -443,35 +794,61 @@
           "type": "line",
           "line": "六扇门的四大神捕有三个都是他徒弟，而且武功都是最差的三个，能不厉害吗！"
         },
-        { "type": "speaker-action", "description": "转身过去" },
+        {
+          "type": "speaker-action",
+          "description": "转身过去"
+        },
         {
           "type": "line",
           "line": "佟掌柜啊，郭巨侠的千金，怎么能在你这儿打杂呢"
         },
-        { "type": "speaker-action", "description": "挠后脑勺" },
-        { "type": "line", "line": "？" }
+        {
+          "type": "speaker-action",
+          "description": "挠后脑勺"
+        },
+        {
+          "type": "line",
+          "line": "？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "捂嘴笑" },
-        { "type": "line", "line": "啥叫本事，低调不要说出去啊！" }
+        {
+          "type": "speaker-action",
+          "description": "捂嘴笑"
+        },
+        {
+          "type": "line",
+          "line": "啥叫本事，低调不要说出去啊！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "speaker-action", "description": "祈求的态度" },
-        { "type": "line", "line": "佟掌柜，我能不能求郭巨侠的签名啊？" }
+        {
+          "type": "speaker-action",
+          "description": "祈求的态度"
+        },
+        {
+          "type": "line",
+          "line": "佟掌柜，我能不能求郭巨侠的签名啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "那你以后就要对她好一点啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你以后就要对她好一点啊！"
+        }
+      ]
     }
   ]
 }

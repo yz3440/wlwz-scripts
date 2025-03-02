@@ -1,1 +1,184 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "有人吗？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎呀妈呀，这咋这么脏呢？这店呐，是人住的吗？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "知之为知之，不知为不知，是知也~~~"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我的神呀！你是谁呀！你说啥呢？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "小生吕轻候，未知两位大驾光临，有失远迎，还请宽恕则个~~"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "好好好则个则个，有没有空房？给我们找一间，赶紧的。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "不用找，本店全是空房。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "先不要管房间，给我先弄点儿吃的。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "对不起，本店没这项业务。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那你就把我们门外的箱子搬进来。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "对不起，本店同样没有这项业务。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我给你钱。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "对不起.——给多少钱？——也不能搬，正所谓贫贱不能移，富贵不能淫„"}, {"type": "speaker-action", "description": "白抬手恐吓秀才"}, {"type": "line", "line": "威武不能屈……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不屈不屈，他不搬算了，我来"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那敢情好。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "我来看着你搬，去吧，"}, {"type": "speaker-action", "description": "拽着白"}, {"type": "line", "line": "小心点儿啊，千万不要把箱子划破了，我还是跟着你。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有人吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，这咋这么脏呢？这店呐，是人住的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知之为知之，不知为不知，是知也~~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的神呀！你是谁呀！你说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小生吕轻候，未知两位大驾光临，有失远迎，还请宽恕则个~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好则个则个，有没有空房？给我们找一间，赶紧的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用找，本店全是空房。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先不要管房间，给我先弄点儿吃的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，本店没这项业务。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就把我们门外的箱子搬进来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，本店同样没有这项业务。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起.——给多少钱？——也不能搬，正所谓贫贱不能移，富贵不能淫„"
+        },
+        {
+          "type": "speaker-action",
+          "description": "白抬手恐吓秀才"
+        },
+        {
+          "type": "line",
+          "line": "威武不能屈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不屈不屈，他不搬算了，我来"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那敢情好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来看着你搬，去吧，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拽着白"
+        },
+        {
+          "type": "line",
+          "line": "小心点儿啊，千万不要把箱子划破了，我还是跟着你。"
+        }
+      ]
+    }
+  ]
+}

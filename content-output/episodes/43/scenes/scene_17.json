@@ -1,20 +1,26 @@
 {
   "type": "normal",
-  "rawDescription": "【佟寝，昼】",
-  "location": "佟寝",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
   "timeOfDay": "昼",
   "performances": [
     {
-      "type": "action",
-      "description": "白三娘进，掌柜的装晕"
-    },
-    {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白三娘",
       "performances": [
         {
           "type": "line",
-          "line": "掌柜的，你是给活活累晕的呀，你醒醒，你醒醒，你醒醒啊。你要不醒，我们一大家人可怎么活呀？"
+          "line": "你说啥，我虐待她？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她都那样了，不是虐待是啥呀？"
         }
       ]
     },
@@ -24,47 +30,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "别装了，我知道你醒着。"
+          "line": "以前我就听人家说呀，娶了媳妇忘了娘，我根本就没当回事儿，现在看来，这是真的。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "你想干什么？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我想找我的媳妇谈谈不行啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "谈什么啊？——慢慢谈啊，我先下去了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "小郭……你，你不要过来啊。"
+          "line": "你甭管怎么说啊，以后你不准再欺负湘玉了！"
         }
       ]
     },
@@ -74,37 +50,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "你别害怕，娘不会再为难你了，真的，娘以后再也不让你干活了。"
+          "line": "既然你这么说，那我就走了好了！眼不见心不烦！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "你可以发个誓吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我可以发誓，娘以后要是再逼你干活，嗯，就让我失去你这儿媳——和儿子。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "谢天谢地，你是我生平见过的最善良的婆婆。"
+          "line": "娘！我不是那意思。"
         }
       ]
     },
@@ -114,37 +70,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "那你知道我为什么要那样对待你吗？"
+          "line": "你别管我，你别拉着我。反正我这一个老婆子，皮糙肉厚的，走到哪儿饿不死，我就大不了要饭去。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "心理变态？——是不可能的，你不管做什么都是为了我好。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你知道就好，当我们白家的媳妇，男尊女卑，三从四德——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我一定会遵守的。"
+          "line": "干啥呢你这是？"
         }
       ]
     },
@@ -154,17 +90,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "那倒没有必要，我是想说，我们是武林中人，没那么迂腐。男尊女卑，纯属胡扯；三从四德，更是可乐。让它们通通见鬼去。"
+          "line": "以前我一个人，没有人管我，我不也活的好好儿的。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "啊嗬嗬，你是我生平见过的最开明的婆婆。"
+          "line": "娘！"
         }
       ]
     },
@@ -174,7 +110,117 @@
       "performances": [
         {
           "type": "line",
-          "line": "等我说完了你再夸，当我们白家的儿媳妇，另有一套规矩——"
+          "line": "再叫几声儿，娘存在心坎里，啥时候娘想你的时候，就调出来听听。也算娘没白养活你一回。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘！你——哎呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道吧，娘做得每一件事儿可都是为你好啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你都把她欺负成那样了，还是为我好呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俗话说，棍棒底下出孝子，脏活累活出孝媳！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那后一句是俗话吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那俗话不也是人编的，我不对她狠点儿，她不得欺负到你头上去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉就不是那种人，你没来之前人家对我挺好的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来了之后，她对你更好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我用不着！现在这样就挺好。——娘，你心疼我，我知道，可人家也有爹娘啊。人家爹娘见到人家现在成这样了，那人家得心疼成啥样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那——你希望我咋做呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你对她好一点儿，就算不好，你也别再折腾她了，行吗？"
         }
       ]
     }

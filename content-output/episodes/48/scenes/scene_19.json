@@ -7,7 +7,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "来来来，钱老板。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，钱老板。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -32,109 +37,195 @@
     {
       "type": "dialog",
       "speaker": "吕、李",
-      "performances": [{ "type": "line", "line": "惨。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "两个字。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕、李",
-      "performances": [{ "type": "line", "line": "好惨。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "三个字。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕、李",
-      "performances": [{ "type": "line", "line": "惨惨惨。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "到底什么意思，快直接说呀。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "我教你武功，练成了以后你娘子对你一个字。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕、李",
-      "performances": [{ "type": "line", "line": "怕。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "两个字。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕、李",
-      "performances": [{ "type": "line", "line": "好怕。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "三个字。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "钱掌柜",
-      "performances": [
-        { "type": "line", "line": "别逗啦！我娘子练的是十三太保横练金钟罩。" }
+        {
+          "type": "line",
+          "line": "惨。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "嘿，我教你的武功专治金钟罩，大嘴。" }
+        {
+          "type": "line",
+          "line": "两个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好惨。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "惨惨惨。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到底什么意思，快直接说呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我教你武功，练成了以后你娘子对你一个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怕。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好怕。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别逗啦！我娘子练的是十三太保横练金钟罩。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，我教你的武功专治金钟罩，大嘴。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "两个月之前，我跟你一样，两个月之后……" }
+        {
+          "type": "line",
+          "line": "两个月之前，我跟你一样，两个月之后……"
+        }
       ]
     },
-    { "type": "action", "description": "老白把大嘴点住" },
+    {
+      "type": "action",
+      "description": "老白把大嘴点住"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你娘子跟他一样。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娘子跟他一样。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "嘿，这得多少钱啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，这得多少钱啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "你们家不是已经有俩厨子了吗？" }
+        {
+          "type": "line",
+          "line": "你们家不是已经有俩厨子了吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "我说这功夫。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说这功夫。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "三百两，现交现学，包教包会。" }
+        {
+          "type": "line",
+          "line": "三百两，现交现学，包教包会。"
+        }
       ]
     },
     {
@@ -150,18 +241,31 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "哈哈哈。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "——我也拿不出来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "——我也拿不出来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "那你先教一百两，学成之后再交二百两。" }
+        {
+          "type": "line",
+          "line": "那你先教一百两，学成之后再交二百两。"
+        }
       ]
     },
     {
@@ -178,13 +282,21 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "那，那你在这儿糊弄事儿干嘛呢？" }
+        {
+          "type": "line",
+          "line": "那，那你在这儿糊弄事儿干嘛呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "就是啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -196,23 +308,39 @@
         }
       ]
     },
-    { "type": "action", "description": "众人商议" },
+    {
+      "type": "action",
+      "description": "众人商议"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "好，就这么定了，什么时候学？" }
+        {
+          "type": "line",
+          "line": "好，就这么定了，什么时候学？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "钱掌柜",
-      "performances": [{ "type": "line", "line": "现在。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "走。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走。"
+        }
+      ]
     }
   ]
 }

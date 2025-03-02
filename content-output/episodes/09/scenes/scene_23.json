@@ -7,7 +7,12 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嫂子，以后我再也不调皮了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，以后我再也不调皮了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -22,13 +27,21 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "恩，我以后知道该怎么做啦。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩，我以后知道该怎么做啦。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "就长话短说，你到底碰见啥事情了。" }
+        {
+          "type": "line",
+          "line": "就长话短说，你到底碰见啥事情了。"
+        }
       ]
     },
     {
@@ -44,33 +57,55 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "行了，早点睡吧啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，早点睡吧啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "speaker-action", "description": "梦话" },
-        { "type": "line", "line": "Good night。" }
+        {
+          "type": "speaker-action",
+          "description": "梦话"
+        },
+        {
+          "type": "line",
+          "line": "Good night。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "姑奶？她咋管谁都叫姑奶，这不是差辈分了吗……" }
+        {
+          "type": "line",
+          "line": "姑奶？她咋管谁都叫姑奶，这不是差辈分了吗……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "欢迎到平谷飞龙影视基地……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "欢迎到平谷飞龙影视基地……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "这个娃脑子出问题了，咋回事情？" }
+        {
+          "type": "line",
+          "line": "这个娃脑子出问题了，咋回事情？"
+        }
       ]
     },
     {
@@ -80,7 +115,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这是个啥吗，咋没有见过……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是个啥吗，咋没有见过……"
+        }
+      ]
     }
   ]
 }

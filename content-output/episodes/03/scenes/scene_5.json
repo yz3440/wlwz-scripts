@@ -4,11 +4,19 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "秀才化妆成书童从门帘进" },
+    {
+      "type": "action",
+      "description": "秀才化妆成书童从门帘进"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "妈呀！小贝长大了？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "妈呀！小贝长大了？！"
+        }
+      ]
     },
     {
       "type": "action",
@@ -18,35 +26,61 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "怎么样？我看起来不会太老吧？" }
+        {
+          "type": "line",
+          "line": "怎么样？我看起来不会太老吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂，郭芙蓉",
-      "performances": [{ "type": "line", "line": "挺……嫩的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "挺……嫩的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "这有掌柜的镜子，你自己照一下。" }
+        {
+          "type": "line",
+          "line": "这有掌柜的镜子，你自己照一下。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "子啊，这是谁呀？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "子啊，这是谁呀？！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "妖精。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "妖精。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "拿走拿走！那不是我！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿走拿走！那不是我！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -61,29 +95,52 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "你说谁呢你？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说谁呢你？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "瞧，观音发话了，咱闪远点吧！" }
+        {
+          "type": "line",
+          "line": "瞧，观音发话了，咱闪远点吧！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嫂子，你看他呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，你看他呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我看着呢嘛……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看着呢嘛……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你看我干啥呀？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看我干啥呀？！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -98,12 +155,22 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎，得有得有！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，得有得有！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "对对对！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -118,12 +185,22 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "肯定要有。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定要有。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我又不是唐僧，用不着保镖！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又不是唐僧，用不着保镖！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -149,13 +226,21 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "说不定哪儿就杀出个程咬金来！" }
+        {
+          "type": "line",
+          "line": "说不定哪儿就杀出个程咬金来！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "一般小毛贼是她对手吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "一般小毛贼是她对手吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -171,54 +256,99 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "就为了跟一个丫头片子过不去？" }
+        {
+          "type": "line",
+          "line": "就为了跟一个丫头片子过不去？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你到底干还是不干？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "不干！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "我到衙门去聊聊展堂的光辉历史啊……" }
+        {
+          "type": "line",
+          "line": "你到底干还是不干？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "喂！" },
-        { "type": "speaker-action", "description": "挤出笑脸" },
-        { "type": "line", "line": "不就是保镖吗„行！" }
+        {
+          "type": "line",
+          "line": "不干！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "打扮的酷一点啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我到衙门去聊聊展堂的光辉历史啊……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "嗯。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "挤出笑脸"
+        },
+        {
+          "type": "line",
+          "line": "不就是保镖吗„行！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "妖魔鬼怪怎么对付呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "打扮的酷一点啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "明白了……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妖魔鬼怪怎么对付呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明白了……"
+        }
+      ]
     }
   ]
 }

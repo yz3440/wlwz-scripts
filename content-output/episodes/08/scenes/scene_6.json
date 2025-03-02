@@ -4,32 +4,54 @@
   "location": "客房",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "老白敲门，小贝吓得躲到湘玉身后" },
+    {
+      "type": "action",
+      "description": "老白敲门，小贝吓得躲到湘玉身后"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "进来！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "进来！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你不在大堂呆着，跑这儿来了呢？趁热吃了吧。" }
+        {
+          "type": "line",
+          "line": "你不在大堂呆着，跑这儿来了呢？趁热吃了吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "不着急先放那儿吧，你先歇会儿吧。" }
+        {
+          "type": "line",
+          "line": "不着急先放那儿吧，你先歇会儿吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "咋回事儿啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋回事儿啊？"
+        }
+      ]
     },
-    { "type": "action", "description": "小贝探出头，吓了老白一跳" },
+    {
+      "type": "action",
+      "description": "小贝探出头，吓了老白一跳"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -38,13 +60,21 @@
           "type": "line",
           "line": "呀！这谁家孩子埋汰的，你看人家干净的，出来，上外头要饭去，走走走„"
         },
-        { "type": "speaker-action", "description": "说着就轰小贝走" }
+        {
+          "type": "speaker-action",
+          "description": "说着就轰小贝走"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我在楼下碰见的，你不熟吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我在楼下碰见的，你不熟吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -59,37 +89,74 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我爹早死了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我爹早死了。"
+        }
+      ]
     },
-    { "type": "action", "description": "老白又跑到箱子前" },
+    {
+      "type": "action",
+      "description": "老白又跑到箱子前"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不要动。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要动。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "没动，谁动了？" },
-        { "type": "speaker-action", "description": "对小贝" },
-        { "type": "line", "line": "你爹死了，你娘呢？" }
+        {
+          "type": "line",
+          "line": "没动，谁动了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小贝"
+        },
+        {
+          "type": "line",
+          "line": "你爹死了，你娘呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我娘也死了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我娘也死了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那你家还有谁呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你家还有谁呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "除了我，全都死光啦。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "除了我，全都死光啦。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -99,64 +166,118 @@
           "type": "line",
           "line": "这孩子，一看就命硬，逮谁克谁，赶紧让她走，"
         },
-        { "type": "speaker-action", "description": "湘玉瞪他" },
-        { "type": "line", "line": "她不走我走。" },
-        { "type": "speaker-action", "description": "说完转身就跑" }
+        {
+          "type": "speaker-action",
+          "description": "湘玉瞪他"
+        },
+        {
+          "type": "line",
+          "line": "她不走我走。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完转身就跑"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "站住！你要再走一步我就发射了！" }
+        {
+          "type": "line",
+          "line": "站住！你要再走一步我就发射了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "射啥呀？你……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "射啥呀？你……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "烽火霹雳弹！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "烽火霹雳弹！"
+        }
+      ]
     },
-    { "type": "action", "description": "老白吓得一趔趄" },
+    {
+      "type": "action",
+      "description": "老白吓得一趔趄"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "龙门镖局的独门暗器！……你啥意思你？" }
+        {
+          "type": "line",
+          "line": "龙门镖局的独门暗器！……你啥意思你？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "谁让你冒充我哥了！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁让你冒充我哥了！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你哥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你哥？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "她相公。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她相公。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "……谁……谁冒充。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "……谁……谁冒充。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "不说是吧？就休怪我不客气了！" }
+        {
+          "type": "line",
+          "line": "不说是吧？就休怪我不客气了！"
+        }
       ]
     },
-    { "type": "action", "description": "老白吓得跪地" },
+    {
+      "type": "action",
+      "description": "老白吓得跪地"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -170,7 +291,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "嗯？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -185,7 +311,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "拣重点的说！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "拣重点的说！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -201,7 +332,10 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "你还是没说为什么要冒充我哥。" }
+        {
+          "type": "line",
+          "line": "你还是没说为什么要冒充我哥。"
+        }
       ]
     },
     {
@@ -218,15 +352,24 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "咋不能？我哥就在下面等着她呢！" }
+        {
+          "type": "line",
+          "line": "咋不能？我哥就在下面等着她呢！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "下面？" },
-        { "type": "speaker-action", "description": "冲着楼下喊" },
+        {
+          "type": "line",
+          "line": "下面？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲着楼下喊"
+        },
         {
           "type": "line",
           "line": "莫大侠啥时候来的呀，你看咋不通知兄弟一声呢？哎呀，一看就把我当外人了，哈哈哈——你哥轻功怎么样？"
@@ -237,62 +380,119 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "我哥要是有轻功，就不会死啦！" }
+        {
+          "type": "line",
+          "line": "我哥要是有轻功，就不会死啦！"
+        }
       ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你哥死了？！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "嗯。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哈哈哈哈哈，真是天——" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "嗯？" }]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "——妒英才呀……" },
-        { "type": "speaker-action", "description": "假哭" }
+        {
+          "type": "line",
+          "line": "你哥死了？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈哈，真是天——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——妒英才呀……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "假哭"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝、佟湘玉",
-      "performances": [{ "type": "line", "line": "哥（相公）！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哥（相公）！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "莫大侠，你死得好冤啊~~~" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫大侠，你死得好冤啊~~~"
+        }
+      ]
     },
-    { "type": "action", "description": "老白见机想跑，被湘玉一把抓住" },
+    {
+      "type": "action",
+      "description": "老白见机想跑，被湘玉一把抓住"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "娘子~" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘子~"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你管我叫啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你管我叫啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "大姐，我求求你放了我吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大姐，我求求你放了我吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -308,22 +508,34 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "不是，我去给莫大侠上坟去我。" }
+        {
+          "type": "line",
+          "line": "不是，我去给莫大侠上坟去我。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "用不着，我哥掉进悬崖，尸骨无存，哥~~" }
+        {
+          "type": "line",
+          "line": "用不着，我哥掉进悬崖，尸骨无存，哥~~"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "苍天呐！走不了啦~~！" },
-        { "type": "speaker-action", "description": "三人抱在一起哭" }
+        {
+          "type": "line",
+          "line": "苍天呐！走不了啦~~！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "三人抱在一起哭"
+        }
       ]
     }
   ]

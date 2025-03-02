@@ -1,1 +1,147 @@
-{"type": "normal", "rawDescription": "【客栈外，昼】", "location": "客栈外", "timeOfDay": "昼", "context": null, "performances": [{"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "货带来了吗？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "带来了，核桃呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我还没看清楚呢。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "不用看了，这几本书都是我们书院的镇院之宝。除了朱先生以外，谁都没看过。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我凭什么相信你？"}, {"type": "speaker-action", "description": "小贝转身走"}, {"type": "line", "line": "回来。跟你嫂子一样鸡贼，给。把书给我，呀，还想黑吃黑呀，你？拿来。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "要书是吧，可以，先把那故事给我讲了。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "昨儿讲到哪了？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "反手一指。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "我反手一指正中牛蹄子上了。你看我这手。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "然后呢？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "然后然后就被牛踩了七八圈。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "活该。给。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "大嘴大嘴。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "货带来了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "带来了，核桃呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没看清楚呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用看了，这几本书都是我们书院的镇院之宝。除了朱先生以外，谁都没看过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我凭什么相信你？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小贝转身走"
+        },
+        {
+          "type": "line",
+          "line": "回来。跟你嫂子一样鸡贼，给。把书给我，呀，还想黑吃黑呀，你？拿来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要书是吧，可以，先把那故事给我讲了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "昨儿讲到哪了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "反手一指。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我反手一指正中牛蹄子上了。你看我这手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后然后就被牛踩了七八圈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "活该。给。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴大嘴。"
+        }
+      ]
+    }
+  ]
+}

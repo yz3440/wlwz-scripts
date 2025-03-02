@@ -8,160 +8,274 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "太准了，太准了。算得太准了！" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "我的娘，你想干什么？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "帮我算一算我的姻缘。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "我的娘啊，怎么都是算这个？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        { "type": "line", "line": "哎呀，你不知道，大龄青年，苦呀！" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "那你想算什么？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        { "type": "line", "line": "你帮我算算，我什么时候才能遇到那个\"他\"？" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "哪个他？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我的那个他！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "嗯，你没练过武功吧？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "没有，练它干啥吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "哎呀，这就好办了！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "但俺家是开镖局的！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [
-        { "type": "speaker-action", "description": "倒" },
-        { "type": "line", "line": "哎呀，哎呀。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "先生，你咋了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [
-        { "type": "line", "line": "没事儿，那你先把那个八字写上吧。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        { "type": "line", "line": "不用写了，我都准备好了。给我看看，怎么样？" }
+        {
+          "type": "line",
+          "line": "太准了，太准了。算得太准了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "哎呀我的娘啊，你是个克夫之命啊！" }
+        {
+          "type": "line",
+          "line": "我的娘，你想干什么？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "怪不得他死得那么惨。你看这事咋办嘛？" }
+        {
+          "type": "line",
+          "line": "帮我算一算我的姻缘。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "要说这个事也好办，你得破点财。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "没有问题，多少钱？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "五十两。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "为啥要这么多的钱？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [
-        { "type": "line", "line": "这还多吗，啊？主要是给仙人。" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "仙人还要银子啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白眉",
-      "performances": [
-        { "type": "line", "line": "废话呀！开坛烧香拜佛，那个不要钱啊？" }
+        {
+          "type": "line",
+          "line": "我的娘啊，怎么都是算这个？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "开坛烧香，那也花不了这么多钱啊？" }
+        {
+          "type": "line",
+          "line": "哎呀，你不知道，大龄青年，苦呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你想算什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你帮我算算，我什么时候才能遇到那个\"他\"？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪个他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的那个他！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，你没练过武功吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有，练它干啥吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，这就好办了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但俺家是开镖局的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "倒"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，哎呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生，你咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，那你先把那个八字写上吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用写了，我都准备好了。给我看看，怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀我的娘啊，你是个克夫之命啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得他死得那么惨。你看这事咋办嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要说这个事也好办，你得破点财。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有问题，多少钱？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五十两。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥要这么多的钱？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还多吗，啊？主要是给仙人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "仙人还要银子啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话呀！开坛烧香拜佛，那个不要钱啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开坛烧香，那也花不了这么多钱啊？"
+        }
       ]
     },
     {
@@ -177,7 +291,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "能不能少一点儿嘛？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "能不能少一点儿嘛？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -193,13 +312,21 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "我想活。有口无心，有口无心。" }
+        {
+          "type": "line",
+          "line": "我想活。有口无心，有口无心。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "嗯，准备银子吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，准备银子吧！"
+        }
+      ]
     }
   ]
 }

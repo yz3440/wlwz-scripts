@@ -8,25 +8,41 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "什么事儿？不能下边说，非得上来啊？" }
+        {
+          "type": "line",
+          "line": "什么事儿？不能下边说，非得上来啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "下边要能说，还找你上来干啥？" }
+        {
+          "type": "line",
+          "line": "下边要能说，还找你上来干啥？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这些东西你见过吧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些东西你见过吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这不雷老五的东西么？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不雷老五的东西么？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -41,12 +57,22 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "销赃啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "销赃啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋？这点小忙你都不肯帮？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋？这点小忙你都不肯帮？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -61,50 +87,116 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "那你说咋办吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "交衙门去。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "交给衙门是吧？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "对！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "学县衙" },
-        { "type": "line", "line": "东西哪来的呀？" },
-        { "type": "speaker-action", "description": "自己" },
-        { "type": "line", "line": "朋友给的。" },
-        { "type": "speaker-action", "description": "学县衙" },
-        { "type": "line", "line": "那个朋友？" },
-        { "type": "speaker-action", "description": "自己" },
-        { "type": "line", "line": "雷老五。" },
-        { "type": "speaker-action", "description": "学县衙" },
-        { "type": "line", "line": "他又是从哪弄来的呀？" },
-        { "type": "speaker-action", "description": "自己" },
-        { "type": "line", "line": "盗墓时挖的——这不找死吗？" }
+        {
+          "type": "line",
+          "line": "那你说咋办吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那我也没让你实话实说呀。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "交衙门去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你说撒谎？——我不会。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "交给衙门是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "学县衙"
+        },
+        {
+          "type": "line",
+          "line": "东西哪来的呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "自己"
+        },
+        {
+          "type": "line",
+          "line": "朋友给的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "学县衙"
+        },
+        {
+          "type": "line",
+          "line": "那个朋友？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "自己"
+        },
+        {
+          "type": "line",
+          "line": "雷老五。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "学县衙"
+        },
+        {
+          "type": "line",
+          "line": "他又是从哪弄来的呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "自己"
+        },
+        {
+          "type": "line",
+          "line": "盗墓时挖的——这不找死吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我也没让你实话实说呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说撒谎？——我不会。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -119,22 +211,42 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "啥意思啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "把首饰拆开了，一件一件卖。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "把首饰拆开了，一件一件卖。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "卖给谁啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "卖给谁啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "谁有钱卖谁呗。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁有钱卖谁呗。"
+        }
+      ]
     }
   ]
 }

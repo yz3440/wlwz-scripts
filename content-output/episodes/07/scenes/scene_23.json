@@ -4,7 +4,10 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "秀才吃满口大蒜，对着小郭哈气" },
+    {
+      "type": "action",
+      "description": "秀才吃满口大蒜，对着小郭哈气"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
@@ -19,21 +22,35 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "来喽" },
-        { "type": "speaker-action", "description": "搬来一瓦缸" }
+        {
+          "type": "line",
+          "line": "来喽"
+        },
+        {
+          "type": "speaker-action",
+          "description": "搬来一瓦缸"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "臭鸡蛋还有臭豆腐干，再加上咸鱼干……" }
+        {
+          "type": "line",
+          "line": "臭鸡蛋还有臭豆腐干，再加上咸鱼干……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "再拿老陈醋整整泡了一宿……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "再拿老陈醋整整泡了一宿……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -45,7 +62,10 @@
         }
       ]
     },
-    { "type": "action", "description": "大家被熏晕，客人全部跑光" },
+    {
+      "type": "action",
+      "description": "大家被熏晕，客人全部跑光"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
@@ -60,15 +80,24 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "郭芙蓉，你想干啥？你为啥这么臭？" }
+        {
+          "type": "line",
+          "line": "郭芙蓉，你想干啥？你为啥这么臭？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "啊，啊" },
-        { "type": "speaker-action", "description": "掩鼻而出" },
+        {
+          "type": "line",
+          "line": "啊，啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掩鼻而出"
+        },
         {
           "type": "line",
           "line": "里边的人听着，有人举报，你们这里有人自制臭豆腐蛋，这种行为已经严重影响了周围百姓的饮食起居，本捕头在此严正警告，交出臭豆腐蛋，释放人质，这是你唯一出路，我再说一遍……"
@@ -78,85 +107,152 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "闭嘴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭嘴！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "交出臭豆腐蛋，释放人质！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我这都是被他们逼的！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "明明是你先逼我的！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "是你吃大蒜，想活活熏死我先！" }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "是你弄得我鼻青脸肿先！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "是你咬我先！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "是你先揪我耳朵先！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "是你扎草人咒我先！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        { "type": "line", "line": "是你弄伤我的手还骗我用辣椒水洗手先！" }
+        {
+          "type": "line",
+          "line": "交出臭豆腐蛋，释放人质！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "是你在我的碗里搁大蒜花椒先！" }
+        {
+          "type": "line",
+          "line": "我这都是被他们逼的！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "是你用分筋错骨手弄伤我的胳膊先！" }
+        {
+          "type": "line",
+          "line": "明明是你先逼我的！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "是你偷袭我先！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你吃大蒜，想活活熏死我先！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "是你～我什么时候偷袭你了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你弄得我鼻青脸肿先！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "洗衣服的时候！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你咬我先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你先揪我耳朵先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你扎草人咒我先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你弄伤我的手还骗我用辣椒水洗手先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你在我的碗里搁大蒜花椒先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你用分筋错骨手弄伤我的胳膊先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你偷袭我先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你～我什么时候偷袭你了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗衣服的时候！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -171,44 +267,82 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "真的吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "当然是真的了！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "确定一定以及肯定？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我不否认否决以及否定！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那是我对不起你了……" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "闹了半天就为这点儿小事儿？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "事情虽小，可它关乎面子呀，还有尊严……" }
+        {
+          "type": "line",
+          "line": "真的吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "不蒸馒头争口气！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然是真的了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不否认否决以及否定！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是我对不起你了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闹了半天就为这点儿小事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "事情虽小，可它关乎面子呀，还有尊严……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不蒸馒头争口气！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -223,50 +357,101 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "还愣着干啥呢，赶紧收拾吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还愣着干啥呢，赶紧收拾吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我来吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "不用不用，我来吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用不用，我来吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我对不起你，我来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对不起你，我来。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我对不起你。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对不起你。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我对不起你。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对不起你。"
+        }
+      ]
     },
-    { "type": "action", "description": "罐子摔碎了" },
+    {
+      "type": "action",
+      "description": "罐子摔碎了"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "我不是故意的，我的手有伤……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是故意的，我的手有伤……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "跑吧～～～～" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "跑吧～～～～"
+        }
+      ]
     },
-    { "type": "action", "description": "众人撤" },
+    {
+      "type": "action",
+      "description": "众人撤"
+    },
     {
       "type": "dialog",
       "speaker": "邢育森",

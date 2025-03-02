@@ -1,96 +1,95 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，昼】",
-  "location": "大堂",
-  "timeOfDay": "昼",
+  "rawDescription": "【白布景】",
+  "location": "白布景",
+  "timeOfDay": null,
+  "context": null,
   "performances": [
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "众人",
       "performances": [
         {
           "type": "line",
-          "line": "佟掌柜早啊。"
+          "line": "五岳盟主，称霸武林，千秋万代，一统江湖。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "哎呦，去哪儿了呀？"
+          "line": "哈哈哈哈，来人呐，把本座的宝贝儿拿上来。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "采气去了。"
+          "line": "得令！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扛上一垛糖葫芦"
+        },
+        {
+          "type": "line",
+          "line": "盟主，您随便挑！——牙都没了还吃呢。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "采气？"
+          "line": "来人呢。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "郭芙蓉、佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "对啊，这里坐西朝东，北有山南有河，寅时皇气最盛，吸上两口，大吉大利。"
+          "line": "在！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "哎呦，讲究可真多呀。"
+          "line": "糖葫芦留下，把人拖出去，痛打五大板。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "郭、佟",
       "performances": [
         {
           "type": "line",
-          "line": "不讲究不行啊，输怕了。哎，莫掌门还没起啊？"
+          "line": "得令。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "她把先生打伤了，这两天不用上学了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哈哈哈哈哈，不愧是江儿女啊。"
+          "line": "谢帮主！帮主帮主！"
         }
       ]
     }

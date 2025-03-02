@@ -4,7 +4,10 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "大堂饭桌边围满了人" },
+    {
+      "type": "action",
+      "description": "大堂饭桌边围满了人"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
@@ -18,7 +21,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "干干干„" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "干干干„"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -33,7 +41,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋不可能？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋不可能？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -53,7 +66,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "笑什么呀！" },
+        {
+          "type": "line",
+          "line": "笑什么呀！"
+        },
         {
           "type": "line",
           "line": "我第一次离家出走，刚一出门就碰上一黑店，他们十个对付我一个。"
@@ -63,19 +79,32 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "十个？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "十个？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "这还是碰上的，没碰上的至少这个数。" }
+        {
+          "type": "line",
+          "line": "这还是碰上的，没碰上的至少这个数。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "八个？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "八个？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -90,12 +119,22 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "那„你是怎么逃走的呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那„你是怎么逃走的呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那时候厨房不是有个狗洞吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那时候厨房不是有个狗洞吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -117,7 +156,10 @@
         }
       ]
     },
-    { "type": "action", "description": "湘玉起身走开" },
+    {
+      "type": "action",
+      "description": "湘玉起身走开"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
@@ -135,78 +177,156 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "这什么呀，这是——" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这什么呀，这是——"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "发糕！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "发糕！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "两年前那块儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "两年前那块儿？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这块是你的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这块是你的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "什么意思呀，这个？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思呀，这个？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "赶紧吃吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧吃吧！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我„这„" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我„这„"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "要不我给你热热去？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不我给你热热去？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你怎么不吃呀，你……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么不吃呀，你……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "两年前我们都吃过啦！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "两年前我们都吃过啦！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "她就是„" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她就是„"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "逃跑的那个女鬼。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "逃跑的那个女鬼。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "谁是鬼？谁是鬼？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁是鬼？谁是鬼？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "甭跟她废话，直接往里塞！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "甭跟她废话，直接往里塞！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "救命呀~~~！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "救命呀~~~！"
+        }
+      ]
     },
-    { "type": "action", "description": "众人追逐小郭" }
+    {
+      "type": "action",
+      "description": "众人追逐小郭"
+    }
   ]
 }

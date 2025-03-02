@@ -1,158 +1,146 @@
 {
   "type": "normal",
-  "rawDescription": "【客房，昼】",
-  "location": "客房",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
   "timeOfDay": "昼",
   "performances": [
     {
-      "type": "action",
-      "description": "岳松涛占卜，佟湘玉敲门"
-    },
-    {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "门开着呢。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "佟湘玉跪下"
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "哎哎哎，你这是干吗？来来来，快起来。"
+          "line": "小米小米，我这些钱全给我押岳掌门，全押上啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "小米",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "跪下"
-        },
-        {
           "type": "line",
-          "line": "请岳掌门高抬贵手，放过小贝吧。"
+          "line": "行，你小子够有钱的啊？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "我本来就没打算把她怎么着啊？"
+          "line": "老婆本儿，我攒多少年了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "暗器不长眼，交起手来，万一有个什么闪失，我怎么对的起她死去的兄长啊？"
+          "line": "那你就不怕输了？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "哎呀，这你放心好了。我呀手下有数，来来来。"
+          "line": "输不了，就小贝那两下子，能坚持一个回合就不错了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "那你还把那几个掌门伤成那个样子？"
+          "line": "我可打算给我那二钱银子押到小贝身上，万一岳掌门一心慈手软，让小贝找到可乘之机。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "那是他们自找啊！本来都说好了的吗，点到为止，可是他们非不听啊。"
+          "line": "可乘？就她那两下子？她就是乘着她也得坠机啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "你开个价吧？"
+          "line": "人生在世要赌就赌大的，输也就输二钱银子，赢可是赢二十两啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "开什么价啊。"
+          "line": "二十两……不是，二钱，那不也才是四两银子？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "只要你肯放水，什么条件我都能够答应你。"
+          "line": "现在涨到一赔一百！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "你把我看成什么人了？我岳松涛虽然不是什么正人君子，但这种见不得人的下流伎俩绝不肯为！"
+          "line": "一赔一……那我这点钱翻一百倍。哎呀哎呀！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "岳掌门……"
+          "line": "大嘴，咱要不找个机会，观察一下？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "岳松涛",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "请。"
+          "line": "咋观察？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说，你不是还欠我一顿饭吗，晚上咱摆一桌，借花献佛。"
         }
       ]
     }

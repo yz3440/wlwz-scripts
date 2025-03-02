@@ -321,11 +321,17 @@
         {
           "type": "line",
           "line": "喂喂喂，不会吧？"
-        },
-        {
-          "type": "action",
-          "description": "佟湘玉躺倒"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉躺倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "摊上你这么个掌柜的，不知道是福还是祸？"

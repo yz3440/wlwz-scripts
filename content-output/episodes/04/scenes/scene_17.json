@@ -1,1 +1,292 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "action", "description": "第二天早上，鸡鸣"}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "speaker-action", "description": "打着哈欠进大堂，拿着脸盆"}, {"type": "line", "line": "你们不会打了一宿的牌吧？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "老白输的好惨呐！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "闭嘴！老太太想要八筒是吧？"}, {"type": "speaker-action", "description": "拿出张六筒"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "对啊……"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "那好，我就给您个八筒！"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "和了。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "老太太，我打的是六筒！"}]}, {"type": "action", "description": "大嘴娘把牌一摸"}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "我和的就是六筒！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "我看看，哎呀妈呀，还真是卡张和六筒，你看见没有？"}]}, {"type": "action", "description": "小郭笑老白，老白拿手在大嘴娘前晃悠"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "干啥呀？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你娘她真的瞎了吗？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "废话！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "行行行了，不要再废话了，算帐！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "算，算，算。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "算啥帐呀？这就不玩了？接着玩！"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "小郭那六个月都输给我了，你还拿什么玩？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "就是，走走走……"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "走什么走？还有我那六个月呢！你要是把我赢了，在这六个月里，我给李大嘴端茶送水、捏腰捶腿。怎么样？"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "这不大好吧？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "有什么不好？许我做苦工，就不许他卖劳力啦！跟他来！"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "那就玩吧，输了可别不认帐，洗牌！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "等等，今儿您手气好，我甘拜下风，麻将我认怂了，有能耐咱换骰子。"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "没问题，玩什么都可以，老身奉陪到底！"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "您巴巴地赢了我一宿，也该出点血啦，啊，骰盅伺候！"}]}, {"type": "dialog", "speaker": "大嘴娘", "performances": [{"type": "line", "line": "走着走着"}, {"type": "speaker-action", "description": "掌柜、大嘴搀着转移地方"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "慢点慢点……"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "第二天早上，鸡鸣"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打着哈欠进大堂，拿着脸盆"
+        },
+        {
+          "type": "line",
+          "line": "你们不会打了一宿的牌吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白输的好惨呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭嘴！老太太想要八筒是吧？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿出张六筒"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，我就给您个八筒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "和了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老太太，我打的是六筒！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴娘把牌一摸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我和的就是六筒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看看，哎呀妈呀，还真是卡张和六筒，你看见没有？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭笑老白，老白拿手在大嘴娘前晃悠"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娘她真的瞎了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行了，不要再废话了，算帐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算，算，算。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算啥帐呀？这就不玩了？接着玩！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭那六个月都输给我了，你还拿什么玩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是，走走走……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走什么走？还有我那六个月呢！你要是把我赢了，在这六个月里，我给李大嘴端茶送水、捏腰捶腿。怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不大好吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有什么不好？许我做苦工，就不许他卖劳力啦！跟他来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就玩吧，输了可别不认帐，洗牌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，今儿您手气好，我甘拜下风，麻将我认怂了，有能耐咱换骰子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，玩什么都可以，老身奉陪到底！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您巴巴地赢了我一宿，也该出点血啦，啊，骰盅伺候！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走着走着"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜、大嘴搀着转移地方"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点慢点……"
+        }
+      ]
+    }
+  ]
+}

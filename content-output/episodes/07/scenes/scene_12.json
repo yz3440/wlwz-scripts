@@ -1,1 +1,300 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "action", "description": "秀才缠着纱布"}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "speaker-action", "description": "哭"}, {"type": "line", "line": "娘啊，你不要怪孩儿……"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "小声点儿。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "不是孩儿不孝顺，实在是力不从心啊，您留给我的最后一样东西，孩儿也没能留住，孩儿对不住你啊！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "把簪子还我！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "凭啥，这是额花钱买的。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "娘啊~~！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "那你就再卖还给我！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不卖，这么好又这么便宜的首饰，到哪儿买去？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "娘啊~~~~！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你开个价吧！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "十两。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你不如去抢好了！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "娘啊~~~~~！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "五两，再低就不谈了。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "嚎啊，你怎么不嚎了啊，成交，五两就五两，姑奶奶花钱买一清净！"}]}, {"type": "action", "description": "掌柜的把簪子给小郭"}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "簪子还你！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "你……"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你不要误会啊，我不想欠你这个情！"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "郭姑娘的大恩大德吕某没齿难忘，我的簪子。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "掌柜的，客人这么多，他嚎成这样你也不管管。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "额有什么办法嘛，房子是人家秀才的——你们俩到底谁欠谁啊？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "谁欠谁都无所谓了，最重要的是，这个世界终于清净啦。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "额要是你额就不会这么想。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "那你怎么想啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "你看啊，五两银子，每个月还二钱，算下来，你还得多给额干两年零一个月……"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "不要怕，额把零头去了，还剩两年，也就是二十四个月，七百三十天，八千七百六十个时辰……"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "娘啊～～～～～"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才缠着纱布"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "娘啊，你不要怪孩儿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小声点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是孩儿不孝顺，实在是力不从心啊，您留给我的最后一样东西，孩儿也没能留住，孩儿对不住你啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把簪子还我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥，这是额花钱买的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘啊~~！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就再卖还给我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不卖，这么好又这么便宜的首饰，到哪儿买去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘啊~~~~！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你开个价吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十两。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不如去抢好了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘啊~~~~~！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五两，再低就不谈了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嚎啊，你怎么不嚎了啊，成交，五两就五两，姑奶奶花钱买一清净！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的把簪子给小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "簪子还你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要误会啊，我不想欠你这个情！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭姑娘的大恩大德吕某没齿难忘，我的簪子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，客人这么多，他嚎成这样你也不管管。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额有什么办法嘛，房子是人家秀才的——你们俩到底谁欠谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁欠谁都无所谓了，最重要的是，这个世界终于清净啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额要是你额就不会这么想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你怎么想啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看啊，五两银子，每个月还二钱，算下来，你还得多给额干两年零一个月……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要怕，额把零头去了，还剩两年，也就是二十四个月，七百三十天，八千七百六十个时辰……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘啊～～～～～"
+        }
+      ]
+    }
+  ]
+}

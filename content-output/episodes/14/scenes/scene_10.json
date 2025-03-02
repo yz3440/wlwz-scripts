@@ -7,55 +7,101 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "郭女侠，那就拜托了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "要不要把我爹也请过来。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "那敢情好，他的盘缠不用我们报吧？" }
+        {
+          "type": "line",
+          "line": "郭女侠，那就拜托了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "不用，朝廷每年都给钱。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不要把我爹也请过来。"
+        }
+      ]
     },
     {
       "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "你什么时候回来呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "最快一个月吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "这么久啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "大哥，我是用脚走的。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "你不会买匹马去啊？" }]
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那敢情好，他的盘缠不用我们报吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "呵，你给我钱啊？买马，亏你想的出来。" }
+        {
+          "type": "line",
+          "line": "不用，朝廷每年都给钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么时候回来呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最快一个月吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么久啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大哥，我是用脚走的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不会买匹马去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，你给我钱啊？买马，亏你想的出来。"
+        }
       ]
     },
     {
@@ -71,24 +117,42 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "吃饭，吃饭。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃饭，吃饭。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "为为为什么呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "为为为什么呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "因为这件事情，从头到尾，都是我干的。" }
+        {
+          "type": "line",
+          "line": "因为这件事情，从头到尾，都是我干的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "那你为啥对小红下毒手啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你为啥对小红下毒手啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -103,19 +167,32 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "太凶残了，太没人性了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "太凶残了，太没人性了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你好意思说吗？你一年杀多少鸡啊？" }
+        {
+          "type": "line",
+          "line": "你好意思说吗？你一年杀多少鸡啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "我宣布，这件事情到此为止。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我宣布，这件事情到此为止。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -130,44 +207,82 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你给我住手。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我住手。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "你要干什么？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这只鸡是我杀的。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "那你又为啥啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要干什么？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "我什么也不为，它自己扑腾到井里去的。" }
+        {
+          "type": "line",
+          "line": "这只鸡是我杀的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "那你咋不救它呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你又为啥啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我也不知道鸡不会游泳啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我什么也不为，它自己扑腾到井里去的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "不是，那……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你咋不救它呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也不知道鸡不会游泳啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，那……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -203,13 +318,21 @@
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "凡于闹市虐杀牲畜者，罚银三两。" }
+        {
+          "type": "line",
+          "line": "凡于闹市虐杀牲畜者，罚银三两。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎呀我的妈呀。吓死我了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀我的妈呀。吓死我了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -224,22 +347,42 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "掌柜的。掌柜的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的。掌柜的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "她咬我，师父。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "她咬我，师父。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "好吧，我跟你们去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，我跟你们去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "他犯事你凭什么去啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他犯事你凭什么去啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -255,7 +398,10 @@
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "好，这话留到公堂说去吧，走！" }
+        {
+          "type": "line",
+          "line": "好，这话留到公堂说去吧，走！"
+        }
       ]
     },
     {
@@ -271,7 +417,12 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "我，我，我怎么了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我，我怎么了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -286,17 +437,32 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "你这这话咋说的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这这话咋说的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "秀才，拿帐本。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，拿帐本。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "好。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -311,7 +477,12 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这不都跟你学的吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不都跟你学的吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -336,7 +507,12 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "你还要干什么。掌柜的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还要干什么。掌柜的。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -352,23 +528,41 @@
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "哈哈哈，还搞这个形式干什么？——大嘴，杀鸡。" }
+        {
+          "type": "line",
+          "line": "哈哈哈，还搞这个形式干什么？——大嘴，杀鸡。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "还杀鸡啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还杀鸡啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "杀吧杀吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "杀吧杀吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我这鸡是活不成了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这鸡是活不成了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -383,7 +577,12 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎呀，这太好了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，这太好了。"
+        }
+      ]
     }
   ]
 }

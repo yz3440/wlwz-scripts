@@ -7,31 +7,55 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "来了来了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "准备好了吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "哎呀，你放心吧，不就是演戏吗？梅斯布吗。" }
+        {
+          "type": "line",
+          "line": "来了来了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "梅斯布是什么？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "准备好了吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "梅兰芳，斯坦尼，布莱西特，我懂。" },
-        { "type": "speaker-action", "description": "见小贝入，哭道" },
+        {
+          "type": "line",
+          "line": "哎呀，你放心吧，不就是演戏吗？梅斯布吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "梅斯布是什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "梅兰芳，斯坦尼，布莱西特，我懂。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "见小贝入，哭道"
+        },
         {
           "type": "line",
           "line": "老板娘，我求求你啦，你就可怜可怜我吧，可怜可怜我吧。你给我一点盘缠回家。"
@@ -41,24 +65,42 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "姨娘，您不是挺有钱的吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "姨娘，您不是挺有钱的吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "来来来，坐下说啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，坐下说啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "那是以前，现在没有了。连饭都吃不上了。" }
+        {
+          "type": "line",
+          "line": "那是以前，现在没有了。连饭都吃不上了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "那么多钱，你全都花光啦？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那么多钱，你全都花光啦？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -73,7 +115,12 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "那可以再赚嘛。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可以再赚嘛。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -88,7 +135,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不要再唱了，好可怜。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再唱了，好可怜。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -103,7 +155,12 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "你不是说女子无才就是德吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是说女子无才就是德吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -118,7 +175,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "说的好，小贝快听着。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说的好，小贝快听着。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -133,7 +195,12 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "什么教训啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么教训啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -148,62 +215,111 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "没有啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "什么没有啊，啊，赶紧回去回去读书去。走。" }
+        {
+          "type": "line",
+          "line": "什么没有啊，啊，赶紧回去回去读书去。走。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "还不快去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不快去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "哈哈哈哈——哎，还行吧？演得还行吧？" }
+        {
+          "type": "line",
+          "line": "哈哈哈哈——哎，还行吧？演得还行吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "太好了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "太好了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "梅斯布占全了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "梅斯布占全了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "戏曲程式化。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "戏曲程式化。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "体验派。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "体验派。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "间离效果。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "间离效果。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "加上个人的天赋。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "加上个人的天赋。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "哎呀，希望她长大以后，能够明白你这份苦心。" }
+        {
+          "type": "line",
+          "line": "哎呀，希望她长大以后，能够明白你这份苦心。"
+        }
       ]
     },
     {
@@ -220,47 +336,81 @@
       "type": "dialog",
       "speaker": "扈十娘",
       "performances": [
-        { "type": "line", "line": "我小时侯有你这么个嫂子就好了。" }
+        {
+          "type": "line",
+          "line": "我小时侯有你这么个嫂子就好了。"
+        }
       ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这一百两银子，你拿去吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "这么多。" }]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "这本来就是你的钱呀，一路平安。" }
+        {
+          "type": "line",
+          "line": "这一百两银子，你拿去吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "扈十娘",
-      "performances": [{ "type": "line", "line": "后会有期了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么多。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哎呀，总算了了一件事情。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这本来就是你的钱呀，一路平安。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后会有期了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，总算了了一件事情。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "我要是你啊，就不会这么高兴。" }
+        {
+          "type": "line",
+          "line": "我要是你啊，就不会这么高兴。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "为啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -276,8 +426,14 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "speaker-action", "description": "飞奔出门" },
-        { "type": "line", "line": "十娘，还给我五十两，十娘……" }
+        {
+          "type": "speaker-action",
+          "description": "飞奔出门"
+        },
+        {
+          "type": "line",
+          "line": "十娘，还给我五十两，十娘……"
+        }
       ]
     }
   ]

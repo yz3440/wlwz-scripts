@@ -1,106 +1,192 @@
 {
   "type": "normal",
-  "rawDescription": "【后院，昼】",
-  "location": "后院",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
     {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这两天就要比武了，小贝这武功可咋办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，嵩山派恒山派泰山派三位掌门，都顺利到家了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但都个个身重伤。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三位掌门由于舟车劳顿，水土不服。刚到华山都被岳掌门逼着比武，结果吃大亏了。嵩山派的左老爷子，比剑输了，不认帐，又比拳脚，结果被人叮咣四五一顿乱揍。打的门牙一颗不剩，哎呀江湖人送，嵩山左姥姥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咦，可怜的很啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可怜？可怜还没有泰山派的石掌门可怜啊，一招没出，被人戳瞎双眼。整天寻死，好好的泰山派石敢当，现在成了泰山派的石敢死了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有那个恒山派的令狐掌门，比武输了吧他不认帐，非跟人家比摔交，结果呢左耳朵被人家拽掉半拉儿，右耳朵就剩了个洞。人称啊，恒山一只耳。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈，这也太惨了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不比了，说啥也不比了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，这恐怕不中啊，现在岳掌门跟莫掌门他俩比武这事啊，江湖已经传遍了。各大赌坊都开了盘口，一赔二十，押莫小贝输。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的，哪个赌坊，在哪儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就随便问问，随便问问。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你要有钱的话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "排……"
+        }
+      ]
+    },
+    {
       "type": "action",
-      "description": "莫小贝练暗器"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "行了行了，不要再练了，练了两天一个都没有打中，这场闹剧到此为止。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "嫂子，到时候衡山派就变成衡山堂了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "堂主比掌门舒服多了，又威风还不用负责任。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这话你跟他们说去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我跟谁说去？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "跟我哥，我爹娘，我爷，还有我太爷爷。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "他们也不会怪你的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "但是我会怪我！我宁可缺胳膊少腿，也不会给他们丢脸，把草人放这儿。请让一让。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "打中草人"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "耶，我胜利了，胜利了。"
-        }
-      ]
+      "description": "小米逃走"
     }
   ]
 }

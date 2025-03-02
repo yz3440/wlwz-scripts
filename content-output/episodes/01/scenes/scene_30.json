@@ -1,1 +1,116 @@
-{"type": "normal", "rawDescription": "【街头，昼】", "location": "街头", "timeOfDay": "昼", "performances": [{"type": "action", "description": "小郭跑到客栈拐角，回头看"}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "跟我斗……"}]}, {"type": "action", "description": "正要继续走，老白出现在她眼前，小郭往后退"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "走，跟我回去。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你不要过来，你再走一步我就喊非礼。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "speaker-action", "description": "用手指小郭"}, {"type": "line", "line": "就你这样的还闯荡江湖呐。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我怎么了，那我半路遇到坏人我还不能跑了？打又打不过，说又说不听，人家再怎么也是个女孩子嘛，肩不能挑，手不能提，身子骨本来就弱，还让你们那么折腾，这要在家，一顿不吃我娘就得急哭了。现在可倒好，从早饿到晚，连碗水都不让喝，你们还让不让人活了呀……"}, {"type": "speaker-action", "description": "蹲下哭"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "speaker-action", "description": "蹲下"}, {"type": "line", "line": "小妹妹别哭了，走，咱回去吃饭啊。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "我不就是随便给你们玩了一招排山倒海……"}, {"type": "speaker-action", "description": "反手掐住老白脖子"}]}, {"type": "action", "description": "小郭与老白同时使出排山倒海与葵花点穴手，小郭被点住"}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你都给我排成这样了，还排啊，还有没点人性啊，啊？"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【街头，昼】",
+  "location": "街头",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭跑到客栈拐角，回头看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟我斗……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "正要继续走，老白出现在她眼前，小郭往后退"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走，跟我回去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要过来，你再走一步我就喊非礼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "用手指小郭"
+        },
+        {
+          "type": "line",
+          "line": "就你这样的还闯荡江湖呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么了，那我半路遇到坏人我还不能跑了？打又打不过，说又说不听，人家再怎么也是个女孩子嘛，肩不能挑，手不能提，身子骨本来就弱，还让你们那么折腾，这要在家，一顿不吃我娘就得急哭了。现在可倒好，从早饿到晚，连碗水都不让喝，你们还让不让人活了呀……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "蹲下哭"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "蹲下"
+        },
+        {
+          "type": "line",
+          "line": "小妹妹别哭了，走，咱回去吃饭啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不就是随便给你们玩了一招排山倒海……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "反手掐住老白脖子"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭与老白同时使出排山倒海与葵花点穴手，小郭被点住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你都给我排成这样了，还排啊，还有没点人性啊，啊？"
+        }
+      ]
+    }
+  ]
+}

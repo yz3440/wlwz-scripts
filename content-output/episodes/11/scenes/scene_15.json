@@ -4,37 +4,67 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "敲门声" },
+    {
+      "type": "action",
+      "description": "敲门声"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "来了来了来了。谁呀这么早，来了来了。" },
-        { "type": "speaker-action", "description": "赛掌柜和小翠迎面而来" },
-        { "type": "line", "line": "哎呀，熏的这香。" }
+        {
+          "type": "line",
+          "line": "来了来了来了。谁呀这么早，来了来了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "赛掌柜和小翠迎面而来"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，熏的这香。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "臭啊。这是啥呀这，这也叫客栈，这。" }
+        {
+          "type": "line",
+          "line": "臭啊。这是啥呀这，这也叫客栈，这。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "这整个就一猪圈吗。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这整个就一猪圈吗。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "会说话吗？会不会说话。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "会说话吗？会不会说话。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "佟湘玉，你给我滚出来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉，你给我滚出来。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -60,18 +90,31 @@
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "免了，俺是来要钱来，拿钱就走。" }
+        {
+          "type": "line",
+          "line": "免了，俺是来要钱来，拿钱就走。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "一秒钟都不耽搁。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "一秒钟都不耽搁。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "拿钱？拿啥钱啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿钱？拿啥钱啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -86,18 +129,31 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "是一千两。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是一千两。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
       "performances": [
-        { "type": "line", "line": "十个一百就是一千，你算不过来呀？" }
+        {
+          "type": "line",
+          "line": "十个一百就是一千，你算不过来呀？"
+        }
       ]
     },
     {
@@ -113,22 +169,42 @@
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "你们咧，你们咧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们咧，你们咧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我们照顾了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们照顾了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "人咧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "人咧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "人咧？人咧？人咧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "人咧？人咧？人咧？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -143,36 +219,62 @@
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "得花多少钱？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "得花多少钱？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "我没这大腕儿顶着，我得少挣多少钱？" }
+        {
+          "type": "line",
+          "line": "我没这大腕儿顶着，我得少挣多少钱？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "少挣多少钱！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "少挣多少钱！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "那你们也不能把这钱算在我们头上吧？" }
+        {
+          "type": "line",
+          "line": "那你们也不能把这钱算在我们头上吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "你想赖账了是咋了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想赖账了是咋了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "你是不是，是不是，啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是不是，是不是，啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -187,19 +289,32 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "少咱，你是你，我是我。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "少咱，你是你，我是我。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
       "performances": [
-        { "type": "line", "line": "你不是我，我也不是你，他更不是他。" }
+        {
+          "type": "line",
+          "line": "你不是我，我也不是你，他更不是他。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "废话，我不是我，我是你啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，我不是我，我是你啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -215,7 +330,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你看，我上哪儿给你找人去啊？" }
+        {
+          "type": "line",
+          "line": "你看，我上哪儿给你找人去啊？"
+        }
       ]
     },
     {
@@ -231,29 +349,52 @@
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "无所谓。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "这会不会跳舞啊她也无所谓。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "也无所谓。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "至于这个盘儿亮不亮，条儿顺不顺。" }
+        {
+          "type": "line",
+          "line": "这会不会跳舞啊她也无所谓。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "无所谓。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "也无所谓。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "至于这个盘儿亮不亮，条儿顺不顺。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -269,9 +410,18 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "盘儿亮条儿顺，你看我咋样儿？" },
-        { "type": "speaker-action", "description": "二人不屑" },
-        { "type": "line", "line": "——呵呵，开个玩笑。哈哈哈哈。" }
+        {
+          "type": "line",
+          "line": "盘儿亮条儿顺，你看我咋样儿？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "二人不屑"
+        },
+        {
+          "type": "line",
+          "line": "——呵呵，开个玩笑。哈哈哈哈。"
+        }
       ]
     },
     {
@@ -288,7 +438,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "别别别，赛掌柜赛掌柜，你看，我们交人！" }
+        {
+          "type": "line",
+          "line": "别别别，赛掌柜赛掌柜，你看，我们交人！"
+        }
       ]
     }
   ]

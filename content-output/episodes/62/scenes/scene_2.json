@@ -4,16 +4,29 @@
   "location": "屋顶",
   "timeOfDay": "夜",
   "performances": [
-    { "type": "action", "description": "佟抱膝黯然独坐，郭、祝上" },
+    {
+      "type": "action",
+      "description": "佟抱膝黯然独坐，郭、祝上"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哈哈～你果然在这儿！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈～你果然在这儿！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
-      "performances": [{ "type": "line", "line": "我想一个人呆着。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我想一个人呆着。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -99,7 +112,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "什、什么意思啊？你到底想说什嘛？" }
+        {
+          "type": "line",
+          "line": "什、什么意思啊？你到底想说什嘛？"
+        }
       ]
     },
     {
@@ -115,13 +131,21 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "说了半天你就是想嫁人了呗！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说了半天你就是想嫁人了呗！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
       "performances": [
-        { "type": "line", "line": "那你不早说！跟我师兄说一声不就得了？" }
+        {
+          "type": "line",
+          "line": "那你不早说！跟我师兄说一声不就得了？"
+        }
       ]
     },
     {
@@ -137,7 +161,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那不就得了么！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不就得了么！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -152,7 +181,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那要不……你……直接问问他？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那要不……你……直接问问他？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -168,7 +202,10 @@
       "type": "dialog",
       "speaker": "祝无双",
       "performances": [
-        { "type": "line", "line": "没有啊，我看他挺习惯的，否则早就发牢骚啦。" }
+        {
+          "type": "line",
+          "line": "没有啊，我看他挺习惯的，否则早就发牢骚啦。"
+        }
       ]
     },
     {

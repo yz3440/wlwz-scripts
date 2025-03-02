@@ -4,7 +4,10 @@
   "location": "后院",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "掌柜，老白进后院" },
+    {
+      "type": "action",
+      "description": "掌柜，老白进后院"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
@@ -18,18 +21,35 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "没起床怎么叠被子呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没起床怎么叠被子呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "那是她的事儿" },
-        { "type": "speaker-action", "description": "指小贝" },
-        { "type": "line", "line": "去把她叫起来！" }
+        {
+          "type": "line",
+          "line": "那是她的事儿"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小贝"
+        },
+        {
+          "type": "line",
+          "line": "去把她叫起来！"
+        }
       ]
     },
-    { "type": "action", "description": "小贝去屋里" },
+    {
+      "type": "action",
+      "description": "小贝去屋里"
+    },
     {
       "type": "dialog",
       "speaker": "莫小贝",
@@ -44,8 +64,14 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "眯着眼睛，不愿起" },
-        { "type": "line", "line": "来就来呗，有本事让他以一指点死我算啦！" }
+        {
+          "type": "speaker-action",
+          "description": "眯着眼睛，不愿起"
+        },
+        {
+          "type": "line",
+          "line": "来就来呗，有本事让他以一指点死我算啦！"
+        }
       ]
     }
   ]

@@ -11,29 +11,59 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "实在是听不下去了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在是听不下去了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "是啊，太可怜了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，太可怜了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "这么狠心她下得了手啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么狠心她下得了手啊。"
+        }
+      ]
     },
-    { "type": "action", "description": "小郭跑到楼梯上" },
+    {
+      "type": "action",
+      "description": "小郭跑到楼梯上"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "别嚎了！" },
-        { "type": "speaker-action", "description": "大嘴仍然还痛苦的喊着" },
-        { "type": "line", "line": "扎死你算了！" }
+        {
+          "type": "line",
+          "line": "别嚎了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴仍然还痛苦的喊着"
+        },
+        {
+          "type": "line",
+          "line": "扎死你算了！"
+        }
       ]
     },
-    { "type": "action", "description": "小郭下楼" },
+    {
+      "type": "action",
+      "description": "小郭下楼"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -67,22 +97,42 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "走江湖也没见过这种阵势呀。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走江湖也没见过这种阵势呀。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "小郭……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "没空，我得做饭去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没空，我得做饭去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "还做呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还做呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -97,20 +147,36 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "赶紧想办法呀，掌柜的！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧想办法呀，掌柜的！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "我倒有个办法，就是有点危险！" }
+        {
+          "type": "line",
+          "line": "我倒有个办法，就是有点危险！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "你说说说。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说说说。"
+        }
+      ]
     },
-    { "type": "action", "description": "秀才向众人耳语着什么" }
+    {
+      "type": "action",
+      "description": "秀才向众人耳语着什么"
+    }
   ]
 }

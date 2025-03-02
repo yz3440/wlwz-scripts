@@ -7,17 +7,32 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "咋样？你就笨死。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋样？你就笨死。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小翠",
-      "performances": [{ "type": "line", "line": "我就是照你说的那么讲的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就是照你说的那么讲的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "咋说的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋说的？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -32,7 +47,12 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "这不说得挺好吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不说得挺好吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -47,7 +67,12 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "说啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -62,13 +87,26 @@
     {
       "type": "dialog",
       "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "还真是个书呆子，看我来。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还真是个书呆子，看我来。"
+        }
+      ]
     },
-    { "type": "action", "description": "二人一个走到柜台前" },
+    {
+      "type": "action",
+      "description": "二人一个走到柜台前"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "是你啊？不排练啦？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你啊？不排练啦？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -83,39 +121,72 @@
     {
       "type": "dialog",
       "speaker": "秀 才",
-      "performances": [{ "type": "line", "line": "我给你倒杯茶去啊。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "哎，你这儿有酒吗？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "大白天喝酒啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "赛貂禅",
-      "performances": [{ "type": "line", "line": "恩。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "奥，这才叫名士风范呢。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你倒杯茶去啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "有句话说呐，唯女子……什么来着？" }
+        {
+          "type": "line",
+          "line": "哎，你这儿有酒吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "唯女子与小人难养也。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大白天喝酒啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "奥，这才叫名士风范呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有句话说呐，唯女子……什么来着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唯女子与小人难养也。"
+        }
+      ]
     },
     {
       "type": "action",
@@ -125,7 +196,10 @@
       "type": "dialog",
       "speaker": "赛貂禅",
       "performances": [
-        { "type": "line", "line": "放肆，你再敢出口伤人，休怪我告上公堂，走。" }
+        {
+          "type": "line",
+          "line": "放肆，你再敢出口伤人，休怪我告上公堂，走。"
+        }
       ]
     },
     {

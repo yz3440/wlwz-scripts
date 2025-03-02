@@ -1,1 +1,46 @@
-{"type": "normal", "rawDescription": "【大堂，昼】", "location": "大堂", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "别叫了啊，告诉你，再叫我活吃了你。哎，这就对了，听话啊。"}, {"type": "action", "description": "小红又叫"}, {"type": "line", "line": "小红，我告诉你啊，我最后一次警告你啊，我告诉你，再叫我就斩立决。再叫，再叫，诶，这就对了，守着夜跟着捣什么乱呢，"}, {"type": "action", "description": "小红又叫，老白起"}, {"type": "line", "line": "这就怪不得我了。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别叫了啊，告诉你，再叫我活吃了你。哎，这就对了，听话啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小红又叫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小红，我告诉你啊，我最后一次警告你啊，我告诉你，再叫我就斩立决。再叫，再叫，诶，这就对了，守着夜跟着捣什么乱呢，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小红又叫，老白起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就怪不得我了。"
+        }
+      ]
+    }
+  ]
+}

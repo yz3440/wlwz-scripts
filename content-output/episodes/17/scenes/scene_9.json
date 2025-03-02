@@ -1,1 +1,396 @@
-{"type": "normal", "rawDescription": "【大堂，傍晚】", "location": "大堂", "timeOfDay": "傍晚", "performances": [{"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这样好不好呀？"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "你怕什么呀？你怕她再来找茬啊？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "她要是万一再来咋办？"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "再来找茬我就接着点她。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "万一你们不在呢？"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "那就我来，戳死他。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "哎呀妈呀，眼睛，甩什么你。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "活该。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "你再说一遍？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "活该。"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "嘿。"}]}, {"type": "action", "description": "起身，陆拔剑剑尖直指老白喉咙"}, {"type": "dialog", "speaker": "陆一鸣", "performances": [{"type": "line", "line": "干啥呀，都是自己人。"}, {"type": "line", "line": "再对我们掌门不客气，休怪我无礼。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "知道我厉害了吧？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "小贝咋这么早就回来了？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "先生生病了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "啥病？秀才到书院看看去。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "哎哎，别别别去。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咋回事？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "先生是被他俩打伤的。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "被谁？"}]}, {"type": "dialog", "speaker": "周、祝", "performances": [{"type": "line", "line": "对不住了。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "咋回事儿？"}]}, {"type": "dialog", "speaker": "周敦儒", "performances": [{"type": "line", "line": "谁叫他打俺们掌门手心了。"}]}, {"type": "dialog", "speaker": "祝小芸", "performances": [{"type": "line", "line": "我们又不是没有劝过他。"}]}, {"type": "dialog", "speaker": "周敦儒", "performances": [{"type": "line", "line": "越劝他还越来劲，把俺掌门都打哭了。"}]}, {"type": "dialog", "speaker": "祝小芸", "performances": [{"type": "line", "line": "我们就忍不住了呀，就……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "就……咋咧？"}]}, {"type": "dialog", "speaker": "祝小芸", "performances": [{"type": "line", "line": "就联手使了一招平沙落雁。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "哈哈哈，笑死我了，我们先生啊，他呀，一边颤还一边嚎，一边嚎还一边逃，笑死我了，他那样儿啊，噢呵呵呵……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "天啊，额滴神呀。赶紧准备酒水和礼物去吧。"}]}, {"type": "dialog", "speaker": "陆一鸣", "performances": [{"type": "line", "line": "哎，你们都知道啦？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "知道啥咧？"}]}, {"type": "dialog", "speaker": "陆一鸣", "performances": [{"type": "line", "line": "我们掌门的接任仪式啊。"}]}, {"type": "dialog", "speaker": "白、佟", "performances": [{"type": "line", "line": "什么仪式？"}]}, {"type": "dialog", "speaker": "陆一鸣", "performances": [{"type": "line", "line": "为了庆祝我们莫掌门接管衡山派，我们已经广发英雄贴，请各大派掌门亲临观礼。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "啥时候？"}]}, {"type": "dialog", "speaker": "陆一鸣", "performances": [{"type": "line", "line": "七天以后。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "天呐，额滴神呀。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【大堂，傍晚】",
+  "location": "大堂",
+  "timeOfDay": "傍晚",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这样好不好呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怕什么呀？你怕她再来找茬啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她要是万一再来咋办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再来找茬我就接着点她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "万一你们不在呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就我来，戳死他。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，眼睛，甩什么你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "活该。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你再说一遍？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "活该。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "起身，陆拔剑剑尖直指老白喉咙"
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀，都是自己人。"
+        },
+        {
+          "type": "line",
+          "line": "再对我们掌门不客气，休怪我无礼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道我厉害了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝咋这么早就回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生生病了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥病？秀才到书院看看去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，别别别去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生是被他俩打伤的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "被谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周、祝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不住了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋回事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁叫他打俺们掌门手心了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们又不是没有劝过他。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "越劝他还越来劲，把俺掌门都打哭了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们就忍不住了呀，就……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就……咋咧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就联手使了一招平沙落雁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈，笑死我了，我们先生啊，他呀，一边颤还一边嚎，一边嚎还一边逃，笑死我了，他那样儿啊，噢呵呵呵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天啊，额滴神呀。赶紧准备酒水和礼物去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你们都知道啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道啥咧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们掌门的接任仪式啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、佟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么仪式？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了庆祝我们莫掌门接管衡山派，我们已经广发英雄贴，请各大派掌门亲临观礼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥时候？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "七天以后。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天呐，额滴神呀。"
+        }
+      ]
+    }
+  ]
+}

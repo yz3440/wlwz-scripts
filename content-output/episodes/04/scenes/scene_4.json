@@ -1,1 +1,154 @@
-{"type": "normal", "rawDescription": "【后院，昼】", "location": "后院", "timeOfDay": "昼", "performances": [{"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "秀才，帮帮忙……"}, {"type": "speaker-action", "description": "秀才不理他，转而向正在劈柴的老白说"}, {"type": "line", "line": "我跟你说，她看完之后我马上送她回去，"}, {"type": "speaker-action", "description": "老白也不搭理，找掌柜的"}, {"type": "line", "line": "马上啊……"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "大嘴，兵部岂是寻常百姓能去的地方！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "咱这不是假装的吗，假装的！啥味儿——这是……"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "不要着急啊，宫爆鸡丁马上就好了啊！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "还不快去接班，想饿死我们呀！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你们想吃做的饭是吧？"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "赶紧的……"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "带我妈去趟兵部，不然你们等着吃宫爆铁丁吧，啊。"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "香喷喷的宫爆鸡丁已经出锅喽……"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "大嘴！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "怎么的？"}]}, {"type": "dialog", "speaker": "众人", "performances": [{"type": "line", "line": "成交！"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "来喽，人呢？"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，帮帮忙……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才不理他，转而向正在劈柴的老白说"
+        },
+        {
+          "type": "line",
+          "line": "我跟你说，她看完之后我马上送她回去，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白也不搭理，找掌柜的"
+        },
+        {
+          "type": "line",
+          "line": "马上啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，兵部岂是寻常百姓能去的地方！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱这不是假装的吗，假装的！啥味儿——这是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要着急啊，宫爆鸡丁马上就好了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不快去接班，想饿死我们呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们想吃做的饭是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "带我妈去趟兵部，不然你们等着吃宫爆铁丁吧，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "香喷喷的宫爆鸡丁已经出锅喽……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "成交！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来喽，人呢？"
+        }
+      ]
+    }
+  ]
+}

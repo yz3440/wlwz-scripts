@@ -1,20 +1,30 @@
 {
   "type": "normal",
-  "rawDescription": "【屋顶，夜】",
-  "location": "屋顶",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
   "timeOfDay": "夜",
   "performances": [
     {
       "type": "action",
-      "description": "白展堂啃手指"
+      "description": "李大嘴被点住"
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "不要再啃咧，再啃手指头就没有咧。"
+          "line": "葵花解穴手！葵花解穴手！怎么解不开呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "该，再叫你胡说八道。"
         }
       ]
     },
@@ -24,7 +34,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你下去，上面危险。"
+          "line": "别说了，他的七经八脉全都被封上了。"
         }
       ]
     },
@@ -34,7 +44,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我又不是盗圣，又没有害死过人家徒弟，有什么好怕的嘛。"
+          "line": "这可咋办呀？"
         }
       ]
     },
@@ -44,7 +54,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "公孙乌龙杀人，根本就不需要理由。"
+          "line": "只能靠他自己解，就算解开了，手脚也要麻上几天。"
         }
       ]
     },
@@ -54,37 +64,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "那你还在上面呆着？"
+          "line": "这也太狠了吧？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "众人",
       "performances": [
         {
           "type": "line",
-          "line": "我只是希望他们能直接来找我，免得连累了你们。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你已经连累了我们。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那我只能说对不起。"
+          "line": "嘘——"
         }
       ]
     },
@@ -94,7 +84,31 @@
       "performances": [
         {
           "type": "line",
-          "line": "你确实应该说对不起，但不是因为这个。"
+          "line": "不狠不狠，谁叫他嘴贱来着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拣到一石子"
+        },
+        {
+          "type": "line",
+          "line": "如果我没猜错的话，这个人使得是隔空打穴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他很厉害吗？他跟你比怎么样？"
         }
       ]
     },
@@ -104,7 +118,51 @@
       "performances": [
         {
           "type": "line",
-          "line": "那还能因为什么呀？"
+          "line": "半斤八两吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人释然"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我半斤废铁，他八两黄金。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那、那这个人要真那么厉害的话，——你为什么不现身呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他在享受着游戏的乐趣。"
         }
       ]
     },
@@ -114,7 +172,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "当初既然决定了大家有福同享、有难同当，就不应该说话不算数吧？"
+          "line": "啥游戏嘛？"
         }
       ]
     },
@@ -124,107 +182,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你赶紧下去，再赖着，别怪我不客气。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "咋？还想动手啊你？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "葵花点！葵花——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不要点！我还有最后几句话，说完就走嘛。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你说。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "长久以来，你做得很好，真的挺好的，如果没有你，我真的不知道该怎么撑下去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你别这么说，其实你，也是我有史以来见过的最善良、最坚强的女人。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这是你生平第一次夸我。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "也是最后一次。湘玉，万一我有什么不测的话，你千万不要难过。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "展堂，如果这次咱们俩能度过难关，你愿不愿意跟我举行一个正式而隆重的——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "对不起，我不愿意。"
+          "line": "老猫逮耗子。会这种点穴方法的人，当今世上只有三个。第一个是缺德道人，如果他还活着的话，现在应该有一百多岁了。第二个——就是我娘。"
         }
       ]
     },
@@ -234,11 +192,11 @@
       "performances": [
         {
           "type": "speaker-action",
-          "description": "窘"
+          "description": "对四周"
         },
         {
           "type": "line",
-          "line": "——那就算了吧，本来想给你举办一个加薪仪式。涨点钱，冲冲喜，既然不肯，换别人吧。"
+          "line": "伯母好！我叫湘玉！一路过来渴了吧，下来喝杯茶先。"
         }
       ]
     },
@@ -248,13 +206,99 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎哎别别别，愿意，愿意，愿意！"
+          "line": "不用喝了，你伯母在刑部大牢里关着呢。"
         }
       ]
     },
     {
-      "type": "action",
-      "description": "楼下小郭大喊排山倒海"
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不兴人家逃狱吗？你说是吧，伯母？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别喊啦，你伯母手筋脚筋全都被挑断了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不兴人家自己长出来——那个难度确实高了点儿，第三个呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "公孙乌龙。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "乌龙茶的那个乌龙啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果要是他的话，我们就等着给对方收尸吧，尤其是秀才。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭什么是我呀？我招他惹他啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为你害死了他倒霉的徒弟——姬无命。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让你嘴贱。"
+        }
+      ]
     }
   ]
 }

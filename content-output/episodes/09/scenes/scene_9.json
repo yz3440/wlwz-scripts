@@ -8,23 +8,41 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "额的神呀，这就是你俩一个下午的成果" }
+        {
+          "type": "line",
+          "line": "额的神呀，这就是你俩一个下午的成果"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "窦先生",
-      "performances": [{ "type": "line", "line": "这四只乌龟……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这四只乌龟……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "是忍者龟。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是忍者龟。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "窦先生",
-      "performances": [{ "type": "line", "line": "你说。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -50,28 +68,40 @@
       "type": "dialog",
       "speaker": "窦先生",
       "performances": [
-        { "type": "line", "line": "我问你个问题啊，你说你为啥要让娃学画？" }
+        {
+          "type": "line",
+          "line": "我问你个问题啊，你说你为啥要让娃学画？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "为了不要让她输在人生的起跑线上。" }
+        {
+          "type": "line",
+          "line": "为了不要让她输在人生的起跑线上。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "窦先生",
       "performances": [
-        { "type": "line", "line": "那起跑线在这儿，那目的地在哪儿呢？" }
+        {
+          "type": "line",
+          "line": "那起跑线在这儿，那目的地在哪儿呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "额怎么知道，走一步看一步嘛！" }
+        {
+          "type": "line",
+          "line": "额怎么知道，走一步看一步嘛！"
+        }
       ]
     },
     {
@@ -88,40 +118,65 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "让孩子学点艺术总是有好处的吧……" }
+        {
+          "type": "line",
+          "line": "让孩子学点艺术总是有好处的吧……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "窦先生",
       "performances": [
-        { "type": "line", "line": "我的神呀，这些泥人还不够艺术？" }
+        {
+          "type": "line",
+          "line": "我的神呀，这些泥人还不够艺术？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "额的神呀，这就叫艺术？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "额的神呀，这就叫艺术？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "窦先生",
       "performances": [
-        { "type": "line", "line": "你仔细看这些泥人，用心看，用心去感受……" }
+        {
+          "type": "line",
+          "line": "你仔细看这些泥人，用心看，用心去感受……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "感，感受个啥嘛？" },
-        { "type": "line", "line": "你拿手摸，拿手摸，这些乌龟是活的……" }
+        {
+          "type": "line",
+          "line": "感，感受个啥嘛？"
+        },
+        {
+          "type": "line",
+          "line": "你拿手摸，拿手摸，这些乌龟是活的……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "是忍者龟！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是忍者龟！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -137,7 +192,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "艺术？呵，这只还笑着呢，确实挺好玩的……" }
+        {
+          "type": "line",
+          "line": "艺术？呵，这只还笑着呢，确实挺好玩的……"
+        }
       ]
     },
     {
@@ -154,8 +212,14 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "对对对！" },
-        { "type": "speaker-action", "description": "鼓掌" }
+        {
+          "type": "line",
+          "line": "对对对！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "鼓掌"
+        }
       ]
     },
     {
@@ -168,16 +232,29 @@
         }
       ]
     },
-    { "type": "action", "description": "佟湘玉突然跑出门外" },
+    {
+      "type": "action",
+      "description": "佟湘玉突然跑出门外"
+    },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "你上哪儿去？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你上哪儿去？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "挖泥巴！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "挖泥巴！"
+        }
+      ]
     }
   ]
 }

@@ -4,41 +4,68 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "小贝进客栈" },
     {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "过来，都过来！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋了这是？脸上咋弄得？" }]
+      "type": "action",
+      "description": "小贝进客栈"
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "我这还不算啥，他们那才叫花呐！" }
+        {
+          "type": "line",
+          "line": "过来，都过来！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你是不是又跟同学打架了？啊？" }
+        {
+          "type": "line",
+          "line": "咋了这是？脸上咋弄得？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "谁叫他们说我没爹没娘的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这还不算啥，他们那才叫花呐！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你就是没有爹，没有娘嘛！——但是你有嫂子。" }
+        {
+          "type": "line",
+          "line": "你是不是又跟同学打架了？啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁叫他们说我没爹没娘的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就是没有爹，没有娘嘛！——但是你有嫂子。"
+        }
       ]
     },
     {
@@ -55,23 +82,41 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你这是啥话嘛！展堂，带她到后院洗洗去。" }
+        {
+          "type": "line",
+          "line": "你这是啥话嘛！展堂，带她到后院洗洗去。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "哎呀，我不去！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我不去！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那你让小郭带她去洗。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你让小郭带她去洗。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "我忙着呢，吕秀才！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我忙着呢，吕秀才！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -87,29 +132,50 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "先不洗了，待会儿还得打！打完还得洗，麻烦！" }
+        {
+          "type": "line",
+          "line": "先不洗了，待会儿还得打！打完还得洗，麻烦！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "还敢打？我看你是想找揍。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还敢打？我看你是想找揍。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "我不洗，我不洗！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不洗，我不洗！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "我有好日子过了。——住手！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有好日子过了。——住手！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "哎，我说你怎么又进来了？出去出去出去！" }
+        {
+          "type": "line",
+          "line": "哎，我说你怎么又进来了？出去出去出去！"
+        }
       ]
     },
     {
@@ -125,83 +191,149 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "提啥醒嘛？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "提啥醒嘛？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "你手里牵的那个小姑娘，她是个妖孽。" }
+        {
+          "type": "line",
+          "line": "你手里牵的那个小姑娘，她是个妖孽。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "你才是妖孽呢！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才是妖孽呢！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你胡说啥呢，出去！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你胡说啥呢，出去！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "就是。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "我胡说？你自幼丧母，我说得对吧？" }
+        {
+          "type": "line",
+          "line": "我胡说？你自幼丧母，我说得对吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "对呀，还有呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀，还有呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "继而丧父，接着丧兄，我说的可对？" }
+        {
+          "type": "line",
+          "line": "继而丧父，接着丧兄，我说的可对？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "先生，请坐。贵姓啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生，请坐。贵姓啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "老夫乃一介山野村民，无名无姓。叫我白眉吧。" }
+        {
+          "type": "line",
+          "line": "老夫乃一介山野村民，无名无姓。叫我白眉吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "好名字啊，给先生看茶。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好名字啊，给先生看茶。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "不用了，说完我就走。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，说完我就走。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不忙，不忙。先把她弄回去。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不忙，不忙。先把她弄回去。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "哎呀，不用弄，我自己会走。——" },
-        { "type": "speaker-action", "description": "对白眉" },
-        { "type": "line", "line": "你这个骗子，你就骗他们吧。" }
+        {
+          "type": "line",
+          "line": "哎呀，不用弄，我自己会走。——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对白眉"
+        },
+        {
+          "type": "line",
+          "line": "你这个骗子，你就骗他们吧。"
+        }
       ]
     },
     {
@@ -218,70 +350,131 @@
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "不瞒你说，这个小姑娘就是传说中的天煞孤星。" }
+        {
+          "type": "line",
+          "line": "不瞒你说，这个小姑娘就是传说中的天煞孤星。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "天什么星？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "天什么星？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "天煞孤星！生来不会别的，就会妨人。" }
+        {
+          "type": "line",
+          "line": "天煞孤星！生来不会别的，就会妨人。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "哼哼，谁信呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，谁信呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "尊驾姓吕吧！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "尊驾姓吕吧！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "你怎么知道的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么知道的？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "中过秀才吧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "中过秀才吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "啊？你还知道什么啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？你还知道什么啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "我还知道，你姓郭，你姓。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还知道，你姓郭，你姓。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "姓什么？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "姓什么？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "我算算啊。佟！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我算算啊。佟！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "先生好厉害呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生好厉害呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -296,39 +489,72 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "谁在这胡咧咧呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁在这胡咧咧呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你才胡咧咧呢，白眉先生灵着呢！" }
+        {
+          "type": "line",
+          "line": "你才胡咧咧呢，白眉先生灵着呢！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "就他呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就他呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "先生，把他姓啥说一下。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生，把他姓啥说一下。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "呵呵，我姓啥还用他说？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，我姓啥还用他说？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "他是硬算出来的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是硬算出来的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "那好，你说说我姓啥？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，你说说我姓啥？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -343,13 +569,21 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你别说名字，你说我姓什么？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别说名字，你说我姓什么？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "line", "line": "你姓……我有点饿了。有吃的东西么？" }
+        {
+          "type": "line",
+          "line": "你姓……我有点饿了。有吃的东西么？"
+        }
       ]
     },
     {
@@ -365,19 +599,37 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "先生算一下嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生算一下嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "算一下嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "算一下嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "好，你等着。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，你等着。"
+        }
+      ]
     },
-    { "type": "action", "description": "对镜头" },
+    {
+      "type": "action",
+      "description": "对镜头"
+    },
     {
       "type": "dialog",
       "speaker": "白眉",
@@ -391,53 +643,95 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "要不再重新算算？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不再重新算算？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "不用算了，我随我娘姓，我爹就姓周。" }
+        {
+          "type": "line",
+          "line": "不用算了，我随我娘姓，我爹就姓周。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "哎呀，老先生真是活神仙啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，老先生真是活神仙啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "高人呐，高人！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "高人呐，高人！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
-      "performances": [{ "type": "line", "line": "愧不敢当，愧不敢当。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "愧不敢当，愧不敢当。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "你们还愣着干啥？快快快给白眉先生弄饭去啊！" }
+        {
+          "type": "line",
+          "line": "你们还愣着干啥？快快快给白眉先生弄饭去啊！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "对对对，弄吃的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，弄吃的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "来，喝茶。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，喝茶。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白眉",
       "performances": [
-        { "type": "speaker-action", "description": "对镜头" },
-        { "type": "line", "line": "我的娘啊，以后再别出这种难题了。" }
+        {
+          "type": "speaker-action",
+          "description": "对镜头"
+        },
+        {
+          "type": "line",
+          "line": "我的娘啊，以后再别出这种难题了。"
+        }
       ]
     }
   ]

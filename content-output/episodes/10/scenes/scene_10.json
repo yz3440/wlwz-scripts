@@ -4,73 +4,139 @@
   "location": "客栈外",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "路人甲过" },
     {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [{ "type": "line", "line": "站住！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [{ "type": "line", "line": "知道今天啥日子吧？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "路人",
-      "performances": [{ "type": "line", "line": "十六，咋了？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [{ "type": "line", "line": "今儿我开工了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "路人",
-      "performances": [{ "type": "line", "line": "开工？然后呢？" }]
+      "type": "action",
+      "description": "路人甲过"
     },
     {
       "type": "dialog",
       "speaker": "小米",
       "performances": [
-        { "type": "line", "line": "昨天你不是还给我一文钱吗？拿来吧。" }
+        {
+          "type": "line",
+          "line": "站住！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道今天啥日子吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "路人",
-      "performances": [{ "type": "line", "line": "凭啥，我欠你的啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "十六，咋了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
-      "performances": [{ "type": "line", "line": "你拿来不拿来？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "今儿我开工了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "路人",
-      "performances": [{ "type": "line", "line": "不给！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "开工？然后呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
-      "performances": [{ "type": "line", "line": "你拿来不拿来？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "昨天你不是还给我一文钱吗？拿来吧。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "路人",
-      "performances": [{ "type": "line", "line": "我就是不给！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥，我欠你的啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
-      "performances": [{ "type": "line", "line": "你拿来不拿来？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拿来不拿来？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "路人",
-      "performances": [{ "type": "line", "line": "抢劫！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不给！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拿来不拿来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "路人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就是不给！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拿来不拿来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "路人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抢劫！"
+        }
+      ]
     },
     {
       "type": "action",
@@ -79,12 +145,22 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "怎么回事？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "路人",
-      "performances": [{ "type": "line", "line": "他抢劫我！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他抢劫我！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -99,32 +175,56 @@
     {
       "type": "dialog",
       "speaker": "邢育森",
-      "performances": [{ "type": "line", "line": "哎，你还真跑，六儿！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你还真跑，六儿！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "帮我照顾好我七舅姥爷三外甥的前一个丈母娘！" }
+        {
+          "type": "line",
+          "line": "帮我照顾好我七舅姥爷三外甥的前一个丈母娘！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "没那闲功夫！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没那闲功夫！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "speaker-action", "description": "对路人" },
-        { "type": "line", "line": "走，跟我到衙门录个口供。" }
+        {
+          "type": "speaker-action",
+          "description": "对路人"
+        },
+        {
+          "type": "line",
+          "line": "走，跟我到衙门录个口供。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "路人",
-      "performances": [{ "type": "line", "line": "不用了吧？就一文钱。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了吧？就一文钱。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -139,7 +239,12 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "知道，就这人儿。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道，就这人儿。"
+        }
+      ]
     },
     {
       "type": "dialog",

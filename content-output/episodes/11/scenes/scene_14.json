@@ -8,38 +8,70 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "老刑？咋了这是？——老白，过来。老刑说啥呢？" }
+        {
+          "type": "line",
+          "line": "老刑？咋了这是？——老白，过来。老刑说啥呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "凑近老邢听" },
-        { "type": "line", "line": "这不是清汤面，这不是清汤面。" }
+        {
+          "type": "speaker-action",
+          "description": "凑近老邢听"
+        },
+        {
+          "type": "line",
+          "line": "这不是清汤面，这不是清汤面。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "那这能是啥吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那这能是啥吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "这是鳝丝面，这是鳝丝面。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是鳝丝面，这是鳝丝面。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哪来的鳝丝。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪来的鳝丝。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "就是。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是。"
+        }
+      ]
     },
-    { "type": "action", "description": "老刑大口的吃面，夹起小咸菜" },
+    {
+      "type": "action",
+      "description": "老刑大口的吃面，夹起小咸菜"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -54,7 +86,10 @@
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "这谁溜的肥肠，咋这么咸，还这么脆呀？" }
+        {
+          "type": "line",
+          "line": "这谁溜的肥肠，咋这么咸，还这么脆呀？"
+        }
       ]
     },
     {
@@ -81,13 +116,21 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "那就算我请你的，去叫大嘴溜个肥肠。" }
+        {
+          "type": "line",
+          "line": "那就算我请你的，去叫大嘴溜个肥肠。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "行，让大嘴给你溜个肥肠啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，让大嘴给你溜个肥肠啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -102,7 +145,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "啥敏感的时期呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥敏感的时期呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -117,7 +165,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "真的？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -133,25 +186,41 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "那你这清汤？不不不，鳝丝面呢？" }
+        {
+          "type": "line",
+          "line": "那你这清汤？不不不，鳝丝面呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
-        { "type": "line", "line": "把水弄干，留着明天早上我来吃炸酱面。" }
+        {
+          "type": "line",
+          "line": "把水弄干，留着明天早上我来吃炸酱面。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "好好好。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "行行行，慢走啊，老邢。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，慢走啊，老邢。"
+        }
+      ]
     }
   ]
 }

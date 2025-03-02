@@ -1,328 +1,16 @@
 {
   "type": "normal",
-  "rawDescription": "【后院，夜】",
-  "location": "后院",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
   "timeOfDay": "夜",
   "performances": [
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "我错了，我白展堂对天发誓，以后我再干那些偷鸡摸狗的事儿，就让我没娘。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你——"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "给老白一个耳光"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你咋打人呢你？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不光打，我还踹呢，踹死你这个没用的东西！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "来人呐，捕快滥用私刑欺压良民啦。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人出"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "小六小六干啥呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "对小六"
-        },
-        {
-          "type": "line",
-          "line": "你消消气儿，老白不懂事儿，你别跟他一般见识啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "他不懂事儿，你就懂事？你谁呀你？滚一边去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "燕小六，你别蹬鼻子上脸啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你什么你？赶紧把这碗汤给我喝了一滴也不许剩。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "闻了一下"
-        },
-        {
-          "type": "line",
-          "line": "你是黑店呐？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不要胡说嘛，从哪儿看出来的你？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不是黑店，哪儿来的这迷魂汤呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "厄……今儿晚上太阳不错啊……昨天晚上早点也很好……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "小六你听我跟你说啊……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小六手指运功"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "拉过湘玉"
-        },
-        {
-          "type": "line",
-          "line": "小心！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "咋了嘛？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这个小六是假的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哼，你啥意思，咋当跑堂的？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你连马脚都藏不住，怎么当飞贼啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你啥意思啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "诸位请看，真的小六有这么小的脚吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "呀？怎么这么小的脚啊，你谁呀你？你把小六弄哪儿去啦啊？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大堂叫声，快来人哪。假小六瞬间消失"
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这……人呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "好厉害的轻功啊，我去看看。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不用了吧，展堂。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "小贝还在外面呢，你们在这儿呆着啊，哪儿也不许去。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小六穿肚兜进"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "救命啊，诸位都在呢，有衣裳没有，来两件，冻死我了！"
+          "line": "哎呀妈呀，这回可热闹了，这事儿啊，爱谁包谁包吧。"
         }
       ]
     },
@@ -332,17 +20,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "等着啊，我马上给你拿去。"
+          "line": "大嘴！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "咋整的这是……"
+          "line": "这事儿咋办呀，咋办呀？"
         }
       ]
     },
@@ -352,71 +40,185 @@
       "performances": [
         {
           "type": "line",
-          "line": "大嘴，帮我找些蜡烛来。"
+          "line": "掌柜的掌柜的，先别着急，子曾经曰过，君子喻于义，小人喻于利……"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎好，你等会儿噢。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不好意思。这汤没人喝吧，不好意思了……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟、郭",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎小六小六——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "speaker-action",
-          "description": "喝迷魂汤"
+          "description": "怒"
         },
         {
           "type": "line",
-          "line": "味道不错，就是有点儿——"
+          "line": "啥意思吗？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟、郭",
+      "speaker": "众人",
       "performances": [
         {
           "type": "line",
-          "line": "有点儿啥呀？"
+          "line": "嘘——"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "吕秀才",
       "performances": [
         {
           "type": "line",
-          "line": "麻——"
+          "line": "小六也不是不讲理的人，就算是不讲理，咱们还有银子嘛？银子都不管用的话，那就只能请芙妹定夺了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要您一句话，这事就包我身上了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你打算怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然被逼到这个份儿上，那就一不做二不休。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用手比量"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家是个捕快呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捕快怎么了？咱这是被逼无奈，狗急也得跳墙啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就好好跳嘛，咬人干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁咬人啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不咬人，啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给他弄碗迷魂汤啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢哟——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你们以为我要掐死他呀？拜托有没有搞错，人家是捕快呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，各自准备，随时开战。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，弄碗汤去。"
         }
       ]
     }

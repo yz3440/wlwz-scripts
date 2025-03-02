@@ -4,17 +4,28 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "湘玉给芙蓉几文钱" },
+    {
+      "type": "action",
+      "description": "湘玉给芙蓉几文钱"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "这钱省着点花。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这钱省着点花。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "不会吧，大姐，就这么一点钱啊？" }
+        {
+          "type": "line",
+          "line": "不会吧，大姐，就这么一点钱啊？"
+        }
       ]
     },
     {
@@ -30,56 +41,102 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那能学到什么经验嘛。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那能学到什么经验嘛。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "那就点个凉菜。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就点个凉菜。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "那我不去了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "哎，再给你加十文！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
       "performances": [
-        { "type": "line", "line": "用不了那么多，对门吃饭啊，便宜得很！" }
+        {
+          "type": "line",
+          "line": "那我不去了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你的脚！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [{ "type": "line", "line": "没沾地儿，没沾地儿。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你咋又回来了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，再给你加十文！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
       "performances": [
-        { "type": "line", "line": "哎哟，这不跟那儿吃累了，想回来讨口水喝。" }
+        {
+          "type": "line",
+          "line": "用不了那么多，对门吃饭啊，便宜得很！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "想喝菊花还是普洱啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的脚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没沾地儿，没沾地儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋又回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，这不跟那儿吃累了，想回来讨口水喝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想喝菊花还是普洱啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -91,16 +148,29 @@
         }
       ]
     },
-    { "type": "action", "description": "湘玉拿茶一泼" },
+    {
+      "type": "action",
+      "description": "湘玉拿茶一泼"
+    },
     {
       "type": "dialog",
       "speaker": "小米",
-      "performances": [{ "type": "line", "line": "你是干嘛呢，你想……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是干嘛呢，你想……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "睡觉前不得洗个澡嘛！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡觉前不得洗个澡嘛！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -116,10 +186,16 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "虎落平阳被犬欺，连小米都敢这么对我，" }
+        {
+          "type": "line",
+          "line": "虎落平阳被犬欺，连小米都敢这么对我，"
+        }
       ]
     },
-    { "type": "action", "description": "对小郭" },
+    {
+      "type": "action",
+      "description": "对小郭"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
@@ -133,7 +209,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "噢……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢……"
+        }
+      ]
     }
   ]
 }

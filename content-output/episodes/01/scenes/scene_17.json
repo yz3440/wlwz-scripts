@@ -1,1 +1,18 @@
-{"type": "normal", "rawDescription": "【屋顶，夜】", "location": "屋顶", "timeOfDay": "夜", "performances": [{"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "第三，你见过哪家客栈会有那么多的空房？"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第三，你见过哪家客栈会有那么多的空房？"
+        }
+      ]
+    }
+  ]
+}

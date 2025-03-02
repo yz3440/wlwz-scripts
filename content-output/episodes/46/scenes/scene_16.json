@@ -1,146 +1,104 @@
 {
   "type": "normal",
-  "rawDescription": "【客栈门口，昼】",
-  "location": "客栈门口",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
   "timeOfDay": "昼",
   "performances": [
     {
+      "type": "action",
+      "description": "莫小贝练暗器"
+    },
+    {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "小米小米，我这些钱全给我押岳掌门，全押上啊。"
+          "line": "行了行了，不要再练了，练了两天一个都没有打中，这场闹剧到此为止。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "行，你小子够有钱的啊？"
+          "line": "嫂子，到时候衡山派就变成衡山堂了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "老婆本儿，我攒多少年了。"
+          "line": "堂主比掌门舒服多了，又威风还不用负责任。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "那你就不怕输了？"
+          "line": "这话你跟他们说去。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "输不了，就小贝那两下子，能坚持一个回合就不错了。"
+          "line": "我跟谁说去？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "我可打算给我那二钱银子押到小贝身上，万一岳掌门一心慈手软，让小贝找到可乘之机。"
+          "line": "跟我哥，我爹娘，我爷，还有我太爷爷。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "可乘？就她那两下子？她就是乘着她也得坠机啊。"
+          "line": "他们也不会怪你的。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "人生在世要赌就赌大的，输也就输二钱银子，赢可是赢二十两啊。"
+          "line": "但是我会怪我！我宁可缺胳膊少腿，也不会给他们丢脸，把草人放这儿。请让一让。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "打中草人"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "二十两……不是，二钱，那不也才是四两银子？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "现在涨到一赔一百！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "一赔一……那我这点钱翻一百倍。哎呀哎呀！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "大嘴，咱要不找个机会，观察一下？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "咋观察？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我跟你说，你不是还欠我一顿饭吗，晚上咱摆一桌，借花献佛。"
+          "line": "耶，我胜利了，胜利了。"
         }
       ]
     }

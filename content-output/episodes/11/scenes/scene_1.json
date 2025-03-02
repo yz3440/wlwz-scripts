@@ -11,7 +11,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "掌柜的怎么还没有回来吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的怎么还没有回来吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -27,34 +32,65 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "那都算了一天了，那得赔多少钱啊？" }
+        {
+          "type": "line",
+          "line": "那都算了一天了，那得赔多少钱啊？"
+        }
       ]
     },
-    { "type": "action", "description": "掌柜回店" },
+    {
+      "type": "action",
+      "description": "掌柜回店"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "五十两银子。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "五十两银子。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "你就赔吧你啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就赔吧你啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "算完了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "算完了？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "对，五十两银子都得你来赔。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，五十两银子都得你来赔。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "苍天呐。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "苍天呐。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -69,12 +105,22 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "扈十娘。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "扈十娘。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "对，你咋知道？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，你咋知道？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -99,23 +145,43 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "扈十娘。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "扈十娘。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "对，不能让她受半点儿委屈。" },
-        { "type": "speaker-action", "description": "向小郭" },
-        { "type": "line", "line": "尤其是你。" }
+        {
+          "type": "line",
+          "line": "对，不能让她受半点儿委屈。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "向小郭"
+        },
+        {
+          "type": "line",
+          "line": "尤其是你。"
+        }
       ]
     },
-    { "type": "action", "description": "小郭傻笑附和，好好好" },
+    {
+      "type": "action",
+      "description": "小郭傻笑附和，好好好"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "笑啥，干活去，都是你惹的祸。——扈十娘……" }
+        {
+          "type": "line",
+          "line": "笑啥，干活去，都是你惹的祸。——扈十娘……"
+        }
       ]
     }
   ]

@@ -1,20 +1,27 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，夜】",
+  "rawDescription": "【大堂，昼】",
   "location": "大堂",
-  "timeOfDay": "夜",
+  "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "心理活动"
-        },
+          "type": "line",
+          "line": "娘啊，你别再点我了，我有个事儿跟你说，我跟湘玉啊，我们俩——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
         {
           "type": "line",
-          "line": "小样儿，在我娘面前跟我耍花招，看我怎么收拾你。"
+          "line": "是假结婚。"
         }
       ]
     },
@@ -24,7 +31,27 @@
       "performances": [
         {
           "type": "line",
-          "line": "诸位，我娘子酒量不行啊，这杯酒呢，我替她敬诸位一杯。来干了，来来来！为了答谢大家的厚爱，我决定，从今天往后我和我娘子携手并肩，共创美好明天。来！"
+          "line": "湘玉都跟你说啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为你娘是第一天行走江湖啊，你说假结婚我就信呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真是假结婚，不信你问他们，大家都知道。"
         }
       ]
     },
@@ -34,7 +61,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "来啥啊！"
+          "line": "我跟展堂确实是假结婚，我俩一点儿关系都没有。"
         }
       ]
     },
@@ -44,21 +71,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "携手并肩，手啊！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉牵手"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "来，给大家伙亲一个！"
+          "line": "你听见了吗？"
         }
       ]
     },
@@ -68,7 +81,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "大庭广众的不太合适吧？"
+          "line": "婆婆……"
         }
       ]
     },
@@ -78,7 +91,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "要的就是大庭广众，要不然怎么叫亲热呢，哼，你不会不敢吧？"
+          "line": "你叫啥？"
         }
       ]
     },
@@ -88,17 +101,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "为啥不敢，又不是第一次，昨天晚上还亲了一宿呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喔！"
+          "line": "千万不要生气啊，嫁鸡随鸡嫁狗随狗，夫君说的话我都得照办。"
         }
       ]
     },
@@ -108,21 +111,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "好啊，那就亲吧！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "心理活动"
-        },
-        {
-          "type": "line",
-          "line": "翻脸，翻脸，翻脸，快跟我翻脸！"
+          "line": "你这啥意思啊？"
         }
       ]
     },
@@ -131,22 +120,8 @@
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "心理活动"
-        },
-        {
           "type": "line",
-          "line": "事已至此豁出去了，跟他拼了！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "慢着——"
+          "line": "相公，你吩咐我说的话我已经照着说完了，我可以回去了吗？"
         }
       ]
     },
@@ -156,17 +131,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你咋不躲呢你？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "躲啥呢？亲自己的相公，还犯法吗？"
+          "line": "你——"
         }
       ]
     },
@@ -176,319 +141,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "不犯法，但他不是你相公。你在撒谎。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "镜头切换黑背景"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "各位观众，昨天晚上，为了防止她偷吃东西，我特意给她抹上了口红 。如果我儿真的亲了她，那在他的嘴上一定会留下痕迹。但事实，并没有。 这足以证明"
-        },
-        {
-          "type": "speaker-action",
-          "description": "看着佟湘玉"
-        },
-        {
-          "type": "line",
-          "line": "你在撒谎。说，为什么？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "切回大堂场景"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我不希望你带他走，他好不容易安定下来，不用再过那种风吹日晒，提心吊胆的日子。这里的生活，虽然平淡，但并不乏味；虽然琐碎，但并不单调。这里的每个人，包括我，都真心诚意地希望展堂能够改过自新，远离那条不归路。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "她说的是真的？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "是真的，娘。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那你怎么不早告诉我？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我早就跟您说过了，您死活不信呐。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "对众人"
-        },
-        {
-          "type": "line",
-          "line": "这是真的吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "是这么回事儿，真的真的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "对众人"
-        },
-        {
-          "type": "line",
-          "line": "真是这么回事儿？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "真的！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "感动"
-        },
-        {
-          "type": "line",
-          "line": "哎，老实说，我行走江湖这么多年，从来就不相信友情，更不相信能有这么多人，不计报酬，不计后果的帮你。今天，我三娘算是开了眼了！来，这杯酒，我敬大家！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "来，干干干！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "湘玉妹妹，你的恩情，三娘就是粉身碎骨也无以为报。如果你不嫌弃我儿的话……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不嫌弃，不嫌弃！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "就让他给你当外甥，咱俩拜姐妹！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人楞"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "怎么？你讨厌我这老太婆？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不是……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那就好，那就好！湘玉以后就是我的亲妹妹了，你们记着，以后你们谁敢欺负她，那就是欺负我。明白了？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "……明白了，明白了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "还愣着干啥，快叫二姨啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "很小声"
-        },
-        {
-          "type": "line",
-          "line": "二姨……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "大点儿声！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "咬着牙"
-        },
-        {
-          "type": "line",
-          "line": "二姨！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人无语"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白三娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "湘玉妹妹，以后你外甥的婚事，可就全仰仗着你啦。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "知道了……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "心理活动"
-        },
-        {
-          "type": "line",
-          "line": "我的神呀，我这造的哪门子的孽哟！"
+          "line": "回去吧。——怎么样，你还有啥说的？"
         }
       ]
     }

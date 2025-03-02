@@ -383,8 +383,11 @@
       "speaker": "吴守义",
       "performances": [
         {
+          "type": "line",
+          "line": "你……"
+        },
+        {
           "type": "speaker-action",
-          "line": "你……",
           "description": "对镜头"
         },
         {

@@ -1,122 +1,12 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，昼】",
-  "location": "大堂",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
   "timeOfDay": "昼",
   "performances": [
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这两天就要比武了，小贝这武功可咋办？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，嵩山派恒山派泰山派三位掌门，都顺利到家了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哦。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "但都个个身重伤。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "三位掌门由于舟车劳顿，水土不服。刚到华山都被岳掌门逼着比武，结果吃大亏了。嵩山派的左老爷子，比剑输了，不认帐，又比拳脚，结果被人叮咣四五一顿乱揍。打的门牙一颗不剩，哎呀江湖人送，嵩山左姥姥。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "咦，可怜的很啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "可怜？可怜还没有泰山派的石掌门可怜啊，一招没出，被人戳瞎双眼。整天寻死，好好的泰山派石敢当，现在成了泰山派的石敢死了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎呀！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "还有那个恒山派的令狐掌门，比武输了吧他不认帐，非跟人家比摔交，结果呢左耳朵被人家拽掉半拉儿，右耳朵就剩了个洞。人称啊，恒山一只耳。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哈哈哈哈，这也太惨了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟掌柜",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
@@ -126,67 +16,187 @@
     },
     {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "岳松涛",
       "performances": [
         {
           "type": "line",
-          "line": "佟掌柜，这恐怕不中啊，现在岳掌门跟莫掌门他俩比武这事啊，江湖已经传遍了。各大赌坊都开了盘口，一赔二十，押莫小贝输。"
+          "line": "开什么玩笑！你以为是小孩过家家啊？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "真的，哪个赌坊，在哪儿啊？"
+          "line": "你啥也别说了，反正我是不比了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "众人",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "李大嘴！"
+          "line": "对对对，我们甘拜下风啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "岳松涛",
       "performances": [
         {
           "type": "line",
-          "line": "我就随便问问，随便问问。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "大嘴，你要有钱的话。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "排……"
+          "line": "好吧好吧，不比就不比了。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "小米逃走"
+      "description": "拿出一个册子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，把这个签了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是啥吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五岳剑派合并协议。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉、莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "合并？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从现在起，只有五岳剑派，华山嵩山衡山恒山泰山还有恒山全都改成堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我不就是堂主了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这不是欺负人嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖本来就是弱肉强食。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁强谁弱还不一定呢，到时候不是你死就是我活！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，我死你活，合着我横竖都是一死啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到时候，等着叫人给你收尸吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看在我喝你满月酒的份上，我教你一招。以后发暗器的时候千万别太着急，看准了再发，大吉大利。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用你教！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就祝你赢得比武！哎，我可是真心的。"
+        }
+      ]
     }
   ]
 }

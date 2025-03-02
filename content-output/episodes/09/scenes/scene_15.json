@@ -7,35 +7,66 @@
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "小米哥哥，醒醒！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [{ "type": "line", "line": "干啥呢？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "给我让个地儿吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [{ "type": "line", "line": "凭啥？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "凭这个，买个烧饼当夜宵。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小米哥哥，醒醒！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "小米",
       "performances": [
-        { "type": "line", "line": "中中中，给你让，你沦落街头，看我咋收拾你。" }
+        {
+          "type": "line",
+          "line": "干啥呢？"
+        }
       ]
     },
-    { "type": "action", "description": "小贝做梦" }
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我让个地儿吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭这个，买个烧饼当夜宵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "中中中，给你让，你沦落街头，看我咋收拾你。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝做梦"
+    }
   ]
 }

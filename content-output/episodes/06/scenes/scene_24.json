@@ -4,26 +4,46 @@
   "location": "大堂",
   "timeOfDay": "夜",
   "performances": [
-    { "type": "action", "description": "众人收拾碗筷" },
+    {
+      "type": "action",
+      "description": "众人收拾碗筷"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "吃完了，收吧。" },
-        { "type": "speaker-action", "description": "走到门口" },
-        { "type": "line", "line": "这么晚了咋还不来呢？" }
+        {
+          "type": "line",
+          "line": "吃完了，收吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到门口"
+        },
+        {
+          "type": "line",
+          "line": "这么晚了咋还不来呢？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "他等谁呢？这是。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "他等谁呢？这是。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "上官云顿呐。哎，再不来我们打烊了啊。" }
+        {
+          "type": "line",
+          "line": "上官云顿呐。哎，再不来我们打烊了啊。"
+        }
       ]
     },
     {
@@ -44,8 +64,14 @@
           "type": "line",
           "line": "我真希望他早点儿来呢，不然我心里面没抓没挠的。"
         },
-        { "type": "speaker-action", "description": "唱" },
-        { "type": "line", "line": "你快些来，我已经承受不来，你快些来„" }
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "你快些来，我已经承受不来，你快些来„"
+        }
       ]
     },
     {
@@ -62,125 +88,223 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "哎。" },
-        { "type": "speaker-action", "description": "边跑边唱" },
-        { "type": "line", "line": "你快些来，我已经„" }
+        {
+          "type": "line",
+          "line": "哎。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边跑边唱"
+        },
+        {
+          "type": "line",
+          "line": "你快些来，我已经„"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "男 子",
       "performances": [
-        { "type": "line", "line": "来了来了来了，诸位爷，你们好。" }
+        {
+          "type": "line",
+          "line": "来了来了来了，诸位爷，你们好。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "对不起，我们打烊了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，我们打烊了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "男 子",
       "performances": [
-        { "type": "line", "line": "是啊，实在对不起，我是来找人的。" }
+        {
+          "type": "line",
+          "line": "是啊，实在对不起，我是来找人的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你找谁呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你找谁呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "男 子",
-      "performances": [{ "type": "line", "line": "请问，郭芙蓉小姐在吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问，郭芙蓉小姐在吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你找她有何贵干？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你找她有何贵干？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "男 子",
       "performances": [
-        { "type": "speaker-action", "description": "友情出演：刘亚津" },
+        {
+          "type": "speaker-action",
+          "description": "友情出演：刘亚津"
+        },
         {
           "type": "line",
           "line": "是这样，我呢，是奉上头的指派，来索取她性命的。"
         }
       ]
     },
-    { "type": "action", "description": "老白把众人挡在身后" },
+    {
+      "type": "action",
+      "description": "老白把众人挡在身后"
+    },
     {
       "type": "dialog",
       "speaker": "男 子",
       "performances": [
-        { "type": "line", "line": "麻烦你们帮我通报一声。" },
-        { "type": "speaker-action", "description": "掏出一张纸递给众人" },
-        { "type": "line", "line": "这是我的名贴，还请多多指教。" }
+        {
+          "type": "line",
+          "line": "麻烦你们帮我通报一声。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出一张纸递给众人"
+        },
+        {
+          "type": "line",
+          "line": "这是我的名贴，还请多多指教。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你是上官云顿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是上官云顿？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "上官云顿",
-      "performances": [{ "type": "line", "line": "正是在下，还未请教您？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "正是在下，还未请教您？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "他是盗圣，传说中的盗中之圣。" }
+        {
+          "type": "line",
+          "line": "他是盗圣，传说中的盗中之圣。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "他厉害得很，你不知道我告诉你。" }
+        {
+          "type": "line",
+          "line": "他厉害得很，你不知道我告诉你。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "上官云顿",
-      "performances": [{ "type": "line", "line": "白玉汤？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "知道就好。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "上官云顿",
       "performances": [
-        { "type": "line", "line": "久仰久仰。" },
-        { "type": "speaker-action", "description": "凑近老白" },
-        { "type": "line", "line": "您也是来公干的？要不你在这儿盯着，我撤。" }
+        {
+          "type": "line",
+          "line": "白玉汤？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "少废话，小郭的命我保了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道就好。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "上官云顿",
       "performances": [
-        { "type": "line", "line": "你看，别介别介呀，能不能再通融通融？" }
+        {
+          "type": "line",
+          "line": "久仰久仰。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "凑近老白"
+        },
+        {
+          "type": "line",
+          "line": "您也是来公干的？要不你在这儿盯着，我撤。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，小郭的命我保了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "上官云顿",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看，别介别介呀，能不能再通融通融？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "不能！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不能！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -190,7 +314,10 @@
           "type": "line",
           "line": "既然这样，那我就把大家都送上西天，也省得郭小姐——这么漂亮可惜了呀——也省得郭小姐一个人在路上寂寞呀。别楞着了，有什么遗言就赶紧写下来吧，我今天是一点时间都不宽裕，所以我就不折磨大家了，啊。不过请你们放心，我一定让你们高高兴兴的，平平安安的回老家。"
         },
-        { "type": "speaker-action", "description": "掏包袱" },
+        {
+          "type": "speaker-action",
+          "description": "掏包袱"
+        },
         {
           "type": "line",
           "line": "赶紧给我腾个地儿啊。让你们也开开眼，这些个用具啊，都是我经过精心挑选出来的，你们离这么远哪能看清楚啊，来来来，离近点离近点啊，每一件用具啊，都是经过上千次的试用，客户满意率达99.99%，就拿这根上吊绳来说吧，那是在杀手界里边倍受赞誉呀。"
@@ -201,7 +328,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "还是让我先为你效劳！排山倒海！" }
+        {
+          "type": "line",
+          "line": "还是让我先为你效劳！排山倒海！"
+        }
       ]
     },
     {
@@ -221,9 +351,17 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "葵花点穴手！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
     },
-    { "type": "action", "description": "上官云顿右手一抓一带，老白惨叫" },
+    {
+      "type": "action",
+      "description": "上官云顿右手一抓一带，老白惨叫"
+    },
     {
       "type": "dialog",
       "speaker": "上官云顿",
@@ -237,39 +375,72 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "要杀他，先杀我好了！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "不，湘玉，先杀我！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不要，展堂，杀我。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "杀我，湘玉，你还有小贝。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "小贝托付给你了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "上官云顿",
       "performances": [
-        { "type": "line", "line": "行了，争嘛呀，不都迟早的事儿吗？女士优先。" }
+        {
+          "type": "line",
+          "line": "要杀他，先杀我好了！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你先来。湘玉！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，湘玉，先杀我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要，展堂，杀我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "杀我，湘玉，你还有小贝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝托付给你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "上官云顿",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，争嘛呀，不都迟早的事儿吗？女士优先。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先来。湘玉！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -285,48 +456,95 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "speaker-action", "description": "出现在二楼" },
-        { "type": "line", "line": "老贼！" }
+        {
+          "type": "speaker-action",
+          "description": "出现在二楼"
+        },
+        {
+          "type": "line",
+          "line": "老贼！"
+        }
       ]
     },
-    { "type": "action", "description": "上官云顿转身，掌柜的惨叫" },
+    {
+      "type": "action",
+      "description": "上官云顿转身，掌柜的惨叫"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "放手啊！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "放手啊！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "接招！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "接招！"
+        }
+      ]
     },
-    { "type": "action", "description": "暗器飞出" },
+    {
+      "type": "action",
+      "description": "暗器飞出"
+    },
     {
       "type": "dialog",
       "speaker": "上官云顿",
       "performances": [
-        { "type": "line", "line": "兄弟，没练过暗器吧？" },
-        { "type": "speaker-action", "description": "举手一看" },
-        { "type": "line", "line": "夺命蝎！" }
+        {
+          "type": "line",
+          "line": "兄弟，没练过暗器吧？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "举手一看"
+        },
+        {
+          "type": "line",
+          "line": "夺命蝎！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "绳子！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "绳子！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "那蝎子可是活物，逮哪儿蜇哪儿。" }
+        {
+          "type": "line",
+          "line": "那蝎子可是活物，逮哪儿蜇哪儿。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "湘玉啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉啊。"
+        }
+      ]
     },
-    { "type": "action", "description": "秀才掐昏倒的小郭人中" }
+    {
+      "type": "action",
+      "description": "秀才掐昏倒的小郭人中"
+    }
   ]
 }

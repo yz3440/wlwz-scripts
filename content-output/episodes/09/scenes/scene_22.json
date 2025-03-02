@@ -1,1 +1,262 @@
-{"type": "normal", "rawDescription": "【客栈外，夜】", "location": "客栈外", "timeOfDay": "夜", "performances": [{"type": "action", "description": "梦回"}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "哎，醒醒，别在这儿睡啊，在这儿睡该着凉了，回家睡去吧！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "对不起对不起，我错了，请你不要开除我，我错了我错了我错了！"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "这娃是不是发烧了？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "那块牌子呢？"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "小贝，你咋啦？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "嫂子？我终于回家了，嫂子，我饿了！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "你饿了，那我给你做碗吃的去啊。"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "哎，大嘴叔叔你等等。"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "咋的啦？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "Good night 对不起，我不应该说你瞎许诺！"}]}, {"type": "dialog", "speaker": "李大嘴", "performances": [{"type": "line", "line": "没事儿，我脸皮厚，你咋说我都行，那啥我给你咕嘟碗鸡汤去啊。"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "快去快去，快点啊！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "还有小郭姐姐，Good night 对不起，我不应该说你欺凌弱小……"}]}, {"type": "dialog", "speaker": "郭芙蓉", "performances": [{"type": "line", "line": "哎呀！没事儿的小贝，你随便说啊，姐姐已经退出江湖了，呵呵，我去帮大嘴啊……"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "还有白大哥，Good night 对不起，我不应该说你跟谁都假熟……"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "没事儿，你好好努力，等你有出息了，白大哥跟别人说咱俩真熟啊！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "还有吕先生，Good night 对不起，我不应该说你考不上功名。"}]}, {"type": "dialog", "speaker": "吕秀才", "performances": [{"type": "line", "line": "事实嘛！"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "你别灰心，我相信你一定能考上的，我敢拿性命打包票！"}]}, {"type": "dialog", "speaker": "吕秀才、白展堂", "performances": [{"type": "line", "line": "为什么呀？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "就我写字拿水平，随便换个地方，已经能横扫一大片了！"}]}, {"type": "dialog", "speaker": "白展堂、吕秀才", "performances": [{"type": "line", "line": "什么地方啊？"}]}, {"type": "dialog", "speaker": "莫小贝", "performances": [{"type": "line", "line": "平谷飞龙影视基地……"}]}, {"type": "dialog", "speaker": "白展堂", "performances": [{"type": "line", "line": "听不明白啊……"}]}, {"type": "dialog", "speaker": "佟湘玉", "performances": [{"type": "line", "line": "小贝，走走走，回屋休息了啊。"}]}]}
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，夜】",
+  "location": "客栈外",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "梦回"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，醒醒，别在这儿睡啊，在这儿睡该着凉了，回家睡去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起对不起，我错了，请你不要开除我，我错了我错了我错了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这娃是不是发烧了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那块牌子呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，你咋啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子？我终于回家了，嫂子，我饿了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你饿了，那我给你做碗吃的去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，大嘴叔叔你等等。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Good night 对不起，我不应该说你瞎许诺！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，我脸皮厚，你咋说我都行，那啥我给你咕嘟碗鸡汤去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快去快去，快点啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有小郭姐姐，Good night 对不起，我不应该说你欺凌弱小……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！没事儿的小贝，你随便说啊，姐姐已经退出江湖了，呵呵，我去帮大嘴啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有白大哥，Good night 对不起，我不应该说你跟谁都假熟……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，你好好努力，等你有出息了，白大哥跟别人说咱俩真熟啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有吕先生，Good night 对不起，我不应该说你考不上功名。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "事实嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别灰心，我相信你一定能考上的，我敢拿性命打包票！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才、白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就我写字拿水平，随便换个地方，已经能横扫一大片了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么地方啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "平谷飞龙影视基地……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听不明白啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，走走走，回屋休息了啊。"
+        }
+      ]
+    }
+  ]
+}

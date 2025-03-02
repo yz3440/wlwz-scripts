@@ -4,33 +4,59 @@
   "location": "大堂",
   "timeOfDay": "傍晚",
   "performances": [
-    { "type": "action", "description": "朱先生从门口进，一脸喜色" },
+    {
+      "type": "action",
+      "description": "朱先生从门口进，一脸喜色"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "哎哟，朱先生！来，坐坐坐坐！" }
+        {
+          "type": "line",
+          "line": "哎哟，朱先生！来，坐坐坐坐！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "胡子长出来了啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡子长出来了啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "来来来，倒茶！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，倒茶！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "佟掌柜。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -45,22 +71,42 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哦……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "说明这孩子啊，天赋异秉呀！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说明这孩子啊，天赋异秉呀！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哎呀……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "还是先生调教的好！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是先生调教的好！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -76,32 +122,57 @@
       "type": "dialog",
       "speaker": "众人",
       "performances": [
-        { "type": "line", "line": "啊……" },
+        {
+          "type": "line",
+          "line": "啊……"
+        },
         {
           "type": "speaker-action",
           "description": "转头看秀才，秀才一甩手，走到柜台"
         },
-        { "type": "line", "line": "是啊，是啊……" }
+        {
+          "type": "line",
+          "line": "是啊，是啊……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
       "performances": [
-        { "type": "line", "line": "就凭他那个猪脑子？哈哈……" },
-        { "type": "speaker-action", "description": "秀才开始磨牙" },
-        { "type": "line", "line": "怎么又有耗子了？" }
+        {
+          "type": "line",
+          "line": "就凭他那个猪脑子？哈哈……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才开始磨牙"
+        },
+        {
+          "type": "line",
+          "line": "怎么又有耗子了？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "新搬来的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "新搬来的。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "您接着说" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "您接着说"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -111,9 +182,18 @@
           "type": "line",
           "line": "就凭他这个资质，说破了大天，他也不过就是个说书的吧，啊？"
         },
-        { "type": "speaker-action", "description": "朝秀才" },
-        { "type": "line", "line": "哎，你说对吧，小帐房？" },
-        { "type": "speaker-action", "description": "秀才痛苦的捂头" },
+        {
+          "type": "speaker-action",
+          "description": "朝秀才"
+        },
+        {
+          "type": "line",
+          "line": "哎，你说对吧，小帐房？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才痛苦的捂头"
+        },
         {
           "type": "line",
           "line": "一个只会之乎者也的庸才，他写出了书，会有人看吗？"
@@ -123,29 +203,52 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "……不会不会不会" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "……不会不会不会"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "先生放心，我会劝他赶紧停笔的。" }
+        {
+          "type": "line",
+          "line": "先生放心，我会劝他赶紧停笔的。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "朱先生",
-      "performances": [{ "type": "line", "line": "哦，你们认识他？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，你们认识他？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "呃……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "不光认识，而且熟得很。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不光认识，而且熟得很。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -174,20 +277,36 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎，走了走了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，走了走了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "受此大辱，岂能苟活……我跟他拼了我！" }
+        {
+          "type": "line",
+          "line": "受此大辱，岂能苟活……我跟他拼了我！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "哎……秀才秀才" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎……秀才秀才"
+        }
+      ]
     },
-    { "type": "action", "description": "众人和秀才扭成一团" }
+    {
+      "type": "action",
+      "description": "众人和秀才扭成一团"
+    }
   ]
 }
