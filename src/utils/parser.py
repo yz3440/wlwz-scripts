@@ -45,6 +45,11 @@ Performances Array (for normal scenes):
        {
          "type": "speaker-action",
          "description": "Action text"
+       },
+       {
+         "type": "reaction",
+         "reactor": "Character name",
+         "description": "Reaction text"
        }
      ]
    }
@@ -63,13 +68,19 @@ Formatting Rules:
 5. Keep action text verbatim, no missing texts, no paraphrasing (IMPORTANT!!)
 6. Multiple speakers for one line should be combined into a single string
 7. Ignore the "本回完" text in the last line of the last scene. Ignore page numbers (a number as it's own line)
-8. In these episode, “展堂” and "白展堂" are the different characters. “展堂” is noted in the dialog often as "展 堂“. Please keep the difference.
 
-Action vs Speaker-Action:
+Action vs Speaker-Action vs Reaction
 - If an action is clearly performed by the speaking character → "speaker-action" (speaker-action lives under "performances" -> "dialog" -> "performances")
 - If the action is general or performed by others → "action" (action lives under "performances")
+- If the action is a reaction to the speaking character's speech and the speaking character is not the reactor → "reaction" (reaction lives under "performances" -> "dialog" -> "performances")
 - Use context to determine classification
 """
+
+
+special_rules = [
+    # this is for episode 53, 54, 55, 56
+    """8. In these episode, “展堂” and "白展堂" are the different characters. “展堂” is noted in the dialog often as "展 堂“. Please keep the difference."""
+]
 
 
 def build_prompt(scene_text: str) -> str:
@@ -205,6 +216,23 @@ normal_scene_schema = {
                                                     "type": "string",
                                                     "enum": ["speaker-action"],
                                                 },
+                                                "description": {"type": "string"},
+                                            },
+                                            "additionalProperties": False,
+                                        },
+                                        {
+                                            "type": "object",
+                                            "required": [
+                                                "type",
+                                                "reactor",
+                                                "description",
+                                            ],
+                                            "properties": {
+                                                "type": {
+                                                    "type": "string",
+                                                    "enum": ["reaction"],
+                                                },
+                                                "reactor": {"type": "string"},
                                                 "description": {"type": "string"},
                                             },
                                             "additionalProperties": False,
