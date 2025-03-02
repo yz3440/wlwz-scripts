@@ -1,0 +1,28 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "越说越瘆人了。掌柜的，要不咱把门口的灯笼点上吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行，当初不点灯就是想给他们造成一个假象：咱们这个店里没有人，或者吓唬她们，咱们这儿就是个黑店。"
+        }
+      ]
+    }
+  ]
+}

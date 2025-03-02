@@ -1,0 +1,321 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，喝水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢郭啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊哪，接着喊哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人都抓起来了，我喊啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这才俩，后面还有仨呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，有种让他们来，我骂不死他们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈…"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，你这是咋的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个美丽呀，长得跟美猴王似的，亏她好意思到处问，我长得美吗？她那个妹妹叫打折的那个，比她长得还丑啊！美丽要是一百分，打折就只剩零点一分了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有那么丑吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "丑！我刚才从背后点的穴，一看正脸，妈呀，吓的腿都软了。老邢，你说这人啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看小郭"
+        },
+        {
+          "type": "line",
+          "line": "有疯死的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看掌柜"
+        },
+        {
+          "type": "line",
+          "line": "有抠死的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看秀才"
+        },
+        {
+          "type": "line",
+          "line": "有酸死的"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看大嘴"
+        },
+        {
+          "type": "line",
+          "line": "还有撑死的，你说我要活活被丑膈应死的，这名声传出去，以后还怎么在江湖上混啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你迟早被人打死。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别膈应人了啊。说正事儿，五毒教的二老马上就要到了，又是一场恶战呀。你们迎战，我接应。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑出客栈"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你又走了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五毒教的听着，你大嘴爷爷在这儿呢，有种就跟我单挑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来，喊啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放手放手，让他去！你是想死吗？赶紧找死去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一点儿忙都帮不上，整天就知道胡咧咧，要么就是吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不是他们说我没种，你说我是饭桶吗？我没种我敢这样吗？你见过这样的饭桶吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回身出门"
+        },
+        {
+          "type": "line",
+          "line": "五毒教的你听着，你大嘴爷爷这儿呢，有什么招儿你尽管使出来，我要是皱皱眉，我跟你的姓！出来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "怪 声",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是你说的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴跑回，众人关门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "怪 声",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有本事别往屋里躲。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妈呀，这是啥声儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蚂蜂。不好，门窗有缝，厨房！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人跑进厨房"
+    }
+  ]
+}

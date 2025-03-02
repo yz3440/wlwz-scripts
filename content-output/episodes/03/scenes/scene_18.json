@@ -1,0 +1,315 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，傍晚】",
+  "location": "大堂",
+  "timeOfDay": "傍晚",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "朱先生从门口进，一脸喜色"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，朱先生！来，坐坐坐坐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡子长出来了啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，倒茶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我赶忙到这来啊，就是想告诉你啊，小贝同学非但弃恶从善，而且还学会了背三字经啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说明这孩子啊，天赋异秉呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是先生调教的好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有天赋，再调教也没用啊！我听说，吕知府的孙儿竟然开始写小说啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转头看秀才，秀才一甩手，走到柜台"
+        },
+        {
+          "type": "line",
+          "line": "是啊，是啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就凭他那个猪脑子？哈哈……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "秀才",
+          "description": "秀才开始磨牙"
+        },
+        {
+          "type": "line",
+          "line": "怎么又有耗子了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "新搬来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您接着说"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就凭他这个资质，说破了大天，他也不过就是个说书的吧，啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝秀才"
+        },
+        {
+          "type": "line",
+          "line": "哎，你说对吧，小帐房？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "秀才",
+          "description": "秀才痛苦的捂头"
+        },
+        {
+          "type": "line",
+          "line": "一个只会之乎者也的庸才，他写出了书，会有人看吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "……不会不会不会"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生放心，我会劝他赶紧停笔的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，你们认识他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不光认识，而且熟得很。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……那太好了，那就请你代我告诉他呀——让他赶紧找个地儿，啊，好好种庄稼吧！他要是没钱买地，那你就告诉我，我介绍他到邱员外家去当杂役。呵呵，喂喂猪，种种菜，倒倒泔水什么的，总不会饿死的，啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才怒极"
+    },
+    {
+      "type": "dialog",
+      "speaker": "朱先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎……告辞告辞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，走了走了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "受此大辱，岂能苟活……我跟他拼了我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎……秀才秀才"
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人和秀才扭成一团"
+        }
+      ]
+    }
+  ]
+}

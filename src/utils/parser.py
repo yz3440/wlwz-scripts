@@ -60,20 +60,30 @@ Performances Array (for normal scenes):
      "description": "Action description"
    }
 
+Action vs Speaker-Action vs Reaction
+- If an action is clearly performed by the speaking character → "speaker-action" (speaker-action lives under "performances" -> "dialog" -> "performances")
+- If the action is general or performed by others → "action" (action lives under "performances")
+- If the action is a reaction to the speaking character's speech and the speaking character is not the reactor → "reaction" (reaction lives under "performances" -> "dialog" -> "performances")
+- Use context to determine classification. Here are a few common cases:
+    - `郭芙蓉：（把血涂到手绢上）敢情不是你受累呀！那么大地方都一个人扫，那么多桌子都是你一个人擦，还有锅碗瓢盆，床单被褥（外面有人敲门），咳咳，请进……`
+        - here "把血涂到手绢上" is a speaker-action because it's clearly performed by the speaking character
+        - "外面有人敲门" is an action because it's not clearly performed by the speaking character, nor is it a reaction to the speaking character's speech
+        - in this case, the dialog needs to be broken down to multiple pieces:
+            - `[dialog:郭芙蓉]：[speaker-action:把血涂到手绢上] 敢情不是你受累呀！那么大地方都一个人扫，那么多桌子都是你一个人擦，还有锅碗瓢盆，床单被褥`
+            - `[action:外面有人敲门]`
+            - `[dialog:郭芙蓉]：咳咳，请进……`
+
 Formatting Rules:
 1. Preserve original Chinese punctuation
 2. Add missing sentence-ending punctuation where needed
 3. Remove parentheses from action descriptions
 4. Remember to escape every quotation marks in the dialog or action. (IMPORTANT!!)
+5. Remember to swap chinese quotation marks in the dialog with english quotation marks. Always use escaped double quotes(`\"`) for chinese quotation marks. (IMPORTANT!!)
 5. Keep action text verbatim, no missing texts, no paraphrasing (IMPORTANT!!)
 6. Multiple speakers for one line should be combined into a single string
 7. Ignore the "本回完" text in the last line of the last scene. Ignore page numbers (a number as it's own line)
 
-Action vs Speaker-Action vs Reaction
-- If an action is clearly performed by the speaking character → "speaker-action" (speaker-action lives under "performances" -> "dialog" -> "performances")
-- If the action is general or performed by others → "action" (action lives under "performances")
-- If the action is a reaction to the speaking character's speech and the speaking character is not the reactor → "reaction" (reaction lives under "performances" -> "dialog" -> "performances")
-- Use context to determine classification
+
 """
 
 
@@ -123,7 +133,7 @@ def llm_parse_scene(scene_text: str, anthropic_api_key: str) -> str:
                 "content": build_prompt(scene_text),
             }
         ],
-        model="claude-3-5-sonnet-latest",
+        model="claude-3-7-sonnet-latest",
     )
 
     single_message = response.content[0].text
@@ -141,7 +151,7 @@ def find_missing_parts(parsed_text: str, original_text: str):
     for line in original_text_lines:
         import re
 
-        parts = re.split(r"[（）—().,!?;:，。！？；：、„~【】…‘’“”]", line)
+        parts = re.split(r"[（）—().,!?;:，。！？；：、…~【】…‘’“”]", line)
         for part in parts:
             part = part.strip()
             if part != "" and part != None:

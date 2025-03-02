@@ -1,0 +1,219 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "二人磕着瓜子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，你还挺会怜香惜玉的咧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就是我的本性。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后来他追到你了没？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后来，瓜子皮在你脸上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "下巴上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，嘿嘿，接着说接着说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后来啊，她追了我三天三夜。直到最后一夜。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的推门而入，老白连忙缩手，掩饰手上的镣铐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉起慕容嫣的手"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，你这个生命线还行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋还不下去呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他在帮我看手相。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，你还会看手相啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不光手相，星座也行。那什么你先下去吧，一会儿就好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一会儿帮我看一下血型。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的出屋，老白呼出一口大气"
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "接着说接着说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚才说到哪儿了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的在屋门外偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最后一天晚上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她追了我三天三夜。直到最后一天晚上。"
+        }
+      ]
+    }
+  ]
+}

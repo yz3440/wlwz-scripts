@@ -1,0 +1,76 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还学会叫板了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "点她的檀中还是环跳就听您一句话了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有区别吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "点檀中呢上身酸麻，点环跳呢下身酸麻，再拿内力一催，管叫她奇痒难忍痛不欲生啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "听到外面老白的话，立刻吓得坐起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太毒了吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白在外面敲门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开门开门，再不开我可踹了啊！"
+        }
+      ]
+    }
+  ]
+}

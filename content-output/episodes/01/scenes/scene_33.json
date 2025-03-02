@@ -1,0 +1,348 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "白天，秀才在帐台算帐，老白在门口招呼客人"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，沈大哥，来来，里边请里边请。坐这坐这"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，现在什么时辰了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再等一会就吃饭了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么早"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "午饭！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我在家一般都是下午起。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "到帐台"
+        },
+        {
+          "type": "line",
+          "line": "你划拉什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么划拉呀，我在算帐呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "乱拨算盘"
+        },
+        {
+          "type": "line",
+          "line": "算帐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去去，一边儿去别动我算盘，去去去一边去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么，那么凶干什么？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才瞪小郭"
+        },
+        {
+          "type": "line",
+          "line": "你还敢瞪我，你再瞪你再瞪"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把帐本抢走"
+        },
+        {
+          "type": "line",
+          "line": "信不信我把你帐本撕了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "去抢帐本"
+        },
+        {
+          "type": "line",
+          "line": "拿来拿来，你干什么呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抢到"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，王公子啊，你好久不来了啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "王公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出了趟远门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是吗，来来来这边请。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭搬长凳，堵住门口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这地方好呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "向小郭走来"
+        },
+        {
+          "type": "line",
+          "line": "哎，大白天正营业呢，上一边坐去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "准备拽小郭走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把老白手打开"
+        },
+        {
+          "type": "line",
+          "line": "调研期间本姑娘想坐哪儿就坐哪儿，想干嘛就干嘛。你有意见啊，你找掌柜的说去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么人呐。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "生气的走开"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀小地方就是好啊，太阳充足，在京城是满街高搂大厦，想晒都晒不着啊。哎，白少侠你有没有空啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "怒气冲冲地"
+        },
+        {
+          "type": "line",
+          "line": "没空。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没空就抽点空了。你给我沏壶普洱好不好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没听说过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "普洱要是没有就换点茉莉花。第一铺倒了啊，第二铺倒水之前先把沫子刮干净，要剩一根茶叶杆我就不给钱的。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白矗立不动"
+        },
+        {
+          "type": "line",
+          "line": "你还愣着干什？还不快去！"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白假装要点小郭"
+        },
+        {
+          "type": "line",
+          "line": "呵呵呵呵……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "客人",
+          "description": "客人看傻笑的小郭"
+        },
+        {
+          "type": "line",
+          "line": "看什么看，没有见过美女啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭开始对着店外唱歌"
+        },
+        {
+          "type": "line",
+          "line": "大山的子孙哟——爱太阳喽，太阳那个爱着哟——山里的人哟，哟哟哟！"
+        }
+      ]
+    }
+  ]
+}

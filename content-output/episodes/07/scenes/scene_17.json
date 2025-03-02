@@ -1,0 +1,429 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开门了，开门！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白老白，桌上还乱七八糟就敢开门？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭小姐，假如我没记错的话，这张桌子该你负责收拾吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕先生，如果我没有记错的话，有句话叫做狗拿耗子多管闲事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝过来看热闹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还上学呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不上了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才 PK 小郭开始"
+    },
+    {
+      "type": "dialog",
+      "speaker": "画外音",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Round 1，Fight！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "搬动一张桌子，耗时五秒，搬动一个板凳耗时三秒，请问把楼下所有桌椅板凳搬动一次，耗时多久？五四三二一，时间到！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五张桌子，二十条板凳，一共是八十五秒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿柜台下面一张校板凳"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你忘了这一张"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "画外音",
+      "performances": [
+        {
+          "type": "line",
+          "line": "round 2，Fight！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假设我每个月要洗十次澡，那么请问我每年要洗多少次澡？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一百二十次"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错，一百一十次"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "正月里不让洗澡，哈哈哈"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "画外音",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Round 3，Fight！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴每天吃三顿饭，每顿三个馒头，请问他三月一共吃了多少个馒头？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每天三顿乘以三个馒头，再乘以三个月，再乘以三十天，一共是 810 个馒头！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错，是二百七十个，我说的三月是指三月份，而不是三个月！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "画外音",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Round 4，Fight！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假设我三掌就能拍死你，每拍一掌你都会惨叫一声女侠饶命，那么请问在你临死之前，你要说几个字？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我拒绝回答这个问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就算做自动弃权。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "惨叫三次，每次四个字，一共是十二个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错，一共是九个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第一掌下去女侠饶命四个字，第二掌下去女侠饶命八个字，第三掌下去立刻死翘翘，你只说了一个字，啊，八加一等于九！哈哈哈，奥勒奥勒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "画外音",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Final Round，Fight！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假设我中了状元，皇上赐我尚方宝剑，我刺你一剑，你会惨叫一声我错了，你死之前说了三万六千个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太毒了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没说完呢！而我实际上只刺了两剑，为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，这不可能"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不可能了？我刺你一剑你说我错了，我刺第二剑你说三万六千个字，然后就失血而死，一共刺了两剑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假设……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你已经没有机会了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指右上角血槽"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "画外音",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才吕 wins"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕白李",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "相拥"
+        },
+        {
+          "type": "line",
+          "line": "一二三"
+        },
+        {
+          "type": "speaker-action",
+          "description": "击掌欢呼"
+        }
+      ]
+    }
+  ]
+}

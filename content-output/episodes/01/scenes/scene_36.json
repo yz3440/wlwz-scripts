@@ -1,0 +1,216 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "后院小郭打水洗衣服，掌柜掀着帘子观察"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "费劲地提起水"
+        },
+        {
+          "type": "line",
+          "line": "来吧你就。哎哟我的天呀，洗衣服谁不会呀。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用棍子使劲拍打"
+        },
+        {
+          "type": "line",
+          "line": "洗给你看。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "差点被小郭抡着"
+        },
+        {
+          "type": "line",
+          "line": "可以先从小件的洗起嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "蹦跳着"
+        },
+        {
+          "type": "line",
+          "line": "知道知道。先小后大，先外后里，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用棍子使劲拍打"
+        },
+        {
+          "type": "line",
+          "line": "谁不会呀。接下来呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来看好了，坐这儿。先从小件的洗起啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿出一件"
+        },
+        {
+          "type": "line",
+          "line": "放点儿皂角粉，先从这个领口，还有这个袖口啊，都要搓到。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，还真是干净了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍掌柜肩膀"
+        },
+        {
+          "type": "line",
+          "line": "行行，那你慢慢搓啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身往回走"
+        },
+        {
+          "type": "line",
+          "line": "我回屋喝口水先。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就打算这么一直拖下去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "回头"
+        },
+        {
+          "type": "line",
+          "line": "拖？你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这几天你一直在找各种借口，就是不想干活。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，哎，我这是在调研呐。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "语气转变"
+        },
+        {
+          "type": "line",
+          "line": "我就是想干，我也不会啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会干可以学嘛，没有人笑话你。做事情要靠手而不是嘴，俗话说光说不练假把式，嘴上说得天花乱坠，大道理一套一套，做起事情来啥都不会，时间一长，谁还会信任你提拔你，谁还会给你机会证明你自己呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那，是这样吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "学着掌柜的样子洗衣服"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再放点儿皂角粉。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭抓起一大把"
+        },
+        {
+          "type": "line",
+          "line": "哎，太多了太多了。人生要一步一步走，事情要一点一滴做。"
+        }
+      ]
+    }
+  ]
+}
