@@ -1,0 +1,5149 @@
+{
+  "name": "第五十四回 苦刑犯逃离同福店 黑衣人解救倒霉蛋",
+  "episodeNumber": 54,
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "type": "normal",
+      "rawDescription": "【大堂，夜】",
+      "location": "大堂",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "action",
+          "description": "大堂布置得像地府一样，老包被绑在椅子上，旁边摆个油锅。老白扮判官，掌柜和小郭扮牛头马面，大嘴扮无常，大家审讯老包"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋个说，炸不炸？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你这小胖子，胆子还不小。本官念你初来乍到不懂规矩，再给你一次机会！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "用不着，曹公公不到，小人是无法认罪的！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿！休怪本官心狠手毒了！牛头马面！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟、郭",
+          "performances": [
+            {
+              "type": "line",
+              "line": "得令！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你们滥用私刑，草管人命！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "是草菅！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你们才奸呢！小人做鬼也不会放过你们的！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你已经是鬼了……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那我就做人！十八年之后又是一条好汉，下辈子见吧！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没下辈子了！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那就呆会见行不行啊？来啊，炸啊，别拦着我，炸啊！记得翻面，不翻面老子变锅贴，炸呀……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "有人喊声\"阎王爷驾到！\"，秀才阎王装扮进"
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "来了来了来了，烦死了。谁啊，谁啊，啊？"
+            },
+            {
+              "type": "speaker-action",
+              "description": "抽耳光状"
+            },
+            {
+              "type": "line",
+              "line": "噼噼！何方妖孽，啊？竟敢咆哮阴间？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不敢，不敢，小……小人包大仁，参见阎王老爷。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "本王听见你高声喊冤，什么事情啊？你快点说啊！我很忙的！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "启秉阎王老爷，小人冤枉啊，小人无知，受人蛊惑，一时兴起买了个官做，主谋是东厂的曹公公啊，为何只抓我不抓他？小人咽不下这口气呀！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "一起抓，本王依你了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "阎王爷英明啊，阎王爷万岁万岁万万岁！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "少说废话，赶紧画押。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "掌柜和小郭按着老包画押，展侍卫冷笑着出现在门口，等老包画完押，众人一起大笑"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "赶紧收拾收拾，明天还要营业呢。快快快，灭火器。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干吗每次开工都这么晚呐。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "剧务，工作人员齐上，收拾现场"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这家伙熏死我了，我跟你说。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "镜头转了一整圈，整个剧组一起忙活，最后给尚导来了个特写"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 2,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "小六进屋，掌柜等人正在眉飞色舞地回味昨天晚上的事，展侍卫在旁边笑而不语"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "昨晚好险呀，幸亏展堂反应快，随机应变。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗨，我这也是被逼的没辙了，急中生智……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "谁夸你呢？"
+            },
+            {
+              "type": "speaker-action",
+              "description": "对展侍卫"
+            },
+            {
+              "type": "line",
+              "line": "展堂。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哼！无双……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你呀，哪来的智，人家夸的是展堂，又不是白展堂。是吧，掌柜的？"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老白和小六冷眼旁观"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "是呀！这次真是大开眼界了，以前老觉得，当捕快的都是吃干饭的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "恩！这回一看也有吃面条的！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "吃面条的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我是现在才知道，原来当捕快靠的是智慧，不是蛮力。更不是什么动不动就要……拔刀。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "白、燕无奈"
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "也没有什么啦，都是经验得来的了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "展前辈，你要是没什么事的话，就多住两天，我还想跟你学点东西呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "跟他有嘛好学的？走走走，别再摆造型了，无非也就是心理攻防那几套，案子办多了，傻子都会。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你会吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我又不是傻子。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你到底会不会？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "会不会的跟你有嘛关系？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哟——自己不会，还不让别人学。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咳，嘟囔嘛呢，该干嘛干嘛去，别在我眼前晃悠，还不快去！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "无双忿忿而走，临走踢了下板凳，撞到小六，展侍卫在旁边笑"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "拉开佟湘玉坐下"
+            },
+            {
+              "type": "line",
+              "line": "别看了，别看了。你打算嘛时候启程？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我一会就走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "慢走不远送啊。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "展堂喷了小六一脸水"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这这这，上来就使喷口……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不好意思，不好意思，我是说我休息片刻再走。哎，还没吃早点嘛！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的！赶紧给他预备点馒头饼子嘛的，带着路上吃。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老白湘玉不动，盯小六"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我请！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不用了吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "奥，那就出门再吃。往东半里地有个煎饼摊，一文钱俩，恕不远送啊！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "燕小六！我的客人啥时候走，跟你没有关系。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "抢过小六的水推小六出"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你要是没有啥事就出去。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我渴了，你让我喝口水再走，老白……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "活该，谁让你破坏我造型的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我说他平时也这个样子吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这对你算客气的。你还没见他师父呢。哼！"
+            },
+            {
+              "type": "speaker-action",
+              "description": "扭头看湘玉眼睛直直地脉脉含情地看展侍卫"
+            },
+            {
+              "type": "line",
+              "line": "哼！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 3,
+      "type": "normal",
+      "rawDescription": "【客房，昼】",
+      "location": "客房",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包半躺在床上，没精打采"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "昏招，昏招啊！这么简单的局，我怎么就……唉，早知道不买这个官就对了，在家里要什么有什么，小妾搂着，小曲哼着，小酒喝着，哪里像现在，小罪受着……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "端饭进"
+            },
+            {
+              "type": "line",
+              "line": "嘿嘿，赶紧吃饭，吃完上路。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我胳膊疼，我抬不起来，不然，你喂我吃啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我？我才没那闲工夫呢，你爱吃不吃。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎！我这有五十两纹银，拿去买糖吃啊。小姑娘，委屈你了……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小贝接钱，包大人一下把小贝制服住"
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "快来人哪！救命啊！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "众人入"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "放手，赶快放手，听见没有？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嫂子救我！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "包大仁，我警告你啊，你这种行为很可耻，非常特别以及极其的可耻！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你们私设公堂，滥用私刑，就不觉得可耻吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "甭跟他废话，直接拿下。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "少废话，赶紧给我备匹快马，越快的越好，再把门口的守卫统统撤掉，否则我就撕票！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小贝还是个孩子，你还有没有人性啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就照他说的办，快去呀……嫂子……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿嘿嘿嘿嘿嘿……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "切镜头，回到现实，原来是老包在 YY"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿嘿嘿嘿嘿嘿……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "喂喂喂，你到底吃不吃，不吃我端出去了，你老傻笑什么呀！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我吃我吃我吃，哎哎哟！我胳膊疼，抬不起来，不然你喂我啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我？我才没那闲工夫呢，你爱吃不吃。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，我这有五十两纹银，拿去买糖吃啊！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "接糖"
+            },
+            {
+              "type": "line",
+              "line": "哇噻！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "包大人上来要掐莫小贝，小贝瞬间反击"
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "分筋错骨手！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小贝狠狠掐住老包"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老人哪，救命啊！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "放手，快点放手，听见没有？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的，救我！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "莫小贝，我警告你啊，你这种行为很可耻，非常特别以及极其的可耻！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你甭跟他废话，直接拿下。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那他偷袭本掌门就不可耻了吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌门？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这位是衡山派的莫小贝莫掌门。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "兼五岳剑派总盟主，武林未来的接班人。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他又不会武功，你有没有点人性嘛！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "少废话，赶紧给我准备一串糖葫芦，山楂越大越好，糖衣越厚越好，再敢磨蹭，我就撕票！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "快，快照她说的去做……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "把包大人的胳膊打脱臼了"
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "装，装得还挺像啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "上一边去，我看看……这不是装的，胳膊脱臼了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "脱臼怕什么，我来我来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没事没事，忍着点啊，让小郭给你看看。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我看看啊，别动啊，放松啊……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "接骨，包大人惨叫"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好了？我看看……啥手艺啊，给接歪了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "歪了？重接呗！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不不不用了吧？"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "郭芙蓉又接骨，包大人继续惨叫"
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "用用，你甭跟我客气。别嚎了，忍着点，我这就给你装回去。行了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我看看，我看看……妈呀，又歪了！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你这胳膊怎么长的呀，别动别动……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "忍着，忍着，忍着……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "反复若干次，咔咔乱响，老包满头大汗，昏倒，小郭在旁边伸胳膊撂腿"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，这回好了，终于跟这胳膊一样了。但是得歇一阵子，骨膜伤着了。否则，容易落下病根啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那要休息多久啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "少说三五天吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "三天还是五天？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这，这我……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "反正都差不多嘛！"
+            },
+            {
+              "type": "speaker-action",
+              "description": "拉展堂"
+            },
+            {
+              "type": "line",
+              "line": "先坐先坐。你呀，就先别急着走，等他伤痊愈了再说。多住两天嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀！也只好如此了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 4,
+      "type": "normal",
+      "rawDescription": "【后院，昼】",
+      "location": "后院",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "展侍卫洗衣服，无双从里屋出来"
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "放着我来，放着我来！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "别别别，我自己洗，自己洗。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "远来就是客，这点小事，哪劳您亲自动手，我来洗，我来洗。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你当捕快多久了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "到今天为止，正好三天，你呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不多不少，整十年哪。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "十年？那您可真是我的老前辈了。以后我还跟着你学习啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你平时喜欢用什么兵器？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "刀。但是我不太会使，也就拿出来吓唬吓唬人。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你用这个好了，"
+            },
+            {
+              "type": "speaker-action",
+              "description": "掏出一对兵器"
+            },
+            {
+              "type": "line",
+              "line": "这叫峨眉刺，这是我妹妹用的，轻巧灵便，可以说威力也不小，很适合女孩子用，送给你。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那怎么好意思啊……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没有关系呀，因为平时我也喜欢用刀，所以呢，这把峨眉刺我也用不上。对了，还有一本图谱，你照着它练就可以了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "展前辈，我……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不要叫我前辈，叫我展堂好啦。你叫？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我叫无双……无双，展堂，还挺压韵的。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小六入"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "叫二胖岂不更压韵。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "二胖？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "她的外号。此人小时候重达一百五十多斤。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊……咳，你就照着图谱练，如果有什么不明白随时问我好了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我晓得了，您先回吧，这衣裳留着我来洗。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "等一等，他自己的衣裳他自己不会洗啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "是我主动要替他洗的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你怎么不主动帮我洗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你有衣裳吗，你除了这身官服，你还有其他衣裳吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么没有，内衣都是我自己的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那好啊，你脱下来我给你洗。你脱啊，现在脱……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "祝无双！你是个捕快！你的任务是抓贼，不是打杂。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哪里有贼让我抓啊！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么没有，楼上那不是贼吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那个不是已经抓住了嘛！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "抓住了……你不会看着他点，别让他跑了。以后再让我看见你吊儿郎当正事不干，小心我批评你！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "又不是什么好话，跟着学……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说嘛呢？还不快去！找我批评你呢吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯？"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "展侍卫自己坐下洗衣服，小六虎视耽耽地看了一会，回屋去了"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 5,
+      "type": "normal",
+      "rawDescription": "【客房，昼】",
+      "location": "客房",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包朝窗外张望，准备逃跑，听见门外有声音，立刻坐回去，装出痛苦的样子，无双进"
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你胳膊有没有好一点？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你说呢，把你的胳膊拧下来，再装上去，再拧下来，再装上去，你以为是拧螺丝啊？犯人也是人哪，你们有没有人性啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这事情又不是我干的啦。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了，我不听你解释，这个情况，我一定会向上反映的，一定会的！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你还是先想想怎么将功赎罪，争取宽大处理吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，你先出去一下。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "为什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我要方便一下，你要参观吗？"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "无双出，关门，老包拎起尿罐子在门口埋伏"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "可以啦，进来吧。啊——！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "无双的峨嵋刺刺进了包大人腿"
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我……我不是故意的，我不是有意的，我以为你想偷袭我，所以——你不会是想偷袭我吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我没有，我哪有这个胆子嘛！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你举着夜壶干吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我想洗个澡，不可以呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你用夜壶洗澡啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "各人有各人的习惯不可以吗？你出去呀，别人洗澡你也要看吗？"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "无双出，稍后又闯进来，老包吓一跳"
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿嘿嘿，我忘了一样东西……"
+            },
+            {
+              "type": "speaker-action",
+              "description": "突然拔出包大人腿上的峨嵋刺，包大人惨叫"
+            },
+            {
+              "type": "line",
+              "line": "嘘——乖啊，不叫不叫，我马上就找人来给你包扎，很快的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 6,
+      "type": "normal",
+      "rawDescription": "【客房，昼】",
+      "location": "客房",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包躺在床上哼哼，小郭拿着刀剪纱布等东西进"
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你……你想干什么，你想干什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咿哟，你不要那么害怕嘛，我是来给你包扎伤口的。你看你看，这是剪刀，这是纱布，这是你们云南的白药，这是火油。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "火火火……火油用来干什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "消毒啊，手术之前都要把器具消毒一下下，否则容易感染的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还要手术啊……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不要太害怕，我会很小心的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不用了，不用了，我自己可以，我自己来……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小郭埋头专心准备，老包发现有机可乘，开始 YY 用纱布勒住小郭要挟，白光一闪，回到现实"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿嘿嘿嘿嘿嘿……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿嘿嘿嘿嘿嘿，寻思什么呢你！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你可不可以把头转过去？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我把头转过去干什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "人家伤的是大腿啦，你的大腿可以给我随便看哪？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "切……好了好了，你有什么需要帮忙的，说话啊，千万不要客气啊。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "转身"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我绝对不会客气的，你可不可以把眼睛闭起来？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "为什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "Please，Please！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "心理活动"
+            },
+            {
+              "type": "line",
+              "line": "我勒死你……还不如我扎死你……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "快一点。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我迷瞎你的眼"
+            },
+            {
+              "type": "speaker-action",
+              "description": "倒满手云南白药"
+            },
+            {
+              "type": "line",
+              "line": "……嘿嘿嘿嘿嘿嘿，可以啦！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "郭芙蓉突然回头，药喷到包大人脸上"
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，对了……对不起，我去拿水给你洗啊。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小郭往外跑，纱布缠在脚上，另外一头正好勒着老包的脖子，直接把老包从床上拽下来，两个人越挣越紧，老包拼了老命拿剪刀剪了纱布，躺在地上喘气"
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎，你没事吧？你不要吓我……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 7,
+      "type": "normal",
+      "rawDescription": "【客房，夜】",
+      "location": "客房",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包坐在床上哭得异常伤心，大伙在旁边安慰"
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了，别嚎了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干什么！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，说到底还是我不好，就不应该派小郭来服侍你。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "芙妹又不是故意的啦，再说，他是个犯人哪。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "犯人也是人啦，又不是畜生啦！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "谁把你当畜生了，有长你这样的畜生吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了，不要再说了。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老包甩鼻涕"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干啥你这是，你干啥？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我留下来照顾他，去吧去吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那行，我们都在下边啊。我告诉你，老实点啊，否则会死得很惨。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我这个胳膊，我这个腿，我这个屁……屁股倒是没事啦，啊哈哎呀——！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "去吧去吧，出去。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "当心点。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小心点，掌柜的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你过来，你过来……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "大伙出门，老包跑到门旁边偷听"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这里头是辣椒水，还有醋，他要不老实，就朝脸上喷。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "知道了，早点休息吧，啊。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老白走，掌柜推门，把老包拍了个跟头"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哟，咋了咋了？"
+            },
+            {
+              "type": "speaker-action",
+              "description": "老包头上磕了一个大包"
+            },
+            {
+              "type": "line",
+              "line": "啊——不要哭了，不要哭了，来来来，我扶你躺下，来来来。给你倒杯水啊。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老包趁佟倒水，拿辣椒水喷，喷反了喷到自己"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊！我的眼睛，我的眼睛！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "包大人，包大人！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "晓珠？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你才是猪，大野猪！又黑又肥，还满脸横肉，一看就是个蹲大狱的料。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "晓珠是孩子他娘！你跟她很像……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你还有孩子呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "都这么大岁数了，你没有孩子啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "孩子多大了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大儿子五岁，小名叫汤圆，小女儿两岁，小名叫饺子，饺子刚刚下出来……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "——刚刚生出来，她娘就难产死了，我一把屎，一把尿，把他们两个拉扯大，也该撒手了，晓珠，你别怪我，我真的是没办法呀，晓珠……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "来来来，饿了吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我去给你弄点吃的啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "想吃点啥？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我要吃米线——啊——啊——"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘘——"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "晓珠……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 8,
+      "type": "normal",
+      "rawDescription": "【大堂，夜】",
+      "location": "大堂",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "action",
+          "description": "展侍卫正闭目沉思，无双拿着峨眉刺和图谱进"
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "展大侠，还没睡呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊，这峨眉刺练得怎么样了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我正在练啊，有一招我不太明白，你刚才说这个……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "展侍卫给无双讲解，小六进，咳嗽，两人不理睬，小六继续咳嗽"
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这么晚了还没有睡啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不困！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "桌上有茶你自己倒啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不渴！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那要不要我给你下碗汤圆？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不饿！——你这个是峨眉刺吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你会使吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哼，这有嘛，这有嘛？"
+            },
+            {
+              "type": "speaker-action",
+              "description": "舞动峨嵋刺"
+            },
+            {
+              "type": "line",
+              "line": "别看使得乱，俗话说，无招胜有招！无招是嘛，没法破，没法破！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "展堂一下夺过峨嵋刺"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我跟你拼了我！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小六举刀砍向展侍卫，展侍卫用峨嵋刺一架一推，小六一个趔趄，楼上传来掌柜的喊声：\"天哪！\""
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "喊嘛，我还没死呢！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "包大仁逃走了！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 9,
+      "type": "cutscene",
+      "rawDescription": "【过场，失眠记】",
+      "cutSceneName": "失眠记"
+    },
+    {
+      "sceneNumber": 10,
+      "type": "normal",
+      "rawDescription": "【客房，夜】",
+      "location": "客房",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说，到底怎么回事？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好说话！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我来问好了。他是怎么逃走的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不知道。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那他是什么时候逃走的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不知道。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你知道什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不知道。头先他说他饿了，想吃过桥米线，我说没有过桥米线，然后他就说他想吃炒米线，我说也没有炒米线，他又说他想吃那个凉拌的米线……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你挑点重点的说行不行？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我正在说着呢嘛！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你说你说……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "然后我就说米线没有，面条行不行，他说不行，我要吃米线，我要吃米线。我说，那好吧，我就替你想想办法吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那然后呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "然后我就想办法去了，先到厨房转了一圈，然后又到后院转了一圈，再到西街转了三四圈，还是没有想出办法来。回屋一看，窗户开了，人没有了……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那也就是说，他刚逃走没一会。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还愣着干吗，赶紧追呀！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "众人不动"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么的，我说话不好使啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是，这黑灯瞎火的，你怎么追？是往东追还是往西追，往南追还是往北追？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那……那你说怎么办？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这样，我带无双往东……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不好意思！躲开，无双是本捕头的人，我到哪，她就跟我到哪。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那好，你带无双往东；郭姑娘呢，是往西；白少侠你往南；我往北，大家分头行动。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还有秀才和大嘴。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他俩用不上。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "要的要的要的，让那个秀才跟着小郭，然后大嘴跟着你，路上也有个照应嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我也去，我也去！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大人的事，小孩不要插嘴！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我是衡山掌门，五岳盟主，武林未来的接班人喽。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好好，让她跟着我，路上不许捣乱啊。赶紧走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "宁可错抓一个，不可放过三千啊！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "大伙出，掌柜朝门外看了看，把门关上，然后打开柜子放出老包"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "谢谢佟掌柜救命之恩，这有五千两银票，你拿着。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我跟你说清楚啊，我这可不是为了你，是为了你那可怜的两个孩子，回去把你两个孩子安顿好，否则我就——真拿你没办法。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你放心，我包大仁绝对不是那种过河拆桥的……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了行了，不要废话了，赶紧化妆吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "化妆？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不化妆不行，他们个个都不是省油的灯，来来来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你要把我化成个女人哪？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "对，化个女妆。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "疯狂抹粉"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我说，我说，这也太浓了吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不浓不行啊，他们有巡犬，能闻出来，一定要多喷点粉，否则123一闻就打喷嚏啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "谁？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "123！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "123是谁？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "123就是……我说123你就闭嘴，否则我打掉你的牙！把眼睛也闭上。化个女妆啊，一会把我的衣服穿上，帽子……"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 11,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "大伙陆续回来，掌柜在门口等待"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这可咋办嘛，不会是抓不到了吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那也不一定啊，我们是回来了，白少侠和小贝不还没回来吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "给我进来！熊孩子，早知道这样就不带你去了！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋了嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋了，你问她。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我哪知道那是马蜂窝呀，再说了，我也是帮着抓犯人嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那犯人能在马蜂窝里藏着吗？——多亏我跑得快呀，要不然我就成白展胖了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥意思嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥意思，被马蜂蜇的呗。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "对小贝"
+            },
+            {
+              "type": "line",
+              "line": "你给我起来，还有脸坐着？漫天遍野的马蜂，嗡嗡的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿嘿，我说嘛来着，叫你们早点走，免得夜长梦多，非不听，这回可好了，煮熟的鸭子飞了！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "去去，这人又不是展前辈放走的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "都怪我，怪我怪我。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怪得着你吗，你又不是捕快，有义务看犯人吗！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎，你这人怎么这样啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我怎么的了，怎么的了，怎么的了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了，我说这个时候不是吵架的时候，如果犯人抓不回来，那这个案子就只能撤消啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不会啊，你手里不是有曹公共的收据和包大仁的口供吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没有用的，那东厂的势力实在太大了，人证物证那是缺一不可，如果我们贸然立案，只怕引火烧身哪。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "烧就烧，有嘛好怕的，要不然你把物证搁我这，再不然就咱们俩一人一样。省得出岔子。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "燕小六抢过收据"
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你把物证还给我，我数到三，一……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "把收据放在蜡烛上面威胁"
+            },
+            {
+              "type": "line",
+              "line": "一二三四五六七八，八后边几来着？你再过来，再过来我烧了它！你再过来我就烧了它。你不有峨眉刺吗，你扎我，你拿峨眉刺扎我，我求求你，你扎我，啊！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "燕小六正显摆结果真的把收据给烧了"
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我的证据，证据！我今天杀了你，我今天……"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "门口趴着一个人"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这有人，这有人……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "有个大娘呢？快给倒点水，晕过去了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "救命啊……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊！鬼呀！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "鬼呀，鬼呀！不对呀，看着这么脸熟呢？抬起头来！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "救我，救我……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘿嘿嘿嘿哈哈，包大仁！别动，这是我逮着的，你别跟我抢，别跟我抢，我逮着的，哈哈哈哈！走，跟我回去，可逮着你了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 12,
+      "type": "normal",
+      "rawDescription": "【客房，昼】",
+      "location": "客房",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包穿得跟个老太太差不多，满脸大疙瘩，狼狈不堪，掌柜的在旁边擦"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，你咋弄成了这个样子吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这就是命啊，我刚刚逃出去没几步，他们就追过来了，我赶紧躲到柴禾堆里面想躲一下，脑袋就听见，嗡嗡……啊！这就疼了，我还没等我喊出疼来，我就听见……啊！我的脖子上又被蛰了一下呀，在接下来的十分钟里面，他们对我进行了惨无人道的群殴啊！不对，是群蛰呀！只要是露着皮的地方，没有一处放过呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你说你也是的，涂得这么香，马蜂不蛰你蛰谁呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是我涂的呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是你又是谁呀？"
+            },
+            {
+              "type": "speaker-action",
+              "description": "狠狠掐包大人"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "是我，是我，我这是造的什么孽呀，我才来了这几天，你看看我这张脸，我这手，我这个腿，我这全身上下，只剩下脚还能用了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "该，以后还逃不逃了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "展堂……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还逃……"
+            },
+            {
+              "type": "speaker-action",
+              "description": "小六拔刀把包大人脚扎伤"
+            },
+            {
+              "type": "line",
+              "line": "啊！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "都看我干嘛，谁让他说还逃的？以后再让我听见一个逃字，我就把你俩脚都剁下来，腌吧腌吧，当酱猪蹄啃喽。这叫防患于未然，伤了他的脚，看他怎么逃，对吧，走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你好自为之吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "展堂忽然回头"
+            },
+            {
+              "type": "line",
+              "line": "啊，你咋回来了，有啥事？"
+            },
+            {
+              "type": "line",
+              "line": "一句话，对罪犯的同情，就是对百姓的犯罪。这话我想你明白，下不为例。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这个人话不多，毒的很。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 13,
+      "type": "normal",
+      "rawDescription": "【后院，昼】",
+      "location": "后院",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "展侍卫靠着磨盘坐着，一言不发，手指头敲来敲去，思考状"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了，别敲了，人都逮着了，带回去齐活了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "人证是有了，物证呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那不是有他的口供吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "口供和人证有区别吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "对，如果没有曹公公的证据，这个案子很麻烦，会非常的麻烦。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "要不然我再去审审他，不行再打他一顿。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没用的，他的东西都在这了，要有的话，你不早搜出来了吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不，那那那……那怎么办呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咿，怎么办，有人还好意思问呢，好好的证据非要给烧了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘟囔嘛呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "本来就是嘛，还是个堂堂捕快呢，正事不干，就知道添乱！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "祝无双！你是不是不想干了你？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我就是不想干了，不干了！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好好，你把那刀给我。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还你，还你。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那衣服也是我的，鞋，都脱下来给我，现在就脱，脱！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好了好了，现在不是吵架的时候，让我说，这案子还有转机。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "双、六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥转机？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "如果你是他的话，有机会逃跑，最想见的人是谁？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我师父，还有我七舅老爷他三外甥女……"
+            },
+            {
+              "type": "speaker-action",
+              "description": "你干嘛，你推我干嘛！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我是说包大仁。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他最想见曹公公，只有曹公公出马，才能把这件事的影响降到最低。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "对，只要我们一路跟踪他，就有破案的机会。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "小六出"
+            },
+            {
+              "type": "line",
+              "line": "哎，你去干什么去呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我去放老包走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，回来，你这个样故意放他走，他能去找曹公公吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你嘛意思，到底放还是不放？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "放，但不是明放。无双，你去把佟掌柜给我找来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "找她过来干什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "相信我，只有佟掌柜办这件事最合适。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 14,
+      "type": "normal",
+      "rawDescription": "【客房，昼】",
+      "location": "客房",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包正躺在床上半睡半醒，掌柜端着餐盘推门进"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好点了没有啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你来啦……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "来了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我实在起不了身哪。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "快躺下，来来来，喝点粥啊，一个上午都没有吃东西了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我不喝，你不知道，蜜蜂蛰我，我不敢喊，我就找了一根木棍咬在嘴里面，哪晓得蜜蜂顺着缝爬进去了，现在还在肚子里面折腾呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "早知如此你何必当初呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还不是你让我跑的，你还怪我。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我错了啊，我就不该同情你啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不，我不是这个意思，你的救命之恩，我没齿难忘，我哪里敢怪你。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这还差不多。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这几万两银票，你拿去吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你拿回去吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你拿着……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你死不要紧，你的孩子将来不花钱了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我没有孩子。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我家里除了我，就剩下十五个姨太太了，唉，可惜肚子都不争气啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你为啥要跟我说这个嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "唉，我是不打算再逃了，再逃，我这条命肯能就保不住了。不过你的情，你的义，我没齿难忘。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真的不逃了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "打死我也不逃了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "唉，要知道这样，就不该给他们下蒙汗药了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "蒙汗药？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "为了让你有机会逃走，我把他们一个一个都迷晕了，现在一个一个睡得跟死猪一样。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你咋个不早说呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "站得起来吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就冲你这个情，你这个义，我今天，我爬我也要爬出去。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不许你爬出去，我扶你走出去，走。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 15,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老白等人东倒西歪，掌柜的和老包下楼。"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这是拐杖，试试看合不合手。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "合手，佟掌柜……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥都不要说了，赶紧走吧，啊。把你那十五个姨太太安顿好，就赶紧投案自首啊，快去。赶紧走吧，一路小心啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你就不送送我？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "算了吧，让人看见不太好，去吧啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干脆，干脆你跟我一起走，我保证你下半辈子吃香喝辣，穿金戴银，享不尽的荣华富贵。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "再不走我就喊人了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "走走走，我真的走了，你保重啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "醒醒，醒醒，人已经走了，还不快去追。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你急什么嘛，就他那个速度他也走不远，再说咱们跟太紧，容易露马脚。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 16,
+      "type": "normal",
+      "rawDescription": "【客栈门口，昼】",
+      "location": "客栈门口",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包狼狈逃跑，发现小米正躺在墙角睡得一塌糊涂。老包丢进碗里一点银子"
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "玉皇大帝在上，您老可看清楚，小人不是没有行过善哪，以后再有什么惩罚，千万别再冲着小人来了。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "回头继续丢了一点银子"
+            },
+            {
+              "type": "line",
+              "line": "地藏王菩萨，您老可看清楚，这可是小人最后的零钱了，求求您，以后别再为难小人啦！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老包继续逃跑，小米忽然醒过来，追老包而去。"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 17,
+      "type": "normal",
+      "rawDescription": "【大堂，夜】",
+      "location": "大堂",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "action",
+          "description": "展侍卫一言不发的吃饭，无双在旁边含情脉脉，小六一脸不服"
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "心理活动"
+            },
+            {
+              "type": "line",
+              "line": "这么大人了，坐没坐样，吃没吃样。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "心理活动"
+            },
+            {
+              "type": "line",
+              "line": "哼，等这事完了，看我怎么收拾你。吃饱了，走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎哎，你这人不要那么自私好不好，你是吃饱了，人家还没吃好呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好好，你慢慢吃，慢慢吃啊，撑死你！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不吃了！展大哥，您慢慢吃。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哟嗬，嘛时候成大哥了？刚才不还前辈前辈的吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我懒得搭理你。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我懒得搭理你！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我懒得搭理你！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我懒得搭理你！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了行了行了，不要再吵了，就不怕人家笑话。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没有关系，没有关系，我们在京城也经常吵架的啦，自家弟兄嘛，吵得越凶，感情越深嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "别逗了，我跟他？能有感情？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没有感情可以慢慢培养嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你看啊，往地里埋块土豆，浇水呀，施肥呀，他能结出一串，要是埋块木头，再浇水，它也是块木头。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "错，难道你就没听说过黑木耳这一说吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师兄，你帮我还是帮他？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我谁也不帮，我就知道，再不赶紧追，犯人就横渡西凉河了！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小米推着老包进，老包半死不活，胸前一个黑色的大巴掌印子。"
+        },
+        {
+          "type": "dialog",
+          "speaker": "小米",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那他倒是想。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这这这……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "小米",
+          "performances": [
+            {
+              "type": "line",
+              "line": "什么这这那那的，这小子想逃，被我发现了，一路跟到西边那个城隍庙了，趁其不备，一举拿下。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "接着就是一顿毒打……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "小米",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我可没动手啊，打你的几位是我们丐帮的四大长老。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "长老？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "小米",
+          "performances": [
+            {
+              "type": "line",
+              "line": "恭喜发财那四大长老啊，正在附近办事，见我抓人，都过来帮忙，前后夹击，各人赏了他一掌，如假包换的降龙十八掌。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老包吐血，众人立刻过去查看"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "吐这老多呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯嗯嗯……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你说啥？大点声。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我，我要是再逃跑……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "拔刀"
+            },
+            {
+              "type": "line",
+              "line": "还敢逃？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "可能就，咳咳，死无葬身，咳，之地了……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我的妈呀！"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "众人回头，小米坐在桌子旁边又吃又喝，看见众人围过来，立刻躲闪"
+        },
+        {
+          "type": "dialog",
+          "speaker": "小米",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那什么，这都是我应该做的，维护社会治安，人人有责，哎呀！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 18,
+      "type": "normal",
+      "rawDescription": "【客房，夜】",
+      "location": "客房",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "action",
+          "description": "老包失魂落魄地坐在床上，表情呆滞，掌柜在旁边为老包擦拭伤口"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嫌疼就说一声啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "$%*&%@#$&……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好说话！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他说啥呢，这是啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "求求你们让我死了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "祝无双",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，那可不行，除非等这个案子结了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就是。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "求求你们让我死了，我的胸口好疼，好胀，像要炸开一样。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "展堂，你不是会点穴嘛，给他止止疼吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行，那我试试吧。葵花点穴手！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么样？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯？胸口不疼了，但是腰疼。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "腰疼就对了，刚才我点的是足少阴肾经。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "什么经？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说了你也不懂，反正不是胸疼就是腰疼，不是腰疼就是肚子疼，你自己选吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那我选肚子，麻烦了，谢谢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "葵花点穴手！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊——！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么样？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嗯？胸口不疼了，腰也不疼了，浑身上下都不疼了，哈……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "兄弟，这在医学上来讲，叫回光返照。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你千万别怪我啊，是你自己受了那么重的内伤，没有及时的医治，再加上我用指玩命的一催……但是我相信你下辈子能做个好人，真的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我，我跟你拼了！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你还是留点力气办后事吧，啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我没有后事！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不要客气，你有什么心愿尽管说出来，只要不过分，我们会满足你的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你们能不能先出去？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "出客？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就是出去。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "包大人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我想跟佟掌柜单独呆一会。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "出去出去，出去。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "对老白"
+            },
+            {
+              "type": "line",
+              "line": "我有分寸的啊。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "众人出"
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说吧。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

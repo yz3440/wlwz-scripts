@@ -1,0 +1,6099 @@
+{
+  "name": "第十四回 邢捕头勇破杀鸡案 燕小六力推防贼法",
+  "episodeNumber": 14,
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "type": "normal",
+      "rawDescription": "【男寝，昼】",
+      "location": "男寝",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "又是打鼾，又是打鸣，还让不让人睡了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 2,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "别叫了啊，告诉你，再叫我活吃了你。哎，这就对了，听话啊。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小红又叫"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小红，我告诉你啊，我最后一次警告你啊，我告诉你，再叫我就斩立决。再叫，再叫，诶，这就对了，守着夜跟着捣什么乱呢，"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "小红又叫，老白起"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这就怪不得我了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 3,
+      "type": "normal",
+      "rawDescription": "【后院，昼】",
+      "location": "后院",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小样的，我让你叫。我还治不了你，小样的，我让你叫。再叫再叫……哎呀妈呀，还敢叨我"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 4,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父，你让我背这干嘛呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "一个捕快，要连大明律都背不利索，他还怎么办案呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那这条嘛意思啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真笨，哪条啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这条。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这条啊，我看看啊——这都多长时间了，菜怎么还不上来啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，你们先喝点酒嘛。大嘴出去找鸡了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "时间过的真快呀，一转眼就是两年啦，我说话你能不能上点心啊，小六子。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你说嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我，算了。就你这智商，看书吧，看书。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师傅，您是不是又嫌我笨了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没有啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那您为嘛说话就说一半？你又怕我听不明白吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不不不，为师的意思是说，两年前，我和你一样，也是个普普通通的小捕快，人要奋斗，要进取啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父，您也当过捕快？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "废话，不当捕快怎么当捕头啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父，那您当年是怎么当上捕头的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "两年前，我亲手逮了一个，人称盗神的江洋大盗。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀你拉倒吧你，还你逮的，当时吓得腿都走不动了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我我我腿软。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊？邢捕头你还有这一出呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我我当时那是激动的，是兴奋，你想啊，这么凶残的罪犯，头一次见到，能不激动兴奋吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小贝，出来吃饭吧——咋凶残了？你来的时候，他已经被额炸晕了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "什么被你炸晕的？是被我打晕的好不好。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了行了，你们娘俩啊，什么玩意儿，那要不是被我点了穴，你们能动他？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那不管，反正把他交给邢捕头之前，他已经傻了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，老邢啊，自打那次以后，就再也没破过什么大案吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不许侮辱我师父！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "谁侮辱他了？不信你问他。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我那是没有机会。再说了，在我管辖的范围内，谁敢乱来，谁敢乱来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "吃饭呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "看见没有，看见没有。这叫防范于未然。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "完了完了完了，我那鸡肯定是让人给偷啦。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊？偷了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "敢在我眼皮子底下偷鸡摸狗还有没有王法了？啊，你放心，这件事情儿。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "包在我身上了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你什么意思？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我的意思是说，我一定协助你把这个小偷给逮住。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好，很好，那就分头行动。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行动啥呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "协助调查，赶紧走吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父，咱们终于遇到大案子了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "两年了，这把宝刀也该出鞘了。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "拔刀乱挥，老刑指秀才"
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他是嫌疑犯，记住了。看为师如何破案，走！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 5,
+      "type": "normal",
+      "rawDescription": "【后院，昼】",
+      "location": "后院",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "二，三……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "在数什么东西嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这是个惯犯，而且武功很高。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你是怎么看出来的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "请注意这里。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "鸡屎。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我们知道啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你们知道？你们不知道。一只鸡，一只骄傲的公鸡，怎么可能在正常的情况下，拉出——一二三四五六七八九——这么多屎来，换句话说，它一定是受到了大手印，或者朱砂掌之类的重击，才会情急无奈，大小便失禁。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是，小红平时也就是不大注意卫生——您接着说。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还有，请注意这根毛，软的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "废话，鸡毛不软，还是硬的呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这根特别软，你摸摸。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "软滴很，这能说明啥问题嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这说明它在掉毛以前，一定是受了很严重的内伤，据我所知有一种武功叫七伤拳，打中树之后，七天之内，从根到叶全部枯萎，与这个情况，惊人的相似。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "对小六"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "快结案了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "奥，照你这么说，金毛狮王再现江湖。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "很有这个可能。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，那他老人家拼着老命重出江湖，就为了偷只鸡呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我也没说一定是他干的。再说了会七伤拳也不光是他一个人。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那还有谁会啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "崆峒派，那是他们的看家本事。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "崆峒派我熟，离这儿两千多里地呢，为了只鸡真不容易啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "废话，谁会在自己家门口偷东西啊，兔子还不吃窝边草呢，是吧师父？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "孺子可教呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "谢谢师父，那我回去马上收拾收拾。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "收拾啥呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "收拾被卧，准备长途奔袭崆峒派。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "伙计，快出徒了，出发。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "慢走啊，二位不送了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "什么动静？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哪呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "在这儿。哪里跑，我跟你拼了，"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老邢冲进厨房"
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小邢这两年胆儿见长啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他就喜欢小题大做。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不许说我师父，"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说你怎么啦。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，额滴锅碗瓢盆呀。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "老邢叫\"啊\""
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么啦？怎么啦？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "耗子，耗子，耗子。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哈哈，哈哈。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "一只耗子把你吓成这个样子。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我不是害怕！我是恶心，我砍了好几刀没砍着，两个老耗子带着一群小耗子在那跑来跑去跑来跑去……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大嘴快去看看！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好了，马上全部都跟我到大堂去。全部去一个不能少啊。小六子，做笔录。嫌疑犯呢，吕秀才你第一个。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我啊。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 6,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "姓名。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不是知道吗？吕轻侯。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么写？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "双口吕，轻重的轻，王侯的侯。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我只听过猕猴马猴金丝猴，这王猴是个嘛猴子？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这你都不知道，王猴就是猴中之王，猴王。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是的不是的，这个王侯。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "年龄，年龄。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "二十四周岁。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他说是周岁，不是虚岁。住址？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "同福客栈后院。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他说是后院不是前院，记上。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "等会儿，岁数还没写完呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我来我来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "坐下，这是你的事情吗？你个嫌疑犯，还有你们。你现在的事情，就是老老实实彻彻底底的交代你的犯罪事实。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "是是是，我冤枉啊我。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他说他冤枉啊，写上。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "冤枉的冤怎么写？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真笨啊，又丢人了。上面一个宝盖，下边，"
+            },
+            {
+              "type": "speaker-action",
+              "description": "对秀才"
+            },
+            {
+              "type": "line",
+              "line": "你来写。你第一次见到那只鸡是什么时候啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "让我想想啊，我第一次与小红邂逅啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥是邂逅？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就是碰见，通常是指男女初次见面。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "亲娘咧，你还有作风问题啊？"
+            },
+            {
+              "type": "line",
+              "line": "什么声音？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "老白从门口进"
+            },
+            {
+              "type": "line",
+              "line": "是我，嗓子坏啦，慢慢聊啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不会真的是怀疑我吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不光怀疑你，这里的每个人都有犯罪嫌疑。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我真的冤枉啊，今天早上鸡丢的时候，我跟李大嘴正在屋里睡觉呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "李大嘴。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "来了来了来了来了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我问你，你不要说话。那只鸡丢了的时候你在哪里？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "在院里呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哈哈哈哈。记住，他掉凳了。一个说在屋里，一个说在院里，你们到底是怎么回事啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我跟你说不清楚。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说不清楚，那就跟我走一趟吧。结案了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "别别别，我说，我说还不行吗？今天早上，大清早天刚蒙蒙亮，我就听见一声。哎，就这个声音。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不用找了不用找了，鸡回来啦。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么回来的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就从房顶上飞下来的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "飞下来的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就在外面连飞带扑腾，鸡毛洒了一地。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎哎，这案子还审不审了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这有可能是个错案，亲娘咧，影响仕途啊。待我看过当事人之后。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "恩？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊不不，当事鸡之后，再做决定。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 7,
+      "type": "normal",
+      "rawDescription": "【后院，昼】",
+      "location": "后院",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这这不是我的小红啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你好好看看，看仔细点儿。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真不是小红啊。它尾巴上没两根红毛啊。老板娘不信你看看。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我不看，你给我放回去，就为了一只鸡，纠缠了这么长时间，还让不让人开门做生意了，这一大家子靠啥吃饭呀？不就丢了一只鸡吗？还真当个案子办，光白吃就吃了多少只鸡。拿个鸡毛当令箭，吃饱了撑的吗？你吃饱了撑的吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎，这话我不爱听啊，鸡虽小，但是事儿大。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大能大到哪儿去？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大到哪儿去，我已经充分认定，这件事情是你们家贼干的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "家贼？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你们想想。这只鸡明明不是你们丢的那只，却平白无故地出现在犯罪现场，这说明什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不知道。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "知道你当捕头了，说明有人故意放烟雾弹，他想利用这只鸡，诱使本官迅速结案，以达到他不可告人的目的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "什么目的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "什么目的？那就说不清了，无非就是奸淫抢夺，杀人放火。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说什么呢？谁奸淫抢夺，谁杀人放火了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我又没说你，你急什么呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我急了吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "急了，你刚才是有点急。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "刚才有点急啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我问你，我给秀才录口供的时候，你上哪儿去了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我嗓子疼，找大夫看病了啦。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "当时你怀里抱的什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "药啊，治嗓子的药啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "把药拿出来看看，拦住他。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我药吃了，不信你闻。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "哈~"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "亲娘咧，这什么味儿？这么难闻，什么味儿。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，是从井里散出来的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我看看，我看看——小红，小红。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 8,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "罪犯光是杀害小红也就算了，他竟然将小红的尸体残忍的抛到井中，这个举动，显然说明他并不是为了解谗。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那还能为了啥嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这口井，直通地下水，地下水又直通西凉河，他把小红扔到井里，就是为了让它腐烂，产生鸡瘟，使咱们全镇的老百姓都要遭殃，他的这种丑恶行为，只能有四个字表示。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "令人发指。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "再来四个。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "丧心病狂。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好，终于糊弄过去了。伙计们，案情到了这一步，单靠我一个人的力量，已经没办法继续调查下去了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎，这件事情我可以帮忙，我回家让我爹多派点人过来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那敢情好啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "四大名捕够不够？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "够了，够了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好，我回屋收拾一下，即刻上路。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好好。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，小郭姐姐。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，谁允许你回去的？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "她还欠额不少银子呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那是你们的事儿，快走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的，快来。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 9,
+      "type": "normal",
+      "rawDescription": "【佟寝，昼】",
+      "location": "佟寝",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋了嘛？弄的神神秘秘的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的，实在对不住了。小郭要走，我也得走了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "为啥？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你想啊。她这一去把四大神捕都带回来了。到时候我逃都逃不过来了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你逃啥嘛？额忘了，你是盗圣啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的，来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "展堂，你要干啥嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我也没什么值钱的东西，这是我最值钱的了，它比生命都重要。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这是个啥嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这是盗业同仁们为我特意制作的，天底下就这一块，业内人士是无人不知无人不晓啊。你把它收下，有什么情况你就亮牌子，一般小毛贼不敢碰你。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么贵重的东西，我咋能要吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的，你就拿着吧，能不能借我几两银子当盘缠？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不能。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "把牌儿还我。怎么的，你还想黑吃黑呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不是答应过额跟小贝的，不管发生什么事情，你都不会走的。难道你忘了吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "此一时彼一时啊，我也不知道四大名捕会回来呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老邢，你也有把柄在额手里。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 10,
+      "type": "normal",
+      "rawDescription": "【大堂，傍晚】",
+      "location": "大堂",
+      "timeOfDay": "傍晚",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "郭女侠，那就拜托了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "要不要把我爹也请过来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那敢情好，他的盘缠不用我们报吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不用，朝廷每年都给钱。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你什么时候回来呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "最快一个月吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这么久啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大哥，我是用脚走的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不会买匹马去啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "呵，你给我钱啊？买马，亏你想的出来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小郭，你不用回去了。把行李放回去吧。大嘴准备准备，吃晚饭了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "吃饭，吃饭。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "为为为什么呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "因为这件事情，从头到尾，都是我干的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你为啥对小红下毒手啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "因为它烦人嘛，每天天不亮就嚎。嚎起来就没有完，我一着急一上火，就下了毒手。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "太凶残了，太没人性了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你好意思说吗？你一年杀多少鸡啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我宣布，这件事情到此为止。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没那么容易。这件案子，已经不光是偷鸡的问题了，它牵扯到全镇人的性命。佟掌柜，委屈你了，跟我们走一趟，六儿。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你给我住手。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你要干什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这只鸡是我杀的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你又为啥啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我什么也不为，它自己扑腾到井里去的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你咋不救它呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我也不知道鸡不会游泳啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是，那……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好了，这件事情已经水落石出了。六儿，《大明律》念念。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "有了，根据《大明律》第四卷第七十九条明文规定，凡于闹市虐杀牲畜者，斩立决。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没事吧，我看看，亲娘咧，书你一页一页的念，重念。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "凡于闹市虐杀牲畜者，罚银三两。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀我的妈呀。吓死我了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你以为你没事了？要么一手交钱，要么跟我们走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的。掌柜的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "她咬我，师父。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好吧，我跟你们去。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他犯事你凭什么去啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "因为这件事情发生我们酒店里，他是我滴伙计，我知情不报，包庇罪犯。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好，这话留到公堂说去吧，走！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "走，额还要说个够，一桩桩一件件，包括你刑捕头，我都要说。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我，我，我怎么了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你咋啦？堂堂九品淄衣捕头，朝廷的公务人员，经常在我们饭店白吃白喝，欠债不还。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你这这话咋说的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "秀才，拿帐本。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这这，这都是街坊邻居的，有话，商量着嘛。干嘛说翻脸就翻脸呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这不都跟你学的吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我改，我改行了吧。要不这样，小红的案子，到此结束。这总行了吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不行，既然来了。说走就走吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你还要干什么。掌柜的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "吃了再走，今天是你上任两周年的纪念，总得庆贺庆贺吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哈哈哈，还搞这个形式干什么？——大嘴，杀鸡。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还杀鸡啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "杀吧杀吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我这鸡是活不成了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你们放心，我把前面欠的账全部都还上，行了吧，算帐，算帐，算帐。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，这太好了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 11,
+      "type": "normal",
+      "rawDescription": "【后院，傍晚】",
+      "location": "后院",
+      "timeOfDay": "傍晚",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "鸡呀，别怪我，来世变人吧。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 12,
+      "type": "cutscene",
+      "rawDescription": "【过场，劈砖记】",
+      "cutSceneName": "劈砖记"
+    },
+    {
+      "sceneNumber": 13,
+      "type": "normal",
+      "rawDescription": "【大堂，夜】",
+      "location": "大堂",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这一刻我已经等了好久了，是时候了结了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "呵呵，希望你不要后悔。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我从不后悔，你的刀呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "手中无刀，心中有刀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真正的高手是手中无刀，心中也无刀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "多说无益，出招吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森、白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "石头剪子布，石头剪子布。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你刚才不是说手中无刀心中也无刀吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我这是剪子也不是刀啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "亲娘咧，上当了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那只鸡你就看着我们吃好了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "凭嘛，我师父出的钱，凭嘛看你们吃？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎？这可是你师父说的。他要赢了就免费喝酒，俺们赢了，那只鸡就归俺们吃。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这账还得买，一文钱都不能少。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我跟你说鸡骨头我都不给你留下，我一个人给嗍了，哎呀妈呀我那只鸡。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "节哀，节哀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那我看看鸡熟了没。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呦，老刑，哎哎哎，小六坐下呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小六你咋了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "小六了",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我吃不下。好不容易等到大案子，以为能顺藤摸瓜，钓出个大鱼来，没想到却钓出个鸡来，还落他们嘴里了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你想咋样？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我就想办个大案子，问了多少遍了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "去吧，去办去，去呀！你以为我不想办案子？你以为我愿意这样整天晃进晃出？逮谁跟谁打哈哈？整天吃吃喝喝呀？为师就是再无能，这点心气总还有吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你想想办法啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "有啥办法？没钱可以慢慢赚，可没贼，你总不能生出个贼来吧？想当年为师跟你一样，对未来充满幻想。可世事无常，没辙呀。咱们这儿治安实在太好了，别说是贼，连个吵架的都没有啊。运气好的时候，能碰上两口子吵架，可一见到我，人家和好了。我连训一句的资格都没有啊。镇上的商户，个个遵纪守法，两年了，我连个投诉都没接过。至于卖淫嫖娼，聚众赌博，从来没听说过。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这不是好事吗？老邢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "对你是好事儿，可对我呢？啊，老天爷啊，老天爷。你要是有点儿善心，就给我爷俩儿发两个贼来吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哪怕是偷汉子的贼也行啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "注意素质！——啥也别说了。怪咱爷俩命苦啊，没摊着个乱地方啊。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "门外打更的：防贼防盗，小心火烛。"
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "给我倒碗水，吹累了。润润嗓子。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "累了就别吹了，赶紧睡吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我师父正难受呢，我怎么能自己睡呢？你听听，还哭呢。师父，师父，人让咱走呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "赶我们走啊，没关系，走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小郭。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "慢走，不远送啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这回走了吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好像——没有走，你又咋了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "对不起，例行查夜。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "拿酒来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "真查。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "查什么夜啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "查你这儿有没有生人。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不是一直都在吗？哪来的什么生人呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "刚才在楼下，谁知道楼上有没有生人。六儿，走着。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "刑育森！——呵呵，真是个好名字啊。老白。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老邢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干什么呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "坐这儿，你要抓贼呀，我们这儿也没有，你要实在闲的难受，咱就想个办法防个贼啥的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "防贼啥意思啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就是你到处走走，看看，出个规章，定个制度啥的，防患于未然呗。总比现在你们哥俩啥也不干强吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老白呀！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就当我没说，就当我没说。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "有你的啊，六儿走。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他这不是恐吓我吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "等等。五四三二……"
+            },
+            {
+              "type": "speaker-action",
+              "description": "外面传来笑声"
+            },
+            {
+              "type": "line",
+              "line": "不是，睡觉睡觉。"
+            }
+          ]
+        },
+        {
+          "type": "action",
+          "description": "打更的：小心火烛"
+        }
+      ]
+    },
+    {
+      "sceneNumber": 14,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你俩商量啥呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "防盗八法。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "都是我琢磨出来的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我给加的韵脚，画蛇添足。夜里门窗须关好。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说的太好了，展堂。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "实践出真知啊。老刑啊，这么多年捕快没白当。真的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "夸的再狠点儿，给老邢涨点自信。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "值钱物件随时掏。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "值钱的东西，随时掏出来看看，否则被贼偷了，都不知道啥时候偷的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，知道什么是醒世恒言吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "招蜂引蝶切忌搞。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这条呢，主要是针对采花贼的。你打扮得花枝招展，那采花贼一看他就起了兴致，能不来偷吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这话要搁到宋朝，那就没西门庆啥事了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "未雨绸缪挖地道。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "挖地道？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这条可能有点儿难理解吧。是这个意思，这是防强盗，挖地道，强盗一来，咱从地道悄悄的转移了。他还抢啥，抢啥？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，老刑啊，宋江那伙人没跟你生在同一个年代，那是他们命好。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "过奖过奖。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "防盗意识不能少。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "一个字，中。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "河南话。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "齐心协力省烦恼。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "两个字犀利。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "广东话。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "莫与生人打交道。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "三个字，亲娘咧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这个我知道，我们山东话。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "异常情况速来报。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "四个字哎呀妈呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥都不说了，老刑呀。额服了 you，额输了 you，打从心底崇拜了 you。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我吧也就是个老猫碰着死耗子，想放水都不行啊。哈哈！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老刑啊。这个防盗八法，打算啥时候贴出去呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不急，我已经跟娄知县请示过了，他说先搞个试点，看看效果。效果好呢，就在全镇推广。效果不好呢，回头再说了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "怎么可能不好嘛。真是的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "对啊，赶紧弄点儿吃的。吃完我们好忙活事儿去。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还用找吗？就在我这儿试了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好好，都是朋友在你这儿试了。六啊，这个任务交给你了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你干啥呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我负责指挥呀。具体事情找小六办，年轻人正好给一点儿锻炼机会啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父，你放心吧。小六绝对不会给您丢脸的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这孩子。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好很好。六啊，能不能升副捕头，就看你自己的了。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "眼神指着茶碗"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "嘛他？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "六啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋一点儿眼力劲都没有呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还得锻炼呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老邢，你走了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "早饭就不在这儿吃了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老邢，慢走啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小六啊，我们全力支持你啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那就赶紧开始吧！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好好，从哪儿开始？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "第一条是嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "夜里门窗须关好。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那就赶紧关窗户吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还没入夜呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就是啊！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "本捕快说话不好使啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "窗户关着呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "关上就把它销死。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "赶紧去，我把门关上。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你关门干啥？额还要做生意呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说了门窗就是门窗。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这客人马上就要到了呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "客人来了，有人会敲门的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "掌柜的，掌柜的，你先上去。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啥人吗？这是！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "有我呢，有我呢。呦呦呦，不劳您大驾，来来我来我来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "关严了啊，好好好。哎，这窗户怎么关不死啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "年头久了，现在关不上。回头再弄吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "回头干嘛？今天的事儿今天了，拿锤子来，我给它钉死，快快快。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "小六将整个窗户用木版钉死"
+            },
+            {
+              "type": "line",
+              "line": "行了，这回算行了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，干啥呢这是。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "关窗户。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这就你这么关窗户的吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "把窗户钉死，贼就进不来了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "贼进不来，额也进不来了呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你平时走窗户啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "额还指望它透透气吗。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这不能透气嘛。你觉得现在透气困难吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你先喝口茶好吗？你歇会儿行吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "歇会儿不着急，哎，秀才，下一条是嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "值钱物件随时掏。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干啥嘛？啥意思嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "请你配合我的工作，这是我师父的意思，也是娄知县的指示，请。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 15,
+      "type": "normal",
+      "rawDescription": "【佟寝，昼】",
+      "location": "佟寝",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你快着点儿。后面还好几条呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你回过头去嘛。哎呀，这一条总算过去了吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "开嘛玩笑，那么大的箱子，哪能随时掏啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你说咋办嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "别着急啊，又没人逼你，是你自己非要抢着当试点的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好好好，你说咋办，都听你的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我师父说了，小东西，全带在身上。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你看看，扳指，手镯，还有耳环，簪子，全都带了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大件儿也得带呀，比如说名人字画，古董花瓶嘛的，都带上。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "古董花瓶你随身带给我看看。来来来你带一个呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "别着急，话还没说完呐。我师父说了，大东西全都当了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "当了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "换成当票，不就随身带在身上了吗？我没说明白吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我想杀你。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 16,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎？上哪去啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "当铺。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋的啦？没事儿吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "回头再跟你细说吧，额和是造的什么孽呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "赶紧去，回头顺便把这俩也当了，小郭开门。把门关上，关严了。秀才下一条是嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "招蜂引蝶切忌搞。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你过来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干什么？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "擦粉了吧你？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你鼻子还不错。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "赶紧洗了去，还有这口红，胭脂，什么眼影什么，全洗喽。剩个渣都不行啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "凭什么呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他在搞防盗八法啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "跟我有什么关系。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你洗不洗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干什么？你还想拿刀砍我啊？来来来，你往这儿砍，往这儿砍。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小郭小郭，人家这也是执行公务，再说又是第一次，能帮就帮一把吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好，好，好吧，就当我是积德了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "顺便洗完再换身衣服。越素越好，最好带补丁。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我哪有带补丁的衣服呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没有就撕了再补嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我凭什么呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "撕！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不撕！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "撕不撕？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就不撕。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不撕我帮你撕……"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干什么？"
+            },
+            {
+              "type": "speaker-action",
+              "description": "撕坏小郭衣服"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "去补去吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "排山……"
+            },
+            {
+              "type": "speaker-action",
+              "description": "小六拔刀"
+            },
+            {
+              "type": "line",
+              "line": "我回去补补就行了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "下一条。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "未雨绸缪挖地道。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那就赶紧挖吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "现在就挖呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我师父说啦，这种事儿赶早不赶巧。你早早做好准备，以防以后被动啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "问题是你要从哪儿挖到哪儿啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就是啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "就从后院挖到翠微山北口……你俩起来，怎么了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你知道这是什么工程量吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你快说。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "把西凉河所有的河工找来，也得挖上七八个月。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不止，七八年。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那么长？那就从这儿挖到门口。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "啊，从这儿到门口啊。强盗在门口敲门，您从这儿一钻，直接到他们面前。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这才叫神兵天降嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那你咋不直接给他们开门呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那就从后院挖到街拐角怎么样？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我给你拿锹去啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这事儿不劳你们，我来就行了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不劳您动手，我们自己干，自己来。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 17,
+      "type": "normal",
+      "rawDescription": "【后院，昼】",
+      "location": "后院",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "小六拉《二泉映月》"
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小六，平时看着不大机灵，还挺内秀啊，来来来，过来帮我搭把土。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "拉小六"
+            },
+            {
+              "type": "line",
+              "line": "过来帮我搭把土。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干活事别说话。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小子还挺横。你信不信我直接撂了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你撂一个试试？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我撂了怎么地？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "撂了，咋地？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀和，你信不信我？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋地？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我可不客气拉，我告诉你们。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "干啥呢这是？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他们胆敢闹罢工。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "罢谁的工？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "罢我的工。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你是掌柜的吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "他们凭啥听你的呢？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我师父说了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你师父是掌柜的吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不就得了，你先回去吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我不回去，这事儿还没完呐，我回去干嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你不回去是吧？去把你师父找来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "找我师父干嘛？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "让他看看呀，你把额们一个一个都折腾成什么样子了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "佟掌柜，我对不起你，但是这是我第一次单独执行任务，千万不能有什么岔子。你就让我在这儿吧，我求你了，我给你跪下。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "求他们去吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大嘴，秀才，白大哥，郭小姐。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "算了算了，你们接着挖吧。吸取教训，以后咱再也不招这种事儿了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那挖可以，你给我整个欢快点儿的。我干着活有劲。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你说你整得跟哭丧似的，咱这挖地道又不是挖坟地。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "去吧，去吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没问题。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "六啊，慢点儿啊，上不来气了。妈呀，掉地道里了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老白老白。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 18,
+      "type": "normal",
+      "rawDescription": "【大堂，夜】",
+      "location": "大堂",
+      "timeOfDay": "夜",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "坐下来。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "展堂也坐。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "大家辛苦了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "只要你能交差，再累我们也值啦。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "诸位这份心意，小六心领了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀妈呀小嘴儿甜的，行了赶紧回去睡吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你们也赶紧歇着去吧，后半夜还得轮流值班呐。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎哎？值班？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "第五条，防盗意识不能少啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没少啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "所以就轮流值班。每个人睡一个时辰然后换班。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不用不用不用，我一个人就行了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "那可不行，单人守夜，容易走神。得大伙轮流值班。要不然怎么叫，齐心协力省烦恼呐。我已经跟打更的老齐说好了，每隔一个时辰过来敲一次门。你们必须醒着，一人给他签个名儿，明天早上我来检查。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好了。就按你说的办，消失。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "五个签名，一个都不能少啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "五个签名，打算咋办嘛。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "随便签吧，反正小六也不认字儿。去吧，你们洗洗睡吧，不用管了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "照顾一下展堂。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 19,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "action",
+          "description": "有人敲门"
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "来了来了。别敲了，我迟早换个铁门，我看谁能敲的响，来了。来了来了，六啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老白这就是你们五个人签的字啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "咋了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这字迹都差不多吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "差多了，你看这个，撇是撇，捺是捺的，这个呢，故意缩成一团我拿左手写的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "恩？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说漏了。还没睡醒呢。刚才说的都是梦话啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "行了，这事儿我就不追究了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀，还是六儿知道心疼人啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "话还没说完呢，死罪已免，活罪难逃。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "六儿，你啥意思啊？回来，你说明白了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneNumber": 20,
+      "type": "normal",
+      "rawDescription": "【大堂，昼】",
+      "location": "大堂",
+      "timeOfDay": "昼",
+      "performances": [
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "发传单"
+            },
+            {
+              "type": "line",
+              "line": "诸位瞧一瞧，看一看啊最新出炉的防盗八法。有病的拿回去治病，没病的拿回去发财。已婚的拿回去生娃，未婚的拿回去相亲。都看看都看看。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "也不知道折腾到啥时候，真不该揽这件事情。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "吕秀才",
+          "performances": [
+            {
+              "type": "line",
+              "line": "再坚持一下，所谓山穷水尽疑无路，柳暗花明又一村呐。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你别动你别动。你不是本镇的吧？小郭，那你为嘛跟他说话。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你废话，我不跟他说话，我哪知道他想吃什么呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "莫与生人打交道，你不认字啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "够了！够了够了够了够了燕小六。"
+            },
+            {
+              "type": "speaker-action",
+              "description": "对路人甲"
+            },
+            {
+              "type": "line",
+              "line": "不要怕，我说他呢。你还让不让人做生意了你？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你做你的生意，我防我的贼。井水不犯河水。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "说的好！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "六啊。这两天没什么异常情况吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "基本上没有。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好很好。花生不错。看来防盗八法奏效啦。可以跟娄知县说一声，推广。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不可以。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "为什么不可以？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这两天你知道把额们都折腾成什么样了吗？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "六啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我都是按照您的意思做的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎哎，这窗户，好好的吧。为啥都给钉上？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "这个我可没让他钉啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "地道总是你让挖的吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "对啊，为了防强盗呀。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好了，地道一挖通，强盗直接从门口进我们后院。连门都不用敲了现在。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还有那么莫与生人打交道。拜托你呀，我们是开店的！不跟生人说话，我们喝西北风啊！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "郭姑娘我们也是没办法，没有贼你让我们咋办？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "老邢，咱防贼的初衷是为了百姓，不是为了你个人的政绩吧？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "整天不干正事儿，整那些虚招子有什么用啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "额觉得呀，老邢对于一个捕快来讲，你完成了多少任务，抓了多少贼，并不重要，重要的是，你保护的那一方百姓是否安居乐业。百姓好，才是真的好啊，对不对呀？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "发人深省，令人深思啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎呀妈呀，我终于把那地道挖通啦。咋，咋地了？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "麻烦你再把那地道堵上吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "你说啥玩意儿？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "堵上。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "李大嘴",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我跟你拼了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好，地道我们爷俩堵，好不好？你们还有什么要求说吧。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还有额的这个当票，马上你给我赎回来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好，赎回来。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还有这些窗户上的扳子，你都给我拆了啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "好拆拆拆。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "还有我这件衣服都让他撕烂了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "六啊，你怎么能干这种事儿啊？"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父，她太漂亮了。不撕不行啊。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "我打死你个不要脸的。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "不是师父，她太白了。她太漂亮了。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "邢育森",
+          "performances": [
+            {
+              "type": "line",
+              "line": "她太漂亮了，我打死你个不要脸的小畜生。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哈哈。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "佟湘玉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "哎，事儿还没办呢。"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
+          "speaker": "众人",
+          "performances": [
+            {
+              "type": "line",
+              "line": "回来站住。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
