@@ -1,0 +1,190 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "郭芙蓉在门口焦急等待着掌柜的与赛掌柜谈判的结果"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的怎么还没有回来吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，你砸了怡红楼那么多的东西，不得一样样的算钱？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那都算了一天了，那得赔多少钱啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜回店"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五十两银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就赔吧你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算完了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，五十两银子都得你来赔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "苍天呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也可以不用赔，条件是帮怡红楼照顾好，那个扈几娘？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扈十娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，你咋知道？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扈十娘谁不知道，扬州城最有名的歌妓，成名曲《杜十娘下面汤》，哒啦嘀哩……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，就是她，怡红楼请她来唱曲，但是店被砸了，没有办法住人，所以要求咱们照顾一下，最多三天，完了之后，五十两银子可以一笔勾销。记住啊，这三天时间，咱们一定要把扈，扈几娘？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扈十娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，不能让她受半点儿委屈。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "向小郭"
+        },
+        {
+          "type": "line",
+          "line": "尤其是你。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭傻笑附和，好好好"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑啥，干活去，都是你惹的祸。——扈十娘……"
+        }
+      ]
+    }
+  ]
+}

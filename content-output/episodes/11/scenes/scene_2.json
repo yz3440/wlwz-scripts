@@ -1,67 +1,27 @@
 {
   "type": "normal",
-  "rawDescription": "【后院，夜】",
-  "location": "后院",
-  "timeOfDay": "夜",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
   "context": "",
   "performances": [
     {
       "type": "action",
-      "description": "老白的声音响起"
+      "description": "扈十娘一行人来到客栈前"
     },
     {
       "type": "dialog",
-      "speaker": "",
+      "speaker": "十娘管家",
       "performances": [
         {
           "type": "line",
-          "line": "吕秀才，郭芙蓉！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "",
-      "performances": [
-        {
-          "type": "line",
-          "line": "！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "来了来了来了！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "来了来了……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭 吕",
-      "performances": [
-        {
-          "type": "line",
-          "line": "人呢？"
+          "line": "十娘来了啊。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "老白从镜头下方窜出，作孙悟空打扮，郭吕惊"
+      "description": "闻听此言，众人冲出客栈，排成两排"
     },
     {
       "type": "dialog",
@@ -69,67 +29,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "咳…像不像，行者悟空！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎呀～～"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "师父～师父～小贝师父～徒儿想你啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，哎，哎，我看你不像悟空，六耳猕猴还差不多。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "呔！大胆八戒，昨儿你出卖我，我还没找你算帐呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我告诉你，算就算，谁还怕你咋的，来……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哼！拿你就休怪我无情无义了！掌柜的，掌柜的……"
+          "line": "一，二，三。"
         }
       ]
     },
@@ -139,7 +39,91 @@
       "performances": [
         {
           "type": "line",
-          "line": "来了来了来了……哟～美的很美的很～有事吗？"
+          "line": "预备齐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "欢迎，欢迎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘管家",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出来个人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "走上前去，边走边说，欢迎欢迎"
+        },
+        {
+          "type": "line",
+          "line": "趴哪儿去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "趴哪儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘管家",
+      "performances": [
+        {
+          "type": "line",
+          "line": "轿子头了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘管家",
+      "performances": [
+        {
+          "type": "line",
+          "line": "垫脚啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们十娘有规矩，出门在外脚不沾地。"
         }
       ]
     },
@@ -149,157 +133,199 @@
       "performances": [
         {
           "type": "line",
-          "line": "掌柜的，我琢磨着吧，丫鬟有了，书童有了，保镖有了……就差轿夫了"
+          "line": "那背可以吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可以吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可以。"
         },
         {
           "type": "speaker-action",
-          "description": "指大嘴"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+          "description": "手指老白"
+        },
         {
           "type": "line",
-          "line": "诶……我咋造没有想到呢……你们觉得呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "好好好！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "两里多地，你能让孩子自己走吗？！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "对对对，大嘴，那就辛苦你了啊……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我还得做饭呐！那啥……老白，他能兼任轿夫！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "掌柜的，看出他的为人了吧。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "看出来了，再找个厨子……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "嗯！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "看出啥来了呀！其实我不是不能抬……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白、郭、吕",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那就抬咯～"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "抬～就抬，那到时候吃不上热菜热汤的你们自己负责啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我看一下地形……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我缝书包……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "得准备了……"
+          "line": "让他背。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "小贝站在门口，一脸无奈"
+      "description": "老白先是一愣，兴冲冲的赶上前去，背起十娘"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "下来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "揪着老白的耳朵，转而去搀扶十娘"
+        },
+        {
+          "type": "line",
+          "line": "额扶你进去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你泡茶去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，我们十娘还有些规矩。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "隔天摘的菜，不吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那荤的呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也得是当天宰的，我们十娘只吃牛肉，但这牛不能满月，超一天都不行，另外还有……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是露水泡的茶不喝，少于四人抬的轿不乘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这轿子不是两个人抬的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没看见我们家管家一个顶俩吗？另外还有最重要的一点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每次吃完饭之后，剩饭剩菜你们千万别倒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是为啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十娘最见不得别人糟蹋东西。三天之后我们来接人，倘若有一丁点儿怠慢，就是少了一根头发丝，那五十两银子也得照赔。"
+        }
+      ]
     }
   ]
 }

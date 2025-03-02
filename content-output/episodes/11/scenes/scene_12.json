@@ -7,11 +7,11 @@
   "performances": [
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "把这个记上。"
+          "line": "来了来了。"
         }
       ]
     },
@@ -21,191 +21,61 @@
       "performances": [
         {
           "type": "line",
-          "line": "王公子你慢用啊，展堂，赶紧把曹先生的酒烫一下，小郭，叫大嘴把皮蛋瘦肉粥端上来，郑公子等了半天啦，不好意思再等一会啊，秀才，过来过来，赶紧把葛掌柜的帐结了。"
+          "line": "准备好了吗？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "酒烫好了，来王公子慢用啊。"
+          "line": "哎呀，你放心吧，不就是演戏吗？梅斯布吗。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "王公子",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "等会儿，我没要酒啊。"
+          "line": "梅斯布是什么？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "你看烫都烫好了，你说不要就不要啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "曹先生，一共是七百五十文钱。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "曹先生",
-      "performances": [
-        {
-          "type": "line",
-          "line": "开玩笑嘛，一盘花生米一壶酒，你要我七百文钱。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "是七百五十文。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "曹先生",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你们这纯属是黑店！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "皮蛋瘦肉粥，葛掌柜你慢用啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "葛掌柜",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，我没要粥啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郑公子",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那粥是我叫的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不可能，你都吃那么多了，哪儿还喝得下粥啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郑公子",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，这我吃多少要你管啊！"
+          "line": "梅兰芳，斯坦尼，布莱西特，我懂。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "吵起来啦"
+      "description": "见小贝入，哭道"
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "好啦，粥是郑公子的，酒是曹先生的，账是葛掌柜结。"
+          "line": "老板娘，我求求你啦，你就可怜可怜我吧，可怜可怜我吧。你给我一点盘缠回家。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "曹先生",
+      "speaker": "莫小贝",
       "performances": [
         {
           "type": "line",
-          "line": "你说什么呢，什么呢，我到衙门告你们去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        {
-          "type": "line",
-          "line": "吵什么？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "葛掌柜",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我们账没算呢。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "快吃饭，拔刀了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        {
-          "type": "line",
-          "line": "吵啊，接着吵啊，不像话。"
+          "line": "姨娘，您不是挺有钱的吗？"
         }
       ]
     },
@@ -215,30 +85,157 @@
       "performances": [
         {
           "type": "line",
-          "line": "老邢"
-        },
-        {
-          "type": "speaker-action",
-          "description": "感谢"
+          "line": "来来来，坐下说啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "邢育森",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "本捕头正式宣布，本镇邱员外家的二少爷邱小冬，刚刚下赢了围棋国手，鼓掌！"
-        },
-        {
-          "type": "reaction",
-          "reactor": "众人",
-          "description": "众人鼓掌欢呼"
-        },
+          "line": "那是以前，现在没有了。连饭都吃不上了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "line",
-          "line": "——虽然是五子棋。"
+          "line": "那么多钱，你全都花光啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可不是嘛，我这个人又馋又懒又不会劳动，金山银山也要吃完的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可以再赚嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么赚怎么赚？你听我的嗓子我怎么赚？郎君啊，你是不是饿得慌啊，呀霍咦霍霍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再唱了，好可怜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可怜什么东西呀？我这是活该。哪个叫我除了唱歌什么都不会呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是说女子无才就是德吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是我胡说八道的呀，一个好女子，一定要德才兼备，可晓得？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说的好，小贝快听着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，你看姨娘这个样子了，你一定要吸取教训啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么教训啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，你这个娃，你非要看着我沿街乞讨暴尸街头，才算完可是啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么没有啊，啊，赶紧回去回去读书去。走。"
         }
       ]
     },
@@ -247,22 +244,48 @@
       "speaker": "众人",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "不屑"
-        },
-        {
           "type": "line",
-          "line": "去！"
+          "line": "还不快去。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "邢育森",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "为了庆祝这一棋坛盛事，邱员外决定请大家到他家里吃鱼翅火锅。"
+          "line": "哈哈哈哈——哎，还行吧？演得还行吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "梅斯布占全了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "戏曲程式化。"
         }
       ]
     },
@@ -272,47 +295,37 @@
       "performances": [
         {
           "type": "line",
-          "line": "啥时候？"
+          "line": "体验派。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "邢育森",
+      "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "现在现在。"
+          "line": "间离效果。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "葛掌柜",
+      "speaker": "吕秀才",
       "performances": [
         {
           "type": "line",
-          "line": "大家快走呀。"
+          "line": "加上个人的天赋。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "喂，你们还没结帐呢，喂喂喂，一分钱都没有结到。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你也别老喂喂喂了，你也去吧好不好。"
+          "line": "哎呀，希望她长大以后，能够明白你这份苦心。"
         }
       ]
     },
@@ -322,37 +335,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "额不去，鱼翅火锅，吃多了痛风。"
+          "line": "明不明白的，倒无所谓了，但是多读点书总没有坏处，你说呢？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "邢育森",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "痛风？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "一般来说，食物中含有较高的嘌呤会导致痛风，调查证明，涮一次火锅比一顿正餐摄入的嘌呤多十倍，甚至数十倍，痛风发作起来，关节红肿，并伴以剧烈的疼痛，使患者难以忍受。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        {
-          "type": "line",
-          "line": "痛就痛呗，痛并快乐着嘛，痛吧，痛死我算了，我去痛，去吃。"
+          "line": "我小时侯有你这么个嫂子就好了。"
         }
       ]
     },
@@ -362,51 +355,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "老邢！"
+          "line": "这一百两银子，你拿去吧。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "邢育森",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "吃自己的，让别人说去吧！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "还不干活愣着干啥？五子棋，又不是围棋，有什么了不起嘛，有本事下盘围棋赢人家呀，真是的！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "莫小贝偷溜进来"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "站住，手里拿的什么呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "没，没什么呀。"
+          "line": "这么多。"
         }
       ]
     },
@@ -416,7 +375,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "交出来！"
+          "line": "这本来就是你的钱呀，一路平安。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后会有期了。"
         }
       ]
     },
@@ -426,37 +395,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "这捏的泥人。"
+          "line": "哎呀，总算了了一件事情。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "这是我自己捏的，这个是张飞，那个是岳飞，那个是王菲。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哪个王菲呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "食客甲",
-      "performances": [
-        {
-          "type": "line",
-          "line": "会唱歌的。"
+          "line": "我要是你啊，就不会这么高兴。"
         }
       ]
     },
@@ -466,17 +415,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "过来，自己照一照，美吗？"
+          "line": "为啥呀？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "嫂子你坐下，坐下坐下，你是不是累了，我帮你捏捏肩，嫂子我错啦。"
+          "line": "她就这么走了，咱算是照顾好她了，还是没照顾好她呢？咱欠怡红楼那五十两银子……"
         }
       ]
     },
@@ -485,8 +434,12 @@
       "speaker": "佟湘玉",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "飞奔出门"
+        },
+        {
           "type": "line",
-          "line": "知道该做啥了？还不快去！"
+          "line": "十娘，还给我五十两，十娘……"
         }
       ]
     }

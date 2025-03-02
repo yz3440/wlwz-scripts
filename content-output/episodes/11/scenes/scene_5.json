@@ -1,0 +1,191 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，傍晚】",
+  "location": "大堂",
+  "timeOfDay": "傍晚",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了来了，快快快。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "尖椒牛柳，刚宰的小牛。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "十娘凑到菜前闻了闻"
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两个人零三天的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，可以啊，我这就倒了去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，不用了。我今天就吃素。哎，来来来，我们大家一起吃饭。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人不情愿"
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看不起我是不是啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来吧，来吧，都自己人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，那我收拾东西回扬州。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别。额们陪你一起吃，过来，过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是的，你说你们客气什么东西啊？我跟你们讲不要客气啊，就像到自己家里面一样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这话听着咋这么别扭呢？你是客人，你先来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，那我就恭敬不如从命了。哎，你们吃菜，不要客气就像到自己家一样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人方欲夹菜，十娘用筷子将众人筷子拨开"
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要客气，客什么气呢。就像到自己家里面一样的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又一次拨开众人筷子"
+        },
+        {
+          "type": "line",
+          "line": "要吃饱可晓不晓得。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "第三次拨开，众人面面相觑，不敢再下筷"
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看看，你看看，我说你们客气吧。行，你们客气，我就不客气了，不吃饱怎么行呢？我跟你们讲过了，这就是自己的家。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边说边将所有的菜整盘的扒拉到自己碗中"
+        },
+        {
+          "type": "line",
+          "line": "你们要是一客气呢，这顿饭就没法吃了。快吃吃吃。恩。"
+        }
+      ]
+    }
+  ]
+}

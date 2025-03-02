@@ -1,21 +1,97 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，昼】",
-  "location": "大堂",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
   "timeOfDay": "昼",
   "context": "",
   "performances": [
     {
-      "type": "action",
-      "description": "蕙兰父女带着行李下楼"
-    },
-    {
       "type": "dialog",
-      "speaker": "蕙兰父",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "哎，伙计，"
+          "line": "怡红酒楼开张了，你们都知道了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我打算，派个人过去，弄点东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "弄？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就是趁他们不注意取点东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "取？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是拿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，拿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你去？"
         }
       ]
     },
@@ -25,17 +101,37 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎。"
+          "line": "为什么是我？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰父",
+      "speaker": "吕秀才",
       "performances": [
         {
           "type": "line",
-          "line": "帮着把箱子抬一下。"
+          "line": "他合适。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老本行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵。"
         }
       ]
     },
@@ -45,67 +141,37 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎，来了来了。"
+          "line": "哼你个头，坚决不去，退隐江湖很多年了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "哎哎等等。咱俩还没比呢。"
+          "line": "不去算了啊，过去之后无非就是拿点先进的经验，吃吃喝喝，玩玩闹闹费用我来出谁去？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "杨蕙兰",
+      "speaker": "众人",
       "performances": [
         {
           "type": "line",
-          "line": "你？你会武功吗？"
+          "line": "我我我我，我去！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "不会，但是我有勇气——还有足够的金疮药。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "好吧，什么时候比？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "今天下午，老地方，咱俩不见不散啊。那你回去歇会儿，歇会儿。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "蕙兰父",
-      "performances": [
-        {
-          "type": "line",
-          "line": "蕙兰，还要比啊？"
+          "line": "不要着急，一个一个来。"
         }
       ]
     },
@@ -114,106 +180,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "行李我拿！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "蕙兰父",
-      "performances": [
+          "type": "speaker-action",
+          "description": "戴斗笠，POSE"
+        },
         {
           "type": "line",
-          "line": "麻烦你了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "没事儿，没事儿。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白把箱子抬到二楼，放下，开始解绳子"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "也！你拍一，我拍一，懒汉也能娶好妻。你拍二…"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小贝和小郭扭打着从后院进"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "史记抄完了吗？你就出门！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我用不着你管。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你还敢顶嘴？谁借你胆儿？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你喽。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我…我不跟山贼动手，那是因为怕被你拖累。你现在给我出去找一个能打的来，我不打他个满地找牙，我就不姓郭！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我现在去哪儿给你找能打的。"
+          "line": "还是我去吧，拿~东西我比较有经验。"
         }
       ]
     },
@@ -223,7 +195,57 @@
       "performances": [
         {
           "type": "line",
-          "line": "你拍十，我拍十，这个媳妇娶得值。"
+          "line": "啥好吃啥好喝，你能有我有经验呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是，这也得有理论支持的，子曾经曰过……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再曰了，我打算派小郭去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为她是个女的，不会中美人计，小郭，走！"
         }
       ]
     },
@@ -233,53 +255,9 @@
       "performances": [
         {
           "type": "line",
-          "line": "哪个媳妇？"
+          "line": "拜拜！"
         }
       ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "对了，那个今天下午我在镇口那个戏台上比武招亲，都来啊，都来，都来，来啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉、莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "比武招亲？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "能打的来啦，你咋不去啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "看来姑奶奶又要重出一次江湖了。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "字幕：李大嘴急着去比武招亲"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "type": "normal",
-  "rawDescription": "【客栈门口，昼】",
-  "location": "客栈门口",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
   "timeOfDay": "昼",
   "context": "",
   "performances": [
@@ -11,37 +11,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "听说你的武功不错。咱们来比划比划。"
+          "line": "呵呵，慢一点儿。这是我们掌柜的房间，特意给您腾出来的。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰父",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "不行，先得交报名费，两钱银子。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "两钱银子嘛。吕秀才！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "谁呀，谁呀？"
+          "line": "我睡不惯人家住过的房间。"
         }
       ]
     },
@@ -51,37 +31,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "呀呀呀，呀你个头啊，有没有钱啊？"
+          "line": "我总不能现给您盖一间出来吧。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "吕秀才",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "有啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "多少？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "二钱。"
+          "line": "那倒用不着，我这个人呢没那么麻烦。哎？大堂还可以吧？"
         }
       ]
     },
@@ -91,17 +51,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "就是它了。"
+          "line": "那不行，大堂，大堂有人睡了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "吕秀才",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "哎，什么时候还啊？"
+          "line": "谁呀？"
         }
       ]
     },
@@ -111,113 +71,101 @@
       "performances": [
         {
           "type": "line",
-          "line": "等着吧你。"
+          "line": "就是刚才背你进来的那个。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "食客",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "算帐！"
+          "line": "那我就住到一块吧，又宽又亮的蛮好。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "吕秀才",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "一定要还啊。"
+          "line": "不行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行，好，收拾东西，我回扬州。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，别别别。我现在就给您问去还不行吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，让他们给我烧洗澡水，我要洗澡。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，那你歇一会儿啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下，让他们买一个新的澡盆啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "跑回大堂"
+      "description": "关门中"
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "时间紧迫，那就开始吧！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那就承让了。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "双手拔刀，刀竟是断的"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "哈哈哈哈，哈哈哈哈，哈哈哈哈…"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白躲在客栈门后，皱眉"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "排山倒海！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "黑屏，过了许久"
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "公子武功好棒啊，奴家从此便是你的人了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊？"
+          "line": "哎，那个要黄杨木的，铜箍子的，雕牡丹花的不要。"
         }
       ]
     }

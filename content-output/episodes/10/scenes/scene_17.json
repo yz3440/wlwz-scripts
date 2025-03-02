@@ -1,143 +1,23 @@
 {
   "type": "normal",
-  "rawDescription": "【客栈门口，昼】",
-  "location": "客栈门口",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
   "timeOfDay": "昼",
   "context": "",
   "performances": [
     {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "听说你的武功不错。咱们来比划比划。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "蕙兰父",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不行，先得交报名费，两钱银子。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "两钱银子嘛。吕秀才！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "谁呀，谁呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "呀呀呀，呀你个头啊，有没有钱啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "有啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "多少？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "二钱。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "就是它了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，什么时候还啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "等着吧你。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "食客",
-      "performances": [
-        {
-          "type": "line",
-          "line": "算帐！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "一定要还啊。"
-        }
-      ]
-    },
-    {
       "type": "action",
-      "description": "跑回大堂"
+      "description": "湘玉给芙蓉几文钱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这钱省着点花。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -145,69 +25,174 @@
       "performances": [
         {
           "type": "line",
-          "line": "时间紧迫，那就开始吧！"
+          "line": "不会吧，大姐，就这么一点钱啊？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "杨蕙兰",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "那就承让了。"
+          "line": "主要是看，不是吃，点壶茶坐一下，能花啥钱嘛。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "双手拔刀，刀竟是断的"
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
+        {
+          "type": "line",
+          "line": "那能学到什么经验嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就点个凉菜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我不去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，再给你加十文！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不了那么多，对门吃饭啊，便宜得很！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的脚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没沾地儿，没沾地儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋又回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，这不跟那儿吃累了，想回来讨口水喝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想喝菊花还是普洱啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "铁观音都中，这两天呐吃的油水太大，想刮一刮，哎，佟掌柜啊，我都盘算好了，以后啊，住就住在这儿，吃饭去那边，两边不得罪"
+        },
+        {
+          "type": "reaction",
+          "reactor": "湘玉",
+          "description": "湘玉拿茶一泼"
+        },
+        {
+          "type": "line",
+          "line": "你是干嘛呢，你想……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡觉前不得洗个澡嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "中中中，佟掌柜的，你对老主顾都这样，你就请等着关门吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "虎落平阳被犬欺，连小米都敢这么对我，"
+        },
         {
           "type": "speaker-action",
-          "description": "哈哈哈哈，哈哈哈哈，哈哈哈哈…"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白躲在客栈门后，皱眉"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+          "description": "对小郭"
+        },
         {
           "type": "line",
-          "line": "排山倒海！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "黑屏，过了许久"
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "公子武功好棒啊，奴家从此便是你的人了。"
+          "line": "快去快去。哎，等一下，换身男装再去，不要让他们发现了。"
         }
       ]
     },
@@ -217,7 +202,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "啊？"
+          "line": "噢……"
         }
       ]
     }

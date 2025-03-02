@@ -7,7 +7,17 @@
   "performances": [
     {
       "type": "action",
-      "description": "秀才化妆成书童从门帘进"
+      "description": "急剧敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要敲了，不要敲了。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -15,111 +25,51 @@
       "performances": [
         {
           "type": "line",
-          "line": "妈呀！小贝长大了？！"
+          "line": "来来来，我来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁啊这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁啊这么早，来了来了，谁呀这是，哎呀，老邢啊！"
         }
       ]
     },
     {
       "type": "action",
-      "description": "秀才走到柜台后，一扬头，白和郭都站在楼梯那盯着他看"
+      "description": "老邢小六入"
     },
     {
       "type": "dialog",
-      "speaker": "吕秀才",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "怎么样？我看起来不会太老吧？"
+          "line": "你倒还挺早的，油饼还没炸呢！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂，郭芙蓉",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "挺……嫩的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这有掌柜的镜子，你自己照一下。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "子啊，这是谁呀？！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "妖精。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "拿走拿走！那不是我！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这确实不是你——掌柜的请看！这位是金童，这位是玉女，万事具备，就差一观音了！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你说谁呢你？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "瞧，观音发话了，咱闪远点吧！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "嫂子，你看他呀！"
+          "line": "我不吃饭，专门来打酒的。"
         }
       ]
     },
@@ -129,147 +79,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "我看着呢嘛……"
+          "line": "啊？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "你看我干啥呀？！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不要紧张啊！我琢磨着，这丫鬟也有了，书童也有了，那保镖是不是也应该有一个呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，得有得有！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "对对对！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "",
-      "performances": [
-        {
-          "type": "line",
-          "line": "！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这一路上是千难万险，是妖孽横行呀，没有一个贴身保镖成何体统呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "肯定要有。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我又不是唐僧，用不着保镖！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "瞧瞧！正主都发话了，再说了，从咱店到书院总共才两里多地儿。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎～路是不算远，但是这一路上要经过多少的商家，多少的住户——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "说不定哪儿就杀出个程咬金来！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "一般小毛贼是她对手吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "小毛贼不可怕，就怕遇到绝顶高手妖魔鬼怪什么的……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "就为了跟一个丫头片子过不去？"
+          "line": "把你店里最好的酒，最烈那种，把这葫芦装满了。"
         }
       ]
     },
@@ -279,45 +99,27 @@
       "performances": [
         {
           "type": "line",
-          "line": "你到底干还是不干？"
+          "line": "干啥嘛？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "不干！"
+          "line": "从今天起，我是酒不离手。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "佟湘玉",
+      "speaker": "燕小六",
       "performances": [
         {
           "type": "line",
-          "line": "我到衙门去聊聊展堂的光辉历史啊……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喂！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "挤出笑脸"
-        },
-        {
-          "type": "line",
-          "line": "不就是保镖吗…行！"
+          "line": "我也是。"
         }
       ]
     },
@@ -327,17 +129,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "打扮的酷一点啊。"
+          "line": "这是为啥嘛？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "嗯。"
+          "line": "昨天晚上那个黑衣人，你们都看到了吧？他的武功咋样？"
         }
       ]
     },
@@ -347,7 +149,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "妖魔鬼怪怎么对付呀？"
+          "line": "高地很，把你的魂都吓没有了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是他打不过我啊，打不过，知道为什么呢？"
         }
       ]
     },
@@ -357,7 +169,241 @@
       "performances": [
         {
           "type": "line",
-          "line": "明白了……"
+          "line": "为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我喝了好多好多的酒啊。俗话说，酒壮怂人胆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "壮怂人胆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然了，我不是怂人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也不怂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是酒确实壮胆！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "酒还伤身呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个回头再说了，我喝了酒，力大无穷，而且，还不怕疼，不怕疼，呵呵呵！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不怕疼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "关键是，出拳没有章法！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那没章法还是好事儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然是好事了，俗话说，无招胜有招嘛，出拳没有章法，对方咋破？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没法破。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋破？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没法破，"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋破？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没法破！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，老邢，你看是这，酒不是不能给你，但是这大白天的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要的就是大白天，你傻啊，晚上一喝，不是倒头就睡了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要给我师傅酒喝，我是嘛也不怵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打死也不怵啊，咱有醉拳咱怕谁啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不怕！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打酒！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉和老白去打酒，老邢和小六打醉拳"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这可咋办啊"
         }
       ]
     }

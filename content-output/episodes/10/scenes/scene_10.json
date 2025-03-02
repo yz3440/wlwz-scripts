@@ -1,213 +1,239 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，昼】",
-  "location": "大堂",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
   "timeOfDay": "昼",
   "context": "",
   "performances": [
     {
       "type": "action",
-      "description": "蕙兰爹搬着箱子下楼"
+      "description": "路人甲过"
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "哎哎哎，我来我来。"
+          "line": "站住！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "不行，太沉太沉。"
+          "line": "知道今天啥日子吧？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "路人",
       "performances": [
         {
           "type": "line",
-          "line": "你都拎得动我咋拎不动呢？"
+          "line": "十六，咋了？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "好，给你给你。"
+          "line": "今儿我开工了。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "路人",
       "performances": [
         {
           "type": "line",
-          "line": "哎呀妈呀，这啥玩意儿，咋这老沉呢？"
+          "line": "开工？然后呢？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "搭台子用的。"
+          "line": "昨天你不是还给我一文钱吗？拿来吧。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "路人",
       "performances": [
         {
           "type": "line",
-          "line": "搭啥台子？"
+          "line": "凭啥，我欠你的啊？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "比武招亲呐。"
+          "line": "你拿来不拿来？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "路人",
       "performances": [
         {
           "type": "line",
-          "line": "你这比武招亲有啥讲究呗？"
+          "line": "不给！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "没啥讲究，就是带好金疮药，万一有个缺胳膊少腿儿，先把血止住，不至于丧命。"
+          "line": "你拿来不拿来？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "路人",
       "performances": [
         {
           "type": "line",
-          "line": "送命…"
+          "line": "我就是不给！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "小米",
       "performances": [
         {
           "type": "line",
-          "line": "你别担心，就你这体格，顶多呀，落一残疾。"
+          "line": "你拿来不拿来？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "路人",
       "performances": [
         {
           "type": "line",
-          "line": "没事儿没事儿，我来我来。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "蕙兰爹",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你拎不动。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "没事儿，我来。"
+          "line": "抢劫！"
         }
       ]
     },
     {
       "type": "action",
-      "description": "箱子落地，又抬"
+      "description": "老邢带着小六匆匆过来，客栈众人也相继出来"
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "没事儿，我来。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "箱子又落地"
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "还是我来吧。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "一手拎起箱子，下楼"
-    },
-    {
-      "type": "dialog",
-      "speaker": "蕙兰爹",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，我们在东街搭台啊，你们谁想去试试，都去试试啊。"
+          "line": "怎么回事？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "路人",
       "performances": [
         {
           "type": "line",
-          "line": "哎呀我的妈呀！"
+          "line": "他抢劫我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是他抢我的钱，再说我骗谁也不敢骗你啊！我就是抢劫，我也不能选个大白天的，对不对？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你还真跑，六儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮我照顾好我七舅姥爷三外甥的前一个丈母娘 ！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没那闲功夫！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对路人"
+        },
+        {
+          "type": "line",
+          "line": "走，跟我到衙门录个口供。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "路人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了吧？就一文钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心，只要有我在，别说是一文钱，你就是一根头发丝，他都别想抢走。他们都知道的——"
         }
       ]
     },
@@ -217,63 +243,19 @@
       "performances": [
         {
           "type": "line",
-          "line": "大嘴，看啥呢？"
+          "line": "知道，就这人儿。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "我未来的娘子。"
+          "line": "为一了方百姓，吃再多的苦，我都不在乎，受再多的罪我总要面对，这就是我，一个普普通通…哎，你别走啊，我话还没说完呢，哎，你走什么，你很可疑啊，哎，你眼神不对，神色不对，哎，你是不是有前科啊，哎，你是不是抢劫犯，你给我站住，你不站住我可拔刀了，我砍了你！"
         }
       ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我可告诉你啊，这女孩不是个善碴儿。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "老白，陪我过去看看去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你去吧，我一会儿上房看。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，好。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "字幕：第一场比武招亲后"
     }
   ]
 }

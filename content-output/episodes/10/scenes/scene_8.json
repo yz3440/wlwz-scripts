@@ -1,225 +1,213 @@
 {
   "type": "normal",
-  "rawDescription": "【客栈门口，昼】",
-  "location": "客栈门口",
-  "timeOfDay": "昼",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
   "context": "",
   "performances": [
     {
+      "type": "action",
+      "description": "老邢带着小六醉醺醺入"
+    },
+    {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "听说你的武功不错。咱们来比划比划。"
+          "line": "哎哟，我的神啊！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰父",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "不行，先得交报名费，两钱银子。"
+          "line": "人呢，人呢，人呢？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "两钱银子嘛。吕秀才！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "谁呀，谁呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "呀呀呀，呀你个头啊，有没有钱啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "有啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "多少？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "二钱。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "就是它了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎，什么时候还啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "等着吧你。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "食客",
-      "performances": [
-        {
-          "type": "line",
-          "line": "算帐！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "一定要还啊。"
+          "line": "我不是人？"
         }
       ]
     },
     {
       "type": "action",
-      "description": "跑回大堂"
+      "description": "老邢打嗝"
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "时间紧迫，那就开始吧！"
+          "line": "又喝了多少？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "杨蕙兰",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "那就承让了。"
+          "line": "不多，把这个给我打满了。"
         }
       ]
     },
     {
-      "type": "action",
-      "description": "双手拔刀，刀竟是断的"
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咦，全喝完了？"
+        }
+      ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "邢育森",
       "performances": [
+        {
+          "type": "line",
+          "line": "那啥，为了百姓，为了……百姓……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自己喝就算了，还带着小六喝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是他师父，我不带他谁带他呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看看你看看，这还象个捕快的样子吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他不象，你象啊？你别说，你还真地有点象个女捕快。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴 ~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许你说我师父 ！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说他啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我师父有醉拳，醉拳"
+        },
         {
           "type": "speaker-action",
-          "description": "哈哈哈哈，哈哈哈哈，哈哈哈哈…"
+          "description": "斜斜晃晃中，倒在地上"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，扶起来，快扶起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "醉拳，醉拳没打，醉拳，无招胜有招……"
         }
       ]
     },
     {
       "type": "action",
-      "description": "老白躲在客栈门后，皱眉"
+      "description": "外面叫：救命啊，抢劫"
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "排山倒海！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊！"
+          "line": "有人抢劫——有人抢劫了！"
         }
       ]
     },
     {
       "type": "action",
-      "description": "黑屏，过了许久"
-    },
-    {
-      "type": "dialog",
-      "speaker": "杨蕙兰",
-      "performances": [
-        {
-          "type": "line",
-          "line": "公子武功好棒啊，奴家从此便是你的人了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "啊？"
-        }
-      ]
+      "description": "拔刀冲出门外"
     }
   ]
 }

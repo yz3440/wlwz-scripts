@@ -6,120 +6,206 @@
   "context": "",
   "performances": [
     {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我错了，我真的错了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你错哪儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还知道回来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我咋不知道回来呢？我把她送上船，我就回来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她咋这么快就让你回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我把她送上船以后啊，跟船夫讨价还价。好不容易从五两银子讨到了二两，哎，她朝我冲过来，把我臭骂一顿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "骂你啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白郎，我平日里待你不薄，你为何这样待我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋待她了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也纳闷呢，她说你就这样把我给卖了？难道我就值这区区二两银子？话还没说完呢，就打开了百宝箱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后就，怒沉了一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "全沉了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "总共也没几样，就面上一层，下面都是些散碎银两。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "沉完了之后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她就回扬州了，估计这会儿已经出西凉河了。"
+        }
+      ]
+    },
+    {
       "type": "action",
-      "description": "秀才化妆成书童从门帘进"
+      "description": "十娘入"
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "妈呀！小贝长大了？！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "秀才走到柜台后，一扬头，白和郭都站在楼梯那盯着他看"
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "怎么样？我看起来不会太老吧？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂，郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "挺……嫩的。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这有掌柜的镜子，你自己照一下。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "子啊，这是谁呀？！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "妖精。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "拿走拿走！那不是我！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这确实不是你——掌柜的请看！这位是金童，这位是玉女，万事具备，就差一观音了！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你说谁呢你？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "瞧，观音发话了，咱闪远点吧！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "嫂子，你看他呀！"
+          "line": "还没有。"
         }
       ]
     },
@@ -129,7 +215,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "我看着呢嘛……"
+          "line": "你的嗓子咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "受凉了，没得十天半个月好不了。"
         }
       ]
     },
@@ -139,7 +235,57 @@
       "performances": [
         {
           "type": "line",
-          "line": "你看我干啥呀？！"
+          "line": "怎么回事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我被他们赶下船了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没得钱付船费。白公子，对不起哦，船夫他们都跟我讲了，是我错怪你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道错就好，你以后打算怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我还是要麻烦你。"
         }
       ]
     },
@@ -149,185 +295,21 @@
       "performances": [
         {
           "type": "line",
-          "line": "不要紧张啊！我琢磨着，这丫鬟也有了，书童也有了，那保镖是不是也应该有一个呀？"
+          "line": "他没有空。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "十娘",
       "performances": [
-        {
-          "type": "line",
-          "line": "哎，得有得有！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "对对对！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "",
-      "performances": [
-        {
-          "type": "line",
-          "line": "！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这一路上是千难万险，是妖孽横行呀，没有一个贴身保镖成何体统呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "肯定要有。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我又不是唐僧，用不着保镖！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "瞧瞧！正主都发话了，再说了，从咱店到书院总共才两里多地儿。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哎～路是不算远，但是这一路上要经过多少的商家，多少的住户——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "说不定哪儿就杀出个程咬金来！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "一般小毛贼是她对手吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "小毛贼不可怕，就怕遇到绝顶高手妖魔鬼怪什么的……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "就为了跟一个丫头片子过不去？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你到底干还是不干？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不干！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我到衙门去聊聊展堂的光辉历史啊……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喂！"
-        },
         {
           "type": "speaker-action",
-          "description": "挤出笑脸"
+          "description": "白公子"
         },
         {
           "type": "line",
-          "line": "不就是保镖吗…行！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "打扮的酷一点啊。"
+          "line": "你自己回去吧。"
         }
       ]
     },
@@ -337,7 +319,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "嗯。"
+          "line": "最近我一直在思考一个问题，如果当年杜十娘没有怒沉百宝箱，那她的命运将是如何呢？"
         }
       ]
     },
@@ -347,17 +329,71 @@
       "performances": [
         {
           "type": "line",
-          "line": "妖魔鬼怪怎么对付呀？"
+          "line": "你还不走？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "扈十娘",
       "performances": [
         {
           "type": "line",
-          "line": "明白了……"
+          "line": "一分钱没得，怎么走啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的从柜台取出一百两银子，交与十娘"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些钱够不够？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "十娘",
+          "description": "十娘方欲上手，掌柜的赶紧拿开"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了够了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱可以给，但是你要答应我一个条件。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么条件？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "掌柜",
+          "description": "掌柜耳语"
         }
       ]
     }
