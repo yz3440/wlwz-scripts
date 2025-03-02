@@ -1,0 +1,57 @@
+{
+  "type": "normal",
+  "rawDescription": "【白布景】",
+  "location": "白布景",
+  "timeOfDay": "",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭自己咦呀，咦呀的喊，众人开始一起排练，赛掌柜随场监督"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郎君啊，你是不是饿得慌啊，呀呼咦呼嘿，你要是饿得慌，请你就对湘玉讲，湘玉我给你溜肥肠。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不错不错，就这么练，每个人都得练。练，练，练起来，练起来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "赛掌柜偷偷溜走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真不错，真不错。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郎君啊，你是不是饿得慌啊，呀呼咦呼嘿，你要是饿得慌，请你就对湘玉讲，湘玉我给你溜肥肠。"
+        }
+      ]
+    }
+  ]
+}

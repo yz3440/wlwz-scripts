@@ -1,147 +1,43 @@
 {
   "type": "normal",
-  "rawDescription": "【客栈外，昼】",
-  "location": "客栈外",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
   "timeOfDay": "昼",
   "context": "",
   "performances": [
     {
-      "type": "action",
-      "description": "路人甲过"
-    },
-    {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "怡红楼公关",
       "performances": [
         {
           "type": "line",
-          "line": "站住！"
+          "line": "恭祝怡红楼重新开张，前十名贵客饭资全免！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "小米",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "知道今天啥日子吧？"
+          "line": "开张就开张，当街放炮，就不害怕炸着人。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "路人",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "十六，咋了？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "今儿我开工了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "路人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "开工？然后呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "昨天你不是还给我一文钱吗？拿来吧。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "路人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "凭啥，我欠你的啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你拿来不拿来？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "路人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不给！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你拿来不拿来？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "路人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我就是不给！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你拿来不拿来？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "路人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "抢劫！"
+          "line": "人家有钱呗——有钱也不能那么糟蹋。我现在就出去教训教训他们。"
         }
       ]
     },
     {
       "type": "action",
-      "description": "老邢带着小六匆匆过来，客栈众人也相继出来"
+      "description": "邢捕头入"
     },
     {
       "type": "dialog",
@@ -149,27 +45,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "怎么回事？"
+          "line": "你要教训谁啊，教训谁啊？对门儿刚开张，不许胡闹啊！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "路人",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "他抢劫我！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那是他抢我的钱，再说我骗谁也不敢骗你啊！我就是抢劫，我也不能选个大白天的，对不对？"
+          "line": "你干啥？"
         }
       ]
     },
@@ -179,27 +65,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎，你还真跑，六儿！"
+          "line": "我来借双筷子，对面客人太多，筷子不够使。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "燕小六",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "帮我照顾好我七舅姥爷三外甥的前一个丈母娘 ！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "没那闲功夫！"
+          "line": "筷子不外借，你就拿手抓着吃吧。"
         }
       ]
     },
@@ -207,53 +83,171 @@
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
+        {
+          "type": "line",
+          "line": "用手抓啊？小气儿劲，怪不得生意这么差。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "怡红楼公关",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来啊来啊，每位贵客送汾酒一壶，膏蟹八两，请进，请进。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还是用手抓吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢着，我也有东西要送。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你又没重新开张，你这不瞎胡闹吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭祝同福客栈开张九百二十八天。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "怡红楼公关",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭祝怡红楼重新开张。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭祝皇上登基，七年零八个月吾皇万岁万万岁！——咋不喊了，咋进去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，人家等着你喊赠品。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赠品是吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟耳语"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，这合适吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啥不合适的？快喊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每位贵客送咸鸭蛋两枚，花茶一杯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这也忒少了，真抠门。"
+        },
         {
           "type": "speaker-action",
-          "description": "对路人"
+          "description": "跑向怡红楼"
         },
         {
           "type": "line",
-          "line": "走，跟我到衙门录个口供。"
+          "line": "——哎，膏蟹给我留两只啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "路人",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "不用了吧？就一文钱。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你放心，只要有我在，别说是一文钱，你就是一根头发丝，他都别想抢走。他们都知道的——"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "知道，就这人儿。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        {
-          "type": "line",
-          "line": "为一了方百姓，吃再多的苦，我都不在乎，受再多的罪我总要面对，这就是我，一个普普通通…哎，你别走啊，我话还没说完呢，哎，你走什么，你很可疑啊，哎，你眼神不对，神色不对，哎，你是不是有前科啊，哎，你是不是抢劫犯，你给我站住，你不站住我可拔刀了，我砍了你！"
+          "line": "开会。"
         }
       ]
     }

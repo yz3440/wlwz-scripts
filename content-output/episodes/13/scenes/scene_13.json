@@ -1,124 +1,17 @@
 {
   "type": "normal",
-  "rawDescription": "【客栈门口，昼】",
-  "location": "客栈门口",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
   "timeOfDay": "昼",
   "context": "",
   "performances": [
     {
-      "type": "action",
-      "description": "扈十娘一行人来到客栈前"
-    },
-    {
       "type": "dialog",
-      "speaker": "十娘管家",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "十娘来了啊。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "闻听此言，众人冲出客栈，排成两排"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "一，二，三。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "预备齐。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "欢迎，欢迎。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘管家",
-      "performances": [
-        {
-          "type": "line",
-          "line": "出来个人。"
-        },
-        {
-          "type": "reaction",
-          "reactor": "李大嘴",
-          "description": "大嘴走上前去，边走边说，欢迎欢迎。"
-        },
-        {
-          "type": "line",
-          "line": "趴那儿去吧。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "趴哪儿啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘管家",
-      "performances": [
-        {
-          "type": "line",
-          "line": "轿子头了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "干嘛呀？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘管家",
-      "performances": [
-        {
-          "type": "line",
-          "line": "垫脚啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘丫鬟",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我们十娘有规矩，出门在外脚不沾地。"
+          "line": "老白，老白，这是西街胭脂铺提供的奖品，你记一下。"
         }
       ]
     },
@@ -128,137 +21,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "那背可以吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "可以吗？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "扈扈十娘",
-      "performances": [
-        {
-          "type": "line",
-          "line": "可以。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "手指老白"
-        },
-        {
-          "type": "line",
-          "line": "让他背。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白先是一愣，兴冲冲的赶上前去，背起十娘"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "下来。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "揪着老白的耳朵，转而去搀扶十娘"
-        },
-        {
-          "type": "line",
-          "line": "额扶你进去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我给你泡茶去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘丫鬟",
-      "performances": [
-        {
-          "type": "line",
-          "line": "等等，我们十娘还有些规矩。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "说。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘丫鬟",
-      "performances": [
-        {
-          "type": "line",
-          "line": "隔天摘的菜，不吃。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那荤的呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘丫鬟",
-      "performances": [
-        {
-          "type": "line",
-          "line": "也得是当天宰的，我们十娘只吃牛肉，但这牛不能满月，超一天都不行，另外还有……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "还有？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "十娘丫鬟",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不是露水泡的茶不喝，少于四人抬的轿不乘。"
+          "line": "拿回去，跟他说，咱这是大赛。不是小孩过家家，消失。"
         }
       ]
     },
@@ -268,37 +31,57 @@
       "performances": [
         {
           "type": "line",
-          "line": "你们这轿子不是两个人抬的吗？"
+          "line": "汉源斋的韦掌柜让我问你，文房四宝两套够不够，都是最好的。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "十娘丫鬟",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "你没看见我们家管家一个顶俩吗？另外还有最重要的一点。"
+          "line": "够是够了，但是呢只能有一个鸣谢，如果想在现场立广告牌的话，起码再加三套，立刻消失。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "众人",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "啥呀？"
+          "line": "郝掌柜问，能不能让他独家赞助？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "十娘丫鬟",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "每次吃完饭之后，剩饭剩菜你们千万别倒。"
+          "line": "那看他出多少两银子了，少于二十两，想都别想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二十两。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "马上消失。"
         }
       ]
     },
@@ -308,17 +91,231 @@
       "performances": [
         {
           "type": "line",
-          "line": "这是为啥呀？"
+          "line": "那个钱掌柜让我问你，独家冠名权咋卖？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "十娘丫鬟",
+      "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "十娘最见不得别人糟蹋东西。三天之后我们来接人，倘若有一丁点儿怠慢，就是少了一根头发丝，那五十两银子也得照赔。"
+          "line": "让他跟郝掌柜商量，谁出的价高，冠名权就归谁。立刻马上从我眼前消失。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "消失——呀，老刑啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道我给你带啥来了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "金鸡报晓，一鸣惊人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这谁的字啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娄知县。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太漂亮了这字啊。你看看，这撇，这捺。这字念鸡啊，还念杂呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许亵渎。知足吧你，娄知县听说这件事儿，说你们善心可嘉，要大力支持。连夜派人打过招呼了。否则那些赞助你哪那么好拉啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 罗",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俺的娘诶。这事儿连知县都惊动了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，放心吧，只要把这些鸡都处理掉。爱咋整咋整，走啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢走啊老邢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 罗",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这都一上午了，这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你着啥急啊，那不得先招商，然后再解决鸡的问题吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 罗",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是能坚持啊，那鸡受不了啊。那么多鸡，在那个笼子里憋着呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就，开始报名。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "人涌进来报名"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等会儿，等会儿，干嘛干嘛，砸场子啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "刘掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "买鸡的哪交钱啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧的卖鸡啊，愣着干啥呢。都来了，快点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 罗",
+      "performances": [
+        {
+          "type": "line",
+          "line": "卖鸡啊。"
         }
       ]
     }
