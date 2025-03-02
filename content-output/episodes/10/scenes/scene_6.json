@@ -1,0 +1,255 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，夜】",
+  "location": "客栈外",
+  "timeOfDay": "夜",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "救命啊，有人抢劫！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀下留人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，他好象没拿刀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？那他手里拿的什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿的是我碗啊，啥眼神嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许说我师父！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看我的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那小子，你为啥要抢他的饭碗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他除了这个破碗还有啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那倒也是啊，那你为啥光抢他的饭碗呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，都这个点了街上还有别人吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那倒也是，啊？我不是人呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有事说事，没事边儿呆着去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿过来，拿我的刀来！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老邢甩刀"
+        },
+        {
+          "type": "line",
+          "line": "七侠镇九品缁衣邢育森——邢育森！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "黑衣人上前飞起一脚，将老邢手中刀踢飞"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，我跟你拼了我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "兔崽子，我砍了你！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老邢上去乱揍，黑衣人逃走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢啊，你行啊你，你刚才打得啥拳啊，那是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会是传说中的醉八仙吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还说老邢的武功不行，找个行的来，看老邢不打死他！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真正的武林高手啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么会是这样呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊，你不用回乡下去了，跟你师父继续办案，回家，哈哈哈哈！"
+        }
+      ]
+    }
+  ]
+}

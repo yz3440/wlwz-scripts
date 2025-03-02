@@ -1,130 +1,67 @@
 {
   "type": "normal",
-  "rawDescription": "【女寝，昼】",
-  "location": "女寝",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
-      "type": "action",
-      "description": "小贝屋内小郭和小贝躺着，老白敲门"
-    },
-    {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "哎呀，这么早谁呀，烦死了！"
+          "line": "老邢，咋了这是，来来来！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "谁呀？"
+          "line": "堂堂一个捕快，整天吊儿郎当，正事儿不干，跟个乞丐混在一起 ！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "燕小六",
       "performances": [
         {
           "type": "line",
-          "line": "我，你玉树临风风度翩翩的白大哥。"
+          "line": "我没有，是他先拿板勾我的。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "你找谁？"
+          "line": "一个快板就把你勾去了，是吧？你要这么爱唱，把官服脱了，爱咋唱咋唱，没人管你！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "找你。"
+          "line": "老邢，他还是个孩子。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "燕小六",
       "performances": [
         {
           "type": "line",
-          "line": "我不在！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "那我跟谁说话呢？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "跟小郭姐姐。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我找的就是你！赶紧起床啊，店里马上就要开张了，桌椅板凳还没人收拾呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哦！知道了啦！马上就起！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "赶紧的啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "白大哥找你呢！"
+          "line": "我虚岁都十九了嘛。"
         }
       ]
     },
@@ -134,61 +71,160 @@
       "performances": [
         {
           "type": "line",
-          "line": "他找的明明是你嘛！"
+          "line": "哎呦，你少说两句，人掌柜的帮你说话呐！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你不起算了！回头等白大哥和我嫂子杀进来，我看你咋办。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "爱咋办咋办，有本事让他一指头点死我算了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你说的啊——白大哥！小郭姐姐说让你一指头点死……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "speaker-action",
-          "description": "堵小贝嘴"
+          "description": "抽出小六腰间锁呐"
         },
         {
           "type": "line",
-          "line": "喂，你个小丫头片子点的不是你哈……"
+          "line": "过来，过来！这是什么？啊？你是捕快，还是送亲的？你要那么爱吹，你干脆回老家，好好吹去，好好吹去，啊？让你一次吹个够，吹个够！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "嘿嘿，你终于肯起了啊？"
+          "line": "早知道他这么没出息，当初我就不该把他从乡下带上来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早知道当捕快那么没劲，当初就不该来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我都来了三月了，一个案子还都没办呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想办案？好啊，扎个马步我看看，扎个，看看"
+        },
+        {
+          "type": "reaction",
+          "reactor": "燕小六",
+          "description": "小六扎了个姿式奇特的马步"
+        },
+        {
+          "type": "line",
+          "line": "！你连马步都扎不稳，你还想办案？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扎马步跟办案有嘛关系？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，你也学会跟师傅顶嘴了是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有？在场各位都听到了是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们咋都这个样子呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，小六想办案子是好事情嘛，你应该鼓励。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不咋的，有心总比没心强啊。"
         }
       ]
     },
@@ -198,97 +234,57 @@
       "performances": [
         {
           "type": "line",
-          "line": "谁说的啊？谁爱起谁起，我反正不起。"
+          "line": "是啊，你换个不争气的，见了事就躲，一辈子都带不出来。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "吕秀才",
       "performances": [
         {
           "type": "line",
-          "line": "喂？！"
+          "line": "然也，孙子曾经曰过的，两军相遇勇者胜啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "昨天辛辛苦苦干到半夜，连顿宵夜都没的吃啊……"
+          "line": "好好，很好很好，既然各位都看得起他，那小六就跟你们混了，邢某告辞！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "众人",
       "performances": [
         {
           "type": "line",
-          "line": "你……"
+          "line": "唉唉，邢育森"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "他们个个鼾是鼾，嗝是嗝的，凭什么让我连轴转啊！"
+          "line": "别拉我！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "燕小六",
       "performances": [
         {
           "type": "line",
-          "line": "这话你跟我嫂子说去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "算了，我有这闲功夫啊，还不如舒舒服服地睡个回笼觉呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喂，你……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不许吵我。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你不起我起。"
+          "line": "师傅~~~"
         }
       ]
     }

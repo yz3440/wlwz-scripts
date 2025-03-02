@@ -1,130 +1,111 @@
 {
   "type": "normal",
-  "rawDescription": "【女寝，昼】",
-  "location": "女寝",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇！"
+        }
+      ]
+    },
+    {
       "type": "action",
-      "description": "小贝屋内小郭和小贝躺着，老白敲门"
+      "description": "小贝拎行李摔跤"
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "哎呀，这么早谁呀，烦死了！"
+          "line": "轻点儿！摔坏了东西把你卖了都赔不起！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "姚 晨",
       "performances": [
         {
           "type": "line",
-          "line": "谁呀？"
+          "line": "小心一点儿啊。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "我，你玉树临风风度翩翩的白大哥。"
+          "line": "那有笤帚，把这屋归置归置，找出一根头发丝，你就别想要小费！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "姚 晨",
       "performances": [
         {
           "type": "line",
-          "line": "你找谁？"
+          "line": "快去快去。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "找你。"
+          "line": "达令……"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "姚 晨",
       "performances": [
         {
           "type": "line",
-          "line": "我不在！"
+          "line": "你不要碰我。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "那我跟谁说话呢？"
+          "line": "哟哟，又怎么啦？吃枪药啦？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "姚 晨",
       "performances": [
         {
           "type": "line",
-          "line": "跟小郭姐姐。"
+          "line": "你知道人家跟你在一起，要承受多大的压力呀~"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "我找的就是你！赶紧起床啊，店里马上就要开张了，桌椅板凳还没人收拾呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哦！知道了啦！马上就起！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "赶紧的啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "白大哥找你呢！"
+          "line": "什么压力呀？"
         }
       ]
     },
@@ -134,51 +115,91 @@
       "performances": [
         {
           "type": "line",
-          "line": "他找的明明是你嘛！"
+          "line": "每个人都说我傍大款！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "你不起算了！回头等白大哥和我嫂子杀进来，我看你咋办。"
+          "line": "傍大款怎么了？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "姚 晨",
       "performances": [
         {
           "type": "line",
-          "line": "爱咋办咋办，有本事让他一指头点死我算了。"
+          "line": "那传出去名声有多不好听的呀！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "你说的啊——白大哥！小郭姐姐说让你一指头点死……"
+          "line": "这怕什么，哟哟哟，可人儿，回北京给你换台新车，迷你宝马…"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "姚 晨",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "堵小贝嘴"
+          "type": "line",
+          "line": "我不许你乱花钱，你随便买一辆奔驰小跑就行了呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就喜欢你节约！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对了，你是不是看上那个小演员了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "That's impossible，不可能的，她那个长相，那个气质，长得跟个笑星似的，笑星晓得吧，喜剧演员啊，我怎么会看上她呢？"
         },
         {
+          "type": "speaker-action",
+          "description": "摆酷"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
           "type": "line",
-          "line": "喂，你个小丫头片子点的不是你哈……"
+          "line": "哇，酷！"
         }
       ]
     },
@@ -188,57 +209,37 @@
       "performances": [
         {
           "type": "line",
-          "line": "嘿嘿，你终于肯起了啊？"
+          "line": "什么是笑星啊？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "谁说的啊？谁爱起谁起，我反正不起。"
+          "line": "大人说话小孩别插嘴，一边儿去！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "莫小贝",
+      "speaker": "姚 晨",
       "performances": [
         {
           "type": "line",
-          "line": "喂？！"
+          "line": "哎，小妹妹，快过来，给姐姐做碗汤圆好不好，要豆沙馅儿的，多放芝麻少放糖，姐姐怕胖。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "喻恩泰",
       "performances": [
         {
           "type": "line",
-          "line": "昨天辛辛苦苦干到半夜，连顿宵夜都没的吃啊……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "他们个个鼾是鼾，嗝是嗝的，凭什么让我连轴转啊！"
+          "line": "还不快去！"
         }
       ]
     },
@@ -248,47 +249,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "这话你跟我嫂子说去。"
+          "line": "快去！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "姚 晨",
       "performances": [
         {
           "type": "line",
-          "line": "算了，我有这闲功夫啊，还不如舒舒服服地睡个回笼觉呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喂，你……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不许吵我。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你不起我起。"
+          "line": "不要太凶吗。"
         }
       ]
     }

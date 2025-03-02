@@ -1,0 +1,521 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么才来呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起啊，我这就喂给您吃啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了，烫着啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "烫……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "推小贝，小贝摔"
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "撞着没？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，跟你们老板说，今天晚上不许吃饭！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不吃就不吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟嗬，小孩子挺有个性的，我喜欢的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也喜欢的呀，来来来小妹妹，这个可乐给你润润嗓子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不要。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不喝我可不心疼你了呀，来来来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不要不要，我跟你说了我不要嘛"
+        },
+        {
+          "type": "speaker-action",
+          "description": "将可乐扔出去"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么着？捡回来！赶紧捡回来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了算了，这小妮脾气大。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没念过书都这样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才没念过书呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你念过书啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "写两个字给我看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "写就写！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "写得挺好，还是繁体字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "沙 溢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我天呐，你这书法是跟谁学的啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "闫 妮",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这字儿算好吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "沙 溢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "严正工整，颇有古风，没个十年八年是练不出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "写得再好也是个小碎催！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你再有钱也只是个土大款！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "沙 溢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姑娘，别听她胡说八道啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小妮老实，可能是无心说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "闫 妮",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这孩子吧，就看着老实，其实……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看着跟一笑星似的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "闫 妮",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他说的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "闫 妮",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "沙 溢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她说的话你没听清楚吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，算了算了，大家都是出来玩的吗，开开心心的好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "沙 溢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么样怎么开心呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想怎么样啊你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事啊你？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "开打"
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，这是我上街收集的假古董，别别别，怎么了怎么了，哥儿个……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰、沙溢",
+      "performances": [
+        {
+          "type": "line",
+          "line": "退房！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我，我不是故意的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厨房里谈去！"
+        }
+      ]
+    }
+  ]
+}

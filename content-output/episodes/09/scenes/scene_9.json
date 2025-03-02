@@ -1,20 +1,27 @@
 {
   "type": "normal",
-  "rawDescription": "【女寝，昼】",
+  "rawDescription": "【女寝，夜】",
   "location": "女寝",
-  "timeOfDay": "昼",
+  "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
-      "type": "action",
-      "description": "小贝屋内小郭和小贝躺着，老白敲门"
-    },
-    {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "哎呀，这么早谁呀，烦死了！"
+          "line": "额的神呀，这就是你俩一个下午的成果"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这四只乌龟……"
         }
       ]
     },
@@ -24,17 +31,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "谁呀？"
+          "line": "是忍者龟。"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "窦先生",
       "performances": [
         {
           "type": "line",
-          "line": "我，你玉树临风风度翩翩的白大哥。"
+          "line": "你说。"
         }
       ]
     },
@@ -44,17 +51,127 @@
       "performances": [
         {
           "type": "line",
-          "line": "你找谁？"
+          "line": "第一只呢，它使得是峨嵋刺，在它旁边这一只呢，使得是双刀，再旁边这只呢……"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "找你。"
+          "line": "闭嘴！窦先生，我知道您是一个好先生，但您这种教法，额确实不太明白……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你个问题啊，你说你为啥要让娃学画？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了不要让她输在人生的起跑线上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那起跑线在这儿，那目的地在哪儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额怎么知道，走一步看一步嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然都没有目的地，那设置起跑线还有啥意义吗，我觉得，叫娃学东西可以，但首先要搞清楚为啥要学，咱们为了兴趣，为了陶冶她的情操，那值得鼓励，你如果是为了虚荣，为了跟人家比，那还不如不学呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让孩子学点艺术总是有好处的吧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的神呀，这些泥人还不够艺术？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额的神呀，这就叫艺术？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你仔细看这些泥人，用心看，用心去感受……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "感，感受个啥嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拿手摸，拿手摸，这些乌龟是活的……"
         }
       ]
     },
@@ -64,123 +181,67 @@
       "performances": [
         {
           "type": "line",
-          "line": "我不在！"
+          "line": "是忍者龟！"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "窦先生",
       "performances": [
         {
           "type": "line",
-          "line": "那我跟谁说话呢？"
+          "line": "它们是有生命的呀，小贝用她的心和手，完成了一次杰出的艺术创造！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "艺术？呵，这只还笑着呢，确实挺好玩的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对嘛，不要因为玩儿，咱们就明令禁止，严防死堵，这样会扼杀娃们的想象力和创造力，娃们就是要让玩呢！"
         }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "跟小郭姐姐。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "我找的就是你！赶紧起床啊，店里马上就要开张了，桌椅板凳还没人收拾呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "哦！知道了啦！马上就起！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "赶紧的啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "白大哥找你呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "他找的明明是你嘛！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你不起算了！回头等白大哥和我嫂子杀进来，我看你咋办。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "爱咋办咋办，有本事让他一指头点死我算了。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你说的啊——白大哥！小郭姐姐说让你一指头点死……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "speaker-action",
-          "description": "堵小贝嘴"
+          "description": "鼓掌"
         },
         {
           "type": "line",
-          "line": "喂，你个小丫头片子点的不是你哈……"
+          "line": "对对对！"
         }
       ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "窦先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看见没有，只要有兴趣，每个娃儿都能创造奇迹，所谓你给她们一个机会，她们还你一个惊喜，就是这……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉突然跑出门外"
     },
     {
       "type": "dialog",
@@ -188,107 +249,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "嘿嘿，你终于肯起了啊？"
+          "line": "你上哪儿去？"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "佟湘玉",
       "performances": [
         {
           "type": "line",
-          "line": "谁说的啊？谁爱起谁起，我反正不起。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喂？！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "昨天辛辛苦苦干到半夜，连顿宵夜都没的吃啊……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "他们个个鼾是鼾，嗝是嗝的，凭什么让我连轴转啊！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这话你跟我嫂子说去。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "算了，我有这闲功夫啊，还不如舒舒服服地睡个回笼觉呢！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喂，你……"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "不许吵我。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
-        {
-          "type": "line",
-          "line": "你不起我起。"
+          "line": "挖泥巴！"
         }
       ]
     }
