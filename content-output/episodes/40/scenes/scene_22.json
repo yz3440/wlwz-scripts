@@ -1,0 +1,170 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "回到现实"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本次中秋赏月会结束——之前，我想对大家说，即使没有那些如果，我的生活也很充实很快乐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，回你嫂子回去，喝高了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，我能认识你，你，你，还有你。是我的荣幸，你们呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "荣幸，荣幸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈，那你们还苦着脸干什么？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人开怀大笑，背景音乐《明月几时有》"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就对了。生活中有很多的不如意，如果一不开心，就寄希望于如果当初，那你永远都不会开心。"
+        },
+        {
+          "type": "line",
+          "line": "趁着开心，我给大家赋诗一首。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "幻景再美终是梦，珍惜眼前始为真。怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就两句呀？还不及我呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "剩下两句你们来做。得带月亮的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝来吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫使金樽空对月。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你作的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然了，听好了下一句是，吃了上顿没下顿。——开玩笑开玩笑，最后一句，听好了啊。举杯幸会有缘人。干杯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干杯！中秋快乐！"
+        }
+      ]
+    }
+  ]
+}

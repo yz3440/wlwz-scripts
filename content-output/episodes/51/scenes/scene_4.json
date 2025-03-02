@@ -1,0 +1,514 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，嘘嘘，秀才，小六不在吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不在！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你手里拿的什么啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耗子药，嘿，这么大一大包呢，别说猫了，老虎也给它放倒了！嘿嘿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你真忍心下得了毒手啊？猫咪很无辜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这话你留着跟耗子说去吧，哼。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "楼上大声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出去！你给我出去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "捂着鼻子"
+        },
+        {
+          "type": "line",
+          "line": "是你自己非问的……妈呀！哎呀，你俩在这儿聊着呐……哎呀，你看看，一不小心撞门上了，有点酸，但不是很疼。呵呵呵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟哟哟哟，能把鼻子撞得哄而不肿，酸而不疼，不愧是传说中的盗圣。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！你先管好你的熊猫眼儿吧，免得出去了让人当国宝给逮喽，呵呵呵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，谢谢关心啊，红鼻子盗圣。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是应该的，四眼书生。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行行……别吵啦，这叫身在福中不知福。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想啊，被自己所喜欢的人争风吃醋大打出手，那是一件多么幸福的事儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也不能动不动就打人吧？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭从后院入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……说，你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉……好，就算她是好意啊，她不能老是这样啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭站在秀才身后"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……其实我觉得小郭这人挺好的是吧，又实诚，又仗义。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没说她不好，可她凶起来……人无双就从来不发脾气。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双那是蔫儿坏，看起来老实，其实人品一塌糊涂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，你说，哪有小郭那么大气上档次啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我怎么就没看出来呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是无双的师兄，她那点破事儿，她那点小九九我能不知道吗？怎么跟人小郭比呀，那么大方那么有层次！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，你说我俩还曾经共过事，我跟你说，无双简而言之就用一句话就可以表达了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她不是个东西！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说无双不是东西了？她就是个好姑娘！又贤惠又善良而且她特别有爱心，处处保护小动物，你再说那郭芙蓉，小郭，动不动就动手，一着急就上火！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "做打人状"
+        },
+        {
+          "type": "line",
+          "line": "啪！啪！扑哧……A 型 B 型 O型 AB 型都有……太血腥啦！这个世界暴力太多了！我们就是要反对暴力，我们这个戏的主题就是要反对暴力，可她处处施暴！我现在一想到她我就感到毛骨悚然，我甚至就感觉她就站在我的身后。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "回头看到小郭"
+        },
+        {
+          "type": "line",
+          "line": "看见没？……你们是看不见的，我已经出现幻觉了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们看见了，不是幻觉，是真的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "吕秀才摸了一下郭芙蓉，吓到桌子下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀呀，你要干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别害怕，这是用来对付采花贼的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，芙妹呀，太狠了——不狠点儿他没有记性！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，不狠不足以平民愤！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心吧，以后我再也不会对你动手动脚的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的，你赶紧去找你那既贤惠又能干而且还特有爱心的无双去吧，那只猫你也不用杀了，以后啊你就搂着它睡好了，啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "歌屋恩！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "\"歌屋恩\"……什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，\"滚\"。我滚、我滚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "注意吐字规音，我说的是\"滚\"！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我试试啊。……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才趴在地上滚到后院"
+    }
+  ]
+}

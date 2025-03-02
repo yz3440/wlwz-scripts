@@ -1,0 +1,176 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看一下，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "木板上书：爱七同香玉之木"
+        },
+        {
+          "type": "line",
+          "line": "唉～怎么写得这么别扭啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是你心里边儿别扭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，算了，就这么着吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那……赶快把她埋了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，我忽然不想埋了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那太好了，哈哈，那我们赶紧走吧，哈哈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "佟湘玉惊"
+        },
+        {
+          "type": "line",
+          "line": "不是，我想把她火葬。我想过了，就这么扔下她对她来说不公平，我要带着她的骨灰进京城，让她跟着我，享受荣华富贵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你对她真是一片深情啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有办法呀！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "这就是爱，说也说不清楚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "这就是爱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "两人合",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "它糊里又糊涂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知己呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知音呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶快架火堆吧。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴跑到后院，无双正在打水"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干吗呀？急急忙忙的，谁追你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没谁追我咱屋里谈去，屋里谈去啊。"
+        }
+      ]
+    }
+  ]
+}

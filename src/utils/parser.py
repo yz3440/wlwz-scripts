@@ -143,3 +143,104 @@ def find_missing_parts(parsed_text: str, original_text: str):
             missing_parts.append(part)
 
     return missing_parts
+
+
+import json
+import jsonschema
+from jsonschema import validate
+
+# Define the JSON schema based on the provided example
+scene_script_schema = {
+    "type": "object",
+    "required": ["type", "rawDescription", "location", "timeOfDay", "performances"],
+    "properties": {
+        "type": {"type": "string", "enum": ["normal"]},
+        "rawDescription": {"type": "string"},
+        "location": {"type": "string"},
+        "timeOfDay": {"type": "string"},
+        "performances": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "oneOf": [
+                    {
+                        "type": "object",
+                        "required": ["type", "description"],
+                        "properties": {
+                            "type": {"type": "string", "enum": ["action"]},
+                            "description": {"type": "string"},
+                        },
+                        "additionalProperties": False,
+                    },
+                    {
+                        "type": "object",
+                        "required": ["type", "speaker", "performances"],
+                        "properties": {
+                            "type": {"type": "string", "enum": ["dialog"]},
+                            "speaker": {"type": "string"},
+                            "performances": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "oneOf": [
+                                        {
+                                            "type": "object",
+                                            "required": ["type", "line"],
+                                            "properties": {
+                                                "type": {
+                                                    "type": "string",
+                                                    "enum": ["line"],
+                                                },
+                                                "line": {"type": "string"},
+                                            },
+                                            "additionalProperties": False,
+                                        },
+                                        {
+                                            "type": "object",
+                                            "required": ["type", "description"],
+                                            "properties": {
+                                                "type": {
+                                                    "type": "string",
+                                                    "enum": ["speaker-action"],
+                                                },
+                                                "description": {"type": "string"},
+                                            },
+                                            "additionalProperties": False,
+                                        },
+                                    ],
+                                },
+                                "minItems": 1,
+                            },
+                        },
+                        "additionalProperties": False,
+                    },
+                ],
+            },
+            "minItems": 1,
+        },
+    },
+    "additionalProperties": False,
+}
+
+
+def validate_scene_script_json(json_data: dict | str) -> bool:
+    """
+    Validate the provided JSON data against the screenplay schema.
+
+    Args:
+        json_data (dict or str): JSON data to validate, either as a Python dict or JSON string
+
+    Returns:
+        bool: True if validation succeeds
+
+    Raises:
+        jsonschema.exceptions.ValidationError: If validation fails
+        json.JSONDecodeError: If json_data is a string and not valid JSON
+    """
+    # If input is a string, parse it as JSON
+    if isinstance(json_data, str):
+        json_data = json.loads(json_data)
+
+    # Validate against the schema
+    validate(instance=json_data, schema=scene_script_schema)
+    return True

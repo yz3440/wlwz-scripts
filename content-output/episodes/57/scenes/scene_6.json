@@ -1,0 +1,336 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的溜达来溜达去，无双和小六在旁边等着，意思像是要开审"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "边踱步边说"
+        },
+        {
+          "type": "line",
+          "line": "阴谋，这绝对是个阴谋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就算是个阴谋，问题是他图啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道，要光是为了请两天假，这动静也太大了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你确定他真得疯了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定。真的，你没有看见刚才那一幕啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得未必，正所谓谎言重复千遍就是真理啊。这李大嘴一开始是想蒙咱们，可蒙着蒙着就把自己蒙进去了。世上有这种人啊，说着说着把自己的谎当成真的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可是李大嘴。你这样我信，他那样的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有没有可能是吃了某种药呢？江湖上有没有那种让人一吃就犯糊涂的药啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了吧，有那种好药谁给他吃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是嘛，他一个厨子，啥背景也没有，人家图他啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍桌子，把众人吓了一跳，自己还手疼"
+        },
+        {
+          "type": "line",
+          "line": "图嘛先别管，既然是吃药，那就是投毒啦。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "兴奋"
+        },
+        {
+          "type": "line",
+          "line": "哈哈哈，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "跑到门口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，小六终于等到大案子啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉回小六"
+        },
+        {
+          "type": "line",
+          "line": "喂喂喂，人家只是假设，又没有真的吃药。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我不管，反正现在是非常时期，所有店内一切事宜，由我安排。店内相关人等，归我调配。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拔刀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮我照顾好我七舅姥爷！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "食客跑了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，已经够乱的了，你就别再添乱了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就别闹了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，赶紧到各家里收银子去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才要出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿刀"
+        },
+        {
+          "type": "line",
+          "line": "谁也不许去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，刀刀刀。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抢下小六的刀"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掏出烟袋锅"
+        },
+        {
+          "type": "line",
+          "line": "依照本捕头的观点，所有犯罪可以归结到以下六个字上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪六个字啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "边吸烟袋锅边说"
+        },
+        {
+          "type": "line",
+          "line": "时间地点以及人物。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不八个字吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小六怒目而视"
+        },
+        {
+          "type": "line",
+          "line": "——你说你接着说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "努力的吸烟袋锅"
+        },
+        {
+          "type": "line",
+          "line": "这个地方说话不太方便，咱们换个僻静的地方再说。无双，拿着刀，押着他们，走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊走走走。"
+        }
+      ]
+    }
+  ]
+}

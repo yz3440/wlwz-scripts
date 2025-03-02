@@ -1,0 +1,226 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，这回可热闹了，这事儿啊，爱谁包谁包吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事儿咋办呀，咋办呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的掌柜的，先别着急，子曾经曰过，君子喻于义，小人喻于利……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "怒"
+        },
+        {
+          "type": "line",
+          "line": "啥意思吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六也不是不讲理的人，就算是不讲理，咱们还有银子嘛？银子都不管用的话，那就只能请芙妹定夺了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要您一句话，这事就包我身上了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你打算怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然被逼到这个份儿上，那就一不做二不休。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用手比量"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家是个捕快呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捕快怎么了？咱这是被逼无奈，狗急也得跳墙啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就好好跳嘛，咬人干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁咬人啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不咬人，啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给他弄碗迷魂汤啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢哟——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你们以为我要掐死他呀？拜托有没有搞错，人家是捕快呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，各自准备，随时开战。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，弄碗汤去。"
+        }
+      ]
+    }
+  ]
+}

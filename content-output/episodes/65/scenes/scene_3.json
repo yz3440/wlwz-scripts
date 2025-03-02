@@ -1,0 +1,236 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "切回现实"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对观众"
+        },
+        {
+          "type": "line",
+          "line": "哎！对对对！其实啊，装病挺好。你看啊，不用干活，还有人伺候，想睡就睡，想吃就吃，想不吃就不吃！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉在喂老白吃饭，老白转头对湘玉"
+        },
+        {
+          "type": "line",
+          "line": "不吃了啊，我不吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么能行呢？人是铁饭是钢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "喂饭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "躲"
+        },
+        {
+          "type": "line",
+          "line": "我头晕想吐，越吃越想吐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，但是你老不吃也不是个事情嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我现在就想吃点酸的。嘴里发苦，哎，你给我摘俩杏去啊。那个皮啊，要越薄越好，色要越黄越好。你去啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉端着饭出"
+    },
+    {
+      "type": "action",
+      "description": "老白拿过瓜子开始嗑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，老白，吃瓜子呢，好些了吧啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "头晕，想吐，就像吃点酸的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟哟哟，反应还挺强烈的哟！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那么硬的墙你拿脑袋磕一下试试？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有毛病啊？拿脑袋撞墙玩？头晕就别吃瓜子了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你有关系吗？有事说事，没事走人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，抠门的样子！当然有事了，店里那么多活呢。你打算躺到什么时候啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "躺到我不晕为止。大夫说了，少则一个月，多则半年。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是一般人儿。你是谁啊，你会武功。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "会武功就得遭歧视啊？会武功就不能有脆弱的时候？妈呀，头又晕了，等会儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等等等，不光晕还失忆了。对了，你叫啥来着？哎呀妈呀，咋想不起来了呢？哎不行，一动脑子就头晕，就想吐，就想吃点酸的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小郭"
+        },
+        {
+          "type": "line",
+          "line": "同学啊，给我催一下杏呗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "装吐，郭芙蓉出"
+        },
+        {
+          "type": "line",
+          "line": "头晕呢。"
+        }
+      ]
+    }
+  ]
+}

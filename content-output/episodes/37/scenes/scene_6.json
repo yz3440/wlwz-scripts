@@ -1,0 +1,66 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哼唱"
+        },
+        {
+          "type": "line",
+          "line": "春季到来绿满窗，大姑娘窗下绣鸳鸯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，绣的是鸳鸯啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁告诉你的？——干什么，想偷题啊。走开，走开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，谁稀得看呐！无双，好好绣啊，千万别给师兄丢脸。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭拿玉米棒子丢老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有杀气！"
+        }
+      ]
+    }
+  ]
+}

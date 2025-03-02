@@ -1,0 +1,36 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "湘玉房间，佟白二人正准备亲亲"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你等一下，我下去看一看，马上就回马上就回来，等我一下啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一拍床"
+        },
+        {
+          "type": "line",
+          "line": "天呐！"
+        }
+      ]
+    }
+  ]
+}

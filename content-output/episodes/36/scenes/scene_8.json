@@ -1,0 +1,314 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们干什么啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们错了，我们对不起你，我们再也不敢了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，加点柴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就赶紧松开我啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要是原谅我们，我们就把你松开。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我原谅你们啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿出一张纸"
+        },
+        {
+          "type": "line",
+          "line": "那就把这个字签了。这是我起草的，谅解备忘录，签字吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，还敢跟我谈条件啦？我行走江湖这么多年，从来没有人要挟过我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就真得请你原谅了。——掌柜的，送上来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿烙铁"
+        },
+        {
+          "type": "line",
+          "line": "小心小心！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "签不签随你。烫不烫随我。我数三个数。一，二，三……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "烫死我了，我今天要是叫声痛，我就不是六扇门的人！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人商议"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放着我来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿烙铁"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，今天你要是不签，我——我就烫死我自己。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，您请便了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "求求你了，放过他们吧，他们都是无辜的，您要抓抓我一个人好不好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂！老白！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，本身我也没想捉他们啦，而且我还可以放你们一条生路，只要你们答应我一个条件。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么条件，你只管提。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是找到我的狗（九）师妹，郭芙蓉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "狗师妹？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "九师妹，他们不分九和狗嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭呀，她早就回去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上个月初十，她一高兴又离家出走了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹！她不会有什么事吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有些人看上去好激动好紧张哦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "经过我们紧急讨论，我们一致认为，她肯定会再回到你们这里来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能吧？我这有这么好？她好不容易脱身了，绝对不可能再回来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人呐，人呐……都死到哪里去了……"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "桌上摆着四盘菜，老白向菜中下药"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是干啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蒙汗药。先把他撂倒再说。他万一想起来啥，咱就全完了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你从哪弄来的蒙汗药？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三年前剩的。就是他的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那要不管用怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不管用就只能豁出去了！让老邢跟他拼命。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟谁拼命？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姬无命。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他出现了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有，没有。我们这不等着呢么？等着喝你的升职酒啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就先别急着喝，先弄点吃的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，老邢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了？怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是客人点的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你再烧一个嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行，不行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛？舍命保你们平安，吃点都不行啊？不像话。干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少吃点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抠门儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自从入了丐帮，吃没吃像，不够雅是吧？"
+        }
+      ]
+    }
+  ]
+}

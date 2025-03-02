@@ -1,0 +1,102 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大家在包饺子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "伙计们呀，包了多少个了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一百多个吧，再有半个时辰就差不多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，等额出去买幅春联回来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不叫我写啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的字太干太瘦，不够喜庆，回头清明节的时候你来写啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你别忘了买两挂鞭炮回来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，还有那个烟花和二踢脚越多越好啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等着，一会儿就回来了。"
+        }
+      ]
+    }
+  ]
+}

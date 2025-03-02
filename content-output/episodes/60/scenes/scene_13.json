@@ -1,0 +1,238 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天生我材必有用……师姐说得对，我这样的人活着有啥意思。连自己的主张都说不清楚！我跟废物有什么两样！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "南宫趴在桌子上哭，众人从后院进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "南宫，南宫？你怎么哭了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师姐说，天生我才必有用，而我是个特例……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她为啥这么说你呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她让我做真情报告会，那又不是我的强项，客人都是冲着果盘来的，走了也不能怨我呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不怨你，事到如今，咱们再也不能这么纵容她了，走！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "要上楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别去，师姐好不容易苏醒过来，还没有完全恢复好呢，她也是没有办法，再说她又补了千年人参，把元气都补乱了，所以情绪激动也是正常的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "再怎么激动也不能这么折腾我们吧？啊，你说我都成啥了，我都成入室劫匪了我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你再看看我这个腰，扫地扫的都直不起来了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这胳膊，这脖子，抓一道道红的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我都好几天没有上学了，再这么下去，免不了又是一顿手板。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说，不能再这么下去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "$%%@#$$%&*&……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "乱成一团"
+    },
+    {
+      "type": "action",
+      "description": "南宫无奈，开始吹笛，众人齐刷刷地堵耳朵"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好了，别吹了，难听死了。这样，现在就上去，该说什么说什么。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都说啊，说不说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说啊，我第一个说，谁也别跟我抢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁不说谁小狗！"
+        }
+      ]
+    }
+  ]
+}

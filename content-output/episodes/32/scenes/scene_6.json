@@ -1,0 +1,282 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以前，我给先皇拌凉菜的时候，这黄瓜得拍碎了再送过去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您要是先皇啊，我也拍。得了，您留神您那腰吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想当初啊，我给先皇磨豆浆的时候，那是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个人就磨了一大船豆子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你说过了啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就三万多遍吧，光今儿上午就说了七八回，您也不嫌累得慌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就说这人呐，一辈子有多少故事可以记住啊，得了，记住一件是一件。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您怎么突然想住这儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您说咱们头前碰见那个胖厨子，我有一种预感啊，就是我要找的那个人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不能吧，他那人一瞧脑子就不好使。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别看他傻乎乎的，有点我当年的风采。再说了，这人不能光看脑子，碰到我这样好的师傅，保证把他给锻炼出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您不是真想收他为徒吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就看他的天分和机缘了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是您走遍大江南北见过那么多名厨，怎么偏偏就瞧上他了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他敬业呀，你没听他说吗，谁不让他做饭他跟谁急。就这种拼命三郎的精神，谁有啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "话倒是不假，可是不知道手艺怎么样啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂敲门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请进。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二位聊着呢，刚出过的菜，二位慢用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们没叫菜啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "……这是送的，头天住到本店，都免费送一顿晚餐，这是本店的规矩。二位慢用，有事招呼啊。承让，承让。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快尝尝。怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的妈呀，这叫青椒肉丝吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "问你，好吃不好吃？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这么跟您说吧，您看我跟您这些年，纵不是吃遍大江南北，多少也见过那么点世面吧，可是这道菜，您还是自己尝尝吧。——又怎么啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想当初，我给先皇品菜的时候，用的全是银筷子啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我还给您买银筷子去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，菜啊，回头再尝。人我倒要考察考察，再做决定。"
+        }
+      ]
+    }
+  ]
+}

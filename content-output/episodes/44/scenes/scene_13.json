@@ -1,0 +1,360 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，多喝一点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "善哉，善哉。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕，一柱香的功夫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惨叫"
+        },
+        {
+          "type": "line",
+          "line": "啊，啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白三娘进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗬，这么快就搞定了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是甭看了，血哩呼啦的，看了吃不下饭，这两条贱命啊就算我头上了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三妹，那就辛苦你了，诸位慢慢聊啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎你上哪儿去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找吕先生开开窍儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你叫我啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说姐，你真的把他俩给放翻啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么可能呢，我娘是钩子，又称密使。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他俩回去搬救兵去了，最快今晚，最迟明晚，大队人马就到了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘啊，到底是今晚还是明晚啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那得看运气了，一般捕快，肯定不行。所以我让他们到广阳府去，至少得找个四五个高手。那只能有三成胜算。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？只有三成啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是保守估计。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不保守估计呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不到一成。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？那叫他们来干啥呀？自己把自己拍死得了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，全看你的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "公孙的武功，你们不是没看着，那杀人就是弹指一瞬间。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这咋办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的神呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他就是没练过龟壳神功，我还能对付得了，不过现在……就只能走一步看一步了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，那秀才咋办呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "希望他福大命大，能撑过这一关。你们俩也要多保重。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你说咱们这次能逃过一劫吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凶多吉少。湘玉，如果万一撑不过去了，我希望……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "希望啥，说呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到时候再说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我好悔呀，我当初就不应该嫁过来，如果不嫁过来我的夫君也不会死，如果我的夫君不死，我也不会沦落到这么一个伤心的地方……"
+        }
+      ]
+    }
+  ]
+}

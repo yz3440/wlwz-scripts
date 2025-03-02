@@ -1,0 +1,270 @@
+{
+  "type": "normal",
+  "rawDescription": "【厨房，昼】",
+  "location": "厨房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就来！怎么样，准备好了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "照着念就行了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是念，是散播，散播真情散播爱，用你的热情去感染他们，用你的诚恳去打动他们，去吧去吧，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "推"
+        },
+        {
+          "type": "line",
+          "line": "大家等着你呢"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "南宫紧张地回到大堂，坐下，咳嗽一声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看时光飞驰我，回首从前曾，经是莽撞，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "胡乱断句，掌柜失望"
+        },
+        {
+          "type": "line",
+          "line": "少年曾经度，日如年……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "观众甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "鼓掌"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是如此，平凡却，又如此幸，运我要说，声谢谢你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "观众甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说得好，比唱得还好听，可以上果盘了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "果盘？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "观众甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是说听完报告一人发一果盘吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对南宫"
+        },
+        {
+          "type": "line",
+          "line": "没有事，你接着讲啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对客人"
+        },
+        {
+          "type": "line",
+          "line": "不要着急，听完就上啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把握生命里，的每一分钟，全力以，赴我们心中，的梦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "观众甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们的梦就是果盘，再不上我们可撤了啊。还剩多少，你干脆一口气念完得了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还剩……七八五十六页。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "观众甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不听了，不听了，为了果盘还不够累的呢，走走走。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人散"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没完呢，小孟，小齐，不要着急嘛，哎呀……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人都走光了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说了，让你不要念，你你的真心去散播真情，这叫散播吗？多好的演讲稿，我对你太失望了，白白给我浪费了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就说这不是我的强项嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，那你的强项是什么呀？我觉得有句话说得特别好，叫天生我才必有用，一个人活在世上总有他的价值，但是你好象是个例外。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "大受打击"
+        },
+        {
+          "type": "line",
+          "line": "你这话什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思？你自己琢磨去吧，给你找来了这么多的人，要知道我自己上了。"
+        }
+      ]
+    }
+  ]
+}

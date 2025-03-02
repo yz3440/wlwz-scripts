@@ -1,0 +1,22 @@
+{
+  "type": "normal",
+  "rawDescription": "【门外，昼】",
+  "location": "门外",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜怒欲进，祝无双点住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你先别急，捉奸要捉双，现在还不是时候。他要是真敢对不起你，我亲手砍了他。"
+        }
+      ]
+    }
+  ]
+}

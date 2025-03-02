@@ -1,0 +1,348 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，夜】",
+  "location": "女寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "难以置信"
+        },
+        {
+          "type": "line",
+          "line": "脑浆子，脑浆子，惨不忍睹……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边喊边往出跑"
+        },
+        {
+          "type": "line",
+          "line": "候哥侯哥"
+        },
+        {
+          "type": "speaker-action",
+          "description": "迎上了进来的佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，你咋了？你脸色咋怎么难看的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭着说"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的你们为什么要瞒着我呀，为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞒你啥了，你说啥呀，我咋一句也听不懂？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝都听到了，掌柜的，我该怎么办？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭着趴到佟湘玉身上"
+        },
+        {
+          "type": "line",
+          "line": "我该怎么办，掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍着郭芙蓉的后背"
+        },
+        {
+          "type": "line",
+          "line": "小郭想哭就哭出来吧，哭出来就好了，我跟你说啊，女人这一生呀，注定是要经受这些考验的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭着"
+        },
+        {
+          "type": "line",
+          "line": "那凭什么要我一个人经受，我跟她好不容易才走到现在，刚消停没两天，又来了，他怎么也不替我想一想，他这样我该怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "义正词严"
+        },
+        {
+          "type": "line",
+          "line": "看来只能带回来严加管教，以观后效啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "伤心"
+        },
+        {
+          "type": "line",
+          "line": "命都没了，还观什么后效！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "奇怪"
+        },
+        {
+          "type": "line",
+          "line": "命？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头看莫小贝"
+        },
+        {
+          "type": "line",
+          "line": "小郭，你千万不要冲动啊，秀才也是一时糊涂啊，你要给他一个改正的机会啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给他有什么用，我又不是衙门？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衙门？你不会是想去告他吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告他干什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭你听我说啊，逛青楼虽然不是一件好事情，但是也不是无药可救，你可不能破釜沉舟啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "奇怪，擦眼泪"
+        },
+        {
+          "type": "line",
+          "line": "等会儿等会儿，什么逛青楼，什么意思呀，你是说他是在青楼里杀的人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说他杀人了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是杀人？难不成是自杀？跟一个青楼女子酒后殉情？天哪！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又哭倒在佟湘玉肩上"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "推开"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，什么乱七八糟的，秀才就是在青楼里玩了两天，都好好的，我发誓！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看莫小贝，生气的喊"
+        },
+        {
+          "type": "line",
+          "line": "莫小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "害怕的躲在柱子后面"
+        },
+        {
+          "type": "line",
+          "line": "我亲耳听见的，出了人命，惨不忍睹，脑浆子都打出来了……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "1071"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去去，你东一耳朵西一耳朵的，这么小的娃还学会传闲话了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转头对郭芙蓉"
+        },
+        {
+          "type": "line",
+          "line": "小郭，你千万不要听她的啊，秀才活得好好的，就是那个生活作风不太检点，我保证，等他回来，咱们一定好好批评他啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摇头"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，你不用劝我，我现在心情非常的好，非常十分极其以及特别的好。哼，既然他没有出人命……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就按照原定计划，等他回来好好教训他啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "点头冷笑"
+        },
+        {
+          "type": "line",
+          "line": "好，就按你说的办，哼，先把他弄回来再说，哼！"
+        }
+      ]
+    }
+  ]
+}

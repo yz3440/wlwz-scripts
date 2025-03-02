@@ -1,0 +1,496 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "一只螃蟹放在盘子里，五双手一起身上去抢"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找点呢你们？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别吵了行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我排你了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟！就为了一只蟹，至于吗？真是的。老白，你吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭什么给他吃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白平时工作忙进忙出的，辛苦的很。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也辛苦，我煮蟹把手都烫红了，你看……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，统计选票，谁得的票多谁吃，举手——不许投自己。展堂，我投你，你投谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还能有谁呀？当然是大嘴了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你为啥投他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家大嘴辛辛苦苦煮的蟹，自己才吃二十几只，容易吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥也不说了，老白我投你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我投小郭，双手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "加上双脚也只能算一票，小郭？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？我投秀才。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还有其他的选择吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，统计选票。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用统计了，谢谢啊，谢谢大家，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指大嘴"
+        },
+        {
+          "type": "line",
+          "line": "尤其要谢谢你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱俩谁跟谁呀，老白，那腿你不吃就给我得了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你都吃二十几只了，你好意思呢你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃吃吃，你使劲吃啊，早晚吃食物中毒了你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，中毒也比有些人中不着毒强啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "你好毒，你好毒，你好毒毒毒……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，干活去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要挡着了，没见人家干活。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不要我帮你忙啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，好啊，那你帮我把这桌子的边边角角都擦干净，哪都别落下啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢你啊。小六，小六，你怎么这个时候来呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给你们掌柜的送点东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六啊，啥东西？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娄知县从广东老家带回来的，让我连夜送过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，那怎么敢当？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你们该得的，咱们镇的商户，只要纳税到了一定数目，那都有这个，拿着，拿着吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也算是奖励吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算吧，东西你们先收着，我还得送下一家，告辞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢小六啊，有空过来喝茶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好嘞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你路上小心点啊，人家很担心了啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用理他，不用理他，打开看看嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "活干完了没有你就看？干活去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扎手"
+        },
+        {
+          "type": "line",
+          "line": "呀！这是个啥嘛？"
+        }
+      ]
+    }
+  ]
+}

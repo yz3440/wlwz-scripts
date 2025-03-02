@@ -1,0 +1,382 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人读小贝留言"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "\"我走了，别来找我，莫小贝\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，她为什么要离家出走呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，说你是妖孽，你能愿意啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生也是的，为啥当她面儿说呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "背着也不能说啊。咱大伙知道就行了，以后离她远点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她要真的克咱们怎么办啊？——我也不是不是故意在背后嚼人舌头啊。她要万一真是妖孽呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要说是妖孽，就是孙悟空，你们也要把她给我找回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，这么晚了，又不知道小贝去哪了，上哪儿找啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，是啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有了，有了。咱找先生算一下，不就知道小贝去哪儿了吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么晚了，还没睡啊？洗洗睡吧，洗洗睡吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生留步。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生，小贝离家出走了，这个忙，您无论如何得帮。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是不帮。可我这手都这个样了，我怎么帮啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你手咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你问她！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真的不是故意的，先生。要不这样好了，你来说，我来写。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，那怎么行啊？俗话说得好，心手和一，心手和一，我这个手都坏了，我这个心也好不到哪儿去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你算还是不算？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没说不算，要不咱明天算？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行，现在就算，算不好就不准睡觉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的娘啊，你不能不讲理吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就是不讲理，展堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得令，葵花点穴手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊，喊破大天也没有人来救你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手！干嘛？先生不都说了嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说什么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "北啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "北？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "北北北，你们没听见啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说的是北吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，就是北，确切地说，是正北偏南！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "正北偏南？那是东还是西？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再耽误工夫了，展堂去，小郭也去，我也去。秀才留下看房子啊，快走快走！"
+        }
+      ]
+    }
+  ]
+}

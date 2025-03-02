@@ -1,0 +1,254 @@
+{
+  "type": "normal",
+  "rawDescription": "【监狱，夜】",
+  "location": "监狱",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰，蕙兰！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩长话短说，我在外面等着。最多一刻钟，马上就得结束啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俊，是你娘捣的鬼吧。她可真是手眼通天啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不知道，我娘和徐知府她老婆是故交啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有这么一个婆婆，可真是上辈子修来的福气。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心吧，蕙兰，我一定会把你救出去的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说，咱们十几年以后还会吵架吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吵架？咱俩怎么会吵架呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每对夫妻都会吵架的，那些没经历过患难的夫妻，架吵多了，感情也就淡了，可咱们不一样，我们经历了这么多，以后想分开都舍不得，这些，都要谢谢你娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没想到，你的想法还很独特啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的都是真的，小郭告诉我的。她说爱情需要压力，我想这些就是压力吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是，可是你这次万一出不去可怎么办呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "会吗？你娘不会那么狠吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是不知道我娘是多么恨你呀，一提到你的名字牙根都痒痒了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，还废什么话呀，这是钥匙，赶紧走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不走，我又没偷东西，我这一走，一辈子都不清白了。我总不能老当逃犯吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也只能这样了，小六刚才得到通知，他们要把你押到广阳府当街问斩呐，他们的人马上就到了，赶紧走，要不就来不及了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看到蕙兰不愿意，拿出金针"
+        },
+        {
+          "type": "line",
+          "line": "第一个愿望，赶紧走，越远越好。你不会连这个愿望都不能满足我吧，我去外面看着，快！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快走快走！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "刚准备走，燕小六进来，做超人状"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来吧，千万别打脸，还有肚子，都别打，赶紧快点啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杨打晕了小六"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们以前是怎么认识做朋友的？你怎么打他呢？"
+        }
+      ]
+    }
+  ]
+}

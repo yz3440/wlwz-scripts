@@ -1,0 +1,330 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白被批斗，胸前挂个牌子，众人在旁边表情各异"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这家伙，换个角度看这出，感觉就是不一样啊，看老白那怂样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对秀才"
+        },
+        {
+          "type": "line",
+          "line": "我心里感觉毛毛的，像是要出事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀呀呀，我也是这种感觉，你看这一身鸡皮疙瘩。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭还摸摸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俗话说，打是疼，骂是爱，我提醒大家注意，下面我再怎么骂，都与爱无关。眼前的这个人，想必大家都有一定认识了吧，对他的感觉，大家不妨说出来听一听。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "没人搭茬"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先说的有奖。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "仍旧没人搭茬"
+    },
+    {
+      "type": "action",
+      "description": "掌柜掏银子往桌子上一拍，大嘴要过去，被小郭咳嗽回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有看出来，人缘还是不错的嘛，你以为这样就能混过去吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "怒"
+        },
+        {
+          "type": "line",
+          "line": "抬起头拉！你胸前写的什么？给大家念一下！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，没谱的人……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼哼，为啥说你没有谱呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把银子揣起来了"
+        },
+        {
+          "type": "line",
+          "line": "问你话呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你就不要再折腾师兄了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错，折腾他的不是我，而是他自己，如果他没有犯错，我怎么会这样对他，疼他还来不及呢，落到今天这种地步只能怪他自己。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是是是，都怪我，你一点毛病都没有。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人示意打住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们听听，他这什么态度嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就这态度，怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人拦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看看这两天，啊，你把大家折腾的，一个个面黄肌瘦的，无精打采的，这是人过的日子吗？我知道，你出发点是好的，你想改变周围不良风气，但是你不能胡来呀，咱这是个大工程，你得一步一步来，光有热情行吗？一口能吃成个胖子吗？你说呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥话都让你说了，我说啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白说的确实有道理。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱不能再这么折腾下去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再这么闹下去的话……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么时候才是个头啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了！白展堂，有一手啊，学会收买人心了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切！你现在脑子不清楚呢，我不跟你一般见识。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是不是跟我以后没有办法沟通了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你愿意说啥说啥，反正我跟你没话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然如此，那就分手了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从今往后，我跟你一刀两断！"
+        }
+      ]
+    }
+  ]
+}

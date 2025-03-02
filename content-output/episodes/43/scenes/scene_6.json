@@ -1,0 +1,102 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白往床上铺白布"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你铺这干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我娘让铺的，说铺它图个吉利。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娘还说啥了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，说你好呗，让我好好珍惜什么的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娘挺好唬弄的嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，那是因为你运气好，今天她万一答应带你走，你怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就跟她一起走呀，我本来也没有打算留下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厄，你有没有被子什么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "被子就在大橱里，自己拿去。——哎，你又不是第一次在这儿住啊。"
+        }
+      ]
+    }
+  ]
+}

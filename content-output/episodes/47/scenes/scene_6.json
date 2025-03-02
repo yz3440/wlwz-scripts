@@ -1,0 +1,386 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝，小郭，老白聚集在后院"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你们说那女的是不是有病啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有病！富贵病。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有我嫂子才有病！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说撒呢？谁有病！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你！哎呀，你说人家是掌门夫人，锦衣玉食的。娇生惯养那是应该的，你跟着起啥哄，起啥哄啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌门夫人算个撒，饿还是掌门的监护人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有你这么监护的吗？连饭都不给吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，再坚持两三天，她一走，你想吃啥嫂子给你买去啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，把钱给我我自己会买！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要帮饿混过这一关，不要说零花钱，我连嫁妆都给你翻一倍！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "至于吗你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不懂，你要有个小姐妹来了，你不装啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有姐妹，就算有，我们比的也是武功！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都一样。人嘛，谁还没有个虚荣心！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是虚荣了，我们跟着你吃苦受罪的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，给我吃一点儿，我还没有吃饭，可怜可怜吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给她吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不给！呃——也不太合适。给——她不长记性。小贝你决定！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你决定！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃——先唱一段再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不唱是吧，咱吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃吃吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "饿唱饿唱！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "山丹丹的那个开花哟，红艳艳……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "光脚丫的哥哥你啥时候来耶……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，跑调了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，没跑多远。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋来了呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我一听这首歌儿吧，就好象一下子回到童年了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，你们童年唱这种歌啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指着馒头"
+        },
+        {
+          "type": "line",
+          "line": "你们晚上就吃这种饭啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的，这是给猪喂的。嚼碎了再喂容易消化。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把馒头倒掉"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂喂……哼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃饱了撑的，大鱼大肉吃多了，上火。"
+        }
+      ]
+    }
+  ]
+}

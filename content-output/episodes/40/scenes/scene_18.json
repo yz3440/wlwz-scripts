@@ -1,0 +1,42 @@
+{
+  "type": "normal",
+  "rawDescription": "【街口，昼】",
+  "location": "街口",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫小宝被推出去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先赊着，先赊着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂蝉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不给钱就别上我怡红楼来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿，真是婊子无情，戏子无意，今天这回呀，老子不玩了。有人吗？"
+        }
+      ]
+    }
+  ]
+}

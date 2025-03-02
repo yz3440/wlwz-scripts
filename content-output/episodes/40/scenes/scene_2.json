@@ -1,0 +1,23 @@
+{
+  "type": "normal",
+  "rawDescription": "【街上茶摊，夜】",
+  "location": "街上茶摊",
+  "timeOfDay": "夜",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果我当初留在村子里，没当捕头，兴许现在连媳妇儿都娶上了。唉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕，如果以上假设全部成真……"
+    }
+  ]
+}

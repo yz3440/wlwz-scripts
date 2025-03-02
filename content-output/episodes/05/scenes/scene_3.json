@@ -1,0 +1,181 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        { "type": "line", "line": "跟踪的时候被贼发现了怎么办？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一与贼展开火拼；二谎称要入伙，骗取贼的信任；三……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        { "type": "line", "line": "等一下。" },
+        { "type": "speaker-action", "description": "看书" },
+        { "type": "line", "line": "哎呦，你还真的晓得呀。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "这回信了吧。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不相信，我跟你说，这本书明明就是展红绫写的。你看，你自己看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "这是我送给他的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切~~人家展红绫是啥子身份喽，你？就凭你，怎么可能认识她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "她是什么身份啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家是天下第一女捕头，六扇门的绝代狂花，我的超级偶像。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我认识她的那会，她还是个小丫头片子呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [{ "type": "line", "line": "她还有年轻的时候啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "她现在也不大啊！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [{ "type": "line", "line": "你咋个认识她的？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "想知道？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [{ "type": "line", "line": "恩。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "帮我把铐子打开。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        { "type": "speaker-action", "description": "欲开又停" },
+        { "type": "line", "line": "不得行，我要进六扇门。全部都靠你了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "跟我有啥关系啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六扇门的人说了，现在不招女捕头了，除非，除非把你逮到去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "这谁出的损招儿，这是。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [{ "type": "line", "line": "展红绫。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "展红绫。想听故事是吧？我现在就给你讲。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        { "type": "line", "line": "太好了太好了，等一下等一下，" },
+        {
+          "type": "speaker-action",
+          "description": "第三次猛转身去柜子，在包里拿出瓜子后，拖着老白整理床上小桌，又在大桌上反复拿茶杯和茶壶及书，一切安排就绪，小瓜子一磕"
+        },
+        { "type": "line", "line": "摆吧。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三年前，我从康王府偷了一个贵妃镜，她就一直追踪我到这儿，也就是七侠镇……"
+        }
+      ]
+    }
+  ]
+}

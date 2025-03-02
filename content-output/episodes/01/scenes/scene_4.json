@@ -1,0 +1,86 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最近镇上风声很紧，治安很差，要是万一有生人问起咱们同福客栈的人和事，千万不要暴露。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才、李大嘴",
+      "performances": [{ "type": "line", "line": "不会的，不会的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会什么！就你俩那胆儿，一害怕肯定要说吐噜嘴，都听掌柜的话，嘴一定要严。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才、李大嘴",
+      "performances": [{ "type": "line", "line": "是是是。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "你说咱们镇上怎么就来了这两个魔头呢？" }
+      ]
+    },
+    { "type": "action", "description": "客栈外，两个人影顺着墙爬上房去" },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "你指的是雌雄双煞吧。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "什么煞？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "就是一男一女两个二傻子呗。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你不要命咧，又胡说。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不至于。两个小毛贼，想当年我闯荡江湖那会儿……"
+        }
+      ]
+    },
+    { "type": "action", "description": "门外传来响声" },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "哎呀……妈呀……" }]
+    },
+    {
+      "type": "action",
+      "description": "除了掌柜以外分别躲到桌子、帐台下，一阵骚乱"
+    }
+  ]
+}

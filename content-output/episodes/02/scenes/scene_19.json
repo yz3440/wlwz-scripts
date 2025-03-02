@@ -1,0 +1,248 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "第二天清晨，老白收拾行礼，众人都出来，小郭躲在门帘后头偷看，老白环视周围"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看啥呢？还不趁着天刚亮，赶紧赶路，等着坐牢呢。"
+        },
+        { "type": "speaker-action", "description": "塞给老白两根黄瓜" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        { "type": "line", "line": "快走吧，邢捕头来了就麻烦了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "郭芙蓉！" }]
+    },
+    { "type": "action", "description": "小郭迅速跑过去" },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "在这呢！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢你，让我重新过上了提心吊胆打打杀杀，吃了上顿没下顿、过了今晚没明晚的幸福生活。你知道两年前我为什么留在客栈吗？就是因为我想改邪归正，重新做人，事到如今，看来我只能重出江湖了！"
+        },
+        { "type": "speaker-action", "description": "要出客栈" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎~站住！这事儿，这事儿不怪他……是我不好，是我想逼他跟我动手才这样做的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "你咋不早说呢？！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "你可真会演戏呀！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我早就看出这里面的名堂了，你在搞什么鬼呀？比武比武，整天就想着比武！你觉得比武很有意思吗？"
+        },
+        { "type": "speaker-action", "description": "把老白拉回来" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "练武是用来比的吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那那是用来干啥的？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "是在真正需要它的时候派上用场。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那啥时候才能派上用场啊！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "强盗来了你可以迎头痛击，路见不平你可以拔刀相助，只有在这些时候，武功才能发挥它真正的威力，而这威力的源泉，都是来源你心中的一股正气。一个人，只要有了这股正气，即使他没有武功，同样可以天下无敌，你明白了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "那合着我这身武功不就白练了吗？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "你答应我一个条件，我可以跟你比试一场。" },
+        { "type": "speaker-action", "description": "坐下" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "哎，你说你说。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱俩比过之后，你就再也不许和任何人动手，除了危急关头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，咱现在就比！到外边去，哈哈，接招！"
+        },
+        { "type": "speaker-action", "description": "向客栈外跑" },
+        { "type": "speaker-action", "description": "摆姿势" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "葵花点穴手！" },
+        { "type": "speaker-action", "description": "从后边" },
+        { "type": "speaker-action", "description": "点住小郭" }
+      ]
+    },
+    { "type": "action", "description": "众人都跑出来看" },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "哎呀妈呀，又给点上了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "还愣着干啥，该干啥干啥。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "我做早饭去了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "帐还没算完呢。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "小贝咋还没起来，我看看去。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "我赶紧收拾收拾准备开门。" }]
+    },
+    { "type": "action", "description": "小六、老邢从拐角过来" },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "六儿，你再考虑考虑，好不好？" },
+        { "type": "speaker-action", "description": "拉着小六" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，您别再劝我了，小六是个什么材料，我自己心里清楚。谢谢您这些天对我的栽培，小六感激不尽！"
+        },
+        { "type": "speaker-action", "description": "鞠躬，起身要走" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，小六啊，你听为师说……六儿啊，事情到了这一步，为师跟你明说吧！我之所以不愿意给你扎这个马步，是因为为师一直练得不地道。真正的高手，在这儿呢！你看，这才是天底下最正宗的铁桥马马步！赶紧跟她学。"
+        },
+        { "type": "speaker-action", "description": "追上去" },
+        { "type": "speaker-action", "description": "看见被点住的小郭" },
+        { "type": "speaker-action", "description": "指小郭" }
+      ]
+    },
+    { "type": "action", "description": "小六学小郭的样子" },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "像，太像了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爹，我好后悔呀，我不该独闯江湖，我好想回家……"
+        },
+        { "type": "speaker-action", "description": "画外音" },
+        { "type": "speaker-action", "description": "两行泪落下" }
+      ]
+    }
+  ]
+}

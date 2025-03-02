@@ -1,0 +1,338 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "二人对坐桌前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝酒？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说啊，这可是好酒啊，权当兄弟给你接风了，啊呵呵呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "兄弟，好意我心领了，可我呀不会喝酒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的，不给面子啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真不会喝酒，喝完酒上脸上头晕。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都这点儿了，上脸怕啥呀？又没外人儿了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，那、那明天我早晨要起来干活，早起。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也得早起呀，这么的，咱喝完咱就睡一觉到天亮好吧？呵呵！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那啥这样儿，我喝茶中不？我出来答应过淑芬，嗯，绝对不碰酒，真的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给个痛快话儿，你到底喝不喝吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那那那、那我就对不住了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵哈哈哈，没事儿，呵呵呵，我跟你说我这人不记仇儿，呵呵呵呵！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴是个好人，嘿嘿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，俗话咋说来着？君子报仇十年不晚嘛，是不是？——十年呢，嘿嘿你慢慢等着啊，哈哈，但是你吃坏肚子啥的，别怪我啊，反正我这人儿眼拙，就是有的时候那个巴豆啊和豌豆我老分不清……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，大哥，你别说了，别别别说了，我喝还不中啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，是！不喝那咋叫爷们呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我、我、我喝，淑淑淑、芬芬芬，哥不想喝酒哥，不喝没有办法呀！你千万不要怪哥呀！啊！喝完了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一口把一小坛子酒都喝完了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝完了？一滴都没留啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "光了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大半斤呢，这……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有没有啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我天你还喝上瘾了，是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，要是有我接着喝，没有，嘿嘿，我就先睡觉了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，别别，有酒管够儿，你等着啊，我给你拿去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "酒……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢仲达坐倒在地"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，哎哎不是，队队、队队队长！队队队队队……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "莫、郭后院奔出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋啦？咋地啦大嘴？你呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "三人绕谢踱步"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "指望他酒后失德是不可能的了，你们两位有什么看法？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是队长，你问我们干嘛呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第四套方案基本失败，第五套方案热情实施中！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "yeah！"
+        }
+      ]
+    }
+  ]
+}

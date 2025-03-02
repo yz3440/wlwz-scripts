@@ -1,0 +1,64 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭扫地，小六叼着烟袋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋还不回来呀，会不会出啥事呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "紧张"
+        },
+        {
+          "type": "line",
+          "line": "要不我过去看看吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用不用，以老白的武功，对付一个钱夫人还不是绰绰有余。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小六"
+        },
+        {
+          "type": "line",
+          "line": "怎么这么碍事呢……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扫一钟头了还没扫完呢……"
+        }
+      ]
+    }
+  ]
+}

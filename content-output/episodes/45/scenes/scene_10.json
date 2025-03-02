@@ -1,0 +1,218 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，你的堂堂来给你送饭来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，来了来了，等一下啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂端饭进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你又闯啥祸了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊，你为啥这么问啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无缘无故的，为啥对我这么好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是我的另一半，我不对你好对谁好？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "两人感觉发麻"
+        },
+        {
+          "type": "line",
+          "line": "不好意思，这种话我实在是不太会说。"
+        },
+        {
+          "type": "line",
+          "line": "下次不说了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要说，一定要说，我喜欢听。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你先吃饭，我下去招呼客人去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要走，坐下，陪我一起吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我吃过了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃过了也不能走，我让你喂我吃"
+        },
+        {
+          "type": "speaker-action",
+          "description": "两人鸡皮疙瘩"
+        },
+        {
+          "type": "line",
+          "line": "我好象也不太擅长这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没关系，多试两次就习惯了，共同进步嘛，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，那就来吧，啊~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "展堂喂湘玉"
+        },
+        {
+          "type": "line",
+          "line": "呵呵呵，轮到我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我吃过了那好，共同进步。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉喂展堂"
+        },
+        {
+          "type": "line",
+          "line": "美得很。"
+        }
+      ]
+    }
+  ]
+}

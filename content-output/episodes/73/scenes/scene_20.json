@@ -1,0 +1,428 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "湘玉使劲洗衣服，柳星雨在旁边使劲地哭，左顾右盼发现旁边没人"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是我来洗吧，是我弄脏的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用，你哭你的，你是客人嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是客人啊，你不是说跟我是好姐妹的吗？难道你是骗我的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你想洗就洗吧，以前洗过没有啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳又号啕大哭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，你坐到这儿，我不打搅你了，你忙啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳继续更大声地哭，佟走。柳等佟走后，从口袋掏出一包东西，走到井旁边，正欲投进去，小郭从房里走出来，柳一惊，那包东西掉到地上，是一包白色粉未"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳姑娘，你在干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，我在打水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我帮你打好了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到井边，看到白色粉未"
+        },
+        {
+          "type": "line",
+          "line": "你刚才洒的是什么东西啊，好难闻。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，是治嗓子的药，我爱哭嘛，嗓子哭坏掉了，所以就拿它来润润嗓子，我刚刚正准备喝着，然后就洒掉了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那对不起对不起啊，那个，柳姑娘，我这两天嗓子也不太舒服，你那儿还有没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最后一包了，不过没有关系的嘛，我再去配，这是最普通的药了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好那好，你把药方给我，我帮你配。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，这是祖传的秘方，不好意思。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？你刚才不是说是最普通的药嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，哦，这个药材是普通的，但是配方是绝秘，我可是对祖宗牌位发过誓，如果说出去，就天打雷劈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那算了算了算了，那你有什么需要尽管说啊，千万不要跟我客气啊，那你慢慢洗。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "郭走后，柳赶忙把白色粉未用泥土掩盖，随后跑到胡同里，招呼同伴，出来一黄衣女子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你那包迷魂散呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没啦，我这次出来就带了一包，你那不是还有一包嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "你那包用哪儿去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，刚才路上几个人冲我吹口哨，我一生气我就……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，有没有搞错，二十两银子哎，你把它用在路人甲的身上，你钱多得没地方花了是不是啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "急什么呀，我们不是马上就要发大财了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘，现在情况很麻烦，而且相当麻烦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我们就回家好了，哎呀，回家前可以先到九寨沟玩两天，听说那儿来了个新的马戏团，走走走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，站住！来都来了，就这么走了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是说很麻烦嘛，这钱是永远赚不够的，为了这么点钱，冒这么大的险值得吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道这个店里有多少钱吗？喜欢看马戏是吧，干完这一票，你就可以买一个马戏团。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还是算了吧，我还是更想开个首饰店。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "随便随便，只要熬过这两天，你可以拥有任何你想要的东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包括自由？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "柳瞪她"
+        },
+        {
+          "type": "line",
+          "line": "你不是说过总有一天让我单飞的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在还不是时候。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还是算了，我还是去看戏吧。1108"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉住妹"
+        },
+        {
+          "type": "line",
+          "line": "好好好，只要干完这一票，就让你去单飞，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你需要我干嘛呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们已经开始怀疑我了，本来我是想用迷魂散把他们搞定，结果出了一点岔子，现在，你帮我弄两样东西，第一是迷魂散，第二证件，你是上黑市买也好，还是伪造也好，反正呀，能证明我的身份就行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黄衣女",
+      "performances": [
+        {
+          "type": "line",
+          "line": "证件是没问题，这迷魂散……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，你先去弄证件，迷魂散，过两天再说，啊，快去快去。"
+        }
+      ]
+    }
+  ]
+}

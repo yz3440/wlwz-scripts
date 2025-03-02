@@ -1,0 +1,396 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，夜】",
+  "location": "女寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小六连踢带踹的把大嘴押进屋，大嘴脖子上挂个枷"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你铐我干啥呀，你凭啥铐我呀你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐那，坐那！铐你赶嘛？你都行凶伤人了，不铐你铐谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这不是没砸着吗？我要真想行凶，我直接拿菜刀不就完了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        },
+        {
+          "type": "line",
+          "line": "你还敢拿菜刀你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，不，不……不敢，不敢！我那不是跟大家闹着玩的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，这是嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "脸哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是脚巴丫！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思？这俩长的不是鸡眼！当我看不清楚，老实呆着，有嘛事，明天再说。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "要走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是……六！六！六六六六六！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛，干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听我解释啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "解释嘛解释嘛呀你还？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这人脑袋不大好使……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，我脑子也不好使，但我没犯事啊，没犯事啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的不是笨！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你你……你才笨呢你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的是疯，你知道吧？我疯了，我刚才属于行为失控。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话嘛，你不失控我铐你干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那谢掌柜的伙计他也疯了，不也啥事没有吗？好吃好喝伺候着，一分钱工钱不少给呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这话听谁说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢掌柜呀，今早晨亲口跟我说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你肯定是听差了，据我所知，谢掌柜那伙计是羊癫风。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "羊癫风那不也是疯吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家是手脚抽抽，口吐白沫。——你是手持凶器，蓄意伤人，这能一样吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，妈呀，豆腐！那玩意也能算凶器呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "豆腐凭嘛不能算凶器？你是皮糙肉厚的，豆腐当然不算嘛，可是佟掌柜的，细皮嫩肉的，一豆腐下去，还不砸个半死啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有句话怎么说来着……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪句话呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一头撞死在豆腐上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋讲呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "前车之鉴哪！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "要走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不……六六六六……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小六拔刀"
+        },
+        {
+          "type": "line",
+          "line": "那行，你先回吧，明儿见，路上注意安全，别出交通事故啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六出，大嘴撞柱子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "羊癫风，羊癫风，羊癫风……"
+        }
+      ]
+    }
+  ]
+}

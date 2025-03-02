@@ -1,0 +1,32 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "镜头回放，老邢拿筷子筒砸老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "刑捕头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别动，别动！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇……"
+        }
+      ]
+    }
+  ]
+}

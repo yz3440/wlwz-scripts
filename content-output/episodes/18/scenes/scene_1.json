@@ -1,0 +1,177 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    { "type": "action", "description": "掌柜与老白小郭清点礼物" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，美滴很，美滴很，张三丰耍过的桃木剑，王重阳手抄的道德经，小龙女用过的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "裹脚布，这个这个。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "拿走拿走。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "哎哎哎，这把刀是什么来头啊？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "赤焰刀，东方不败用过的，不要动。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        { "type": "line", "line": "这是我的东西，我凭什么不能动？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "什么时候成你的了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些东西都是各大派掌门送给我的礼物，你们，你们不要欺人太甚啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "呦，你还学会用成语了啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "还给你，你把它还给我。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要动，你要是能用成语造个句子，额就让她还给你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "你说吧，什么成语？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "额想想啊，就是刚才那个，欺人太甚。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "郭芙蓉你不要欺人太甚。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "跟我有什么关系？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "重造一个，不学说你白大哥，也不学说额。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "你们仨不要欺人太甚。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "额看你才是欺人太甚，换一个，情真意切。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "你叫我用情真意切造个句子？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "对呀，你赶紧造啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        { "type": "line", "line": "造了呀，你叫我用情真意切造个句子。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你这造的是个啥嘛？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        { "type": "line", "line": "那不管，反正我造了，你把东西还给我。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "美不死你，老白，把东西拿出去，藏好了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "好咧。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们！——把东西还给我！我把全部的各大派掌门都招回来，杀你们个片甲不留。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "酒会开始。众人围着桌子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "满上满上！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是就是，都是江湖中人，要喝咱喝大的！我倒，你看差不多了就说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒……倒……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还倒啊？再倒都满出来啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，别客气了，一看就是个酒腻子！干了干了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢着慢着！你们就这么干喝呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……想行酒令是吧？秀才！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咱们就来个粘头续尾吧，都得从诗词里挑啊！我先来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "酒不醉人人自醉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "醉！醉里挑灯看剑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "剑！剑外忽传收蓟北！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "北！北雁思归向南飞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "飞……飞……飞……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "菲菲不停问我是我犯错吗，多讲反而是错！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，这家伙对得多好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，流行歌不带的啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这种酒令有啥意思？你来点儿新鲜的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "新鲜的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不敢的哦？无所谓的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说不敢了，放马过来呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你把刚才那个酒先喝了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我喝！你们俩行酒令，秀才输了我喝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "韩娟输了老何喝，怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，把酒先满上！哼，这坛酒根本就不够，你再拿两坛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，还来劲儿了是吧，太好了，上烈酒！准备好了没有，娟儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "准备好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "准备好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "旺德福，第一回合，Action！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟、吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "石头剪子布，石头剪子布！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘻嘻嘻，不好意思我先来，鱼跟熊掌如何兼得？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是不可能的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "养一只会抓鱼的熊喽。喝吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍秀才"
+        },
+        {
+          "type": "line",
+          "line": "你给我争点儿气！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟、吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "石头剪子布，石头剪子布！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘻嘻嘻，不好意思又是我啊。我跟我相公睡觉之前都干什么事儿呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭上眼睛喽！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这也算答案？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你给我找个标准答案！喝吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一定争气！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一定争气！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天气那么冷，为什么小明不多加衣服反而还脱衣服呢？因为小明要洗澡喽！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂喝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小明上课的时候不停的说话，先生为什么不处罚他呢？因为小明他就是先生喽！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂喝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放榜之时，小明榜上无名，可是他一点都不难过，为什么呢？因为小明他还在念小学呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂喝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小明不是先生吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是另外一个小明！喝吧朋友！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头闪过"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头闪过"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头闪过"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝吧…………喝吧…………喝吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂吐了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，大家都等着呢！哈哈哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧回屋休息吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁动我葵花点我跟你说！葵花点点点……我怎么结巴了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位关中大侠还挺有意思的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "关中大侠？你说他呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不知道啊，人家正经是朝廷认证，还有牌子呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么破大侠，我还不稀得当呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，这酒喝的，菜一点儿没动，老何，来来来，快吃快吃，别浪费了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拖走拖走！"
+        }
+      ]
+    }
+  ]
+}

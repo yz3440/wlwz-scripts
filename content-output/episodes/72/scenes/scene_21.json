@@ -1,0 +1,116 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我实在是想不出来，换成你，你会选哪个？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对食客"
+        },
+        {
+          "type": "line",
+          "line": "您先慢走啊，秀才选哪个我就选哪个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他可是撒谎啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道，可那又怎么样呢？老白倒是不撒谎，你高兴吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这样，以前呢，都是你跟我说道理，今天我也跟你说一回。这件事情归根结底啊，是你的那个问题出了问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出了啥问题啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "问题就出在你的那个如果当初上，哪有这么多如果嘛掌柜的，这么跟你说吧，咱们老说缘分缘分，什么是缘分呀，上天给了你机会，这是缘，你利用了这个机会，这是分，两个条件是缺一不可的。换句话说，上天没给你机会，你却用你的假设来获取机会，这又算什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是个假设嘛，开个小玩笑……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你那么当真干什么呢？我真是不知道你是怎么想的。反正我和秀才的这段感情啊，不仅包含了我们两个人，也包含了我们俩走过来的路，一步一个脚印，每一道脚印就象一道绳索，把我们俩捆在一起，越捆越紧。而那些没有绳索捆着的人，一阵风吹过就什么都不剩了。什么是缘份，你自己好好想想了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟陷入沉思"
+    }
+  ]
+}

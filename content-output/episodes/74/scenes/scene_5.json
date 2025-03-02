@@ -1,0 +1,244 @@
+{
+  "type": "normal",
+  "rawDescription": "【厨房，昼】",
+  "location": "厨房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴切菜，柳进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没想到你刀功还不错嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋起来了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扶柳"
+        },
+        {
+          "type": "line",
+          "line": "快快快赶紧回屋躺着去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事没事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还说没事呢，你看脖子上红印还在呢。你找我心疼啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在啊，不碰就不疼了，疼我会告诉你的。我帮你做点什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用不用，你嘴哥别的不行做饭还行，这点忙不用你帮，以后啊，所有的活都我干了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我做什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，你就逛逛街看看戏，吃吃喝喝玩玩乐乐的，只要不干活啥都行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不怕把我宠坏了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你嫁给我本来就够苦的，你说我再逼着你干这干那的日子还咋过呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没想到你还是个模范丈夫啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥模范丈夫啊，我要真是个模范丈夫啊，我就多赚好多好多钱，我让你想买啥买啥，想穿啥穿啥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，我觉得现在这个样子啊，就挺好的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，你就别安慰我了，你先回去啊，想吃啥你提前说啊。咱穿的跟不上，吃的管够。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "聊天的功夫，菜做好了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来端过去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "端一次成规矩，以后都得你端了。那帮人刁着呢，我来，早回去休息啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打趣"
+        },
+        {
+          "type": "line",
+          "line": "大嘴，还知道疼人儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你有啥关系，该干啥干啥去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，哎呀，咋说着说着，还脸红了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "凑上前打趣"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干啥呢，说啥呢"
+        },
+        {
+          "type": "speaker-action",
+          "description": "追打白出厨房"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳趁这个时候把一包药放到了菜里"
+    }
+  ]
+}

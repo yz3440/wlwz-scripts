@@ -1,0 +1,565 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "展堂和殷十三被捆住，靠在炕边，祝无双喂殷十三喝水"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来喝口水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿走拿走，我宁为玉碎不为瓦全！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不喝拉倒！我就在外面啊，有事叫我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，等一下，你们打算怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么知道，要听我们燕捕头的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！听他的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，他脑子是不太好使，可至少他心肠不坏啊！不像你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我缩我缩我缩缩缩！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别缩了！那是牛筋捆的，你缩成团也没用啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们会不会折磨咱们啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然不会啊，人家又不是东厂的人。可我就怕他们……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怕什么？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "耳语"
+        },
+        {
+          "type": "line",
+          "line": "不会吧！他们怎么知道你那招的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让我不小心说漏嘴了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……没办法，只有自己来了，这桌子角够尖吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再会了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "撞桌子角上昏了过去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "仙子！花尾巴狗花尾巴狗……不不不，狗尾巴花狗尾巴……哎呀，来人呐，犯人撞头自尽啦！快点来人呐！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "燕小六、祝无双冲入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你冲我拔刀干什么吗？是他磕倒啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你磕干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪磕他啦！是他自己要死嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗？洗哪儿？洗头还是洗脚？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗头嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗头，洗嘛头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是洗头，是磕头啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "磕头？又不过年磕嘛头！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……哎呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "气得撞头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这又是嘛招数你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有什么招数啊，我被你逼的呀！我是大内锦衣卫！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，你要是大内锦衣卫，我就是刑部尚书。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳咳，是刑部，不是礼部，更不是吏部！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真的是锦衣卫嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小伙子，匹诺曹的故事听过没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，是匹诺曹，不是皮卡丘，更不是 Pizzahuut!"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么乱七八糟的！我有大内金牌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还有奥运金牌呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，是奥运，不是亚运，更不是大运！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我也磕死算啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等会儿，你刚才不是说有金牌嘛，在哪儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在胸口啊，你自己掏。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为我会上你的大头当吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，过去不会，现在不会，将来更不会！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是不会还是不敢啊？我都已经捆成这样啦，还不敢掏？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掏就掏，有嘛了不起的，你要敢动就把你俩手剁下来，当鸡爪子啃了！拿着刀。对着他，不是对着我！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掏出一块牌子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这字念嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "锦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘛意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "锦衣卫的锦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为嘛不是锦衣卫的卫呢？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白气得要吐血"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假的！肯定是假的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么是假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "猜的。——等着，我去叫老白去。把刀给我。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂刚要说什么，祝无双拔刀对着他"
+    }
+  ]
+}

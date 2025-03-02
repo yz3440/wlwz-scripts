@@ -1,0 +1,56 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄，我们现在怎么办啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在唯一的办法就是证明我就是白展堂。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白说完转身从后门走"
+    },
+    {
+      "type": "action",
+      "description": "971"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎～～大堂在那边～～"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我找我以前的衣服去。"
+        }
+      ]
+    }
+  ]
+}

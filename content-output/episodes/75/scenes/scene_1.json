@@ -1,0 +1,182 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才在给小郭按摩，大嘴半躺在床上看书"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴，你看就看呗，你别舔行不行？你舔完了人家还看不看了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，子曰，读而不舔非礼也，呵呵"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这哪个子曰的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李子——就是我说的，哈哈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你干嘛不叫大子或嘴子呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，还不如直接叫碎嘴子，李秀莲，别名碎嘴子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这名儿挺好的，一听就有历史感，一听就是个文化名人啊。以后就这么叫我得了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "走向李"
+        },
+        {
+          "type": "line",
+          "line": "哎，大嘴，你今天好象特别的亢奋啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有什么好事跟我们分享？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，有啥好事啊，我这人就是穷开心，越穷越开心。不过我这人心情一好呢，就想找点啥东西歌颂一下。春天好啊，春天太美了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "春天在哪里，春天在这里……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三种可能，第一，喝高了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，他今天滴酒未粘，舌头不大影子不飘，一点都不像踩高跷。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那第二，掌柜的偷偷给他涨了工钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Impossible，店里最近生意冷淡，想涨没钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第三，大嘴又恋爱了，呵呵呵"
+        },
+        {
+          "type": "speaker-action",
+          "description": "二人恍然大悟"
+        }
+      ]
+    }
+  ]
+}

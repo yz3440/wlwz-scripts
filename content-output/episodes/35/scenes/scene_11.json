@@ -1,0 +1,47 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "回忆"
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，这本剑谱是衡山剑法的精要。世上只此一本，你拿去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，使不得，这么贵重的礼物我不能要。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是给你的，是给掌门留下的。你抽空帮我督导一下，让他练练。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "回现实"
+    }
+  ]
+}

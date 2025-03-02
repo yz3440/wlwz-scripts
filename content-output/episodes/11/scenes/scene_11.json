@@ -1,0 +1,242 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "我错了，我真的错了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "你错哪儿了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "展堂！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "老白？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你还知道回来？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我咋不知道回来呢？我把她送上船，我就回来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "她咋这么快就让你回来了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我把她送上船以后啊，跟船夫讨价还价。好不容易从五两银子讨到了二两，哎，她朝我冲过来，把我臭骂一顿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "骂你啥？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "白郎，我平日里待你不薄，你为何这样待我？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你咋待她了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也纳闷呢，她说你就这样把我给卖了？难道我就值这区区二两银子？话还没说完呢，就打开了百宝箱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "然后呢？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "然后就，怒沉了一下。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "全沉了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "总共也没几样，就面上一层，下面都是些散碎银两。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "沉完了之后呢？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "她就回扬州了，估计这会儿已经出西凉河了。" }
+      ]
+    },
+    { "type": "action", "description": "十娘入" },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [{ "type": "line", "line": "还没有。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你的嗓子咋了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        { "type": "line", "line": "受凉了，没得十天半个月好不了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "怎么回事儿？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [{ "type": "line", "line": "我被他们赶下船了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "为啥呀？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没得钱付船费。白公子，对不起哦，船夫他们都跟我讲了，是我错怪你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "知道错就好，你以后打算怎么办？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [{ "type": "line", "line": "那我还是要麻烦你。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "他没有空。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "十娘",
+      "performances": [{ "type": "line", "line": "白公子" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你自己回去吧。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最近我一直在思考一个问题，如果当年杜十娘没有怒沉百宝箱，那她的命运将是如何呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你还不走？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [{ "type": "line", "line": "一分钱没得，怎么走啊。" }]
+    },
+    { "type": "action", "description": "掌柜的从柜台取出一百两银子，交与十娘" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "这些钱够不够？" }]
+    },
+    { "type": "action", "description": "十娘方欲上手，掌柜的赶紧拿开" },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [{ "type": "line", "line": "够了够了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "钱可以给，但是你要答应我一个条件。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [{ "type": "line", "line": "什么条件？" }]
+    },
+    { "type": "action", "description": "掌柜耳语" }
+  ]
+}

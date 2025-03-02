@@ -1,0 +1,304 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟！师父，她咬我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "和她嫂子一样，属狗的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小贝又咬老邢"
+        },
+        {
+          "type": "line",
+          "line": "啊——！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要动我的娃！小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你过来，过来！要不然我不客气啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "进来吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老焦进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还带了同伙！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这是干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来者何人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "甭跟他废话，先拿下再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿出一个牌子，上边写着\"捕\""
+        },
+        {
+          "type": "line",
+          "line": "同行，同行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位焦大爷，是我专门请来的办案高人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是焦桐卫，焦大爷？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫我老焦好了，你认识我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿，要连您都不认识，还咋在这圈里混呀。这位老焦，是十八里铺最有名的验尸官。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过奖，过奖了，带我去看看尸体吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我现在带你去。年轻人不懂事，你别往心里去呀，你大老远赶来是给足我们面子啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，此人死在七侠镇，和十八里铺没关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家来都来了，总得看一眼再走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看一眼？看一眼先过我这关再说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这是干啥嘛，人家是来帮忙的，又不会害你们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，官差办案，闲杂人等，都给我闪开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我闪开！反了教了你还？咋的，想跟师父叫板是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天这板，我还就叫了！官差办案期间，没有师徒，只有官兵！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，算你小子有种，跟我出去单挑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别拽我，我还得办案呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉你啊，甭管是师徒还是官兵，有胆的就出去单练去，大嘴，走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您楼上请。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，你说你大晚上上哪儿去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "臭小子，怎么跟你娘说话呢？谁教你的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，你不说是吧？走，咱俩报官去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二位慢走，衙门口儿见啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说这招不管用吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你来招管用的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三娘，坐。既然咱俩姐妹一场，有些话我就不得不说了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "折腾了一个晚上你饿了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不说话就是饿了，我这就给你下碗热汤面去，二位慢聊，稍安勿躁。对不住啦，清官难断家务事儿，你们娘儿俩慢慢掰扯去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，你先休息吧，我出去了啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干啥去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心吧，我肯定不报官，以后我也不管你了，你爱偷啥偷啥。总之有一点啊，你要是泛了水，你千万别说认识我啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，回来，回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给你看一样东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六扇门？娘啊，你都偷到六扇门去啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看完反面再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白翠萍密使。——娘啊，你是钩子呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还条子呢还！有用黑话说自个儿老娘的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳哟，我太激动了！娘！娘啊！你咋混进六扇门的呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我一直都是。以前没告诉你是因为你太小，怕万一走漏了风声惹来杀身之祸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是——不行不行！我得冷静冷静。不对呀娘，那你是兵咋把我培养成贼了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞎说啥呀？我教你轻功，教你点穴，教你追踪反追踪，这些都是捕快的本事儿。谁让你自个儿不争气呀，一天净跟那姓姬那哥俩瞎胡混呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的嘛，我说我为啥写缉盗指南那么顺手呢！嘿，这里有你遗传基因。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "儿啊，娘这次回来可是有任务在身。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥任务啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "奉朝廷之命，追捕盗圣。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盗圣盗圣！你说我招谁惹谁了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这也不能怪朝廷，你有血案在身嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事儿不是你，这事儿跟你也有关系。两个月前，少林寺的智清大师，武当派的冲虚道长，翰林院的齐大学士，他们先后毙命，经验尸后发现，他们几位全是在毫无防范的状况下，被人家点穴。残害致死，这种穴法就是葵花点穴手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗬，你也会使，咋不抓你呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，抓我干啥呀！我又不是盗圣！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是这葵花点穴手，除了咱娘俩以外还有谁会使啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "会使的人不少，但是有这么强指力的人，除了咱娘俩之外，那就是姬无命的师父了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "公孙乌龙？——那你赶紧抓去呀！别回回把屎盆子都往我头上扣啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看你急啥呀！我这不正想办法呢嘛！你没看我这几天四处明察暗访，也没有线索。你还说我上外头做贼去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘啊，你真是衙门上的人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还有假呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，儿光荣啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭在下面惨叫，啊！——"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭！"
+        }
+      ]
+    }
+  ]
+}

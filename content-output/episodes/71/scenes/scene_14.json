@@ -1,0 +1,63 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝无双两人等待，小贝想出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要去哪儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么久了一点动静都没有，我想出去看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行，外面实在太危险了，一不留神就擦枪走火的，不是闹着玩的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是我还是很担心我嫂子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心吧，你嫂子见过大世面的，再艰难的处境她都能化险为夷，乖乖的，玩去吧。"
+        }
+      ]
+    }
+  ]
+}

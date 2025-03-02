@@ -1,0 +1,302 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭埋头干活，秀才在旁边转了几圈，上去搭话"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹，还没干完呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫌我干活慢是吧，那你来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，不不，我不是那意思……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走开……我说让你走开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹，我到底说错什么了？你告诉我，我才能改啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着改，这样挺好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你走不走？你不走我走，你不走我走，不要跟着我啊，否则我翻脸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "子曰的没错，唯女子与小人难养也，哎！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "子还曰过，女为君子儒！无为小人儒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，姑娘也是读书人啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不读书，但是我写字……这是我的名帖！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慕容子，喔……你就是来采访小贝的那个人吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀，你跟她很熟吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她很多功课都是我帮她做的，你说熟不熟？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫掌门的功课，百分百由他人完成。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，我说的很多是两三次而已。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，那你为什么帮她做功课？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "交不出功课，要打手心的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "敢有不从，动辄以武力相逼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，胡说什么呢？谁以武力相逼了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "挨手心，不是你说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的是她挨手心。先生对她很严的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "顽劣不堪的莫掌门，被宽厚的先生竖成了反面典型……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么时候成反面典型了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果不是反面典型，为什么对她一个人严呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你爱怎么写怎么写吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，我还没问完呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是去问别人吧，我什么都不知道。刚才那些话，别说是我说的，啊。"
+        }
+      ]
+    }
+  ]
+}

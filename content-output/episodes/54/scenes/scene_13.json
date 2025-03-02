@@ -1,0 +1,320 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "展侍卫靠着磨盘坐着，一言不发，手指头敲来敲去，思考状"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，别敲了，人都逮着了，带回去齐活了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人证是有了，物证呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不是有他的口供吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "口供和人证有区别吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，如果没有曹公公的证据，这个案子很麻烦，会非常的麻烦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不然我再去审审他，不行再打他一顿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没用的，他的东西都在这了，要有的话，你不早搜出来了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，那那那……那怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿，怎么办，有人还好意思问呢，好好的证据非要给烧了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘟囔嘛呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本来就是嘛，还是个堂堂捕快呢，正事不干，就知道添乱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "祝无双！你是不是不想干了你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就是不想干了，不干了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，你把那刀给我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还你，还你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那衣服也是我的，鞋，都脱下来给我，现在就脱，脱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好了，现在不是吵架的时候，让我说，这案子还有转机。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "双、六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥转机？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果你是他的话，有机会逃跑，最想见的人是谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我师父，还有我七舅老爷他三外甥女……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "你干嘛，你推我干嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是说包大仁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他最想见曹公公，只有曹公公出马，才能把这件事的影响降到最低。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，只要我们一路跟踪他，就有破案的机会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "小六出"
+        },
+        {
+          "type": "line",
+          "line": "哎，你去干什么去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去放老包走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，回来，你这个样故意放他走，他能去找曹公公吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你嘛意思，到底放还是不放？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放，但不是明放。无双，你去把佟掌柜给我找来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找她过来干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "相信我，只有佟掌柜办这件事最合适。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱们先到华山去看一看。几百年来呀，武林高手都是在那叉架的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说去哪儿，就去哪儿。我们俩没意见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这谁呀这？你怎么不回家啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……我有事儿耽误了两天。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦。正好，我这儿忙完了。走，回家"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！她不能跟你走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这谁呀？这是？你认识啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在下白展堂。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "莫小宝亮剑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我的名帖，有空欢迎过来捧场。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走！"
+        }
+      ]
+    }
+  ]
+}

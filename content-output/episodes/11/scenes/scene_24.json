@@ -1,0 +1,127 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "上酒，上酒！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "老刑，要啥酒啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "你们这儿有什么好酒？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "女儿红，七十年的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "不要，要最贵的，最贵的酒。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "最贵的还是女儿红啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "那就赶紧上吧，顺便把西街唱小曲的给我叫来。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫他干啥呀，家里有现成的。康桑阿米达 MUSIC……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老刑呀，你是不是饿得慌呀，呀呼咦唷嘿，你要是饿得慌，请你就对湘玉讲，湘玉给你溜肥肠。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "我不要溜肥肠，我要最贵的菜，最贵的。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "最贵的还是溜肥肠。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "不要胡说。老邢，你是不是发财了？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "前两个月的餐补，全发下来了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你不是说衙门钱紧吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，可是怡红楼的赛掌柜，交了一大笔税款，解决了燃眉之急。娄知县临时决定，把本季度最佳商户颁给怡红楼了，另有赏银五十两。"
+        }
+      ]
+    },
+    { "type": "action", "description": "湘玉倒" },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "掌柜的掌柜的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万别泄气，千万别泄气。一定要坚持到底，下季度就是你。努力努力再努力。你是不是愁得慌来，呀呼咦呼唷，你要是愁的慌来，就对我老邢讲，老邢给你帮帮忙，老邢给你帮帮忙，老邢给你帮帮忙，老邢给你帮帮忙，老邢给你帮帮忙。你是不是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "行了行了。" }]
+    }
+  ]
+}

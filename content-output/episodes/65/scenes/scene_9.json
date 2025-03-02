@@ -1,0 +1,143 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "虚拟，回客栈初遇场景"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "山丹丹的那个开花哟，红艳艳，光脚丫的哥哥你啥时候来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别唱了别唱了，大白天的不好好在家里待着，满街乱唱嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为我想唱啊，我以为我不想回家呀，你以为我赶了一千多里的地，就为了坐在这儿唱小曲吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还还敢顶嘴，信不信我把你逮起来我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你凭啥逮我，我又没有犯法？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你、你叫板是不是？我问你，你姓嘛，叫嘛，从哪儿来，到哪儿去？有没有人证物证身份证，答不上来，跟我衙门里走一趟跟我走了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六铐湘玉，李大嘴赶来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "痛打小六，打倒在地，大嘴踩上一脚"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姑娘受惊了，我本镇的唯一捕头，姓李……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "狠踩小六"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊~~~~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "木子李。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好一个充满爱心一身正气的好男儿。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切回现实"
+    }
+  ]
+}

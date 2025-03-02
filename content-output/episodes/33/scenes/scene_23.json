@@ -1,0 +1,114 @@
+{
+  "type": "normal",
+  "rawDescription": "【牢房，夜】",
+  "location": "牢房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "内心活动"
+        },
+        {
+          "type": "line",
+          "line": "撬棍，撬棍在哪呢？撬棍在哪呢？撬棍在哪呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在不行，哎呦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当心！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在不行，你就用我这胳膊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行不行，那你会疼死的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼死也比困在这里饿死好啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你让我再想想，再想想——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看到水桶把手"
+        },
+        {
+          "type": "line",
+          "line": "这不就是传说中的撬棍吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你先出去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头切回"
+    }
+  ]
+}

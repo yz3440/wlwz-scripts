@@ -1,0 +1,164 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才看书，佟进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，这些书都是按照你那张书单买的，你看看。我记得你还有一张书单，给我吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没关系，随便写的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我吧，这几本你先看着啊，等我干完活就帮你把另外几本买回来。省得你说我没有求知欲。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋还转了性了，这唱的哪出啊这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，你出去一下，我跟大嘴说几句话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你请你请"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身出去"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，没有关系，你坐着。以后跟我别要那么讲究，这些银子你拿着吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厄这，啥、啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你在我这儿干了两年多，就算三年吧，每个月二钱银子，一共是七两二钱银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "还银子"
+        },
+        {
+          "type": "line",
+          "line": "咋的，掌柜的，你要开除我啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，这是给你涨的工钱，要涨就从头开始涨嘛，省得你说我小气。过去的帐就算清了啊，从现在开始，每个月四钱银子啊。以后你要是对我有啥要求尽管提，只要我能办到，一分钟都不带耽误。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟走，李大嘴大惑不解"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这咋回事啊，这是？"
+        }
+      ]
+    }
+  ]
+}

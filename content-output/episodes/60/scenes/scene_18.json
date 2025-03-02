@@ -1,0 +1,322 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才和大嘴睡得一塌糊涂，老白进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍大嘴"
+        },
+        {
+          "type": "line",
+          "line": "哎哎哎！醒醒，醒醒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀，刚睡着，烦人劲！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这刚几点就睡了，太没追求了吧？我可跟你说啊，觉睡多了容易短命。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起"
+        },
+        {
+          "type": "line",
+          "line": "敢情你不用干活啊，买菜做饭还不算呢，一天到晚还得给人当义工去，一不留神还让人把月钱给扣了，这日子你自己过过试试。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "睡"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说归说呗，吵吵什么呀，哎哎哎……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴踢"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，小腿还挺灵敏。秀才，装睡是吧，我可拿凉水浇你了啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿个茶壶，秀才没反应"
+        },
+        {
+          "type": "line",
+          "line": "嘿？我数到三。一，二，三。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才没反应"
+        },
+        {
+          "type": "line",
+          "line": "你以为我不敢是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起"
+        },
+        {
+          "type": "line",
+          "line": "浇，浇，往这浇"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指脑袋"
+        },
+        {
+          "type": "line",
+          "line": "，浇，浇，浇！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这这这，怎么了这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐到桌子旁边，朝老白比划了坐的手势"
+        },
+        {
+          "type": "line",
+          "line": "坐。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白坐"
+        },
+        {
+          "type": "line",
+          "line": "我，读了这么多年圣贤书，为的什么？就为了教人念三字经啊？她想扫盲她扫去呀，她又不是不识字。己所不欲，勿施于人，这么点道理她不明白？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又不是我让你去的，你冲我激动什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起"
+        },
+        {
+          "type": "line",
+          "line": "人家秀才再穷再面，人家大事上从来不带含糊的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "凑过来"
+        },
+        {
+          "type": "line",
+          "line": "小郭再凶再横，遇到大事，还得听人秀才的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是因为小郭没主意，湘玉……唉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，老白，老白，我跟你讲……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么老白呀，你白还是我白？你看你们俩穿得跟一对双似的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你讲，你跟湘玉好好谈谈，实在不行，分手，对吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为分手她就能听了？人家吃了人参，千年人参！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早知道就不给她吃了，让她一直睡着。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "咋的，我说说气话不行啊？有能耐你当她义工试试。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有能耐每天抓十个贼试试？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到哪抓那么多贼去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道，有就抓，没有，大不了扣工钱呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实我倒觉得，与其坐以待毙，不如咱主动出击，没贼，咱雇个呗。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白会意地笑了"
+    }
+  ]
+}

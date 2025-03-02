@@ -1,0 +1,298 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "能给我一把锹吗？尘归尘土归土，每一个生灵都有回归大地的权利，我想亲手埋了它。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，您的爱心也忒泛滥了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴不屑回头，扭到脖子"
+        },
+        {
+          "type": "line",
+          "line": "啊啊啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "脖子疼就不要乱扭，这瓶药膏你拿去抹一下吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "九花玉脂膏"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥，啥膏？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是南宫家传的绝世好药，我小的时候调皮从马上掉下来，后脑勺着地，差点死了。后来拿这个药膏一抹，三天就可以下地了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是不是啊？这光抹不用吃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪儿疼抹哪儿，别抹太多，你这个伤不重，一晚上就好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，谢谢啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "南宫，你不是一直帮家里照看医馆吗？咋跑到这儿来了呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说来话长啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿笛子"
+        },
+        {
+          "type": "line",
+          "line": "还记得这个吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是我送给你的吗？这么多年了，你还留着呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是的，我在笛声中感知到了自然界的真谛。你也弹过琴，那种天人合一的感觉你能理解吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是那种人和自然合为一体，你的每一个血管里都流淌着祥和的气息。这就是自然。你有感觉吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我感觉……你是不是有点累了？我给你开个房间吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用。你给我找个被单就行了。我已经很多年没睡过床了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不睡床你谁哪儿呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡地上呀！只有贴近大地，你才能真正感知道那种自然界的气息。也只有在这个时候，你才能发现，人是多么渺小的个体，面对博大宽广的自然，难道你不觉得自惭形秽吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……我还是给你开个房间去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用。你要是真心欢迎我，你就帮我做一件事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥事儿？没有关系你说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这次出来，就是为了把我在笛声中感悟到自然界的真谛传播给芸芸众生。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦~你——是不是想让我帮你传播啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要是为难就算了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不为难，小的时候要是没有你那瓶药膏我也活不到现在。这次啊，就当是还你这个人情啊。"
+        }
+      ]
+    }
+  ]
+}

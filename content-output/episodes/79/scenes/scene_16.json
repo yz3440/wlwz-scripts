@@ -1,0 +1,46 @@
+{
+  "type": "normal",
+  "rawDescription": "【楼上，夜】",
+  "location": "楼上",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "杜子俊换好了衣服"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快快！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "准备下楼，又折回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我娘，我娘！"
+        }
+      ]
+    }
+  ]
+}

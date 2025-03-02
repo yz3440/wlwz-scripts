@@ -1,0 +1,166 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝扎马步"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扎马，就要有个扎马的样子。不要松松垮垮的，背挺起来！收腹，站稳了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "已经挺稳的啦，你踢我干吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就叫扎稳啦？力从地起，你的脚不把地扒住了，它力从哪儿来啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "丹田喽，内练一口气，外练筋骨皮。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么乱七八糟的，谁教你的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我嫂子。力从地起之后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "汇聚丹田！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "汇聚丹田！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "灌注全身！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "灌注全身！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吴守义",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "不行了，我的手不能动了！嫂子~~~~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吴守义",
+      "performances": [
+        {
+          "type": "line",
+          "line": "脉搏正常没事儿啊，我还活着？让莫小贝拍了一掌我居然还活着？死，怎么就这么难呐。"
+        }
+      ]
+    }
+  ]
+}

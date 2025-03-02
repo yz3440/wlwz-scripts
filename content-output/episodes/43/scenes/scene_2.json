@@ -1,0 +1,244 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的不好了，三娘要把老白带走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋知道地？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我趴在他们门外偷听到的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，老白会听她的吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，一定会的呀。你想啊，老白要是不跟三娘走，三娘就再偷一回官印，然后把脚印引过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太卑鄙了吧，你去告诉她，要走她自己走，展堂哪儿也不去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白是人家的亲儿子哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他还是我的亲——伙计呢，我预支过工钱的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那人家把工钱还你好了，人家什么都缺，就是不缺钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喊"
+        },
+        {
+          "type": "line",
+          "line": "那也不行，只要我不松口，谁也不要想把展堂带走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥干啥，你不要命了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喊"
+        },
+        {
+          "type": "line",
+          "line": "有本事点死我好了，我就不相信了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁谁谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂他娘。我刚才听见有人在叫板，不是你吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我，但是我在说梦话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以后别做梦，容易招事儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我就不睡了，您老早点儿休息啊。——吓唬谁呀，点我呀。点我呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大点儿声，有本事喊出来呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喊"
+        },
+        {
+          "type": "line",
+          "line": "点我呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噼噼——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我再也不敢了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我的啦，隔着门你都能吓成这样，真要见了面。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您放心吧，有掌门在，我们一定可以振兴衡山的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋振兴？干啥不得花钱？你们现在要是能拿出一两银子来，我就放她走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不用你管，我们自有办法。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啥办法？你们剑都已经当了还当衣裳吗？还是上街卖艺啊？还是伸手要饭呀？你们还是大侠，丢不丢人？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我无能！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切镜头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们家在汉中开了个镖局……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "三人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "龙门镖局？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果你们不嫌弃的话，平时可以走走镖，每趟下来，最少也可以赚七八两银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "三人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "回现实，回放完毕"
+    }
+  ]
+}

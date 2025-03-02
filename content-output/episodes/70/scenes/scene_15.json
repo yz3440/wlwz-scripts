@@ -1,0 +1,300 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭在大堂扫地，老白在整理被褥"
+    },
+    {
+      "type": "action",
+      "description": "小翠从楼上跑下来，跑到大门张望，又跑回店里，想去后院，小郭用扫把挡住，换个方向，被扫把挡住，再换个方向，还是被小郭用扫把挡住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咦……扫地嘞！长没有长眼睛啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小翠呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小翠？哪个小翠？你不就是那个小翠吗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我那丫环！你把她藏哪儿去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，我好怕怕哦！讲话要讲证据啊！小心我告你诽谤啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还告你拐带人口呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你告去告去告去！看你个小人得志的样子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吵什么吵，大清早的，吵得人家客人都不敢来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，你可知道，拐带人口犯的啥罪！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说着走到桌前坐下"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这话说的我咋听不明白。我拐带谁了啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小翠啊，赛貂禅啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不就是那个赛貂禅吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是说原来的那个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "原来的没有见过，你们见过吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "问大家"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊。谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁谁谁？以前那赛貂禅呐，不听说怡红楼倒闭之后，她给卖到关东去了吗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，你睁着眼睛说瞎话嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们还明人不说暗话呢！你自己的丫环你不看好了，偷着跑了凭什么赖我们！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是，告到衙门你也不怕人家笑话你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟我来这套！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对了，我们还就是黑吃黑了怎么着吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想上衙门我带你去啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想打架啊！好啊好啊，我正好有空啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去，想找人自己找去！没有工夫伺候你！干活！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人散开去各干各的活"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓，区区一个丫环，跑就跑了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走向楼梯，差点被小郭一扫把打中"
+        },
+        {
+          "type": "line",
+          "line": "就当丢了一条狗！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭狠狠扫了一下，小翠上楼后，赛撩开后院的帘布悄悄看了一眼，小郭跑过去把赛推了回去"
+    }
+  ]
+}

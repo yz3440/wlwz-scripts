@@ -1,0 +1,125 @@
+{
+  "type": "normal",
+  "rawDescription": "【西街，昼】",
+  "location": "西街",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "字幕：本集您将看到郭氏说书之精彩段落"
+    },
+    {
+      "type": "action",
+      "description": "镜头转到西街，大伙旅游归来，疲惫不堪"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，走不动了，累死我了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这算什么呀，小贝也走了一路，脚都没有歇就去上学了，这叫什么精神？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拉倒吧，就为了省点车钱，你觉得值当吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二钱银子，从左家庄拉到这，他还不如去抢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，真是，我得歇会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "搀着秀才，秀才离断气不太远了"
+        },
+        {
+          "type": "line",
+          "line": "老白，你说你大老爷们，你帮无双拿拿包嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂有伤嘛，左肩膀让我咬了，右肩膀让展红绫给砍了，手都抬不起来，刚才还往出渗血。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，没事，为了你，受再重的伤，我也要努力的活下去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人鄙视"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，开门去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说我不干活，这不开门去吗。"
+        }
+      ]
+    }
+  ]
+}

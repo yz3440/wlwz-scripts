@@ -1,0 +1,18 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "观众甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事，还不开始？"
+        }
+      ]
+    }
+  ]
+}

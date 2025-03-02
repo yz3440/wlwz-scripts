@@ -1,0 +1,534 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人打量谢的牌子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来我看看。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "从掌柜的手里拿过牌子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄来我看看。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才来抢"
+    },
+    {
+      "type": "action",
+      "description": "你看不懂。"
+    },
+    {
+      "type": "action",
+      "description": "小六抢过牌子交还给谢"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指小六"
+        },
+        {
+          "type": "line",
+          "line": "他谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们镇燕捕头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我听说你们镇有一个捕头姓邢啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "几乎贴着谢的脸，谢连连躲避"
+        },
+        {
+          "type": "line",
+          "line": "那是我师傅，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "谢瞪小六，小六走出数步"
+        },
+        {
+          "type": "line",
+          "line": "现在在十八里铺当捕头呢。您认识他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不认识，听说过，我听说他还活捉过盗神姬无命？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对，那就是他那就是他，您的大名我也是从他那儿听说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "叫来小六，轻声"
+        },
+        {
+          "type": "line",
+          "line": "谁呀这是？他很有名吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话嘛，谢捕头！专办绑架案子，"
+        },
+        {
+          "type": "action",
+          "description": "谢喝水"
+        },
+        {
+          "type": "line",
+          "line": "衡阳那宗绑架案子，就是他一手干的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "大喊"
+        },
+        {
+          "type": "line",
+          "line": "拿下。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢有些慌乱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一手办的，办的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说清楚了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "非常惭愧，由于我介入的晚，当事人吃了不少苦啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您等会儿，我们这案子您怎么知道的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是你们请我来的吗？"
+        },
+        {
+          "type": "action",
+          "description": "众人面面相觑"
+        },
+        {
+          "type": "line",
+          "line": "飞鸽传书啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出一封信"
+        },
+        {
+          "type": "line",
+          "line": "这信是不是你们写的？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂接过信，展开看，小六爬桌子凑上去，众人瞪小六"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看我干吗？又不是我写的。这上面字十有八九我都不认识。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能！除了你还能是谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从字迹上看不出来吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这封信的字迹跟前几封不大一样……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛呢？嘀咕什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，反正甭管是谁写的吧，您已经来了，只要您来了，我们就好办了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可未必，我丑话说前面，我只负责办案，不负责当事人的安全，如果死了伤了缺胳膊少腿的，跟我没关系。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的听后昏倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切镜头，谢拿着碗牛饮，一边喝小六一边往碗里倒着"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢捕头啊，这个案子，您打算从什么地方入手呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打个嗝，对小六"
+        },
+        {
+          "type": "line",
+          "line": "好了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对众人"
+        },
+        {
+          "type": "line",
+          "line": "现在还不清楚，经过初步的调查，有一点可以肯定，这绝对是一伙职业的绑匪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "给掌柜的捶肩"
+        },
+        {
+          "type": "line",
+          "line": "绑匪还有业余的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想早点破案吗？不要多说话，干好自己的事情。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指手画脚"
+        },
+        {
+          "type": "line",
+          "line": "听听人家谢捕头说的，谢捕头怎么说你们就怎么……"
+        },
+        {
+          "type": "action",
+          "description": "掌柜的拉小六"
+        },
+        {
+          "type": "line",
+          "line": "我还没说完呢，你们拽我干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "贴着小六耳朵"
+        },
+        {
+          "type": "line",
+          "line": "这人行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "action",
+          "description": "谢喝水"
+        },
+        {
+          "type": "line",
+          "line": "开嘛玩笑，关中总捕头……的候选人，专破绑架案子，还信不过？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可他咋连自己人都分不清楚，刚才差一点把展堂都给打了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "放下碗"
+        },
+        {
+          "type": "line",
+          "line": "没有时间废话了，赶紧把那勒索信给我拿来，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "打嗝"
+        },
+        {
+          "type": "line",
+          "line": "我要研究研究。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝成这样了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出信"
+        },
+        {
+          "type": "line",
+          "line": "用不用我们提供点现成的线索？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "递给谢"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "接过信"
+        },
+        {
+          "type": "line",
+          "line": "需要的时候我会跟你说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "倒水"
+        },
+        {
+          "type": "line",
+          "line": "谢捕头，您办案子那我干点嘛呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "困了就睡，饿了就吃，我喜欢独自办案，不好意思。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "过了一夜"
+    }
+  ]
+}

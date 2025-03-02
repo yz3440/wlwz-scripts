@@ -1,0 +1,392 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟边说边进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕大侠，你的意见想出来了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我就是说啊，要是跟你提了的话你肯定能改吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要我能办得到。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，我觉得目前最大的问题是，你，缺乏求知欲。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，秀才，听到现在只有你这条意见最靠谱，你说吧，怎么改？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多读书，读好书。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我到你的屋里拿书去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎别别，我的意思就是说你得自己买。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有那么多的书我还买啥？借我看一看不就行了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我那些书都过时了，都是旧的，你得买新的呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有看过就是新的。我拿去啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，回来回来，我跟我说啊，你必须自己买，这样才能显得出你的诚意。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好，买就买，你有啥推荐没有啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掏出一张书单"
+        },
+        {
+          "type": "line",
+          "line": "准备好了，这是我开的书单，西街有家书店进在打折，买三送一，我打听过价钱了。这么多书带包装一两银子，要嫌不够再给你开一张……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，不用了，这些书看完就不错了，去了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧去啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "目送佟走出店门"
+        },
+        {
+          "type": "line",
+          "line": "呵呵呵，有人赞助就是不一样，以后要看书，不用自己花钱。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "学老邢的笑"
+        },
+        {
+          "type": "line",
+          "line": "哈哈哈哈。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切镜头，书买回来了，吕秀才一脸失望"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "念书名"
+        },
+        {
+          "type": "line",
+          "line": "贤内助指南……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是教你怎么样做一名称职的全职太太。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胭脂宝典？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这本是专讲化妆的，主要是讲胭脂，还有水粉宝典，今天没有到货，明天下午我去拿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是什么？芥末坊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是牡丹亭的姊妹书，现在特火，年度最佳女性读物，听说钱夫人也买了一本。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知与读？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是知音与读者的合订本，全是教你做人的道理，在京城流行了七八年呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "心灵老鸭汤，怎么做的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可不是菜谱啊，里面全是感人的小故事，回来的路上我就翻了两页，差点没有哭出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这、这、这不是跟你开了书单了嘛？啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家说你那些书太深了不适合我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也不能瞎买啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的，买了书之后，我觉得自己浑身上下都充满了求知欲。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对食客"
+        },
+        {
+          "type": "line",
+          "line": "是吧，尊贵的客人，你们想吃什么我很想知道喔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，好好看，慢慢看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才你放心，我一定不会辜负你的期望的，一定的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "加油！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟上楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天下真没有白吃的午餐。唉！"
+        }
+      ]
+    }
+  ]
+}

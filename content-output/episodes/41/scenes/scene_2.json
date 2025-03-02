@@ -1,0 +1,274 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "李大嘴坐在门口发呆"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这么晚了，你咋还不睡呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，你们不也没睡吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还开着大门啊，你不怕掌柜的骂你啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开开门，透透气，要不然心里憋得慌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你是不是有什么心事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也没啥心事，就看你们小俩口甜甜蜜蜜出双入对的，有点儿眼红。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也找一个呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不我帮你找好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算啦算啦，我就是一时郁闷，睡一宿觉就好了。你们都回去吧，回去睡吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你好好的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你早点回屋啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才小郭下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要是蕙兰在就好了"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头回放，李大嘴和杨蕙兰在黑灯光景下跳恰恰恰，唱，自从在同福客栈见到你，就像那春风吹进我心里，我要轻轻地告诉你，不要将我忘记"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "祈祷"
+        },
+        {
+          "type": "line",
+          "line": "老天爷，如果能让我在有生之年再见她一面的话，我宁愿从此失明。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问还有空房吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还记得我名字啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬自己确认不是做梦"
+        },
+        {
+          "type": "line",
+          "line": "稍微再等一下！——老天爷，我刚才说的那个失明，是从此失去名字！如果以后谁再管我叫李秀莲我就跟谁急！——蕙兰，来啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也叫李秀莲吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有谁叫李秀莲啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，没谁。你快帮我开间房吧，走了一路，都快累死我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉唉，我帮你拎吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拎了一下包"
+        },
+        {
+          "type": "line",
+          "line": "——那啥还是你拎吧，我拎不动。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跳恰恰恰"
+        },
+        {
+          "type": "line",
+          "line": "啥破地儿啊，一蹭一脚泥。往上，往左边拐就是。"
+        }
+      ]
+    }
+  ]
+}

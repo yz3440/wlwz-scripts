@@ -1,0 +1,204 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，傍晚】",
+  "location": "佟寝",
+  "timeOfDay": "傍晚",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白与掌柜的一见二人拥抱在一起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，小贝呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先别着急，听我慢慢跟你解释。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "示意无双出去，无双出门"
+        },
+        {
+          "type": "line",
+          "line": "来，你放心，小贝迟早回回来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "二人坐下"
+        },
+        {
+          "type": "line",
+          "line": "迟早是多早呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我用性命跟你保证，最多三天，她肯定平安回来你相信我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥都不跟我说，让我怎么相信你啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，咱们风风雨雨走过了那么多，每次不都能逢凶化吉嘛？这次也不能例外啊，再说小贝是个好孩子，老天爷不忍心把她夺走，你不是说还要看着小贝出嫁吗？嫁妆不都准备好了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再说了，这件事情都是我的错，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到床边坐下"
+        },
+        {
+          "type": "line",
+          "line": "如果当初我不跟她吵架，她也不回出门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她出门是为了上学，跟你没啥关系。你别啥事都往自己身上大包大揽的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我当初就不应该让她去上学。请个先生回家来教，太太平平的，不知道有多好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，自责解决不了任何问题，后悔也改变不了事实。咱们现在能做的就是挺住，哪怕是世界末日咱们也得挺住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "世界末日？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冲进门"
+        },
+        {
+          "type": "line",
+          "line": "不好了不好了，外面……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，你呆着，外面的事儿我解决。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉住无双的手"
+        },
+        {
+          "type": "line",
+          "line": "我不，无双，你老实告诉我。是不是小贝出事了？是不是啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是小贝，是小六和小米。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "三人出门，下楼"
+    }
+  ]
+}

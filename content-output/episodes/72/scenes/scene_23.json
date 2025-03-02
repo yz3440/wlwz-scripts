@@ -1,0 +1,134 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴在睡觉，秀才写字"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了，这可能是我这辈子写得最好的字，明儿把它裱起来，给你当结婚礼物。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，你还是留着给小郭吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要，那给无双，无双肯定要。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭悄悄进进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，你对无双还……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看见小郭，后者朝他瞪眼，忙改口"
+        },
+        {
+          "type": "line",
+          "line": "那个，没啥感觉了，哈？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然没啥感觉了，既然选择了小郭，就应该好好跟她在一块儿"
+        },
+        {
+          "type": "action",
+          "description": "小郭高兴"
+        },
+        {
+          "type": "line",
+          "line": "娶鸡随鸡娶狗随狗嘛"
+        },
+        {
+          "type": "action",
+          "description": "小郭听起来别扭"
+        },
+        {
+          "type": "line",
+          "line": "不过，如果能够再重新选择一次的话……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定还是选小郭，是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那当然选小郭了，但既然是假设，如果我当初两个都娶了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可以啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才吓倒在地"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹……"
+        }
+      ]
+    }
+  ]
+}

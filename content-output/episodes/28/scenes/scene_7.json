@@ -1,0 +1,390 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "一共是二百五十两，你仔细数数吧。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "不用数了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "这可是你娘子的命啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        { "type": "line", "line": "没事，顾不了那么多了。娘子，你死得太冤了……" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥人嘛这是，你娘子要是不被毒死，也要活活被他气死。咋才起床呀，小贝呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "小贝不是上学去了吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "胡说，我一大早就在这了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "哎呀，那她会不会畏罪潜逃了？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "你才是畏罪呢！你还愣着干啥，还不赶紧去找！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "回来了？咋了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "倒水。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你倒是说话嘛。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "在外头找了一大圈，还是没找着。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "那大嘴和秀才呢？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "还在外边找呢。掌柜的，你先别着急啊。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我能不急吗？这个孩子呀，你说她能跑到啥地方去嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "哎，她会不会畏罪潜逃了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才畏罪！你也是的，啥时候不能睡，偏偏晚上睡。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "啊？那我要是白天睡，不就成猫头鹰了吗？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都什么时候了，你看把掌柜给急的，你怎么还开玩笑呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿哟喂，哪像白大爷那么正气凛然，不苟言笑啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "呀？你现在还敢抬杠了你啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "这么着啦？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "葵花点穴手！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "排山倒海！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "不要闹了！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "谁过来帮把手啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "快去帮忙，快去帮忙。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "来了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "这女的平时没这么沉哪。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "快快快……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "怎么了，怎么了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "邢捕头和燕小六朝这边来了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        { "type": "line", "line": "衙门来人了？快快快，回回回……" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衙门来人，老钱慌个啥嘛？轻着点！你们就不怕别人听见？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "佟掌柜。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯……邢捕头，嘿嘿，是啥风把您给吹来的？咋了，邢捕头？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "你以后叫我老邢吧。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "为啥呀？哦，我忘了，你已经被撤职了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "撤了又怎么样？在我心里，他永远是我最亲最爱的好师父。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "也是我最亲最爱的好捕头。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "谢谢……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捕头就算了，从今往后，本镇的捕头只有一个，那就是我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "恭喜你呀，燕捕头。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭喜嘛呀，何喜之有啊，官升得越高，压力它就越大，像我们这种当差的，风里来，雨里去，图个嘛？不就图个百姓安居，苍生乐业嘛，啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六子，你也学会打官腔了啊？咋的，你嗯啥呀？我就说不得你了是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [{ "type": "line", "line": "说得，说得。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "没规没矩的东西！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        { "type": "line", "line": "我再没规矩，也不可能一边吃着官粮一边要饭。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不要饭能行吗，你是不知道，一到关东，到处是闹饥荒的，那一眼看过去，满地都是……亲娘咧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "满地都是亲娘？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "尸体！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "哎呀妈呀！你们都知道了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "知道啥了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "尸体呀……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "尸体在哪啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "上面客房里呢……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这件事情吧，我早就想跟你们说。——可就是我太忙了，忙得很……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "那你继续\"可忙\"吧，我们 Come on，comeon！" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "type": "normal",
+  "rawDescription": "【街头，夜】",
+  "location": "街头",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白离开"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "同福客栈，大家伙儿保重！——好强的杀气！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "躲在街角"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您老等会儿，先听我说完行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥也别说了，啥也别说了，待本长老冲将进去，给他们每个人来他一掌，看他谁敢跑，再朝他背后再来一掌……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，你别你别，我找您来就是想请您帮我吓唬吓唬他们，哎呀，我不是让您真动手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，不动手，那我动脚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还不如动手呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "动手更好啊，正要他们见识见识啊，什么叫原汁原味的降龙十八掌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，我求求您了，他们都是好人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗤！有这样的好人么啊？好人能罚你钱？你见过哪个好人向乞丐要钱啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀他们是……要不这样，您先回去，这事儿就算了，回头我自己摆平吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住口！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对街口"
+        },
+        {
+          "type": "line",
+          "line": "——别藏了，出来吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有藏啊？我就在这儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没说你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说我呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在下白展堂，还未请教？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭长张！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "见过张前辈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我姓恭、名长张！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭长老乃俺丐帮恭喜发财四大长老之一！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是之一，是首席！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "首席！首席！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是干什么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他就同福客栈一跑堂的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊？动手吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，前辈我就是一跑堂的，哪儿打得过您呢！您是前辈，大人有大量。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你倒是打还是不打！要打我舍命陪着！不打进屋换一个去打！你呀，任意挑一个！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "恭长老欲进屋"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！"
+        }
+      ]
+    }
+  ]
+}

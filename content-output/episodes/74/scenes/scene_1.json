@@ -1,0 +1,274 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "柳晕倒，众人手忙脚乱地照顾她，李大嘴跑进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上吊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "手势"
+        },
+        {
+          "type": "line",
+          "line": "——未遂，幸亏发现得早。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看那脖子，都让绳子勒成什么样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她、她、她咋说不听呢？我不跟她说了我心里有别人了嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "心里有别人，那你还跟人家喝着小酒，调着小情？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出了事就不管不顾的，把责任都往女孩子身上推，哎你有没有人性啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事儿也不能全怪大嘴……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "感动"
+        },
+        {
+          "type": "line",
+          "line": "秀才！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最多只能负百分之九十九的责任"
+        },
+        {
+          "type": "speaker-action",
+          "description": "手势打李耳光"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳挣扎着起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不怪嘴哥，不怪嘴哥，都是我自己傻，是我、是我死缠着人家不放。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "声音加重"
+        },
+        {
+          "type": "line",
+          "line": "这不是典型的一哭二闹三上吊嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对柳"
+        },
+        {
+          "type": "line",
+          "line": "你先躺好，没事了，大嘴他已经答应娶你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人愣"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊喜"
+        },
+        {
+          "type": "line",
+          "line": "真的？我不是在做梦吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "话没说完，被郭拉到一边，示意柳上吊了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你掐我干啥呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭瞪眼"
+        },
+        {
+          "type": "line",
+          "line": "我又没说不娶……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘴哥，你千万不要勉强啊，我不是想逼你的，我本来是想静悄悄的离开人世，我不想麻烦大家的……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掉泪，佟爱怜地抚摸她"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多好的姑娘啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "要李坐到床边"
+        },
+        {
+          "type": "line",
+          "line": "你坐这儿听着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我下次一定注意，我一定找个偏僻点的地方，再找个利索点的死法……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "制止"
+        },
+        {
+          "type": "line",
+          "line": "行了，行了，行了，差不多得了啊，我既然答应娶你了，我就绝不反悔，这辈子是福是祸是好是坏就这么着吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳激动地扑到李怀里，大家躲在一旁饶有兴趣地观看，李半是甜蜜半是尴尬"
+    }
+  ]
+}

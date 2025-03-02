@@ -1,0 +1,448 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "酒菜已经准备好了，湘玉倒好酒就进了厨房。无双拉着老白从后院来到大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀，你扯我干啥，松手，把衣裳扯坏了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄啊，我就给你一个忠告啊，千万不要喝那壶酒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这壶酒？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？出啥事了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，来不及作解释了，熬过今晚再作打算，别喝那壶酒，千万别喝啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说完无双跑进后院，老白正在端详这壶酒，湘玉就从厨房端着菜出来了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了，菜是少了一点儿，酒还是不错的，你来了，连个欢迎会都没有，现在就算是给你接风了啊，坐。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白小心翼翼的坐下，看着湘玉给自己倒酒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "这个酒还是蛮不错的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还没有喝，就知道酒不错？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "啊呵呵，这一闻就知道了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "东北口音"
+        },
+        {
+          "type": "line",
+          "line": "那啥，我平时不咋喝酒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的口音？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "哦，我跟大嘴学的！我一听，喔哟，这个北方话满好听的啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等你喝完酒，我教你说西方话啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "陕西话！先干为敬，来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人碰杯，老白喝了一口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少了少了，感情深一口闷，我跟你的感情就这么一小口啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "我们之间有感情？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉瞪了他一眼，老白连忙喝光了酒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这才像个爷们儿，再来一杯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，我不能喝了，我明天早上还要早起啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "佯怒"
+        },
+        {
+          "type": "line",
+          "line": "不给面子是吧？我告诉你，要不是看你跟他长得像，我才不会收留你呢，你要想接着干就赶紧喝，再不喝就给我卷铺盖走人。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白又干了湘玉递过来得酒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再来一杯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "不能喝了掌柜的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "蒙汗药的药劲儿上来了，老白摇摇晃晃"
+        },
+        {
+          "type": "line",
+          "line": "这个酒好像有点不对啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋不对？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "味道还是蛮好的，就是有点上头啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完就晕倒了"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉见状大喜"
+    },
+    {
+      "type": "action",
+      "description": "片刻，众人齐聚大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧备辆马车，咱们连夜杀奔十八里铺。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人急忙阻拦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，他万一要醒了怎么办？这药劲儿只能撑一个晚上，那就再给他灌一点，谁帮我搭把手。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人又阻拦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，蒙汗药不能多灌，否则伤脑子的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是要伤脑子，最好变成白痴，否则他一醒，把咱们供出来以后还怎么混呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的不行，都是爹生娘养先生教的，你这么做伤天害理的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要能把展堂救出来，就是下十八层地狱我也不会在乎的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉放下了酒壶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才说得对，都是爹生娘养的，人家活得好好的，凭啥为一个不相干的人赔命。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的掌柜的，那咱还劫不劫狱了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了，国有国法，杀人就该偿命，这就是血的代价，不管他了，你们大家好生过日子去吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "我好后悔呀，我从一开始就不应该嫁过来„"
+        }
+      ]
+    }
+  ]
+}

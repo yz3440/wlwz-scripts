@@ -1,0 +1,172 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，傍晚】",
+  "location": "大堂",
+  "timeOfDay": "傍晚",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的在门口等着，手里还拿着讲演稿，老白进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？我师妹呢？没有追回来？白展堂？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你追人家回来干啥呀？非把人家逼疯了你才高兴啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜摇头"
+        },
+        {
+          "type": "line",
+          "line": "把头抬起来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "流鼻血了，快坐这。吃，你可劲吃，回头我给你买二斤人参让你当萝卜啃。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿纸团给掌柜的堵住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，对我一个好那叫爱，对每个人都好那叫博爱，你选哪一样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要再这样，我一样都不选。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拔纸塞"
+        },
+        {
+          "type": "line",
+          "line": "那就让我狂喷鼻血而死！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "塞上纸塞"
+        },
+        {
+          "type": "line",
+          "line": "你要干啥呀你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到底选哪一样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我选博爱，逮谁爱谁行了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爱不是随便说说就可以的，反扒工作什么时候开始？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明天，明天一早，你赶紧睡吧，都所少夜没合眼了，你不累我还心疼呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不困！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快点呢，听话啊。"
+        }
+      ]
+    }
+  ]
+}

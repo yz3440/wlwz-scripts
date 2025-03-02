@@ -1,0 +1,212 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    { "type": "action", "description": "大堂饭桌边围满了人" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，不知不觉，已经两年了，这两年来风风雨雨呀，来来来，干杯！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "干干干„" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等等会儿，你们在一起已经两年了？不可能吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "咋不可能？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，两年前..我来过这儿啊！真的！真的真的！我跟你们说啊，那时候啊，这儿还是一个黑店呢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "笑什么呀！" },
+        {
+          "type": "line",
+          "line": "我第一次离家出走，刚一出门就碰上一黑店，他们十个对付我一个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "十个？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "这还是碰上的，没碰上的至少这个数。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "八个？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "八十个！我被他们团团围住，四面夹攻，点倒在地。个个都是点穴高手啊，比你还高。哎呀，还是年轻没经验呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "那„你是怎么逃走的呢？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那时候厨房不是有个狗洞吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，就是那个灶台后边烟囱坑那儿，后来我当厨子，我给堵上的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看我干什么呀，八十多个人，换你们谁都得钻，打那时候起我就回家刻苦练功，足等了一年多才敢重出江湖，本想一举把这儿端了，谁知道换人了，换了你们这几块料，哼！哎呀这个遗憾呀，来来来，喝酒喝酒！"
+        }
+      ]
+    },
+    { "type": "action", "description": "湘玉起身走开" },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么呀，对了，忘了跟你们说，原来那个掌柜的是个男的，好家伙，头发那么长，凶神恶煞！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉到柜台后面拿出了一个布包，在桌上摊开"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "这什么呀，这是——" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "发糕！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "两年前那块儿？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "这块是你的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "什么意思呀，这个？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "赶紧吃吧！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "我„这„" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "要不我给你热热去？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "你怎么不吃呀，你……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "两年前我们都吃过啦！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "她就是„" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "逃跑的那个女鬼。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "谁是鬼？谁是鬼？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "甭跟她废话，直接往里塞！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "救命呀~~~！" }]
+    },
+    { "type": "action", "description": "众人追逐小郭" }
+  ]
+}

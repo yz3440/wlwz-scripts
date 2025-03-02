@@ -1,0 +1,478 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，夜】",
+  "location": "女寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "气死我了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干嘛呢？停停停，你扎马步呢啊？力从地起劲儿在腿上，不在牙上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就在牙上！就在牙上！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就在牙上就在牙上，真是的，洗脚啊，你嫂子要招新跑堂啦，明天一早就把招聘启事贴出去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小贝出"
+        },
+        {
+          "type": "line",
+          "line": "哎？上哪儿去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找我嫂子评理去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "评理？我问你，老白走了谁来跑堂？没有跑堂咱们怎么做生意呢？没有生意咱们哪来的钱呢？没有钱咱们怎么过日子呢？说，不是要评理么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可他又不是不回来了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢哟哟，那他啥时候回来嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他反正一定会回来的，他临走的时候答应过我的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就等他回来以后再说，反正跑堂是一定要招的——这是你嫂子说的，跟我没关系，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼哼哼嗯，哼哼哼哼哼哼哼哼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼哼哼——你可以慢慢奸笑，哼哼——但是先把鞋脱了，洗脚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "NO，去把他们都叫过来，除了我那黑心嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都睡了呀大姐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就叫过来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切场，众人到齐，大嘴打着哈欠，小郭和吕靠着睡着了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咳嗽示意"
+        },
+        {
+          "type": "line",
+          "line": "恩咳恩哼！恩咳恩哼！关于这个，那个，所谓的这个，也就是说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，行行行，别这个那个的有话赶紧说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们每次开会不都这样吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你长话短说，明天一早还巡街呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我嫂子要找新跑堂，咱们绝不能让她得逞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这恐怕不合适吧？子曾经曰过……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "子怎么曰，跟我没关系！我关心的是白大哥还能不能回来！他虽然走了，但有可能在暗中观察咱们，这才一天就招新人，让白大哥看见心里是啥滋味儿啊？才一天哪，伙计们，当初小郭姐姐走了一个多月，我嫂子也没有说要招一个新杂役吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？哎，掌柜的对我还不错嘛，呵呵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，只是表面现象哼，实际上她是想省钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了给白大哥留一扇后门儿，咱们拼了吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "同意！为了师兄我跟掌柜的拼了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要不扣月钱，咋地都行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要芙妹不反对，我也豁出去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要掌柜的不翻脸——翻脸也无所谓，跟她拼了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然如此，那我正式宣布——后门儿战斗队正式成立！本人不才，愿担任队长。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "队长，你辛苦了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了白大哥，吃再多苦，就当自己是二百五。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "受再多罪，只当自己是窝囊废！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "与君共勉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那么好我宣布第一项作战计划，把门打开。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，之后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回屋睡觉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，休息好了才有精神应付明天的战斗么啊，呃诸位晚安明天见喽。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人哈欠连天起身出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，我谢谢你们，我感谢你们哦！呵呵，睡觉了睡觉了，啷咯儿哩咯儿楞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "起来起来起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗脚，队长也要洗脚！"
+        }
+      ]
+    }
+  ]
+}

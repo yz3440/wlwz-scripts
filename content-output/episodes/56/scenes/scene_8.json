@@ -1,0 +1,246 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "展堂将匕首递给殷十三"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿上东西，赶紧走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等等等，我还是没弄明白，你既然是东厂的人，怎么跟他们混到一块儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一言难尽呀，你赶紧走，我保证，你前脚走，我后脚干掉老包。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，要走咱俩一块儿走，发了银子，对劈儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是钱的事情，关键是老包身上有对督公不利的证据，如果我不拿回来的话，后患无穷啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事儿督公知道吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然知道，要不我来干什么？我想外面那两个高手你已经交过手了，如果再动起手来，你有几分的胜算不用我说吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是你看，如果我现在就走了，回头督公怪罪下来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心好啦，我不说督公怎么会知道吗？再说了，咱们两个是一根绳上蚂蚱，我害你就等于害自己。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是那是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要不走的话有两个后果，一，被他们干掉，二，被督公干掉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没做错什么，督公为什么要干掉我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想啊，你一顿扳子都没有挨，就把所有的事情全说了，我要是跟督公一说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，我现在就走，马上！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回去你就跟督公说，人已经杀了，非常的顺利，千万不要提我一个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是想给督公一个惊喜，也算我没白忙这半年嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，有数了，还没请教？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三营六组，白面葫芦娃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "九营十八组，仙子狗尾巴花。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就此别过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "京城再会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后会有期！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "殷十三出门，展堂刚要坐下，就听外面祝无双喊道：\"葵花点穴手\"，展堂大惊之下，跑出门外"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白谨慎地看着大伙，大伙表情各异"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说嘛呢老白，你没事吧你？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摸老白脑袋，被无双拉开"
+        },
+        {
+          "type": "line",
+          "line": "你拽我干吗，有话说话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "冲天的杀气，小心误伤啊，走走走，别给人添乱啦！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把小六拽出门，老白假装纳闷"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对小郭"
+        },
+        {
+          "type": "line",
+          "line": "去给客人倒酒。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老白"
+        },
+        {
+          "type": "line",
+          "line": "王先生。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对的呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这是打哪来呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "松江，松呢，是松花江的松，江呢，是松花江的江，但不是东北的那个松花江啊，是松江府的松江。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂，那你直接说松江府不就行了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小地方，说了怕你们不晓得。对了，你们这里招跑堂的，有什么特殊要求没有啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啊，除了你，谁都可以。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝气"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么？我有什么不足的地方你可以说呀，我可以改的，我这个人脾气很好的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江山易改，本性难移。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本性？你了解我的本性啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白先生，啊不，草头黄先生，你觉得这样有意思吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得挺有意思的，甭搭理她，咱们走，她不要你，我要你，咱们走！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拽老白"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂喂……你要带我去哪里呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "浪迹天涯！这种无情无义的破地方，我一天都呆不下去啦，走！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拽着老白就往外跑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂喂……你说清楚啊，我好不容易找到这里，人生地不熟……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的求助似的看着小郭，小郭装看不见"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白和小贝又蹿回来"
+        },
+        {
+          "type": "line",
+          "line": "你可以留下。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白和小贝眉开眼笑"
+        },
+        {
+          "type": "line",
+          "line": "但是没有工钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有工钱？没有工钱我在这里干什么？我这不是浪费青春吗我。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拽"
+        },
+        {
+          "type": "line",
+          "line": "别走别走，谁说没有工钱，我每个月有五十文的零花钱，全给你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五十文啊？哎哟，连双象样的鞋都买不起哟。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又要走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拽回老白"
+        },
+        {
+          "type": "line",
+          "line": "爱要不要，不要拉倒，小贝，回屋，做你功课去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "连拉带拽"
+        },
+        {
+          "type": "line",
+          "line": "放心啦，你嫂子不会放他走的啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样呀，每个月五十文，包吃包住，干就干，不干就算。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我算一算啊……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "蹿到柜台，拨算盘"
+        },
+        {
+          "type": "line",
+          "line": "嘿，好的呀，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜的脸有些阴转晴"
+        },
+        {
+          "type": "line",
+          "line": "但是我有一个要求，我每天只工作八个小时，如果超出的部分薪水要另算啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭冷笑"
+        },
+        {
+          "type": "line",
+          "line": "每个时辰十文，三更以后二十文，节假日薪水要双倍，如果年底的话，要有双薪的话我更高兴了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就按照你说的办。过来，带你看看住处啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好的呀，好的呀。"
+        }
+      ]
+    }
+  ]
+}

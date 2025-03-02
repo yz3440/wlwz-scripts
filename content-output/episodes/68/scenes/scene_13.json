@@ -1,0 +1,188 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的和无双促膝而谈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没感觉？你啥意思嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没感觉就是没感觉，你对他有感觉吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对他有感觉，那展堂咋办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "所以嘛，你都对他没有感觉，更何况是我呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥叫我对他没有感觉？那可是你自己挑的人啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啦，做测试的时候我撒谎了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你为啥要撒谎？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭问你喜欢文的还是喜欢武的呀？我一说文的她马上就翻脸，她又问，你喜欢好动的还是喜欢好静的呀？我说喜欢好静的。她都快要吃人啦。所以我做的选择，都是跟秀才截然相反的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实那人也不错，各方面条件都挺好的，可是我跟他没可能了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "理由理由理由？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我一喜欢上谁就要倒霉，以前我喜欢师兄的时候，下场你看到了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜不悦"
+        },
+        {
+          "type": "line",
+          "line": "后来我又喜欢上秀才，下场又是什么？好不容易喜欢上你弟，又是什么结果。还有那个姓展的锦衣卫……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜笑"
+        },
+        {
+          "type": "line",
+          "line": "我一定是受了谁的诅咒了，嗯，还是赶快断了念想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，你什么都不要说了，明天呢，你就帮我去推掉他，以后啊，不要再搞这种事情了，缘分是不能够勉强的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，你哪天要是改变主意了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我一定亲自委托你给我找下家。"
+        }
+      ]
+    }
+  ]
+}

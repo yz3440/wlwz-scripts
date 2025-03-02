@@ -1,0 +1,223 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的失魂落魄地坐着，目光呆滞，不断地叹气，小郭也装模作样地跟掌柜学"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉……唉……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，没事的，你不要那么担心好不好？又没有伤到人，肯定不会重判。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉……我倒不担心这个，就怕他越来越疯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "比较坚定"
+        },
+        {
+          "type": "line",
+          "line": "不会吧？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "有点没底气"
+        },
+        {
+          "type": "line",
+          "line": "应该不会吧？……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，呀！大嘴得的会不会是传说中的痴呆症啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说啥呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小郭"
+        },
+        {
+          "type": "line",
+          "line": "你说，大嘴为什么忽然就会变成这个样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "被你逼的呗，人家要请假你非不肯，大嘴那个脑子又是一根筋，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "眉飞色舞"
+        },
+        {
+          "type": "line",
+          "line": "越想就越急，越急就越气，越气就越……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了！湘玉已经够急的了，你就别添乱了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，小郭说的没有错，大嘴也许真的是被我给逼疯的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，湘玉，大嘴没咱想象的那么脆弱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是除了这个理由还有别的解释吗？我错了，我真的错了，我从一开始就不应该嫁过来，如果我不嫁过来，我的夫君也不会死，如果我的夫君……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，行了！叨叨咕咕就那几句，明天一早我找一个好一点的大夫。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一定要最好的，要最贵的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最好的未必就最贵吧？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿筷子捅鼻子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿下来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不管，只要能把大嘴的疯病治好，大嘴是我的好兄弟，只要能把我兄弟的疯病治好，倾家荡产我也在所不辞！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "上楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗬，嗬，嗬……这还是她吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白同样一脸疑惑"
+        }
+      ]
+    }
+  ]
+}

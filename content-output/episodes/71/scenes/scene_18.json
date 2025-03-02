@@ -1,0 +1,52 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫小贝采访秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "首先，她很有才华，而且并不流于表，最难能可贵的就是，她从不吹嘘自己，光这一点，就值得我们大家学习，跟她在一起呀，那种感觉好像是在夏天冲浪，忽上忽下，忽高忽低，浑身上下从里到外都充满着活力。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我想问一下，你说这话就不怕小郭姐姐跟你生气吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小孩比较调皮啊，生气也得说，这辈子能交上个这么一个朋友，值了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "淘气！"
+        }
+      ]
+    }
+  ]
+}

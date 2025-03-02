@@ -1,0 +1,234 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "赛正在床上睡觉，小翠拿着一个瓶子悄悄走了进来，坐到了床沿上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，你真是命好，做了那么多坏事还有人同情你，宁可倾家荡产来帮你。可我呢，当然你把我买回来，那是因为好心？别人不知道你，我还能不知道你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "梦话"
+        },
+        {
+          "type": "line",
+          "line": "小翠！"
+        },
+        {
+          "type": "line",
+          "line": "小翠，口渴了。给我倒杯茶去！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠吓了一跳"
+    },
+    {
+      "type": "action",
+      "description": "小翠安下心来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切！连做梦还不忘使唤我！你啊，真是无药可救！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等咱挣够了钱，咱就回家，我给你找个好婆家。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "靠前"
+        },
+        {
+          "type": "line",
+          "line": "小姐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "醒了看到小翠"
+        },
+        {
+          "type": "line",
+          "line": "啊！啊！来人呐！！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白，湘玉冲了进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这话应该我问你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手里拿的什么，给我拿过来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说完抢过小翠手里的瓶子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心吧，这是白药，给她治病使的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打开盖子闻了闻"
+        },
+        {
+          "type": "line",
+          "line": "你有那么好心？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是好心，那她死了，谁帮我拿行李啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她以后不会帮你拎行李了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说着拿出房契"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是房契，她的卖身契呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，我不卖了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身走到床前"
+        },
+        {
+          "type": "line",
+          "line": "小翠，你好好休息，明天一早，跟本夫人一起上路啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说完走出了房间，湘玉老白走到赛床前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，咋办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要着急不要着急，让我再想想，想想"
+        }
+      ]
+    }
+  ]
+}

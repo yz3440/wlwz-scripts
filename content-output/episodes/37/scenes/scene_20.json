@@ -1,0 +1,195 @@
+{
+  "type": "normal",
+  "rawDescription": "【偷拍镜头，客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "context": "偷拍镜头",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看什么看！哎，小六，好久不见你啊，你去哪里啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去北家柳掌柜家吃饭去我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们家饭有什么好吃的，你上我们这儿去吃吧。你一边吃我一边给你按摩哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行了，我这两天手头不大宽裕，等哪天发了工资再说啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别再说嘛，你先欠着，回头发了工钱再还。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也不行，我还得存钱娶媳妇呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "燕小六，你是不是不想升职了，啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你嘛意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要是肯在我这里吃，并且帮我多拉几个客人回来，今天所有的饭资都由本姑娘一人买单。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会吧你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不会放我鸽子吧你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是那种人吗我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你？就你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，打个欠条总行了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，没问题，你等着，我去给你叫人啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快去快去啊，多叫几个，越多越好啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对镜头"
+        },
+        {
+          "type": "line",
+          "line": "别看别看，回去做功课去！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "来回走动"
+        },
+        {
+          "type": "line",
+          "line": "哎，过来过来，我跟你说啊，这事不许告诉任何人，要不然下辈子你都别想吃糖葫芦，听见没有？——乖啊！"
+        }
+      ]
+    }
+  ]
+}

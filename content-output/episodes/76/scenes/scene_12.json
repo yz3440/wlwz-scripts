@@ -1,0 +1,320 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人坐在炕上，老白关上门。"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿着信"
+        },
+        {
+          "type": "line",
+          "line": "奇怪，这封信上的字体怎么跟第一封信上不大一样啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐炕上"
+        },
+        {
+          "type": "line",
+          "line": "1148"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这说明什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不知道，秀才给大家念念。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "接过信"
+        },
+        {
+          "type": "line",
+          "line": "尊敬的朋友们，你们好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还挺客气啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人鄙视——典型的笑里藏刀。"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "经过新一轮的友好协商，我们决定。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听见了吧，这肯定是个团伙。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋看出来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "信上说的我们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "比比画画"
+        },
+        {
+          "type": "line",
+          "line": "我们咋的？不兴人家虚张声势啊？那我要是一个人把人绑了，我也说我们呐。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭无双比画给大嘴两嘴巴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你接着念。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们决定，向您借银一千两整。请于今晚之前，在西凉河小石桥下的河面上，凿一个两尺见方的冰洞，然后将银两抛入水中。待河水重新结冰之后，我们将亲自护送莫小贝回家。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这算什么意思啊，等河水结冰了以后，他们怎么把银两往外捞呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊是啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身，想了想"
+        },
+        {
+          "type": "line",
+          "line": "如果我没猜错的话，这是从西域传过来的流沙法。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "众人不解"
+        },
+        {
+          "type": "line",
+          "line": "流沙法这是什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐桌前"
+        },
+        {
+          "type": "line",
+          "line": "这本来是河盗的伎俩，原本是对付官府追赃的，先在河底埋下鱼网，等我凿开冰洞，把银子扔下去，银子就会落入鱼网中，然后他们再把银子和鱼网，拖到另一处，打捞上岸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咱们怎么追踪呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没法追，就算追上了也只能逮到肚白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肚白，肚白是什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是来取钱的人，相当于敢死队队员，如果他没有按时回去，小贝就面临着被撕票的危险。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咱要是死活就不给钱呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他就撕票呗，你以为他说话客气就真不忍心下手？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他哪儿说了要撕票啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿起信"
+        },
+        {
+          "type": "line",
+          "line": "亲自护送小贝回家，这个回家有两层含义，一，真正的回家；二，回老家。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人呆住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝能不能活着回来，就看咱们怎么应付了。"
+        }
+      ]
+    }
+  ]
+}

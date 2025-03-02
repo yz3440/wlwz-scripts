@@ -1,0 +1,322 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴受训"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴，你怎么能这样子吗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把自己的快乐建立在别人的羞辱之上，不觉得可耻吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我当时也没说有敌人，是她自己猜的……当然我也有责任啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大白天当着这么多人的面，你怎么能这样子嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也没想跟你……是你自己……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭嘴！再怎么说，无双也是个捕快，你让一个堂堂捕快干这种事情？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不向她道歉了吗？我连花都送给她了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双把花往地下一扔，踩"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有贵宾票……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "票，还你啊，你闭眼，你闭眼，不许看我啊，你还看是不是，你眼珠还想不想要？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又是一芙妹，女孩练武功就不是什么好主意"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对佟"
+        },
+        {
+          "type": "line",
+          "line": "说说，说说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了，好了，大嘴也是一时胡涂嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我倒不是胡涂，是面子，咱不蒸馒头咱也蒸口气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你争你的气，扯上我干吗呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不正好你来了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双做势要打李"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "稍安勿燥，稍安勿燥，这个月的衣服我帮你洗了，行了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，跟我到衙门里走一趟，无双，你也一块儿去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，干嘛呀"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "作证啊！光天化日，调戏良家捕快，要少于四十大板，我就辞职不干了，走着走着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，小六，过了过了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事真不能怨大嘴，从头到尾我一直听着呢，都是杨蕙兰挑唆的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "杨蕙兰？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀，都怨她呀，我一直跟她说兔子不吃窝边草，是人就干不出这种事儿来……你们是懒兔子，你们随便吃啊，我以实际行动支持你们啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小六，上哪儿去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我找杨蕙兰评评理去，给衙门添了那么大乱子，她就甭想过门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，你走吧，让他去，杨蕙兰的火焰刀现在已经练到第三层了，凡是碰到就是个死，小六，去吧，回头我给你收尸去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个，老白，要不然，你跟我一块去吧，你打头阵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，行了，行了，还是我去吧，总得搞清楚她到底为啥而来，否则大嘴永远都不会死心，我去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心点啊。"
+        }
+      ]
+    }
+  ]
+}

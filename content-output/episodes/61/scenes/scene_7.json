@@ -1,0 +1,340 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "吕桌前算账，拍头叹气，白门口张望"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天的流水不到二十文，再这么斗下去，这个店要关门的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心，兄弟今儿晚上我就收网，我缠绵死她！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，来了来了，就说我一直睡着呢啊，压根儿没起。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白钻进被窝佟、郭二人入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了。辛苦辛苦，给你倒水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，接着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么呀这是？怎么那么沉啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "打开看"
+        },
+        {
+          "type": "line",
+          "line": "——哪来这么多钱？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "罚款罚的呗！不用数了一共是七百六十文。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵嘿嘿，咱们不用做生意了啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说啥呢？这些钱都是衙门的，明天一早还要交上去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，站在天堂让看地狱，人生就像情景剧；站在地狱看天堂，为谁辛苦为谁忙？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了百姓，再苦也甜，不像某位仁兄，从早睡到晚，空虚到了极点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉？你说的这位仁兄可是在下呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你觉得呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果是，我现在就走，省得给您心里添堵，我走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂！你到底要闹到啥时候去呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白慢慢回转，众人画外音"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天啊！又来了！我都走了一天了能不能让我歇会儿么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是声东击西？还是偷梁换柱？还是合二为一？啧啧啧，老白呀老白，什么时候我能练到你这种境界呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是现在！湘玉，等着我的狂吻吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白咳出一口痰呸！向佟冲去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掏牌子"
+        },
+        {
+          "type": "line",
+          "line": "我以本镇环保先锋的名义通知你，由于你随地吐痰，罚银三钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是三文钱么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说多少钱就是多少钱！交钱吧现在就交。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以为我没钱是吧？一千两银票！找钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇！不会吧？你怎么还有钱啊？上次买人参你不是已经花了一千两了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一千两？那个人参你花了一千两？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千年人参，一年一两，还没算零头呐！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉看银票，秀才指"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喏，防伪标记……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这钱是哪儿来的？是不是偷的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是又怎么样？不是又怎么样？我的钱跟你有什么关系？嘿！你这人真逗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂！你今天要不给我把话说清楚就不要想睡觉！"
+        }
+      ]
+    }
+  ]
+}

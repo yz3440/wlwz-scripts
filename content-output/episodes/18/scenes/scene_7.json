@@ -1,0 +1,38 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，夜】",
+  "location": "客栈外",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说咱戏太假。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "演成这样不错了，这年头哪有好演员呐。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "总算太平了，这样的结果再好不过了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我倒是有点含糊了，这样一来柳姑娘倒是高兴了，但是大嘴呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他过两天就高兴了。感情这个东西啊，是可以慢慢培养的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我同意，只要有足够的时间啊，任何人都可以的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双小郭不悦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但也得有个先来后到。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒水！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六从客栈门外进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "正好，你们大家伙都在呢，老白，过来说话。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对无双"
+        },
+        {
+          "type": "line",
+          "line": "来点水。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对大家"
+        },
+        {
+          "type": "line",
+          "line": "最近有点不太平，大家伙一定要小心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了，又闹山贼呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是山贼，是乌贼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "乌贼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "心肠比山贼还黑，最近四处作案，专挑大户人家下手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "轻松"
+        },
+        {
+          "type": "line",
+          "line": "怕啥呢，我们又不是大户人家。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们也得小心，据受害者回忆，这是个女贼，手段非常高明，先利用美色谎称要嫁进来，骗取户主对其的信任，然后呢，再用迷药把所有人都放倒，最后，把店里的东西洗劫一空。最可气的是，事后竟然没有人记得她的嘛模样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这种迷药就九香迷魂散。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么知道的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这儿还有半包，要不你尝尝？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六奇猛地拔刀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "怒"
+        },
+        {
+          "type": "line",
+          "line": "干什么玩意儿！不是个女贼吗，我是女的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "据现场的脚印来看，她还应该有个帮手，不是你吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我，"
+        },
+        {
+          "type": "action",
+          "description": "燕的刀架到白脖子上"
+        },
+        {
+          "type": "line",
+          "line": "我不打自招我有病啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对燕"
+        },
+        {
+          "type": "line",
+          "line": "先把刀放下，放下。你刚才说的那个女贼，很有可能就在我们店里。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿刀乱挥"
+        },
+        {
+          "type": "line",
+          "line": "在哪儿，在哪儿呢，在哪儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐下坐下，要抓随时都能抓，咱先搞清楚几个问题啊。第一，我们不是大户，她为什么要盯上我们；第二，她为什么要对大嘴下手；第三，如果她有同伙，她的同伙在哪儿；第四，如果她真是贼的话，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对众人"
+        },
+        {
+          "type": "line",
+          "line": "咱们怎么向大嘴交待？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人开始担忧"
+    }
+  ]
+}

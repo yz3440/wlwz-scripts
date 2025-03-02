@@ -1,0 +1,328 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴上身脱光，瑟瑟发抖，大家看热闹"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "准备好了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "准备好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就开始吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不瞒大家说啊，我对无双还是有那么点感情的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，哪方面的感情啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大人说话小孩别插嘴。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对李"
+        },
+        {
+          "type": "line",
+          "line": "哪方面感情？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是类似于喜欢的那种喜欢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喜欢就喜欢，还类似于？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就是喜欢，那个，我一直垂涎于无双的美貌与智慧。并妄图占为己有，还四处散播谣言。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请用一句歇后语来形容你这种可耻的行为。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给个提示？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么东西想吃什么东西的肉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "癞蛤蟆想吃天鹅肉？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭无双得意地击掌"
+    },
+    {
+      "type": "action",
+      "description": "李脸色沉下来，冷笑，秀才不平"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，人衣服也脱了，罪也认了，That's all了，stop吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开玩笑吧？无双没说就不算完，接着认罪啊，谁让你一宿一宿折腾我们啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，怎么认你说吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "站起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "男人不坏女人不爱，是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你前两次的失败经历都说明了什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说明我癞蛤蟆想吃天鹅肉呗，你是不是这个意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "意识到李不快"
+        },
+        {
+          "type": "line",
+          "line": "我也不是这个意思，我、我跟你开玩笑呢，大嘴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们是不是都这意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有没有"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭，老白欲走近大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐下，坐下！开玩笑？脱衣服给我脱了，被褥给我拿走了，枕头给我送人了。我冻得一身起鸡皮疙瘩，你说跟我开玩笑？行，不开玩笑嘛，那我把脱衣服脱了给你们开啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "脱衣服，白吕赶紧劝阻"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，大白天的吓着孩子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那行那行，那咱后院脱去啊。今儿我高兴，让大家都高兴行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、白",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴大嘴"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人出"
+    }
+  ]
+}

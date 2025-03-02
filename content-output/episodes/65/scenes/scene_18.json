@@ -1,0 +1,212 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别来无恙啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你啥时候来的？你不是来抓我的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "除了抓你，就不行有点别的事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你有啥事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你跟佟掌柜怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "挺好的。托你的福，呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就一定要跟我这么客气呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啥事你就直说行吗？我跟你说我一见到捕快……你就别说捕快了，就你这身衣裳我一见了我都心惊肉跳的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，那我把衣裳脱了。现在好点了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好多了。哎，我听说你不是和六扇门的追风结婚了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么知道的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他前一阵来过一回，差点把我给逮了。你俩现在挺好的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "挺好的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥时候要孩子？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展红绫变色"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要也行，反正你们都是江湖中人忙，没时间带，是吧。我跟你说，你是没带过孩子啊，我们这有一个小女孩，五岳盟主，衡山派掌门。那家伙把你烦的，有时候你恨不得……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你爱过我吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "光说功课吧——你说啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你爱过我吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你问这干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就想知道，你回答我。你爱过我吗？"
+        }
+      ]
+    }
+  ]
+}

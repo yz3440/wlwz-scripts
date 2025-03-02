@@ -1,0 +1,276 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "柳在房里练功，老白与佟湘玉进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳姑娘"
+        },
+        {
+          "type": "speaker-action",
+          "description": "柳起身"
+        },
+        {
+          "type": "line",
+          "line": "没事没事，你坐啊，你在这住得还习惯吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他一定不肯对不对？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白干咳，佟支吾"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，没有……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他一定是不肯，不然你们不会是这种表情。我就知道，这世上没有白吃的午餐，本来想蹭顿盒饭，结果连白开水都得自己买单。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳姑娘你先别激动啊，我们俩还啥都没说呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不用说了，他不肯就算了，当我从来没有认识过他，后会有期。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿起行李准备走，二人急忙拦住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我还没有说完我呢，大嘴倒不是不肯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他就是肯喽？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，也不是肯……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那到底是肯还是不肯呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是不肯也不是肯，现在这是肯不肯的问题啊，只要我们肯，他肯也得肯，不肯也得肯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那到底是肯还是不肯呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎这个……呵，现在咱先不说这个啊，我们俩这次来啊，主要是想问问你，天凉了，需不需要加被褥啊。嫌冷就说话啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "白了老白一眼"
+        },
+        {
+          "type": "line",
+          "line": "呵，柳姑娘，你是打哪儿来呀"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，你是想探我的底？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎没有呀，我只是随便的问一问，不要太敏感啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用解释了，我知道你们怀疑我，你们爱怎么怀疑就怎么怀疑，这是你们的权利，江湖险恶，不得不防啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "开始哭"
+        },
+        {
+          "type": "line",
+          "line": "江湖这么大，何处是我家"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭唱"
+        },
+        {
+          "type": "line",
+          "line": "我想有个家，一个不需要多大的地方"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭，说"
+        },
+        {
+          "type": "line",
+          "line": "我，我连这点小小的愿望都实现不了，你说我做人是不是很失败？掌柜姐姐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是叫我湘玉姐，大家都这么叫。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉姐姐，我真的好苦啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "湘玉姐姐，我的个心啊，还是疼的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，不疼不疼，啊，女人嘛，在得到幸福前总得先经受这些考验，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看老白"
+        },
+        {
+          "type": "line",
+          "line": "否则，怎么是女人呢，啊……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白一直在冷眼旁观"
+    }
+  ]
+}

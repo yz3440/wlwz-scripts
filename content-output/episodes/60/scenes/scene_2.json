@@ -1,0 +1,320 @@
+{
+  "type": "normal",
+  "rawDescription": "【东街，昼】",
+  "location": "东街",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫在发传单，郭在扫大街"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一边扔传单一边喊"
+        },
+        {
+          "type": "line",
+          "line": "环保搞不好，健康就难保！环保搞不好……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小米伸头看，莫给了他一份"
+        },
+        {
+          "type": "line",
+          "line": "给你一张，看着瓜子皮，注意环保！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指地下，接着边走边扔"
+        },
+        {
+          "type": "line",
+          "line": "环保搞不好，健康就难保……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看了看地下，全是散落的传单"
+        },
+        {
+          "type": "line",
+          "line": "莫小贝你给我回来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐有什么吩咐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这刚扫完这一片，你把它扔得到处都是，你还环保呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不这么发怎么能发得完？我嫂子说了，三天之内必须全部发完呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，姐姐教你一个好办法。你给小米一个馒头，让他帮你发。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对小米"
+        },
+        {
+          "type": "line",
+          "line": "切！——小郭姐姐，做人是要诚实的。我嫂子叫我发，我就得发，干吗给人家小米发？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，小贝呀，姐姐送你一日本名。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎好的呀，好的呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "死心眼子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "环保去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "环保搞不好，健康就难保……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李拿着个包裹急匆匆地走过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，手里拿的啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "牛肉干，就剩这最后半斤了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "高兴地跑回来，摊出手"
+        },
+        {
+          "type": "line",
+          "line": "谢谢大嘴叔叔！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是给你的，这是给那些孤寡老人的。掌柜的让我陪他们边吃边唠，唠完嗑了再帮人把饭做。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米又欲抢，李狠狠瞪了小米一眼，小米不满地放下手。李走开"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小气！环保搞不好，小命就难保……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么就难保了小贝啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "郭扫着地，祝被呛得挥着双手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀呀~~干吗呀小郭，全是灰！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，真是羡慕你呀，有个铁饭碗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，无双，过来，帮帮帮忙帮帮忙！快点儿！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "转身回客栈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，马上就来啊！你说我铁饭碗什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没什么意思，掌柜的叫你呢，赶紧去、赶紧去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢~"
+        }
+      ]
+    }
+  ]
+}

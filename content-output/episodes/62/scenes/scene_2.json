@@ -1,0 +1,185 @@
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "performances": [
+    { "type": "action", "description": "佟抱膝黯然独坐，郭、祝上" },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "哈哈～你果然在这儿！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [{ "type": "line", "line": "我想一个人呆着。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，没关系，你就把我们俩当野猫好了，呀，喵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有心情跟你俩开玩笑，我求求你们让我一个人静一静好不好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好！除非你跟我们说明白，为什么要跟我师兄分手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果你的男朋友跟你耍心眼儿，还想出各种计策对付你你会咋办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果是一般男朋友那就分手好了，可这个是一起经历过生死的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那又怎么样，他的人品有问题，以后还怎么过日子么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他人品有问题？那某些人呢？躺在床上装植物人，打死也不肯睁眼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩看过彩虹没有？我小的时候爱看，现在不爱看了，绚烂过后就是一片空白，心里头只剩下失望……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "什、什么意思啊？你到底想说什嘛？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我和他天地也拜过了，洞房也进过了，双方的家长也都算认可了，对于一般人来讲也该开始新的生活了吧？可我们呢？——你跟秀才还时不时地亲热一下，我跟展堂呢，连拉个手都得酝酿半天，再这么耗下去……我也是个女人呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "说了半天你就是想嫁人了呗！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        { "type": "line", "line": "那你不早说！跟我师兄说一声不就得了？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要去！——你一说他一定会同意，为了我他啥都肯做，甚至会付出生命，这点儿自信我还是有的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那不就得了么！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我就是不明白，我憧憬的那种生活是不是他想要的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那要不……你……直接问问他？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要问他他一定会说\"是\"，可心里面呢？男人跟女人不一样，平淡而温馨对我来说就是一切，对展堂呢，一文不值……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        { "type": "line", "line": "没有啊，我看他挺习惯的，否则早就发牢骚啦。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等到他发牢骚就来不及了，这么久以来我只有在假装昏睡的时候才能听到他几句甜言蜜语，但是我不能总是假装昏睡吧？秀才再面，该说的该做的一点儿都不含糊，展堂呢？"
+        }
+      ]
+    }
+  ]
+}

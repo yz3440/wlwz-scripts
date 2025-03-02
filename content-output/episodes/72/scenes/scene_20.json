@@ -1,0 +1,276 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白躺在床上，胃疼，大嘴拿一个馒头给他"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧吃，千万别让人看着啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白拿过馒头正准备吃，秀才闯入，吓得把馒头掉到了地上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，秀才，你进来就进来吧，你敲门不行啊。这最后一个馒头了你说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思啊，我刚刚在生死之间走了一遭，心里慌得很。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹把我叫过去问问题，答错一道，咔嚓……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "被打状"
+        },
+        {
+          "type": "line",
+          "line": "A 型 B 型 O 型 AB 型都有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥、啥问题啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她问我，如果我当初同时遇上她跟金湘玉，会选谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你选谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定是芙妹呀，否则我能活着回来呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拭眼泪"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白扯过秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你心里是这么想的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我心里吧……甭管怎么想保命要紧嘛，她们还逼着我发毒誓，敢说假话，全家死光光，呵呵呵，不好意思，我全家早就死光光了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "苦笑"
+        },
+        {
+          "type": "line",
+          "line": "跟我斗……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摇头"
+        },
+        {
+          "type": "line",
+          "line": "你这么骗她你心里就不难受？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要不骗她我浑身就会很难受。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早知道这样，我也不说实话了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说了实话啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "白点头"
+        },
+        {
+          "type": "line",
+          "line": "难怪现在受这么多苦呢。啧啧啧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说她们女人怪不怪，一面让你实话实说，一面又逼着不让你实话实说，你说她们寻思啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "叹气"
+        },
+        {
+          "type": "line",
+          "line": "唉，原来我还挺羡慕你们俩的，现在看起来啊，还真是家家有本难念的经啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做人难，做男人更难。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做个既不撒谎又招人疼的男人，是难上加难。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李、吕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉！"
+        }
+      ]
+    }
+  ]
+}

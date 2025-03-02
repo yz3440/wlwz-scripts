@@ -1,0 +1,528 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "喔喔喔喔……湘玉在梳妆台前打扮，韩娟推门进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，你咋来了，起得还挺早的嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我压根儿就没睡着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥没有睡啊？哼哼，是不是看见我这个店受刺激了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啥刺激的？我是择床，家里面太舒服了，一出门吧，哪儿住都不习惯！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦哦哦，那就当是忆苦思甜吧啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也知道这苦啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "苦，也是暂时的。回头我就把这个房子拆了。原地起一座，六层楼，八角形的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你盖的是大雁塔吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，早饭好了，下去吃吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就好，走着走着，请！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，掌柜的，你还有首饰呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻！还是红宝石的，值不少钱的吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我看看！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "看簪子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假的，最多也就值七钱银子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就是戴着玩的，正式场合谁戴它呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喔？那你正式场合都戴什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你有关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那人家就是想看看，开开眼界了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊，开开眼界嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿出来个首饰马上放回去"
+        },
+        {
+          "type": "line",
+          "line": "看完了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是真的，就是款式老点儿！现在也就值个二三两吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二三两也值不少钱的吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱不是问题，我买首饰，图的就是心意！只要我看着顺眼的，再多的钱咱也舍得花！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，我这儿有一个簪子，你们看一看啊！小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我看看！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇，这是采蝶轩的吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇，你好识货的吧，怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好东西，给我吧，开个价！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三两银子我买了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三两？你还是买个拨浪鼓玩去吧！十两怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十二两！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十五两！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二十两！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十两第一次，三十两第二次！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "四十两！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "四十五，另送一个玉镯子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "四十五两第一次，四十五两第二次！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五十两！……能不能按揭？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "买首饰按揭？没听说过吧！五十两给我吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈，五十两就五十两！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿五十两银子"
+        },
+        {
+          "type": "line",
+          "line": "五十两喔！你可省着点儿花啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢嫂子！吃鸡腿去喽！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个簪子饿戴着怎么样啊？跟我的发型很配吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这么好骗，今后还怎么做生意啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天早晨，他们两个人来找我，说是有个小玩意儿，让我帮着抬个价，我就图一好玩就答应了，没想到啊！啧啧啧啧！怪不得你这个店这么不景气！我今天是太受刺激了！"
+        }
+      ]
+    }
+  ]
+}

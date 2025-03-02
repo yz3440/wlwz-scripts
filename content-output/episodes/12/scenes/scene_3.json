@@ -1,0 +1,199 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "来了来了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "菜齐了。吃饭吃饭。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，都不要忙了，先吃饭吧。小郭给我递双筷子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "你要竹的还是骨的？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要便宜的呀，贵的咱又舍不得用。哪像人家对门儿，连门坎都是金的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "你到底要不要筷子。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对门的丫鬟都是买的，要是敢不听话，就一耳光打过去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，你打啊打啊，往这儿来呀。莫名其妙，我不吃了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "小郭……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "展堂。" }]
+    },
+    { "type": "action", "description": "老白递筷子笼" },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "你自己挑。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只不过就想让她递双筷子嘛，这点要求，她都不肯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "差不多得了啊，都折腾一下午了，你不累我还累呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额连话都不能说了吗？额这掌柜的当的还不如个丫鬟嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "不吃了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "你不吃，你那馒头给我啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "反了反了，全反了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "我不是没有反吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "你，你是没有机会，有机会你第一个反。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "没错，但谁反我都不会反的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "呦，吃着咧。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "呦，这里不欢迎你，请你出去。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        { "type": "line", "line": "你看你，我就是来问个字。问完我就走。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "什么字啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "吕轻侯。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她就问个字，很快的，问完就走啊。哦，这个叫饕，这个叫餮，加在一起就是饕餮。是个怪兽来着，传说龙生九子，其中一个就是饕餮。这个龙呢，还有个说法叫 dragon，one of it's sons 就是饕餮，样子很可怕是个 monster。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "那它啥样儿？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        { "type": "line", "line": "啥样，" },
+        { "type": "speaker-action", "description": "指大嘴" },
+        { "type": "line", "line": "你看见大嘴吃饭的样子了吧？他就很像个饕餮。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这包银子你拿去分发给那些受害者，然后回家去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [{ "type": "line", "line": "那你呢？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我得留下。咱们把人家店砸了，总得有个说法吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [{ "type": "line", "line": "不是还有银子吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "与钱无关。我留下来只是想找一个答案。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [{ "type": "line", "line": "什么答案？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个太深奥了，你听不懂。回去告诉我爹，叫他不要担心，我找到答案以后，就会回家。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [{ "type": "line", "line": "肯定吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "确定一定以及肯定。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        { "type": "line", "line": "告辞。" },
+        { "type": "speaker-action", "description": "指老白" },
+        {
+          "type": "line",
+          "line": "你不许欺负我们家小姐，不然的话告诉老爷，让他一掌拍死你。"
+        }
+      ]
+    },
+    { "type": "action", "description": "小青出客栈" },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "哎哟，姐姐，她不欺负我就谢天谢地啦。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "speaker-action", "description": "对门外" },
+        { "type": "line", "line": "路上小心一点啊……" },
+        { "type": "speaker-action", "description": "回头对众人" },
+        { "type": "line", "line": "有什么粗活累活，只管招呼吧。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不急不急。开始之前呢，我先跟你把帐目算清楚啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "有这个必要吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然有啊。你看啊，砸坏的家具，撞坏的楼梯，还有锅碗瓢盆酒坛子再加上……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "行了行了，你就说一个总数好了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "一共是四十八两七钱。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "这么便宜呀。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "我再把零头给你去掉一共是四十八两。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "没问题。那我每个月的工钱是多少？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "两钱银子。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那也就是说，我给你……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用算了你还要给我干二十年。不要怕，二十年快得很，弹指一挥间。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "speaker-action", "description": "向外跑" },
+        { "type": "line", "line": "小青，等等我……" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "葵花点穴手！" }]
+    },
+    { "type": "action", "description": "郭芙蓉被点住" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把她搬到一边去，要是不干活的话，挂个衣服端个脸盆啥的，也是咱店的一个特色啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "好。" }]
+    },
+    { "type": "action", "description": "把小郭搬到店门口边上" },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "爹……救我……" }]
+    }
+  ]
+}

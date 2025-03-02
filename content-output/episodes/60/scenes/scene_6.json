@@ -1,0 +1,358 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "俩人一直唱到大堂，老白被掌柜堵在墙角"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怯懦是每个人都有的毛病，只要你能鼓起勇气，面对自己，就能有战胜怯懦的那一天，千万不能得过且过，破罐子破摔……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "虚弱的"
+        },
+        {
+          "type": "line",
+          "line": "湘玉啊，我求求你了，你就让我自甘堕落吧，就让我在黑暗中慢慢腐朽吧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "巧了，我最拿手的就是化腐朽为神奇，让我用生命点燃火把，为你照亮前程……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六牵着大嘴进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别照了，已经有人掉沟里了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对大嘴"
+        },
+        {
+          "type": "line",
+          "line": "进去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，咋了这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，就是腿不小心让小六踹了一脚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是不小心，是故意的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对掌柜"
+        },
+        {
+          "type": "line",
+          "line": "是你让大嘴陪曹大爷唠嗑的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不就是她嘛，非让我去，不去就扣我月钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们这谁做饭呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双做呀，有时候我也上，咋了，你当捕头还管这个呀，啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，你们到底安的嘛心思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家一个老人家呆在家里没有人说话，陪陪他咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你陪就陪吧，非得让人家老头啃牛肉干，你看这个。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "手指头上顶着个门牙"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这啥嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "曹大爷的门牙，这颗在我手里，另外一颗已经松了，还不知道能不能保住，人家吃饭就指着这两颗牙了，你们到底想干嘛呀这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，这个可不是我教的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那做饭总是你吩咐的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我吩咐的，咋了？给老大家打打下手这有错吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，要是光打下手，怎么会演变成入室抢劫呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对大嘴"
+        },
+        {
+          "type": "line",
+          "line": "抢劫？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做饭不得买菜呀，买菜不得掏钱哪？我正从曹大爷兜里掏钱呢，小六就进来了，二湖不说直接就那么一脚，结果不就这样了嘛。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "瘸"
+        },
+        {
+          "type": "line",
+          "line": "我还是做饭去了我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，你是不是嫌不够乱哪？你让我省点心，行不行，行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，小六你放心啊，我慢慢地教育大嘴啊。行行行，恕不远送啊，谢谢你啊，小六。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "推小六硬出"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "忽然又蹿回来"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的，我想起来了，我这可都是按照你吩咐做的是吧，我这算不算工伤？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，工伤？为了让你更加清楚的认识到自己的不足，我决定好好地帮助你一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对后院"
+        },
+        {
+          "type": "line",
+          "line": "大家都听好了啊，今天打烊以后开会！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，开啥会呀！"
+        }
+      ]
+    }
+  ]
+}

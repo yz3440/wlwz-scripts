@@ -1,0 +1,166 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人看报纸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "面对生活中的挫折，吕大侠的选择，便如歌中唱道——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "你伤害了我，我一笑而过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人和",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "你爱得贪婪我爱得懦弱，眼泪流过，回忆是多余的，可不可以就这样的为你，一笑而过。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "吕秀才羞"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，别别别，哎呀妈呀，唱的我隔应死了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴无法忍受出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了挽救那些无可救药的堕落少女，吕大侠忍受着世俗不理解的目光……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得得得，冷死了冷死了，我回屋加件衣裳。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝无法忍受出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看郭靖杨过，不通文采，乔峰段誉，略嫌老套，一代宗师东方不败，只知深闺绣花鸟……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "词是好词，就是话说得有点过，我都听不下去了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才无法忍受出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀你都听不下去了。为了百姓安居，为了商户乐业……他的崇高，已经超出了我的承受能力。"
+        },
+        {
+          "type": "line",
+          "line": "确实超出我承受能力，承受不了了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白无法忍受出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕大侠的四周，灼热而充满期待的目光，随处可见，甚至还有那风韵犹存的俏寡妇。该名寡妇，甚至有为他献出生命的过激言行……哈哈哈，那寡妇是谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么知道啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉转身上楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "忽然明白过来"
+        },
+        {
+          "type": "line",
+          "line": "佟湘玉，你暗中捣鬼，你把话给我说清楚了……"
+        }
+      ]
+    }
+  ]
+}

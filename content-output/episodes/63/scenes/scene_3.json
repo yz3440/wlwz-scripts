@@ -1,0 +1,62 @@
+{
+  "type": "normal",
+  "rawDescription": "【西街，昼】",
+  "location": "西街",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "四个盗贼全副武装，戴着面纱，在拐角偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "盗贼甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢大哥说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "盗贼乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行动推迟了，好象碰上使绊的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "盗贼丙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么办啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "盗贼丁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心，谢大哥闯荡江湖那么多年，什么场面没经历过？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "盗贼乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁敢挡道，就让他死无全尸！"
+        }
+      ]
+    }
+  ]
+}

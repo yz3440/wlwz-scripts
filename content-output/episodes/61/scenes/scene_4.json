@@ -1,0 +1,324 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "李、莫拉扯着白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴你放手，我必须得走，你让开，放手！放手！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥，你别走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要上哪儿去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我上哪儿跟你有啥关系？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么没有关系？就算咱们分手了，我还是你的掌柜的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我辞职了总可以了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人沉默不动，全部画外音"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇塞哇塞，有没有搞错啊，又僵住了！等什么呐？拜托赶紧道歉嘛！都这个时候了面子还能包饺子吃？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂——你要是走了我可咋办呀？可我现在要是服软的话，这辈子就抬不起头了！这可咋办？天呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万别放我走啊！千万千万，我求求你了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，我今天才明白啥才叫男子汉，对你的崇拜又加深了一百多层！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，松狮太爱流口水，擦都来不及；大白熊倒是挺干净，就是吃得太多；吉娃娃吃得少，不行不行！太凶了；金毛和拉不拉多挺漂亮，可惜又没个性！——我为啥不养只猫呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开打开打开打开打呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "送你送到小镇外，有句话儿要交代，虽然已经是百花开，啷咯哩咯哩咯楞啷咯哩咯楞……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事儿？怎么还有人唱上了？他们为嘛不说话？难道被人点了穴？可我没看见谁出手啊？难不成是高手？嗯，一定是高手！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "喊"
+        },
+        {
+          "type": "line",
+          "line": "有嘛事儿冲我来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人失措，佟反射性投入白怀，白一把搂住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我俩的事儿跟你有啥关系！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "反应过来，老白推开湘玉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行了！我出去跟你说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "烟袋锅！烟袋锅！没法思考了！烟袋锅！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走走走走……！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你留下吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "既然留我，就说明还是舍不得，那就别怪兄弟反客为主了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说"
+        },
+        {
+          "type": "line",
+          "line": "——我凭啥留下？给个理由先！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从今往后，月钱照发，你爱干啥干啥，我不管你了，这总行了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好像谁图你那俩钱儿似的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白！你也适可而止吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好！不管我干啥你都不管？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要你不犯法……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就这么定了！睡觉！"
+        }
+      ]
+    }
+  ]
+}

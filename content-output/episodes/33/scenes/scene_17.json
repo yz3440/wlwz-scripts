@@ -1,0 +1,56 @@
+{
+  "type": "normal",
+  "rawDescription": "【牢房，昼】",
+  "location": "牢房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才试图掰开栅栏"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，不要费那个劲了，要是能拽开我早出去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早知道是这样，还不如当初被姬无命一掌拍死算了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他为什么没有拍你啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个，这个就说来话长了……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "回放"
+    }
+  ]
+}

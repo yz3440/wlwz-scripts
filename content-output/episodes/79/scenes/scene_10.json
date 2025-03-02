@@ -1,0 +1,186 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "秀才与小郭在一旁安慰大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啥话就直说，没事，我又不是第一次失恋了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这一次，跟以前真的不太一样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啥不一样，蕙兰以前不喜欢我，现在还是不喜欢我，你说她也是，你说她在外面吃了那么多苦，受了那么多骗，她还是不选择我，还是有钱好啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是钱的问题嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家呀，为了蕙兰宁可什么都不要，过苦日子都行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你说我跟杜子俊有啥区别？不就是钱吗？他有钱，他把钱放弃了过穷人日子，他多伟大呀，那我本身就是个穷人，我除了这条穷命……对呀，我可以拿命跟他拼呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你醒醒好不好，这回真的没戏了，你好好想想吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴拿过枕头开始撞柱子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "杜子俊，杜子俊，杜子俊，杜子俊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "蕙兰进",
+      "performances": [
+        {
+          "type": "line",
+          "line": "铁头功不是这么练的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "管你啥事？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "醒悟"
+        },
+        {
+          "type": "line",
+          "line": "蕙兰，来坐"
+        },
+        {
+          "type": "speaker-action",
+          "description": "杨拿出三根针"
+        },
+        {
+          "type": "line",
+          "line": "哎，有话好好说，千万别动手啊，这是三根金针，代表三个愿意，来送给你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "头先你对我说的那些话，我对你是有亏欠的。以后有什么要我帮忙的，我赴汤蹈火在所不辞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一根针就代表一个愿望？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，以后尽管提啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，蕙兰。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "追出门去"
+    }
+  ]
+}

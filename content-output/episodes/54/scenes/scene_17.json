@@ -1,0 +1,366 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "展侍卫一言不发的吃饭，无双在旁边含情脉脉，小六一脸不服"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "这么大人了，坐没坐样，吃没吃样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "哼，等这事完了，看我怎么收拾你。吃饱了，走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，你这人不要那么自私好不好，你是吃饱了，人家还没吃好呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，你慢慢吃，慢慢吃啊，撑死你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不吃了！展大哥，您慢慢吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟嗬，嘛时候成大哥了？刚才不还前辈前辈的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我懒得搭理你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我懒得搭理你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我懒得搭理你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我懒得搭理你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了行了，不要再吵了，就不怕人家笑话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有关系，没有关系，我们在京城也经常吵架的啦，自家弟兄嘛，吵得越凶，感情越深嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别逗了，我跟他？能有感情？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有感情可以慢慢培养嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看啊，往地里埋块土豆，浇水呀，施肥呀，他能结出一串，要是埋块木头，再浇水，它也是块木头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错，难道你就没听说过黑木耳这一说吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄，你帮我还是帮他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我谁也不帮，我就知道，再不赶紧追，犯人就横渡西凉河了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米推着老包进，老包半死不活，胸前一个黑色的大巴掌印子。"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他倒是想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这这这……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么这这那那的，这小子想逃，被我发现了，一路跟到西边那个城隍庙了，趁其不备，一举拿下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "接着就是一顿毒打……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我可没动手啊，打你的几位是我们丐帮的四大长老。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "长老？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭喜发财那四大长老啊，正在附近办事，见我抓人，都过来帮忙，前后夹击，各人赏了他一掌，如假包换的降龙十八掌。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老包吐血，众人立刻过去查看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吐这老多呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯嗯嗯……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥？大点声。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我要是再逃跑……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        },
+        {
+          "type": "line",
+          "line": "还敢逃？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可能就，咳咳，死无葬身，咳，之地了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的妈呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人回头，小米坐在桌子旁边又吃又喝，看见众人围过来，立刻躲闪"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那什么，这都是我应该做的，维护社会治安，人人有责，哎呀！"
+        }
+      ]
+    }
+  ]
+}

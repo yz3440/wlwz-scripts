@@ -1,0 +1,310 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴上菜，小郭倒酒，莫小贝写字，掌柜的在算账，小郭出门去张望"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "悄悄的"
+        },
+        {
+          "type": "line",
+          "line": "大嘴，过来。待会儿要是动起手来，你可一定要拉着点啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拉倒吧，她那把菜刀磨了一宿了，那家伙吹毛立断，我这胳膊还想要呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打大嘴一下"
+        },
+        {
+          "type": "line",
+          "line": "没出息的。小贝，过来"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "莫小贝跑过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "温柔的"
+        },
+        {
+          "type": "line",
+          "line": "小贝乖啊，回屋写作业啊，这里实在太危险了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "屋里更危险，柜子里有这么大一包辣椒粉，箱子里有这么厚一叠牛皮纸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟和李",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "面面相觑"
+        },
+        {
+          "type": "line",
+          "line": "牛皮纸？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，揭开之后发现，里边有不少黑色粉末，经过初步验证，应该是——火药！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉要晕倒，大嘴拉住。祝无双和燕小六低着头走进来，郭芙蓉跟在身后"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，来了，咋了？不会又出啥事了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "犹豫"
+        },
+        {
+          "type": "line",
+          "line": "这个，嗯……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉拉过燕小六"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过来过来到这边说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不满意"
+        },
+        {
+          "type": "line",
+          "line": "有什么话，当着我的面不能说吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事跟你没有关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少来这套，昨天就想瞒我，今天休想，说，怎么回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事真的跟你没有关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摆出架势"
+        },
+        {
+          "type": "line",
+          "line": "排……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摇手"
+        },
+        {
+          "type": "line",
+          "line": "别别，你想听就听吧。十八里铺有条吉庆街。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "街上新开了一家青楼，拜托你说点新鲜的行不行，秀才是不是不肯回家？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是秀才，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转头向佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "是师兄……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉愣住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "据目击者称，今天老白独自一人杀入青楼，之后再也没出来过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "伤心"
+        },
+        {
+          "type": "line",
+          "line": "他……他怎么会这样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是据目击者称，他跟秀才以及一妙龄女子，喝酒唱歌吟诗作对，乐的跟朵牡丹花似的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "学单田芳"
+        },
+        {
+          "type": "line",
+          "line": "玩得兴起，还当众翻了几个空心跟斗，结果，叫好声响成一片！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉晕倒，众人搀扶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的掌柜的……"
+        }
+      ]
+    }
+  ]
+}

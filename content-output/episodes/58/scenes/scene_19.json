@@ -1,0 +1,438 @@
+{
+  "type": "normal",
+  "rawDescription": "【厨房，夜】",
+  "location": "厨房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭拿着两个鸡蛋，掌柜的入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀~~妈呀~~~~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩咋还没有睡啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们……这个……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手里拿的啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没啥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿出来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭拿出鸡蛋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼哼哼哼哼……哪来的鸡蛋呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心点儿，这是最后两个鸡蛋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的我跟你说啊，你那师妹啊，把所有的荤菜扔的扔埋的埋，就这俩鸡蛋还是我白天偷摸儿藏的呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "分给我一个吧，你们俩吃一个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们俩吃一个……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了，炒着吃，大家一块儿吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "起火儿，开锅！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "南宫入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "忙啥呢你们？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "炒鸡蛋。……嗯？妈呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，拿来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭不情愿地交鸡蛋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪来的鸡蛋？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们俩给的。我早就说过了，吃饭就好好吃，按时吃，你们这啥意思吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这我不同意。饿了就得吃，否则肠胃就得出现问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听听——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是鸡蛋不能吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说过，要将素食进行到底。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你啊大姐，鸡蛋也算是荤的吗？我的鸡蛋……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是它能孵出小鸡来。这是生命的开始，相当于人类的胎盘。我想请问，你们会吃胎盘吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噫呦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是一只勤奋的芦花鸡，它每天从早到晚，想的只有一件事，那就是生蛋。它天真的以为，只要它足够努力，就能生出许多小孩来。可是它错了，它生的每一个蛋，都被无情的主人拿到集市上换了钱。终于有一天，母鸡得知了真相……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "它的眼睛里渗出了一颗晶莹的泪水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是悲伤的泪水，绝望的泪水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看我的，我这是饥饿的泪水，抓狂的泪水~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "眼泪不停的流啊，你看眼睛都流肿了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再坚持几天，肿会消的。请相信，有一天你们一定跟我一样，领悟到自然的真谛。鸡蛋我没收了，你们慢慢领悟吧，有什么事儿及时沟通，我在前方等着你们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心，我的鸡蛋……鸡蛋……我的鸡蛋……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈哈哈……不要慌，鸡蛋没有了咱还有猪油，可以泡饭吃。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "南宫复返，把猪油拿走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了差不多了……嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "猪油呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你最爱藏东西了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，嘴张开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊啊~~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊！"
+        }
+      ]
+    }
+  ]
+}

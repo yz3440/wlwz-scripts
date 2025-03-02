@@ -1,0 +1,394 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大伙可能气已经消了，有条不紊地端菜摆筷子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "端着菜盘从厨房出"
+        },
+        {
+          "type": "line",
+          "line": "来来来，大家尝尝我的手艺，做得不好直接说，千万不要客气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不错不错，比你姐强多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我尝尝……嗯，手艺不错嘛，小姑娘再练两天能当大厨了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了你，不要说那么多糖衣炮弹啊，我妹还小呢。愣着干嘛，赶紧吃啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胳膊疼，抬不起来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也是，谁帮帮咱，喂咱一口……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "然后掌柜的喂老白，小郭喂秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这才叫江湖啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这跟江湖有什么关系呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖啊，什么是江湖啊，恃强凌弱……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不不不，是那个除强扶弱，劫富济贫，替天行道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，就喂个饭而已，至于吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "岂止是喂饭啊，你想想，上一次那个姬无命来的时候，你们怕过谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那倒也是，团结就是力量嘛，咱们大家一定要团结。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说得对！盗圣大哥，你一定要对佟掌柜好一点啊，不要因为佟掌柜是寡妇你就嫌弃她，佟掌柜是个好人哪，她就是小气一点嘛，就是唠叨一点嘛，那也没什么不好的……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "发现不太对劲"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不说话，没有人把你当哑巴……吃饭，吃饭，嘿嘿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有关系，你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，你也要对盗圣大哥好一点，不要因为他是贼你就嫌弃他呀，他那也是一失足成千古恨啊，你要秉着一颗惩前毖后，治病救人的心，去挽救他这颗肮脏不堪的心灵啊……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白瞪眼"
+        },
+        {
+          "type": "line",
+          "line": "就当是给子孙后代积德嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳！咳！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐你怎么了嘛，你喝口水，喝口水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你倒点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看，还是大嘴哥哥有眼力，我跟你说，那个蕙兰太没眼光了，你为她付出了那么多，她都没有感动过，还好你没有把她娶回来，要不然也是一辈子的难受。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬着后槽牙"
+        },
+        {
+          "type": "line",
+          "line": "少说两句会死吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？哎，吕大侠你也吃啊？虽然你武功盖世，天下无双，可是人是铁饭是钢，一顿不吃饿得慌，你要是倒下了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭在旁边脸色越来越难看"
+        },
+        {
+          "type": "line",
+          "line": "谁来保护我们大家？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳！咳！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐你怎么了嘛？是不是我说错什么了？小女子初来乍到，没见过什么世面，我要是说错什么了，大家千万不要往心里去呀。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭已经趴在桌子上了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没有错，错的是你身边的那位姑娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你听我跟你解释……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大伙纷纷离开"
+        },
+        {
+          "type": "line",
+          "line": "老白？大嘴？侯哥，你听我解释嘛……喂喂喂，你们不要走嘛，喂……郭蔷薇！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，我到底说错什么，你跟我说，我可以改呀。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭举手要打，想了想，一耳光打在自己脸上，出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "搪塞的"
+        },
+        {
+          "type": "line",
+          "line": "你手艺不错，手艺不错……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我做错什么了，无双姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，没错，是你姐的问题啊。来来来，吃饭吃饭。"
+        }
+      ]
+    }
+  ]
+}

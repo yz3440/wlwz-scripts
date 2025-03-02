@@ -1,0 +1,172 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟入，嘴里不停嘀咕"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你嘀嘀咕咕说什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你有关系吗？干你的活去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对李大嘴"
+        },
+        {
+          "type": "line",
+          "line": "还说要改呢，还不如不改，比原来更凶残，更没有人性。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说是要涨月钱，一个月才涨一文钱，那跟没涨有啥区别？整这些形式主义有啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "悄声"
+        },
+        {
+          "type": "line",
+          "line": "得了吧，你还涨了工钱，我呢？认认真真开书单，结果怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在看出区别了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看出来了，十八里铺那湘玉绝对不会这样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就知足吧，咱这湘玉能做成这样那就不错啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们嘀嘀咕咕地说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "学您一句话，跟你有关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟朝小郭走来，边走边撸袖子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，饶命，我再也不敢了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "扑上来擦桌子"
+        },
+        {
+          "type": "line",
+          "line": "从今往后，桌子我帮你擦，地我帮你扫，碗我帮你洗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，湘玉姐，我好像不太习惯呢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "1087"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就慢慢习惯吧，以后我就一直这样了，能够分享你的劳动，我感到很荣幸。十分非常以及极其的荣幸。"
+        }
+      ]
+    }
+  ]
+}

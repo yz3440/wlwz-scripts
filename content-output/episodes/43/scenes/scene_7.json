@@ -1,0 +1,390 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎没睡呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娘来了，我在想以后怎么跟她相处呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳呀，别想了，我娘啊刀子嘴豆腐心。我娘心眼可好了，她一会儿就过来看你呢，你看着……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看，来了。娘，啥事儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是来闹喜来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘啊，等一会儿，我们穿衣服呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，这么早就起来啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，不习惯懒床。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫我说你啥好呢，勤劳是好事儿，但不能太勤劳。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，娘来了嗬。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看到干净的白布"
+        },
+        {
+          "type": "line",
+          "line": "展堂，你先出去！我有话和佟小姐说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟小姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出去！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋连脸都没洗呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚起床……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚起床不洗脸，你小时候家里没教你呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，现在就洗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "被子不叠啊？你等着我叠被子啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢没有，现在就叠。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不洗脸了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢洗脸……到底是先洗脸还是先叠被子啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "连这点儿小事你都整不明白，你还好意思给人当儿媳妇啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我错在哪儿了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错在哪儿了，你心里最明白，就你这小家巧还能蒙过我这老家贼呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您老还有什么吩咐吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把脸洗了去，洗完脸楼上楼下地板都擦干净了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可是小郭的活儿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我让你去干，不听是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是不听，工钱已经付给她了，总不能不干活吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，有道理，绝对有道理。既然你不听我管，那从今以后，你走你的阳关道，我走我的独木桥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要走是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要走，我也得是带着我儿子一块儿走。我们娘俩儿宁可浪迹天涯，也决不寄人篱下，看人眼色过日子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这说到哪儿去了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说到哪儿做哪儿，哼，在下告辞，佟小姐留步。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，我现在就擦，您老先坐下喝会儿茶，现在就擦，马上就回来。"
+        }
+      ]
+    }
+  ]
+}

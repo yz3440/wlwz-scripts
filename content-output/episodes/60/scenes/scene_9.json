@@ -1,0 +1,30 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人围坐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慌"
+        },
+        {
+          "type": "line",
+          "line": "啊？这么多人？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑出，掌柜追到厨房"
+        }
+      ]
+    }
+  ]
+}

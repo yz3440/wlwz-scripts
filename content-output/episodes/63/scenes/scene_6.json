@@ -1,0 +1,362 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝慌慌张张跑进屋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "山贼，胳膊上有，胸口上也有，山贼……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "门外老谢正在把纹身擦掉"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点说，慢点说，你说谁是山贼呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "新新……新来的那个人……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老谢进"
+        },
+        {
+          "type": "line",
+          "line": "就是他！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没骗你，不信，不信你看他胳膊，一条大龙，乌青乌青的那么老长……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥？我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "纹身？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胳膊上？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "撩左边袖子"
+        },
+        {
+          "type": "line",
+          "line": "没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那只！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "撩右边袖子"
+        },
+        {
+          "type": "line",
+          "line": "也没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "学老谢的口音"
+        },
+        {
+          "type": "line",
+          "line": "飞走了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "我明明看见的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，你把衣服解开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿，不合适吧，光天化日的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，他胸口上还有呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "解开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不解……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "解开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "中，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "解前襟，小郭吓跑"
+        },
+        {
+          "type": "line",
+          "line": "没有吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样呀，现在你满意了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "委屈"
+        },
+        {
+          "type": "line",
+          "line": "苍天呀，我明明看见的呀！有纹身的，一条乌青乌青的，一条大龙……你们都不相信我！"
+        },
+        {
+          "type": "line",
+          "line": "你等着，我一定不会让你得逞的！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出门"
+        },
+        {
+          "type": "line",
+          "line": "都不相信我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思啊，这个孩子就这个样子，等你以后跟她混熟了就好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，没事，孩子嘛，我小时候也这样，那掌柜的，我干活了啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "想"
+        },
+        {
+          "type": "line",
+          "line": "小妹妹，我看你咋挡我的道。"
+        }
+      ]
+    }
+  ]
+}

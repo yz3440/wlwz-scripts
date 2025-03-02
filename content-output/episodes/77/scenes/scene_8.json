@@ -1,0 +1,428 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人看着信"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，信上写的什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "匪徒让我们准备好银两，然后到指定的地点去交接。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多少钱？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十万两。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还等什么呀？拿钱去呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我们没有拿多的钱呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想办法呀找亲戚，亲戚没有找朋友，朋友没有找高利贷。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "高利贷总得有东西抵押呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这房子值多少钱？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最多七八百两，乱七八糟全加上，最多凑到一千两，这已经是极限了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭起"
+        },
+        {
+          "type": "line",
+          "line": "小贝呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别管她，你不要激动，把信给我。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "接过信"
+        },
+        {
+          "type": "line",
+          "line": "我发现个奇怪的现象。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看这信的字迹和前几封都不一样啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "敲桌"
+        },
+        {
+          "type": "line",
+          "line": "这说明绑匪不止一个啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "更奇怪的是，在七侠镇绑的人，为什么要到衡阳去交接呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衡阳是您老的地盘啊，他们这么做那是向您示威的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "岂有此理，这真是士可忍孰不可忍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就无需再忍，老谢这次可全靠你了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一拳打在谢身上，谢倒地"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "扶谢"
+        },
+        {
+          "type": "line",
+          "line": "慢点，慢点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没关系，咱们兵分两路，我回衡阳，召集所有兄弟，追查绑匪下落。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我们干什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们留下来想尽一切办法筹集赎金。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就等我胜利的好消息吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快走不送。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢一晃一倒的走出客栈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点老谢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭关门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "咱们从哪儿凑到十万两银子呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是十万两，是四千两。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘，刚才那封信是假的，是咱自己写的，就是为了哄谢捕头回去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打开信"
+        },
+        {
+          "type": "line",
+          "line": "真的信在这儿呢，快看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看，看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看过信，还是哭"
+        },
+        {
+          "type": "line",
+          "line": "四千两银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "安慰道"
+        },
+        {
+          "type": "line",
+          "line": "这总好过十万两吧。咱们手里已经有两千两了，再凑巴凑巴。应该能凑够吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "众人互相看着，掌柜的继续看着信哭"
+        },
+        {
+          "type": "line",
+          "line": "小贝呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的……"
+        }
+      ]
+    }
+  ]
+}

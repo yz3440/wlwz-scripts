@@ -1,0 +1,376 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝从房间出来，掌柜的背身站着，被小郭看见，小贝示意不要声张，奔向客栈外"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么早上哪儿去啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜的转身"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上学呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上学需要带这么多的书吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不多呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把书包打开让我参观参观。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，没那个必要吧？请你尊重公民的隐私权。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请你尊重家长的监护权，我数到三把书包打开。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一二三先走了，嫂子回见。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说着就跑，掌柜的一把抓住，夺过包"
+        },
+        {
+          "type": "line",
+          "line": "你，佟湘玉，瞧你干的好事！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "书包断了，我回头我帮你缝啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "打开包"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，这都什么呀，乱七八糟的一堆，家规第三十二条咋说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "禁止带刀上学校，可这不是刀，这是往鞋上绑的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "绑在鞋上你想干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子我跟你说，西凉河结冰了，我跟同学说，放学以后我们去滑冰。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭将冰刀绑在自己脚上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "滑冰？你不想活了呀？万一掉进那个冰窟窿里我找谁要人去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！嫂子你放心啦，那河上马车都能过了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走火车也不行！冰刀没收，以后禁止参与这种危险的活动。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看见小郭在玩她冰刀，走上前"
+        },
+        {
+          "type": "line",
+          "line": "不准踩，你脱了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就踩就踩，不脱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "上手把冰刀从小郭鞋上脱下"
+        },
+        {
+          "type": "line",
+          "line": "讨厌你。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到掌柜的身旁，撒娇"
+        },
+        {
+          "type": "line",
+          "line": "嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "还在翻书包"
+        },
+        {
+          "type": "line",
+          "line": "少来，你是要嫂子还是要冰刀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要嫂子也要刀，就这一次了，最后一次了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭发出怪音"
+        },
+        {
+          "type": "line",
+          "line": "拜托了嫂子，我都跟同学约好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪个同学？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲小郭"
+        },
+        {
+          "type": "line",
+          "line": "干你的活去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲小贝"
+        },
+        {
+          "type": "line",
+          "line": "是不是那个邱小东？回头我要找她娘说道说道。书不好好念就知道玩，跳跳房子过过家家就算了。玩起还没有个边儿了还。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "将掌柜的点住"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有没有搞错，莫小贝，你不想要命了你？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝兴奋的绕磨盘一圈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿着冰刀，拿着书包"
+        },
+        {
+          "type": "line",
+          "line": "嫂子对不住啊，做人得讲信用，我得赴约的呀，嫂子对不起啊，回来我给你赔不是。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "奔门外狂奔"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "追上去"
+        },
+        {
+          "type": "line",
+          "line": "喂喂喂。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "没追上，回后院"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，我的指甲。葵花籽解穴手。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "没用"
+        },
+        {
+          "type": "line",
+          "line": "哎呀！老白，又出事了。"
+        }
+      ]
+    }
+  ]
+}

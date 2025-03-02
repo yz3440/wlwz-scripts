@@ -1,0 +1,386 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大伙等老白的消息，大嘴趴桌子上睡，老白进门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "倒水"
+        },
+        {
+          "type": "line",
+          "line": "这事啊，他真藏到地底下去了，我在他家翻了个底朝天，硬是没找着啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在不行，就跟他上衙门辩论，我还不信就没有王法啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没用的，娄知县这个人你们是知道的，很讲究证据的，礼单落在那个人手里，肯定没戏了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早知道，我就不出这个馊主意了，无双……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有个办法。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是不说了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我先答应他，然后趁他不注意，把礼单给偷回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "进门，小六在后边跟着"
+        },
+        {
+          "type": "line",
+          "line": "好主意，不过你们还是晚了一步，我已经提前把礼单送到衙门去了，娄知县已经看过了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姓辛的，你咋不讲信用呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Sorry，是你们先违约的啊，不过没关系，只要无双肯嫁，我马上撤诉。这些聘礼不都是你们的了吗！别再考虑了，没用的，你们已经没有选择余地了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我排死你算了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "降龙十八掌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "子曾经曰过……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放着我来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "照顾好我七舅……姥爷……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了！如果我答应嫁给你，你愿意放过他们吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双你说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Of course，别忘了，我们曾经互相说过 I love you 的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，你回去准备酒席，不过先说好，我没有嫁妆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洒洒水嘛嘛得，麻烦麻烦没问题。我要的就是你，也只有你。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老白"
+        },
+        {
+          "type": "line",
+          "line": "怎么样，我的大舅哥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，你先回去吧，有什么事我们再通知你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Ok，未来老婆，好好享受你最后一个单身之夜吧，See you。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我排……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别整没用的，人都走了你排谁去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，现在怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还能怎么办，我这就把礼单偷回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娄知县已经看过了，偷回来也没用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄，谢谢你对我的照顾。还有你们，谢谢大家。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先别急着谢，我仔细想过了，这个事情应该还有解决的余地。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "摆造型"
+    },
+    {
+      "type": "action",
+      "description": "字幕：一个不眠之夜过去了"
+    }
+  ]
+}

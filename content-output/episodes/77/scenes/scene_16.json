@@ -1,0 +1,490 @@
+{
+  "type": "normal",
+  "rawDescription": "【钱夫人房间，夜】",
+  "location": "钱夫人房间",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "钱夫人拿着蒙汗药酒塞到小贝手中"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "似乎有些后悔"
+        },
+        {
+          "type": "line",
+          "line": "白大哥……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是蒙汗药，给他灌下去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着了吧，我都把他给点住了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "点穴能撑多久啊。这壶药啊，一给他灌下去，他能睡好几天呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后怎么办呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后你就走了，他们上哪儿找你去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你怎么办呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我你就不用管了，他们不敢把我怎么着，人活着要为自己，不是为别人，去吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "将酒壶放在小贝手中"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "欲灌老白，不忍心，将酒壶打碎，想跑出门，哭"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你回来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我已经做错了，我不能再错了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不怕坐牢了啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就算坐，那也是我应该的，做错了事，必须要付出代价。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，既然你这么坚持，那我就，让你也付出代价。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "将小贝擒住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喊"
+        },
+        {
+          "type": "line",
+          "line": "嫂子，嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "不多时，二人被钱夫人绑住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "幸好还剩点，上好的蒙汗药啊。喝多少都不上头。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿手指搅搅杯子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我能知道为什么吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你折腾了老半天，先把小贝哄过来，然后又给我们发绑架信，你不全是为了我们这个店吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "店？只要我想开，随时都能开，任何时间任何地点，实话告诉你吧，你们那个破店啊，我没兴趣。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你图啥呀，家大业大，老钱又听话，好好过日子不比啥都强？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要佟湘玉在七侠镇，我就一天都不得安生，做生意她不是我的对手，文才武略她比不上我，对伙计，我付的工钱比她高，凭啥谁都说她好啊？只要一提七侠镇，谁都说她佟掌柜好，凭啥呀，凭啥呀？我哪点比不上她呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想知道吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "诚心。湘玉对所有的人都坦城相待。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也一样啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，帮白大哥挪一下脑袋。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝用头帮老白挪脑袋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这回是特殊情况……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱夫人，你已经做错了。就别再一错再错了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝呀，你确实是个好孩子，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿着蒙汗水欲给小贝灌"
+        },
+        {
+          "type": "line",
+          "line": "只可惜呀，你生错了人家。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝挣扎"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "钱夫人停手"
+        },
+        {
+          "type": "line",
+          "line": "我可以最后给你一次机会，放了我们，看在老钱的份上，这件事我可以既往不咎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬牙"
+        },
+        {
+          "type": "line",
+          "line": "谢了，用不着！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱夫人准备给老白灌药，却被老白点住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥，你怎么弄的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "给小贝松绑"
+        },
+        {
+          "type": "line",
+          "line": "你以为你那小把戏，还真能把我点住？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你为什么假装要被我给点住呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "二人走到桌旁"
+        },
+        {
+          "type": "line",
+          "line": "废话，不装着被你点住了，怎么把她心里话套出来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她怎么处理？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "送到衙门候审。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给过她机会啊，是她自己不知道珍惜，那怪得上谁啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看看姿势还挺可爱的嘛。"
+        }
+      ]
+    }
+  ]
+}

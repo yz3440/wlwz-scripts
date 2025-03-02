@@ -1,0 +1,178 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴来到后院，无双正在教小贝练功"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可以啦，啊，扎好马步，气沉丹田，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "作点穴状"
+        },
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "学点穴状"
+        },
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，很好，再来一遍……扎好马步，气沉丹田。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "李在一旁也开始学样"
+        },
+        {
+          "type": "line",
+          "line": "指如疾如，势如闪电！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "小声"
+        },
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电！指如疾风，势如闪电！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双发现了，示意小贝，小贝干咳"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "边做动作"
+        },
+        {
+          "type": "line",
+          "line": "没事儿，你俩接着练。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思啊，你在我们没有办法练。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "偷学武功在江湖上是最大的忌讳哟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟我还忌讳啥啊，好像谁稀得学似的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不稀得学，那还赖着不走？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我真想学葵花点穴手，我还不如找老白去呢，你知道吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，那你去找我师兄啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝、祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去啊，去啊！找去啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李走开"
+    }
+  ]
+}

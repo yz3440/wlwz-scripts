@@ -1,0 +1,129 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "古话说的好，不做亏心事，就不怕鬼叫门，你说你这么个通透的人，你咋整不明白呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱掌柜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，你太冤了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你商量点事情。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "商量啥事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你坐这嘛。老钱，你能不能跟衙门商量商量，放小贝一条生路。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，我也想这样，可是那个小六，是新官上任三把火，要他停，他也停不住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就行行好，看在咱俩旧日的情份上……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥呢？啥情份哪？大白天的你别害人哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的是交情的情又不是别的什么情，你还怕谁听见嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁听见啊？这有谁呀？这也没有别的人，就有个死人她也听不见哪。我是说我跟谁的交情都是那么深，你要干什么？哎，我说，你要干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，小贝回来了。"
+        }
+      ]
+    }
+  ]
+}

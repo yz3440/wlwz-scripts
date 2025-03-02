@@ -1,0 +1,264 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭嗑着瓜子，众人坐的炕上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "关上门，拉小郭"
+        },
+        {
+          "type": "line",
+          "line": "别吃了，过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "懒洋洋的"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，你们就信我一句话吧，这绝对是恶作剧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋看出来的呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还用问吗？咱这个小镇上，有几个人会武功啊？连小六都是不小贝的对手，谁能绑得了她呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那如果是外面来的人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家吃饱撑的呀？小贝她再顽皮她也是个孩子，没招谁没惹谁，掌柜的人缘又那么好，寻仇啊基本是不可能。你说图钱吧，咱这儿又不富裕，没有犯罪动机他怎么犯罪啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不同意这是恶作剧，首先这封信上的字体不是小贝的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我同意，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "接过信"
+        },
+        {
+          "type": "line",
+          "line": "这个字啊，结构饱满，下笔有力，应该是大人的笔迹，而且用的是左手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "磕瓜子"
+        },
+        {
+          "type": "line",
+          "line": "你说，会不会是谁跟小贝串通好的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，你们想一下地形啊，前面有堵墙档着，旁边有人看着，总共不到十米的距离，能把刀插的那么深是何等的武功？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别忘了，她跟你娘学过隔空打穴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "扔石子靠的是指力，匕首靠的是腕力。能把刀插的这么深，别说是小贝了，就是我娘都不成。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家一开始都说不是绑架了。人家上来就说明白了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个叫顺槽，又叫通斗。就是防止咱们报官的，像这封信往衙门上一送，不负责任的官员和捕快一看不是绑架，肯定会甩手不管，这个人绝对不是个新手，咱们就乖乖等着人家来开价吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "我，我去找掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉住小郭"
+        },
+        {
+          "type": "line",
+          "line": "我跟你说啊，这件事千万千万不能跟她说，她万一有个三长两短的，咱还不够照顾她的呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不告诉她，总会被发现的，我们总不能瞒她一辈子吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先瞒着，走一步看一步。这件事由我全权负责，如果她要怪罪下来，就说是我说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "说话哆嗦"
+        },
+        {
+          "type": "line",
+          "line": "那现在怎么办？总不能空等着吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不能等着，咱先出去打听打听，看看江湖上有什么风声。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走走走，打听打听。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那时候我觉得你好奇怪，明明有机会杀我，可是你非但没有动手，还帮我解穴，还为我写书。我当时就想，你要不是贼，那该有多好啊"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实咱俩想得差不多，我当时是想啊，如果你是个贼那该有多好啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "小声"
+        },
+        {
+          "type": "line",
+          "line": "好，好的很！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么声儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "学老鼠"
+        },
+        {
+          "type": "line",
+          "line": "吱吱~~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闹没完了你，回头我弄点耗子药毒死你。——你说你的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本来，我已经快要把你给忘了。可是婚礼前，我跟他深谈了一次，他说要不是没有你的帮忙，我跟他根本就没有机会在一起，我当时就蒙了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别误会啊，我只是为了保命，没真想帮你们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就是说，你这么做是被逼无奈？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，不是，绝对不是，你们俩不是挺好的吗，挺般配的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都这个时候了，你还不说实话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，我问你几个问题，你想好了再回答。你觉得幸福应该是啥样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他也这么问过我。我跟他说，幸福，就像入了冬的蝴蝶，哪怕天再冷，地再冻，江湖再险恶，只要两个人能在一起，每天都会很开心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你跟他在一起不开心吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说不清楚，你让我想想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你先想着，我给你下碗汤圆。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "半晌，白端汤圆上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，汤圆好了，吃汤圆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有了，你骑过马没有？那种野马，骑上去以后，一面担心摔下来，一面又不想下来，就想那么一直骑下去，心里一直跳呀跳呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你忽略了一点啊，再野的马也有被驯服的那一天。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在我们进行第二个问题，你觉得追风和我比他差在哪儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他比你强得多，各方面强得不是一星半点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是他没有我那么刺激。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刺激？也许是吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道你问题在哪儿吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "展摇头"
+        },
+        {
+          "type": "line",
+          "line": "就是因为你把这种刺激误认为是爱情。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先别急着否认，现在我们回到第一个问题。你说幸福就是两个人在一起，每天都很开心，这一点我不否认。因为我和湘玉就是这样，我们俩经过了很多的磨难，甚至于生死，前几天她把我给赶出去了，可是不管我在哪儿，我心里明白，只有她能跟我走完这一生。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜楼梯后偷笑，小郭竖大拇指"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你确定吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定。如果你不能肯定一定以及确定的话，那我们来作一个小试验。你把眼睛闭上，想象一下这样的画面，天空很蓝，上面飘着几朵白云，下面是一片油菜地，长着几朵明黄色的小花。你站在田野里，耳边吹着和煦的风，你的心情很平和。这个时候，有一个人站在你的身后，在你的头上插着宝蓝色的月季花，那个人，你希望他是谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是我已经逃出来了，他不会再原谅我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "出声"
+        },
+        {
+          "type": "line",
+          "line": "他会的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人微笑着从楼梯后出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的妈呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你你们不是广阳府玩去了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，刚才的表现不错，值得表扬。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展姑娘呀，虽然追风的脾气我不太了解。但是我知道，为你和你在一起，他违抗师命，就冲这一点，他也不会轻易放弃你的呀。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好了不好了，哇呀呀。无双，无双呢，正好你在这儿，出事了，出大事了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看到展红绫"
+        },
+        {
+          "type": "line",
+          "line": "呵呵呵~又没事了，又没事了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六啊，你怎么了？你没事吧你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚接到上面的通知，说展捕头突然间失踪了。四大神捕集体出动，正在到处找她呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找我干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也不知道，但是每个衙门都发了一张纸说，要碰见你呢，就交给你，你自己看吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "纸上画着两只蝴蝶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "亲爱的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "你慢慢飞，小心前面带刺的玫瑰；亲爱的你张张嘴，风中花香会让你沉醉；亲爱的你跟我飞，穿过丛林去看小溪水；亲爱的来跳个舞，爱的春天不会有天黑……"
+        }
+      ]
+    }
+  ]
+}

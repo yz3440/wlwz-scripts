@@ -1,0 +1,224 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的在一件一件的盘算自己首饰的价格"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "戒指算二两，玉镯算二两。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白看湘玉——还是三两吧！"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋不算三百两呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥意思嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这都乱七八糟的不值钱的东西，就算是新的也就值个二三百两。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "门外钱夫人、小郭声音"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "钱夫人闯进来，小郭没拦住"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，谁让你进来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拽我干啥呀，我来看看怎么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要再不出去我对你不客气了啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "刚要出手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭停手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找我有事吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜呀，咋着，我听说那小贝出事了？——不是我耳朵长，这全七侠镇全都传开了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事跟你没啥关系，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那关系啊，那就算了吧，本来呢我是想给你们帮个忙啥的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢你的好意，我们心领了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿起一个镯子"
+        },
+        {
+          "type": "line",
+          "line": "这镯子成色不错啊，多少钱呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三两银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "直接上桌上放三两"
+        },
+        {
+          "type": "line",
+          "line": "你别误会啊，咱俩呢虽说不太对付，可我跟小贝那孩子没仇啊，你说这孩子出事了，我这做长辈的心里也着急啊，这不刚才我们老钱让我过来看看，看有啥需要帮忙的，你尽管开口，说吧，还差多少银子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看了看众人"
+        },
+        {
+          "type": "line",
+          "line": "两千两。"
+        }
+      ]
+    }
+  ]
+}

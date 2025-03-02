@@ -1,0 +1,424 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "两人坐在炕上，手紧紧攥在一起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娟儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "比以前瘦多了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也比以前成熟多了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明明是老了，还成熟……你也好不到哪儿去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这这这……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是佟湘玉，我从小玩到大的朋友。这是老何，你先出去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那那那……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么这这那那的，哎呀出去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个老何是谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我相公……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——派来服侍我的。呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吓了我一大跳，呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样，你挺好的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好的很，你呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不行，自从嫁到那个昆仑派之后吧，没劲透了！就是看着还行，实际上吧，也就是出门威风点儿，手头宽裕点儿，生活舒服点儿，没有别的好处。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还嫌不够？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，每天大鱼大肉胡吃海塞，是个人就腻啊！别的不说，光那个珠宝首饰啊，多得就没法收拾，满屋子都是，那叫一个乱呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就不会找两个丫鬟吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找了，三十多个，根本就收拾不过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十多个还收拾不过来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没辙啊！我那个屋啊，太大了！——我先喝点儿水啊。干净吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "倒茶"
+        },
+        {
+          "type": "line",
+          "line": "哎，我这次出门啊，还想买几个。你这有没有合适的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有，我就一个杂役，还没有签过卖身契。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥不签呀？钱不够啊？我给你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用，不是钱的问题。人家背井离乡地出来打拼，也怪不容易的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都不容易啊！要不怎么说红颜薄命呢。咱们女人，苦啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娟儿，你嫁了之后我哭了好几天呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哭什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "舍不得你呗！从小到大就你这么一个朋友，还忽然就给嫁了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，女人嘛，你嫁了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫁——不嫁的，饿自己也说了不算。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找到意中人了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉点头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是干什么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……跟六扇门有点儿关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捕快？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他给六扇门提供素材！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "缉盗顾问吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，就是顾问，他还写过书呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵……"
+        }
+      ]
+    }
+  ]
+}

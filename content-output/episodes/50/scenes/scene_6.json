@@ -1,0 +1,658 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老邢和湘玉坐在桌旁，窃窃私语，湘玉招呼小六过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六啊，跟你交个底，师父没几年混得了，你知道这件事儿对我来说多重要吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道！——但是您对我来说更加重要！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这熊孩子你看！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "夸你呢，夸你呢，没有事儿，你接着说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，自从小六当捕快的第一天起，我就一直跟着你，形影不离，没有您，我真嘛也干不好，我连个马步都扎不稳。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也一样啊，我也是不稳啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我连大明律都不会背。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我连大明律三个字都不会写啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我连一套像样的刀法都不会使。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我连刀都拿不稳啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，我知道这样对你真有点不公平，但是我真的没有办法啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就忍心看着你师父孤独终老，晚景凄凉？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，您放心，只要有我燕小六一口吃的，绝对不会让您挨饿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这孩子咋听不明白话呢？师父缺的不是钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那您缺嘛呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么跟你说吧，你忽然被撤了职，换了别人你乐意吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "换了他们我当然不乐意了，要是换了您的话，我一百个乐意。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这熊孩子你看！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是夸，还是夸啊。——说到底，小六就是害怕他自己干不好，那咱就给你个机会证明一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么证明？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要着急啊，我跟你师父先商量一下。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉和老邢小声商量"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "血手行动？对我有用对他没用，那是肉包子打狗一去不回。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想啊，他本来就不放我走，他再消极怠工不配和，你怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，有一个词叫放水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "商量嘛呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "七舅姥爷",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从后院上"
+        },
+        {
+          "type": "line",
+          "line": "甭跟他废话，先照他心口窝先踹上他两脚再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "七舅姥爷。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "七舅姥爷",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "跪下磕头"
+        },
+        {
+          "type": "line",
+          "line": "小的给燕大捕头请安了，请安了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "七舅姥爷快把鞋穿上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天呐，我招谁惹谁了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切镜头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这只手，一共有三百条口子，每一道口都代表为师的一个毛病啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了帮助他改掉这些毛病，我们策划了一个血手行动。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请看，白纸黑字血手印为证。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "短短两天，为师已经痛改前非了，再也不是过去那个我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，只要能通过测试，那你以后啥毛病都没有了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇呀呀呀，那我的刀来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿刀干啥呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拉口子呀，不就这只手嘛，——干脆把它剁了吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人拦下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊，不用不用，为师的毛病太重了不划不行啊，你稍加改造就行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么改，你们说放马过来我改。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "很简单，把这些碗筷收拾了先。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，给我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "七舅姥爷",
+      "performances": [
+        {
+          "type": "line",
+          "line": "使不得使不得，我自己来，我自己来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "年轻人，让他锻炼，一定要锻炼，改毛病。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "七舅姥爷",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们平常就这么对他的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，现在是非常时期，到时候等老邢一走……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "后院传来碗碎的声音"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我把碗碟都给摔碎了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六儿，一个都没剩啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还剩下一个勺，不过也半儿了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "燕小六！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "两手拍小六的脸"
+        },
+        {
+          "type": "line",
+          "line": "——干得漂亮。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "试问，谁能破坏的这么干净这么纯粹，这说明什么？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六摇头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说明你破坏力极强啊，到时候你一高兴直冲进匪巢，叮咣五四一顿乱砸，试问，贼往哪跑，贼往哪跑？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥也别说了，直接通过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "七舅姥爷",
+      "performances": [
+        {
+          "type": "line",
+          "line": "使不得使不得啊，他笨手笨脚的，要是毁了贼窝倒还好说，那万一要毁了百姓的东西，那可怎么办啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃呃呃，这样，进行下一个环节，把衣裳洗了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢都洗过了，而且都晾了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就扯下来，重洗一遍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，交给我了，我这就洗去。"
+        }
+      ]
+    }
+  ]
+}

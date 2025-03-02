@@ -1,0 +1,166 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你真的决定了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯。这个店，就归她了。只要小贝能平平安安，比啥都强。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴叔……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你跟个孩子你得瑟个啥你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，我说可真有你的啊，你叫个小毛孩子来跟我这装神弄鬼的，你吓唬谁呀你？还从井里头往外爬，你不怕她淹死，啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我的主意，跟我嫂子没关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你闭嘴。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对钱夫人"
+        },
+        {
+          "type": "line",
+          "line": "你少废话，这个店归你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爽快，佟掌柜，我就是喜欢你这个性格的人，说一不二，那行，那咱们就这么定了。你们先收拾收拾东西，这伙计，我都要，明个一早啊，我过来交接。太好了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们先回去睡吧，我想跟小贝单独聊聊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，我错了，我不应该去采那筐毒蘑菇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没有错，嫂子知道，你采蘑菇也是为了帮家里的忙。但是你不应该装神弄鬼的吓唬人，把嘴角的西红柿擦了。说到底，这件事情也是嫂子不对，没有给你做个好榜样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝呀，你记住啊，不管以后碰到什么困难，你都要做一个心地善良，诚实有礼的好孩子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，嫂子……"
+        }
+      ]
+    }
+  ]
+}

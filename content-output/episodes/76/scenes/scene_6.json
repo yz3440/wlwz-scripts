@@ -1,0 +1,26 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝越听越害怕，索性将小郭的首饰全拿走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐，我先拿你首饰应应急，等我有了钱，一定买双份的还给你。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拎着包出客栈"
+    }
+  ]
+}

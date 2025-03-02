@@ -1,0 +1,262 @@
+{
+  "type": "normal",
+  "rawDescription": "【钱夫人房间，夜】",
+  "location": "钱夫人房间",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "钱夫人急匆匆回屋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对小贝"
+        },
+        {
+          "type": "line",
+          "line": "你刚刚是不是出去过了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊，我一直在屋里呆着啊，怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐桌旁"
+        },
+        {
+          "type": "line",
+          "line": "不对呀，你嫂子她好象知道你跟我这儿呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，她呀正跟那无双和小六商量着要把你捉拿归案呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "归案？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不是咋的，那盒首饰呀，值不少银子呢。你就等着坐牢吧，至少二十年。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        },
+        {
+          "type": "line",
+          "line": "钱夫人，我能在你这儿多呆两天吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不能再收留你了，我可怕引火烧身。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身拉着钱夫人"
+        },
+        {
+          "type": "line",
+          "line": "钱夫人我求求你了，就这一次最后一次。等我以后赚了大钱，我肯定回来给您的啊。这是个好人，大大大好人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，我可以连夜把你送出城，可这以后的路该怎么走啊，全靠你自己了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喔……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你记住了啊，走了以后就别回来。永远都别回来啊，以后要是有任何人问起你来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就说我没见过你，咱俩毫无关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这孩子真聪明，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "从小罐中拿出一包银子"
+        },
+        {
+          "type": "line",
+          "line": "小贝呀，这是五十两银子你拿着啊。走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢钱夫人。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱夫人开门准备送小贝，老白却早在门口等候多时"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么啦？白大哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "钱夫人一路后退"
+        },
+        {
+          "type": "line",
+          "line": "钱夫人，真有你的啊，这种下三滥的招数你都想得出来，你就不怕遭报应？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "将老白点住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "关上门"
+        },
+        {
+          "type": "line",
+          "line": "白大哥对不起，我真的不想坐牢。"
+        }
+      ]
+    }
+  ]
+}

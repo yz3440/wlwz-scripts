@@ -1,0 +1,164 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "客栈的大堂，湘玉在狼吞虎咽的吃着一盘炒鸡蛋，手里还拿个馒头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "哎，慢点儿吃，别噎着了阿。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "嗯，嗯，你也吃？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "我等你吃完了再吃。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "那就难说了。" }]
+    },
+    { "type": "action", "description": "转瞬，湘玉吃光了" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "还有没有了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "„有！我再给你炒一盘去啊。" }]
+    },
+    { "type": "action", "description": "老白起身，湘玉站起来" },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "我不走，我就在厨房。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "那你快点儿回来啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "好好.." },
+        { "type": "speaker-action", "description": "转身跑进厨房" }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉见老白进了厨房，开始舔盘子，这时小贝穿着破烂满脸脏兮兮的进来了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "有人么？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "speaker-action", "description": "急忙拿起盘子作掩饰" },
+        {
+          "type": "line",
+          "line": "哈哈，这个盘子不错吧？它是个圆的，你看看上面还有青花呢，过来过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "你……你……是新娘子吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "是呀，要不我穿成这个样子干什么呀。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        { "type": "line", "line": "那……那你是衡山派的新娘子吗？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你咋知道的呀？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "你别管了，你就说是不是吧？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "……江湖就是江湖，消息传得就是快呀！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        { "type": "speaker-action", "description": "一把抱住湘玉" },
+        { "type": "line", "line": "嫂子~~！我终于找到你啦！" }
+      ]
+    },
+    { "type": "action", "description": "小贝抱住湘玉哭，湘玉一脸的茫然" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "不哭不哭，你是莫小贝吧？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "是呀，我是小贝。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你哭个啥嘛？我的小姑子呀，你看这小脸花的。你说吧，咋回事呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "我哥……我哥他出事儿啦。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "你哥？……" },
+        {
+          "type": "speaker-action",
+          "description": "反应了一会儿，拉着小贝上楼"
+        },
+        { "type": "line", "line": "跟我上楼。" }
+      ]
+    }
+  ]
+}

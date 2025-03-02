@@ -1,0 +1,476 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，钱掌柜，来来来，这边请，这边请。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，一个月饼都那么神秘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，钱掌柜，你先闭眼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭眼干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您闭眼。深呼吸，您闻到啥没？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "栀子花的芬芳。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "核桃的浓香。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "精选上等的牛肉，最起码熬煮了八个时辰以上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，行啊，这都能闻出来了，钱掌柜，您开眼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵，藏哪了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "月饼呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，这不就是月饼吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这我按照您的要求做的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的要求？我什么要求来着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大气啊，您看，就这尺寸，够不够大气。你可哪打听去，要是谁家做的月饼比这大，我把马勺活吞了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀呀，就算它够大气，太难看了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这也是按照您的要求做的呀，上档次。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上档次？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从哪儿看出来上档次？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥叫档次？这么说吧，你觉得我这人够不够档次？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱掌柜摇头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我为啥不够档次？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "粗鲁，平庸，没有内涵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对了嘛，没有内涵就不够档次。要想够档次。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就得有内涵？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "内涵全在外面呢，就这还不够上档次？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是怎么看也不像月饼啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这咋不是月饼呢，为了让它和别的月饼有所区别，我还特意给它取了个别名？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么名？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "必胜阁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "万事必胜嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "名儿倒是挺顺的，但是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又但是，但是，一个破月饼，你磨磨唧唧的，哎呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵，大嘴呀，我问你。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿银子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，那个，这个，当然了，客户的需求，永远是第一位的，呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，知不知道什么是美女？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "漂亮的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个绝世美女，绝对不能是赤裸裸的站在你面前，她应该是犹抱琵琶半遮面，这样才有韵味儿，才有意境。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，整个月饼都整出意境来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，好好琢磨琢磨，用用心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "郭小姐，转个圈看看。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "转圈？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "转圈不懂啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "不懂。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "你看我。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "转的不错嘛，再来一个。好好好。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "停停停，你耍猴呢？——要你在这儿骚包？谁欠钱了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "小郭，人家跟你说正经的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也说正经的呀，人家转得确实不错。哎，再转一个看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "不想转就算啦，咱们公堂见。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，赛掌柜，第一次嘛，是个人都会害羞的，还需要磨合磨合。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "你快点儿磨啊，我时间不多。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "非常少。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "我知道。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        { "type": "line", "line": "小郭，一千两，你想一想你得占多少？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "他们明明就是讹咱们。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "你说啥？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "你再说一遍。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她说饿了，你们不管她啊。人家说了，顶过这一阵子就没事了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那你自己为什么不顶啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "人家要盘儿亮，条儿顺。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "你盘儿不亮，条儿不顺吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "还要会来事。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "你不会来事儿吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "还要有侠气，秀发飘逸，英姿飒爽的那种。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "他们真的这么说的？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "当然了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "方圆五百里之内，就你一人有这气质。一传十，十传百，现在成了众人皆知的秘密了，要不然人家为啥来找你呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "那好吧。赏她个面子。——可是我不会唱歌。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "我可以找人替你唱！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "合适吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        { "type": "line", "line": "有啥不合适？现在崔大师又不在。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "谁管你假唱啊？吃饱了撑的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "可是我不会这样跳舞。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "我可以找人教你啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "找几个伴舞也中啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "可是我没有演出经验呐。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "所以就得练呐。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "练。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "你放心。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "一百个放心。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要有我在，保你三天出师，七十天红透七侠镇。走着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "上哪儿去啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "排练呐。让你们瞧瞧。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "啥才叫包装大师。" }]
+    },
+    { "type": "action", "description": "众人附和好好好" },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "扯块白布，搭个台子。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        { "type": "speaker-action", "description": "对秀才" },
+        { "type": "line", "line": "我叫小翠，你呢？" }
+      ]
+    }
+  ]
+}

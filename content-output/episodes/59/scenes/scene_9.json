@@ -1,0 +1,210 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样？怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们已经尽力了，平时要连吹带唱，连牛都得疯了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉她不是牛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了算了，小六也没别的意思。六啊，带小贝去后院休息一会儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在该怎么办？怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别急别急嘛，这招不行咱们再换一招，总会有办法的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我求求你了，给咱来个一招致敌的行不行？我能折腾的起，湘玉她折腾不起啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，这个看来物理疗法，效果不是很明显，我们可以改成化学疗法。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "化学？化学是啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "简单的说就是药，但不是一般的药，师姐这种情况，必须要有千年人参，少一年都不行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，还需要啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要有人参，其它的就好办了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我这就去收拾行李。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂，老白、老白。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对南宫"
+        },
+        {
+          "type": "line",
+          "line": "喂喂喂喂，你到你什么意思啊你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉呀，你想啊，怎么会有千年人呢？就算是有，谁知道是一千年，还是九百九十九年呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你还让他去找啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等他找不到。自然会回来，时间会冲淡一切，到时后他就想开了。至少在这段期间，他能好好活着，这样有什么不好啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好、好你个死人脑袋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不懂礼貌，别理她，妇人之见。我能理解你的意思，喝杯水。"
+        }
+      ]
+    }
+  ]
+}

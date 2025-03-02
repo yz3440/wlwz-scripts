@@ -1,0 +1,472 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴忙着端菜，小郭和秀才眼泪吧嗒的"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回家？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心，我不会回去太久的，我心里很乱，我想回去琢磨琢磨。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在这不能琢磨吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这里很难客观的去想的嘛，反正有些事情必须得跳出来才能想清楚，你明白吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才点头"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，这件事情你要……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六和无双进，抱着123，也眼泪吧嗒的"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六，咋了这是，没有事吧你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，我能求你件事吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "123走了，我怎么想怎么得给它办一个象样的告别仪式，不用太隆重，心意到了就行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "需要提前准备些什么吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "骨头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "交给我了，它的骨头我还没来得及扔呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢——我说的是猪骨头！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别激动，别激动。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "123生前最爱啃骨头了，这也是我能为它做的最后一件事情了，123……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别哭了，三儿，别哭了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁三，六！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "安息吧，六。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别哭了，三儿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就没说对过！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们也太悲痛了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "骨头准备好了，123的皮放在桌子上，小六还在抽搭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一二三是只好狗，自打跟了我，虽然没破过大案子，但是它从没发过一句牢骚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "它倒是想发，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小六拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "也没这个机会了……安息吧，朋友！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "狗跟人不一样，虽然心里再不开心，但是只要给根骨头，它立马活蹦乱跳的，就凭这一点，就比人强。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不咋的，不管咋说，人知道自己要啥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴？这可是你这一辈子说的第一句明白话呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭？你明白了没有？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭点头"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，你明白什么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你刚才跟掌柜的说，人生有无数种的可能性，不要因为小时候的玻璃珠子，就拒绝了长大以后的各种首饰，那个比方你打错了，玻璃珠子不是骨头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "玻璃珠子不是必需品，时间一长，就会慢慢忘记的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕：您对本集中郭氏说书有何评价，请发邮件至www.武林外传@同福网站.com"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "而有些人对我来说，更像123眼中的骨头，有了他，就有了快乐，而这种快乐是可以持续一辈子的。我第一次来这的时候，就是知道我自己到底要什么，而我第二次回来，就是想把这种我要变成我有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说的对呀，先要知道自己要什么，然后要用尽全力去争取，还要珍惜，这才是成熟的标志啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你现在不明白没关系的，等以后长大了，你有了自己的骨头，你就会知道我的意思了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹，那你还走吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭摇头，大伙一阵欢呼"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊嘛呢，肃静！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一二三死得好惨哪。空谷深山徒泣泪，啼鹃清夜哭先生。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一二三，来世我们还是好兄弟……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大家鞠躬"
+        }
+      ]
+    }
+  ]
+}

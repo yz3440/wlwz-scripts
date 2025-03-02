@@ -1,0 +1,30 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，夜】",
+  "location": "女寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "被绑住的展堂在叫殷十三"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "醒醒啊，醒醒，仙子，狗尾巴花狗尾巴花!"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "黑屏字幕：此时，在大堂，所有人被点住"
+    },
+    {
+      "type": "action",
+      "description": "字幕开始计时"
+    }
+  ]
+}

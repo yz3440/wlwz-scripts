@@ -1,0 +1,292 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "郭芙蓉偷偷入，给佟吃馒头，佟起来刚要吃，老白醒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你怎么坐这了？我找你半天了，给你送点吃的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我送吃的，你上她那干啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确认一下她醒了没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没醒，醒了我会通知你们的啊，出去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，我能不能跟掌柜的单独待会啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭状"
+        },
+        {
+          "type": "line",
+          "line": "自从她睡过去以后，我一句话都没跟她说过。作为她的好姐妹，这心里头……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抽泣"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说吧，有啥话就说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我能不能单独说一会儿？说点姐妹之间的知心话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "感动啊，说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢老白，把门关好。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白关门出，掌柜的刚咬一口，老白忽然返回"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "作哭状"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，你要能吃口该多好啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我本来不饿，一悲痛也饿了。这馒头咋缺一口呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的可没有吃啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就权当她吃过了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白拿馒头边咬边出，郭芙蓉郁闷地追"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂喂，你吃的完那么多吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你赶紧醒吧！你要折腾到什么时候啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明天，最后一天，晚上就醒！可能实在太饿了，胃都抽抽了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好你不要着急，我给你找吃的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "四处翻"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有了有了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "倒茶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，水又不管饱，越喝越饿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不是水，是茶叶！慢慢嚼啊，很香的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "喂掌柜吃茶叶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，吃点吃点，怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "香！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再来一片！挑个大的！"
+        }
+      ]
+    }
+  ]
+}

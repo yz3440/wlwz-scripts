@@ -1,0 +1,220 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉你，回头面见皇上，第一句话，麻烦你就把刑部尚书撤掉！上下一干人统统撤掉！我就不相信我收拾不了你！哼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "痴线啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好！你睡！你好好的睡！回头有你长睡不醒的时候！我就不相信我收拾不了你！哼！别过来别过来！再过来我要喊了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怕什么呀？我们还能吃了你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还要吃人？吃人是犯法的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们不怕！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是要下十八层地狱的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们不下！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回头到了阎罗王那里，当场叫你们永世不得超生！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "超生？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "搂过湘玉，对观众"
+        },
+        {
+          "type": "line",
+          "line": "一对夫妻只生一个孩儿好！小六上！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包大人！我们错了！我们是有眼不识您庐山真面目，您大人不及小人过宰相肚里能撑船您放我们一马放我们一马……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！你们怕了吧！哈哈哈哈！朝廷命官，你们说捆就捆！还有没有王法啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快快快给包大人松绑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用！就这么捆着！谁给我松绑我批评谁！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "痴线啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "随便批评，我就是一二皮脸！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁谁谁松绑我批评谁！去去去！把你们知县叫来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包大人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "要咬人状"
+        },
+        {
+          "type": "line",
+          "line": "阿巴！阿巴！阿巴阿巴阿巴！阿巴！阿巴阿巴阿巴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "痴线啊！"
+        }
+      ]
+    }
+  ]
+}

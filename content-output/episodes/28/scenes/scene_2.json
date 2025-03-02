@@ -1,0 +1,475 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，说你呢，你不要光擦这些面上的，你看这些边边角角的地方，有灰的你都得擦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "不用了吧？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "不用也行啊，反正我会恨你一辈子。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂，我错也认了，地也扫了，桌子也擦了，还嫌不够吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那要不咱俩换换好了，你也到那个破井里头呆一宿啊，不管怎么喊，就是没有人来救你。大半夜的，寒风吹着，酷日晒着……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "酷日？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "你还敢挑我刺啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "我擦还不行吗。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "小郭，过来给我捶捶腿。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "好啊，那你要左腿还是右腿啊？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "你看着办吧。哎呀妈呀！疼！疼啊！疼！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再吃了，去把大门打开。秀才，大嘴，开门做生意了！"
+        }
+      ]
+    },
+    { "type": "action", "description": "钱掌柜鼻青脸肿进" },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "哎呀妈呀，这谁呀这是？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "哎哟，老钱？你这是咋了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "没事，一出门撞门上了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "撞门能撞成这样？满脑袋青？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先撞门上了，门又弹回来，又撞墙上了，墙又太硬，又撞门上了，门风又大，又刮回来，又撞墙上了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老钱，你就说实话吧，这些伤，是不是你娘子打的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，不是！我娘子温柔贤惠，秀外慧中，不会对我下如此毒手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就嘴硬吧，我跟你说，你再扛几年，你就扛成对联了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "什么联？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上联是\"抵制家庭暴力\"，下联是\"呼唤社会爱心\"，横批是\"不要和陌生人说话\"，嘿嘿嘿嘿"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉、郭芙蓉",
+      "performances": [{ "type": "line", "line": "嘿嘿哈哈……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "哇——！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "老钱？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "哭吧，哭吧，哭出来就好了啊。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "咿——啊——啊——啊——啊——！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "哎呀，够了！你要再敢哭，就把你送回家。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "别对我这样……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，不是不让你哭嘛，你总得把话说清楚嘛，你要不说，我们怎么帮你嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "是啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "命中注定，一辈子吃苦。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "那你都吃啥苦了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "兄弟，乘法口诀会算吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "一一得一，一二得二，二二得四……" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呸！这么简单谁让你算啊，她给我出的题是\"128 乘以 456 等于多少\"，马上说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "不知道啊……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "啪！就一大嘴巴呀！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "这你也得挨打？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "这算好的，行酒令知道吧？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "知道。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十只羊，九只蹲在羊圈里，一只蹲在猪圈里，答？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "不知道啊……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "抑扬顿挫。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "啊——！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "啪！又一大嘴巴呀！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "这还让不让人活了这？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们家里的苦活累活都是我干，缸里的水都是我挑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "那咱俩干的差不多呀。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "差远了，你干活多少还有俩子，可我呢，一个子没有，又挨打，又挨骂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "那你都有那么大家业了，你还要工钱干吗。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个月了，顿顿喝粥没干的，好不容易赶上昨天吃个咸鸭蛋，黄都让她给抠走了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "那你到底做啥事情了，她才会这么对你嘛？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "私藏小金库。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "奥……多少钱？" }]
+    },
+    { "type": "action", "description": "老钱伸三个手指头" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "三十两？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "三百两？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "三千两？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "三文钱……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "啊？！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "你说这日子还能过吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "老钱……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "佟老板……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你受苦了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道我来找你干什么吗？能不能赊点吃的？饿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "没问题，我这别的没有，吃的管够，你想吃啥？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有什么别的要求，沾点油腥就行，最好有只小鸡炖蘑菇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "这还没要求呢……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "快，去叫大嘴做点吃的，快点。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [{ "type": "line", "line": "搁点肉！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "放心放心。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "大嘴！" }]
+    }
+  ]
+}

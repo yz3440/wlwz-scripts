@@ -1,0 +1,420 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你到底说不说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说什么呀？我只说看你眼熟，又没说真地认识你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要是不认识我，怎么觉得我眼熟？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我在梦里见过你，行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么梦？告诉我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姬。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……认识我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不认识。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你为什么叫我小鸡？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这人就有这爱好，专爱给人起外号。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，我们的外号全是他起的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小鱼，小虾，小耗子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我以前一定到过这儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么不可能？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我一直都在这儿啊，我从来都没有见过你。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对众人"
+        },
+        {
+          "type": "line",
+          "line": "你们见过他吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没见过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也许是前世呢。这儿是不是有个后院？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有！——有……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这后院是不是有口古井？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有——有……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这井是不是正德年间的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他想起来了他！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才被打了个耳光"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我发财了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想起来就好喽。一想到这，脑子就乱了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想不起来挺好的，就这样吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不知道自己是谁，你觉得挺好的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……我有时候就这样，一高兴就不知道自己是谁了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你事后还能想起来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我宁可什么都想不起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是我，不会知道的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你上哪儿去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到那边儿看看。看看能不能想起更多的事情。这门帘怎么变蓝色了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这人谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姬无命！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧报官呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "报什么官呢？就老邢那两下子，来不是送死吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小声点！你说怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看再说吧。见机行事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抄家伙！"
+        }
+      ]
+    }
+  ]
+}

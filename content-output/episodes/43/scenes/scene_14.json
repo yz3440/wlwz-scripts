@@ -1,0 +1,112 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋还没磨呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "豆子已经泡上了，又饿又困的我就给睡着了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看你不是又饿又困，我看你是又懒又馋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，我去牵头驴去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，谁让你牵头驴呀？你牵头驴来我得多少东西喂它吃呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "照你这么说，我连头驴都不如……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我错了，我错了，呵呵呵，我这就磨，现在就磨。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "磨吧磨吧，一会儿我回来喝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去拿豆子我。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "晕倒在厨房门口"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭在帘布后面给赛料理伤势，赛靠坐在床上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，好了，没事了，你动动看看。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到脸盆旁洗手"
+        },
+        {
+          "type": "line",
+          "line": "只是一般的皮外伤，休息两天就好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢你啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿没事儿，那你休息吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭端着脸盆出去，湘玉正好推门进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，那我先出去了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊好，好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你躺好，不要起来啊！有事就喊，我们都在呢！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到床前坐下"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那她也在外边？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不管，她要是再敢胡来的话，我叫人把她轰出去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我的卖身契？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要着急嘛，我已经决定了，不等秀才了，把这个店给她好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉姐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要误会啊，我对你没有好感，只是看着你可怜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "仅仅是可怜吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不会真的以为我把你当成好姐妹了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有那么傻，我这辈子做了不少坏事儿，可就做过两件傻事儿。一件，就是不该与你为敌……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要说了，事情已经过去那么长时间了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，你就让我说吧，好久都没有人愿意认真听我说话了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你在那个家就没有朋友吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们都知道小翠恨我，没有人敢靠近我，有时候还合起伙来欺负我，我当初真不该把她买进来，这就是我做的第二件傻事儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也不能这么说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你不知道，湘玉姐。她是父母双亡，当初她那个赌鬼舅舅前脚把她卖进青楼，后脚我就把她赎出来了。五十个女孩，我偏偏看中了她。赎进来以后，我就给她起了这个名字，还花了五十两银子给她买了块翠玉，五十两啊，比她的身价还贵。进门以后，我好吃好喝好穿，还请人教她跳舞，我还亲自教她做人呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，你教她做人，怪不得她变成今天这个样子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是我教的，其实小翠，以前挺淳朴、挺善良的。当初我害你们的时候，她还劝我不要那么做。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠在门外偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，没想到，一只羊变成了狼！这可能就是人性吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠想推门进去，但想想，又走下楼来"
+    }
+  ]
+}

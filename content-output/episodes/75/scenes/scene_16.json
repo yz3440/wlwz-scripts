@@ -1,0 +1,356 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "无双准备出门，小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，等会儿，等会儿，你先别着急走，我喝口水，老白，沏茶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自己倒，壶在那，水在厨房，茶叶在帐台上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "懒成虫了你，就你这模样好意思当跑堂你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不好意思当跑堂，我都想死来着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "燕小六不屑"
+        },
+        {
+          "type": "line",
+          "line": "后来我一想，我死啥呀，还有人好意思当捕头呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捕头怎么的了，我很不称职吗？有嘛问题你可能直接说吗。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴与小贝追跑着进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过来，过来"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我今天"
+        },
+        {
+          "type": "speaker-action",
+          "description": "胭脂掉地上了"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，干啥呢，客人都在呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也不知道谁教这孩子点穴啊，没啥事儿她点我玩，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "燕小六捡起了胭脂"
+        },
+        {
+          "type": "line",
+          "line": "还让我服她，不服不给我解穴。我今天非抓住你，你等着……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还不服是吧，小心我点你啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "挑衅"
+        },
+        {
+          "type": "line",
+          "line": "你来啊，你来啊，来啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样，怎么样？我说什么来着？教什么都行，就是别教点穴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在不学以后就来不及了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，那你就教吧，等回头出了事，你看湘玉怎么收拾你！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双无双，这个点穴这个，现在要不学，以后真来不及了是吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也不一定，学武功主要还是要看天赋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你看我的天赋怎么样？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "作点穴状"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是先把刀功练好吧，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，先别着急走啊，无双，其实我这手指头，那也挺灵活的其实……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "调皮"
+        },
+        {
+          "type": "line",
+          "line": "你是在……求我吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "装酷"
+        },
+        {
+          "type": "line",
+          "line": "当然不是了，我求你干吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家小贝当初可是拜了师的，三叩九拜五体投地，你做得到吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，不学就不学，三脚猫的功夫，有嘛好学的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，那我走了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "欲走"
+        },
+        {
+          "type": "line",
+          "line": "走了啊，我真走了啊，真走了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，无双无双，你等会儿，这个送给你"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿出刚刚捡到的胭脂，无双惊呆"
+        },
+        {
+          "type": "line",
+          "line": "给你就拿着呗，作为你唯一的上司，一直以来，对你也没嘛表示。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "深情"
+        },
+        {
+          "type": "line",
+          "line": "你放心，胭脂虽小，情深意重……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头回来"
+    }
+  ]
+}

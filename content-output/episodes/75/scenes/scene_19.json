@@ -1,0 +1,224 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，夜】",
+  "location": "客栈门口",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "吕，郭对观众"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "冬天已经来到了，春天还会远吗？可是无双的春天，在哪儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "音乐起"
+    },
+    {
+      "type": "action",
+      "description": "镜头一个个切到无双碰到的男子"
+    },
+    {
+      "type": "action",
+      "description": "镜头一"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说我不想娶你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬牙切齿"
+        },
+        {
+          "type": "line",
+          "line": "白展堂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你逼的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听我跟你说啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么也不要说了，掌柜的，你的大恩大德无双一定会记得的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "无双，他那是吃了吐……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头二"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对秀才"
+        },
+        {
+          "type": "line",
+          "line": "不管你喜不喜欢我，我都跟定你了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "欢跳着跑进房，留下秀才不知所措"
+    },
+    {
+      "type": "action",
+      "description": "镜头三"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对掌柜说起佟石头"
+        },
+        {
+          "type": "line",
+          "line": "我就见过他一面，不过，他是我见过的最侠义最豪迈最有男子气概的男子汉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "画面切到石头作假举石锁"
+    },
+    {
+      "type": "action",
+      "description": "画面切到石头作假能喝酒"
+    },
+    {
+      "type": "action",
+      "description": "画面切到石头自我辩解：都是他们出的主意，跟我一点关系都没有，不信你问他们"
+    },
+    {
+      "type": "action",
+      "description": "镜头四"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展侍卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我展堂对天发誓，此生若有负祝姑娘，就让我天打……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "制止"
+        },
+        {
+          "type": "line",
+          "line": "不要说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "放殷十三前"
+        },
+        {
+          "type": "line",
+          "line": "为了展大哥，我愿意付出任何代价！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头五"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可怜的无双，你的春天什么时候才能来呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "持续音乐"
+    }
+  ]
+}

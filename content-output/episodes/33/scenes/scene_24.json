@@ -1,0 +1,346 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用布能把铁拧弯了？蒙谁呢？哪本儿书上写过？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦呦呦呦呦，醒醒吧，醒醒吧。不是每个问题的答案，都可以从书本里得到的，书呆子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能！书中自有千钟粟，书中自有黄金屋。——出自宋真宗《励学篇》"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，别显摆了，一会儿还有三堂会审等着你呢"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，等等！为什么只抓我，不抓他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，人家是青年表演艺术家，你是嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他真是盗圣！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真是盗圣，我真是盗圣！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是盗圣，我就是盗圣的夫人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好了好了，老白赶紧从人物当中出来吧，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把我抓回去，现在就把我抓回去，把我抓回去你们俩就能升官儿发财！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抓他！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你自己说说，你这个人物演的值不值？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "值，太值了。把他给我带走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢、燕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走走走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这个盗圣！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说过啊，他们俩不信呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盗圣！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "带走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他真是盗圣！我对天发誓！他是盗圣！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "向观众"
+        },
+        {
+          "type": "line",
+          "line": "看来我这个盗圣从此可以公开了。夫人，"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "掌柜的",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走，到衙门送刀去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "向吕、祝"
+        },
+        {
+          "type": "line",
+          "line": "我们已谢幕，你们接着演。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，终于回家了，肚子饿了，吃点东西吧啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，等等。我有件事还没做完。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一件早该做的事——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "亲秀才"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "内心矛盾"
+        },
+        {
+          "type": "line",
+          "line": "真是患难见真情啊——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "吼"
+        },
+        {
+          "type": "line",
+          "line": "你太没有原则了！——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "弱弱地"
+        },
+        {
+          "type": "line",
+          "line": "不就是亲了一下吗？——醒醒吧！这样做是会坏事儿的！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扇巴掌"
+        },
+        {
+          "type": "speaker-action",
+          "description": "被扇效果"
+        },
+        {
+          "type": "line",
+          "line": "算了，顺其自然吧，唉。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "幕黑"
+    }
+  ]
+}

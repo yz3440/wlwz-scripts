@@ -1,0 +1,98 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜早啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，去哪儿了呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "采气去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "采气？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊，这里坐西朝东，北有山南有河，寅时皇气最盛，吸上两口，大吉大利。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，讲究可真多呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不讲究不行啊，输怕了。哎，莫掌门还没起啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她把先生打伤了，这两天不用上学了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈哈，不愧是江儿女啊。"
+        }
+      ]
+    }
+  ]
+}

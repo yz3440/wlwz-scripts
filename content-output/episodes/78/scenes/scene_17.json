@@ -1,0 +1,116 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "杨蕙兰在房间里看手镯子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Hello！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，怎么成黄玫瑰了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "红色代表激情，黄色代表……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "皮痒痒吧？我说过咱们是不可能的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，我就想请你看个戏啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，不感兴趣。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才写的，喜剧，从头到尾没一个包袱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不想出门，谢谢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰，最后一次了，啊，看完戏之后一切就都过去了，你权当一个告别仪式行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，那我陪你去，但你不许动手动脚啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "他们出去后，众人进来，发现包里有珠宝"
+    }
+  ]
+}

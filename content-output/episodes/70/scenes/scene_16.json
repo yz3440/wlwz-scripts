@@ -1,0 +1,588 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "湘玉在帐台后面算帐，小翠拿着行李从楼上走下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，如果再见到她，请帮我把这个转交给她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿出翠玉"
+        },
+        {
+          "type": "line",
+          "line": "这块翠玉呀是我欠她的，还有她的卖身契就当是利息了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有机会的话，麻烦你转告她。我其实啊，并不恨她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你还把她打成那个样子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那都是还她了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉拿过她的包袱，和她面对面坐下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从小到大，她打了我三千六百七十五下，我还了她两千六百五十四下，她还欠我九百二十一下，唉，看来是没有机会还了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你光记着她打你，她对你的好你咋不记？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我都记得，一点儿都没忘！她对我好啊，只是像养小狗一样，开心的时候就哄两下，心烦的时候啊就拍两下，她对我越好这种感觉就越强烈，后来我得势了，第一件事儿就是跟她换名字。我以为换了名字，心里就能好受一些。唉，可是我错了，无论咋换，换成啥，我始终都是她买回来的，这是永远都换不过来的，一生的耻辱！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "赛从后院走了出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没那么夸张吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没当过丫环，不可能理解这种感受，无论如何，麻烦你转告她，我是人，不是小狗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我从来没把你当作小狗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小翠，你记得，咱俩第一次见面的时候吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "记得。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五十个女孩，我为啥偏偏挑中你？那是我觉得你的眼神儿，跟我小时侯一模一样，热情，倔强，从不服输，我当时就想啊，你就是我妹妹啊！我把你带回来之后，我是打过你，可是哪个姐姐不打妹妹啊！后来我破产了，我走到哪儿就把你带到哪儿，你以为我就是为了让你给我端茶递水掐肩揉背吗？我之所以恨你，不是恨你打我骂我欺负我，我是恨你，这世界上谁都可以对我不好，就是你不行！因为，你是我妹妹啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姐……你别说了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小翠！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说着两人热泪相拥在一起"
+    },
+    {
+      "type": "action",
+      "description": "过了一会儿，小翠和赛貂禅拿着包袱从楼上走了下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好了，就别往外送了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以后有空啊，我们还会回来看你呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看归看，以后可不许再打她了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，这个就送给你了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说着拿出小棍儿给了湘玉"
+        },
+        {
+          "type": "line",
+          "line": "各位保重，后会有期！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，这边！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赛掌柜，慢走啊，有空再来啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见！再见……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "赛和小翠走出了店门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，瞧瞧人家这姐妹情，再瞧瞧咱们这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉姐啊，我上次问你的问题，你好象还没有回答我哦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个问题暂且不提，你们俩过来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双小郭上前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我先问问你们，一定要说老实话啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，你说吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩到底有没有把我当成姐姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "亲姐姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们俩觉得，赛貂禅那番话说得好不好呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有没有觉得别扭的地方？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别扭？没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就得了，我觉得赛貂禅说的最好的一句话就是，哪个姐姐不打妹妹的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了当好这个姐姐，只好委屈你们俩一下了啊，看鞭！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "飞碟！——排山倒海！（排掌柜）"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "点中掌柜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿嘿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以后再挑妹妹啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万不要挑练过武功的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走着，咱姐俩逛逛花市去！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说完，小郭搂着无双的肩欢欢喜喜出门去了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "有没有搞错啊，开个玩笑也不行啊！来人呐！救命呐！展堂，你在哪儿呀！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "几个客人吃好饭跑了出去"
+        },
+        {
+          "type": "line",
+          "line": "还没有结帐呢！展堂，快把他们截住！"
+        }
+      ]
+    }
+  ]
+}

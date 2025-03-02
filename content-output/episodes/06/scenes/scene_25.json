@@ -1,0 +1,204 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "亲娘咧，那个上官太惨了，浑身上下被他自己挠的没有一块好皮了呀，就像烤乳猪似的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "行了行了行了，客人还在吃饭呢。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，那么多蝎子都有剧毒，你抓的时候不害怕呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋不怕了？那再怕也得上啊，要不你们咋整啊？是不是，掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "大嘴呀，你现在知道鲁莽和有种的区别了？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了。就看你做的事值不值得，如果值得，那就是有种，如果不值得，那就是鲁莽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说的很好啊，知道你最有种，走，跟我走一趟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "干啥去呀？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上官云顿还躺在衙门口呢，我人手不够，你帮着抬抬。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        { "type": "line", "line": "去吧去吧去吧，大嘴，需要你啊。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "我不去了，我见血我就晕。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "你不去谁去呀，你是咱这儿最有种的。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "我还得尝尝菜呢。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "还得吃呢。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "对了，还有个事儿。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "说说说。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚刚接到线报，黑道三大家族悬赏十万两，追杀小郭。"
+        }
+      ]
+    },
+    { "type": "action", "description": "小郭昏倒" },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        { "type": "speaker-action", "description": "扶起，掐人中" },
+        { "type": "line", "line": "哎，小郭，小郭。" }
+      ]
+    },
+    { "type": "action", "description": "小贝趴在屋顶往下看" },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "我还没说完呢，你们干什么呀？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "你说你的，说你的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "追杀令是发了，可是没人敢接啊。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "为啥呀？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "五大高手都歇菜了，谁还敢来。" }
+      ]
+    },
+    { "type": "action", "description": "众人释然" },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [{ "type": "line", "line": "早说呀你。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "这杀人工具我拿走了啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说没人敢来呀？谁说没人敢来呀？我这不是来了吗？"
+        }
+      ]
+    },
+    { "type": "action", "description": "众人发抖" },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "哈哈哈哈„" }]
+    }
+  ]
+}

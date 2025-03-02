@@ -1,0 +1,322 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的风风火火下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喊"
+        },
+        {
+          "type": "line",
+          "line": "开工啦——！开工啦——！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人衣冠不整的跑出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "困"
+        },
+        {
+          "type": "line",
+          "line": "大姐啊，我洗衣服洗到半夜，刚睡下……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为我们都跟你似的，吃了千年人参了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是想扫盲，这个点到哪扫去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人的一生如此短暂，时间可不等闲人呀，伙计们。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "给小郭硬把腰带拴上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大姐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "$%$&*%*&……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "再次乱成一团，老白带着一个丐帮弟子进"
+    },
+    {
+      "type": "action",
+      "description": "老白抓着几个人进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "乞丐甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放手放手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你这是干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你问他自己！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "乞丐甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不就偷只鸡嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天偷只鸡，明天就给黄鼠狼拜年！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人不解"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜完了一起偷嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "乞丐甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又没偷你们家鸡。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "偷谁的都不行，这个镇就是我的家，只要有我在，就不允许偷鸡摸狗，胡作非为！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鼓掌！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人鼓掌"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你干的漂亮。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都是你监督得好，你放心，我会继续努力，把反扒工作进行到底。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，为了庆祝你的开业大吉，把这个贼押送官府！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人拦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，使不得使不得！不就偷只鸡嘛，又没偷金库，是不是。批评一顿就行了，重在教育。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么能行啊，鸡虽然不贵，但他的性质很恶劣，正如你所说的，今天偷只鸡，明天就有可能偷鹅，后天就有可能偷钱，大后天就有可能偷人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "偷人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "东街老王家的小孙子不是让人家偷着卖了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……这个偷人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "押着丐帮弟子"
+        },
+        {
+          "type": "line",
+          "line": "走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，湘玉，你听我说，湘玉！"
+        }
+      ]
+    }
+  ]
+}

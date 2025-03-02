@@ -1,0 +1,396 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，大嘴又没疯，有啥好担心的，是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是不疯，可他那个脑子，那可是测试题呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "安啦，这种测试都是很弱智的，都是随便编出来糊弄人啦，随便混混就过去啦。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六无双进，面带冷笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "诸位请看，这就是传说当中的测试题！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看看？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小六躲"
+        },
+        {
+          "type": "line",
+          "line": "你放心，我又没想偷题，就是有点好奇心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可是六扇门的很多前辈，花了很多年的时间研究出来的，想看吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想看，想看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，念给他们听。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，请听题。第一题，小明跟女友去河边散步，女友落水，他下去救，捞了半天什么都没找着，哭着就回家了，过了两年他故地重游，见河边有两个老头在聊天，一个说：水清则无鱼，这条河里没有水草，所以就没有鱼。小明听到这话当场精神失常，跳水自尽。请问这是为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "女友去世，悲痛欲绝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那为嘛当时没事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有些事情越想越难受的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回答得太好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回答得非常好，但是你们离题越来越远，下一题。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头转到女寝，大嘴正啃馒头，因为枷挡着，每啃一口很费力"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呼哧……呼哧……掌柜的，你啥时候来救我呀？你要再不来，我这脖子就没法要了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "转回大堂，众人不断摇头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈，不会吧，这么简单的题都答不上来？第十五题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "母女三人，母亲去世，姐妹俩参加葬礼，妹妹在葬礼上看到一个很帅的男子，很是喜欢，过了一个月，妹妹把姐姐给谋杀了，请问这是为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，嘿嘿，嘿，那小子是她姐夫。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不对，就是随便一个人，过路的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那她为啥要杀她姐呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，还是你问我呀？答不上来慢慢想，第十六题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，小明住在山顶的小屋里，半夜听见有人敲门，看门一看没有人，回去睡了，没过一会又有人敲门，又开门还是没有人，来回数次，终于没有了动静，第二天一早，有人在山脚下发现一具尸体，经过一番调查之后，捕快上山带走了小明，请问这是为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯……不对吧？小明刚刚不是已经精神失常，跳水自尽了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "学老邢"
+        },
+        {
+          "type": "line",
+          "line": "嘿嘿，我说的是另一个小明，哈哈哈哈哈哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俩小明……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "答不上来了吧？你们先慢慢想，我给大嘴做测试去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不急不急，天都快黑了，吃完饭再走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我先做测试再吃饭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那饭早就凉了！——跟我还客气个啥，来来来，坐下喝杯茶嘛，小郭，去把我那个极品铁观音拿过来，给咱燕捕头开开胃嘛。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭冷笑一下离开"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六来，喝水喝水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多喝点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是极品铁观音吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看出来了……"
+        }
+      ]
+    }
+  ]
+}

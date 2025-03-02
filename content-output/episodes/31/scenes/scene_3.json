@@ -1,0 +1,23 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝把花扔到屋顶上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事跟我没关系啊，找谁也别找我啊！"
+        }
+      ]
+    }
+  ]
+}

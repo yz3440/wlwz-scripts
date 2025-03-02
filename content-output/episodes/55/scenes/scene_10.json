@@ -1,0 +1,440 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她骗我，她竟然骗我？枉费我对她一片深情！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对她一片深情的人有的是，不差你一个！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你骗――"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点！"
+        },
+        {
+          "type": "line",
+          "line": "！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住老包"
+        },
+        {
+          "type": "line",
+          "line": "赶紧搜，甭搭理他。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样？找到没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "内衣、外衣、腰带、衬里，哎，连鞋底都划开了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就奇怪了。佟掌柜，他的原话是怎么说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他就说他有和曹公公往来的书信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "上下看老包，对湘玉"
+        },
+        {
+          "type": "line",
+          "line": "你确定书信在他身上吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你确定把他身上全摸遍了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定！从头到脚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "交给我了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "展侍卫观察包大仁戴的小葫芦，小六夺过"
+        },
+        {
+          "type": "line",
+          "line": "我来！这就是普通的小葫芦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以他这种身份，怎么能戴这么廉价的饰物呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把穴道解开不就知道了吗？葵花解穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来，我问你，这小葫芦怎么回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我娘的遗物啦，你喜欢，你拿去吧。把我的命也拿去要不要啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话！我问你书信到底藏哪儿啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪有什么书信嘛，我是骗她的撒，不然她怎么肯跟我去嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那除了书信还有别的证物吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有收据撒――"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看来还真有书信呐啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我来！书信到底藏哪儿了？否则我就---"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，等一下，等一下，等一下，你们都有收据了，还要书信干什么吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "收据不是被我给烧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，稍微差一点意思，不如书信有说服力。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦――哈哈，哈哈，嘿嘿，嘿嘿！收据是不是被你烧的？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我烧的——我又不是故意烧它的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿，嘿嘿嘿嘿，哈哈哈，哈哈哈哈！证据没有啦！哈哈哈哈哈！天助我也！哈哈哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈哈！笑死人了，侬戆度啊，哎，你不要忘了，你的口供还在我们手里，你忘记了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "口供！？那是因为你们严刑逼供！本大人为了保住性命！胡乱招地！可晓得！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "飞吻湘玉"
+        },
+        {
+          "type": "line",
+          "line": "嘿嘿嘿"
+        },
+        {
+          "type": "line",
+          "line": "嘿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这人怎么睁眼说瞎话呢你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心天打雷劈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓呀！本大人皮糙肉厚随便劈呀！嘿嘿嘿嘿，事到如今只有两条路，要么杀我灭口！！要么等着东窗事发！！你们集体掉脑袋！！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指湘玉"
+        },
+        {
+          "type": "line",
+          "line": "除了你呦～～干什么！！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "杀你灭口！！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你杀呀！你杀你杀杀呀――"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝水喝水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿，嘿嘿，小朋友很懂事嘛嘿嘿，哈哈哈哈哈。"
+        }
+      ]
+    }
+  ]
+}

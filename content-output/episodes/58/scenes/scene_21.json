@@ -1,0 +1,214 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉她没事儿吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "生命……有可能不会消失。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是小命保住了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢天谢地，谢天谢地……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但她有可能……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有可能？有话你就直说，我挺得住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我表姐以前骑过马，摔下来过，后脑勺严重受了伤，这一次是旧伤复发。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我那药膏我屋里还剩点儿，我给她……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没用的，以前摔的淤血还在，这次虽然摔得不重，但是把以前的淤血摔散了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "摔散了说明什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这说明，她可能永远都醒不过来……弄不好还要香消玉殒。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂呆怔住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这又是啥意思说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是小命又不保了呗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？这这……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们都出去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，老白……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出去！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "怒"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，你不能走啊，咱俩好不容易才走到今天，你不能把我一个人留下。湘玉，你要是能听见，你就吱个声，我不能没你，湘玉，玉……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "含泪"
+        }
+      ]
+    }
+  ]
+}

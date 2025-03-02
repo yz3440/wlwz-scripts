@@ -1,0 +1,344 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，也不知道无双怎么样了。找到意中人了没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，人家刚走三天。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "足够了。真正的缘分呀，就是在弹指一挥间，没准哪天一抬头，我的真命天子呀，就在外头等着我呢！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "邱小冬出现在门口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，说曹操曹操就到了。来来来，进来进来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上碗茶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是到得早了几年。你是来找小贝的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀。她人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她还没有起床呢。我这就给你叫她去。啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您快着点啊。再晚呀，就赶不上开坝了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、佟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开什么坝呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "西凉河坝呀！哦，先生回家过中秋，放我们几天假。小贝呢，就约我一块儿去捞鱼。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "从后院传来声音"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我书包呢，我头绳呢，我衣裳呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小朋友啊，你自己去吧，啊，小贝去不了了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是伙计吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩，对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一边呆着去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，我们难得放一次假，您就高抬贵手，放她一马吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，那我就给你个面子，高抬贵手。打她个人仰马翻、一马平川。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "体罚是不对的，——不罚更不对，棍棒底下出孝子嘛，您随便打，我就不参观了。千万别说是我告的密啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "端起茶碗"
+        },
+        {
+          "type": "line",
+          "line": "——伙计，这茶叶渣子你也敢给人喝啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，这小玩意儿！气人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "烦死了烦死了，那么晚才叫我起床。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "着急忙慌地上哪去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "书院啊，我得赶快走了，迟到了先生又该打我手板了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、佟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再给你最后一个机会。到底上哪去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "书院哪——后头的西凉河。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，算你识相。先生放假为啥不告诉我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他放假就应该他来找你说呀。我真来不及了。那个午饭你给我留着啊，嫂子。——你又想干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊啊~~我不去，我不去！佟湘玉，我恨你一辈子！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "这都咋办呀？客人都跑到对面的怡红楼去了！" }
+      ]
+    },
+    { "type": "action", "description": "老邢和小六入" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你们来了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "来一壶酒。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "要什么菜？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "啥菜也不要，要了也吃不下。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "胃口不好，弄两个清淡的菜嘛！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "凭什么呀？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "对呀，凭什么呀——你们这是咋了？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对面怡红楼开张，谁都可以进，就我们两不能进，说我们两人挎刀进去，别人不敢来了，你说气人不气人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "不要生气嘛，到我这不是一样吃吗？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "人家请的是扬州醉仙楼的大师傅！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们请的是黄鹤楼的大师傅——洗菜也是正经手艺嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "人家卖的是杏花村的汾酒。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们卖的是自加兑的米酒——兑点水喝了也不上头嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "人家唱的是全本的西厢记。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "我们唱的是正宗的莲花落，小米，来一个！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [{ "type": "line", "line": "正吃着呐，没空！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啊，我们每天把脑袋拴裤腰带上，风里来雨里去，我们这是为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "为了大家的幸福嘛！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "连顿好饭都不让吃了，还谈什么幸福，还谈什么幸福？走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "哎，你们不喝酒啦？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "不喝了，到对面闻闻味儿！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "开会！" }]
+    }
+  ]
+}

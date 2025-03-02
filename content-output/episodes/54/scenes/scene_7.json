@@ -1,0 +1,406 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老包坐在床上哭得异常伤心，大伙在旁边安慰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，别嚎了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，说到底还是我不好，就不应该派小郭来服侍你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹又不是故意的啦，再说，他是个犯人哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "犯人也是人啦，又不是畜生啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁把你当畜生了，有长你这样的畜生吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，不要再说了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老包甩鼻涕"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥你这是，你干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我留下来照顾他，去吧去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那行，我们都在下边啊。我告诉你，老实点啊，否则会死得很惨。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这个胳膊，我这个腿，我这个屁……屁股倒是没事啦，啊哈哎呀——！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧去吧，出去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当心点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心点，掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你过来，你过来……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大伙出门，老包跑到门旁边偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这里头是辣椒水，还有醋，他要不老实，就朝脸上喷。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了，早点休息吧，啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白走，掌柜推门，把老包拍了个跟头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，咋了咋了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老包头上磕了一个大包"
+        },
+        {
+          "type": "line",
+          "line": "啊——不要哭了，不要哭了，来来来，我扶你躺下，来来来。给你倒杯水啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老包趁佟倒水，拿辣椒水喷，喷反了喷到自己"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！我的眼睛，我的眼睛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包大人，包大人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "晓珠？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才是猪，大野猪！又黑又肥，还满脸横肉，一看就是个蹲大狱的料。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "晓珠是孩子他娘！你跟她很像……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还有孩子呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都这么大岁数了，你没有孩子啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "孩子多大了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大儿子五岁，小名叫汤圆，小女儿两岁，小名叫饺子，饺子刚刚下出来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——刚刚生出来，她娘就难产死了，我一把屎，一把尿，把他们两个拉扯大，也该撒手了，晓珠，你别怪我，我真的是没办法呀，晓珠……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，饿了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去给你弄点吃的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想吃点啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要吃米线——啊——啊——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "晓珠……"
+        }
+      ]
+    }
+  ]
+}

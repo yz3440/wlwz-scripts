@@ -1,0 +1,31 @@
+{
+  "type": "normal",
+  "rawDescription": "【广告，后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "广告",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫小贝用皂角粉洗衣服，佟湘玉一边观察，小贝抬头，发现佟湘玉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子，我能帮你洗衣服拉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜感动拥抱"
+    },
+    {
+      "type": "action",
+      "description": "鸟牌皂角粉，洗出一代好掌门！"
+    }
+  ]
+}

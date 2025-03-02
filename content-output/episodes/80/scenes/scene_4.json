@@ -1,0 +1,54 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白，秀才伺候客人"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍桌竖大拇指"
+        },
+        {
+          "type": "line",
+          "line": "那可是响当当的金字招牌，西安凌家，谁人不知哪人不晓啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我晓得，一家老小祖孙三代全都是捕快。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白，秀才也来听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个凌腾云呐，是他们家最小的一个。虽然说岁数小，但武功极高。十二岁的时候就跟人家围剿过盗圣，差点逮着，自打那以后，盗圣就没敢在陕西露过面。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白一旁冷眼旁听，众人咳嗽，老白继续擦酒坛子"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋着，你是老板啊，卖不卖是你说了算的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍案而起"
+        },
+        {
+          "type": "line",
+          "line": "你怎么说话呢你？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉从楼上下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟老板呐，你来的正好，这是四百五十两银子，你拿着啊，房契呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，对不起啊，这个店我不卖了"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众伙计乐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来给钱夫人看茶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，佟老板呐，这咋说变就变了呢？你要是觉得那个价钱太低啊，那咱还可以再商量商量。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是钱的问题，是我不想卖了，把茶端过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝水吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒酒。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才急忙跑去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，你是觉得我特好说话是咋的，亏你还是个生意人，这点信用都没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在抱歉啊，这五十两银子你先拿回去啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "递给大嘴转交"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚才来的时候啊，我们家老钱还特地嘱咐我，让我对你客气着点儿，我给他这个面子了，可你呢？啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你回去之后，也替我向你们家老钱问好啊，改日我一定登门道歉，郑重道歉，亲自亲口及亲历亲为的向你们道歉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，佟湘玉，你给我记着，三个月之内，我要不把你赶出七侠镇，我就跟你姓！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱夫人出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我好怕怕，我好怕怕……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒酒"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才又跑去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，咱真的不卖了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不卖了，我答应过展堂了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是老白厉害，一劝掌柜的就听了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "光劝又什么用，主要是看行动，我师兄楼上楼下一圈圈的跑，换你你行啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳恩恩！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一圈圈的跑？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉忽然明白了，冲到后院。老白从楼上下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冲着无双喊"
+        },
+        {
+          "type": "line",
+          "line": "等我回头再收拾你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊„我又说错什么啦？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家追到后院，湘玉看见门上的锁已开"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么要一次次一次次地骗我，为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，你听我跟你解释……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要说了，出去，我以后再也不想看见你了，你给我滚，滚呐，滚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "上前劝阻"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听我说，这事都是我出的主意！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也参与了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都给我闭嘴！你们为什么要合着伙骗我呀？为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "疯狂地扑打老白"
+        },
+        {
+          "type": "line",
+          "line": "为什么，为什么！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "最后抱着老白在他肩膀上狠狠咬了一口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼，但我不怪你，以后我要是再骗你，哪怕是善意的谎言，就让我天打雷劈不得好死！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉急忙捂着老白的嘴，众伙计闪开，二人抱在一起"
+    },
+    {
+      "type": "action",
+      "description": "突然老白呕吐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，咋了这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "头晕想吐，八成刚才头磕着墙，得脑震荡了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "又吐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼不疼呀？我带你去看大夫去好不好？展堂，对不起你……"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝拿稻草人练暗器。投中石子，兴奋中。老白在一旁劈柴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶，打中了，我打中了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看了看"
+        },
+        {
+          "type": "line",
+          "line": "准是挺准的，就是力量不够。除了用上指力以外啊，还得用上腕力。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕：某一日，燕小六接到调职令，即将调往京城"
+    }
+  ]
+}

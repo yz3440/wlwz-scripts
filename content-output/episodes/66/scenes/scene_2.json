@@ -1,0 +1,506 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "开门，众人蹭进来，发现屋里的桌子板凳都没了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回家了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，掌柜的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……没事没事，旧的不去新的不来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说的倒轻巧，我的老榆木桌子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "丢了更好，回头咱换一黄花梨木的，更结实，更耐用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看墙角"
+        },
+        {
+          "type": "line",
+          "line": "我的宋代青花瓷……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……回头咱换一唐三彩的，国宝，国宝啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唐三彩？你出钱？我的陈年三鞭的老白干……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "崩溃"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别，掌柜的，掌柜的，这不在这呢吗，在这呢，没动。哎呀妈呀，看来这贼是不大爱喝酒啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，都这样了，你就不想说点什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说什么呀，又不是我偷的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是贼祖宗，都偷到你头上来了，还有没有王法，有没有江湖道义嘛。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "门外传来嗓门极大的歌声：\"大山的子孙哟，爱太阳喽，太阳那个爱着哟，山里的人哟……\""
+    },
+    {
+      "type": "action",
+      "description": "小郭表情怪异"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还有事，你们慢聊啊……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万不要跟任何人说我在啊！千万千万，千千万万……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭一溜烟跑出门，大伙正在纳闷，一女子从后院进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻！你们回来啦，你们什么时候回来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……你谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你姓李是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴哥哥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿呀！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "躲到秀才后边"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，别过来，你谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你姓吕是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，是又怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "关中大侠？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，就是他，怕就闪啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻，我终于见到你啦，久仰久仰！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小小郭向秀才伸手，秀才过去握手，小小郭忽然出招"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "分筋错骨手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "咔"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "愣"
+        },
+        {
+          "type": "line",
+          "line": "哎呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "痛苦"
+        },
+        {
+          "type": "line",
+          "line": "啊——！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "挽指花"
+        },
+        {
+          "type": "line",
+          "line": "葵花点穴……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "被小小郭推回去"
+        },
+        {
+          "type": "line",
+          "line": "啊——我的胳膊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "传说中的盗圣也不过如此嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他肩上有伤，想动手你冲我来！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "捋胳膊挽袖子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本镇唯一的捕快祝无双！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没见过，吃我一掌！惊涛骇浪……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "同时"
+        },
+        {
+          "type": "line",
+          "line": "葵花点穴手……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭又跑回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手，这位女子，是，是我堂妹，嘿嘿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "堂妹？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，你回来了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭干笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我叫郭蔷薇，初次见面，请多关照！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭的表情一直很不自然"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭扯过大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "杜子俊的老娘！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋知道的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我猜的，他俩穿的衣服都是一个料子，贵得吓死人啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对丫鬟耳语"
+        },
+        {
+          "type": "line",
+          "line": "请问……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问……1192"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用问了，二位，我们打烊了，换个地住吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜娘对丫鬟耳语"
+    },
+    {
+      "type": "dialog",
+      "speaker": "丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们是来找人的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们这儿没你要找的人。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜娘对丫鬟耳语"
+    },
+    {
+      "type": "dialog",
+      "speaker": "丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，窝藏逃犯可是要判好多年的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，这里不欢迎你们，请你们出去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜娘对丫鬟耳语"
+    },
+    {
+      "type": "dialog",
+      "speaker": "丫鬟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "见不到子俊少爷，我们是不会走的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是吗，那行，那较量较量，来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拦住大嘴"
+        },
+        {
+          "type": "line",
+          "line": "看看再说，看看再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道你们有种，同福客栈，藏龙卧虎啊。可我不管你们是龙是蛇是猫是虎，不交出我儿子来，谁也甭想出这个门。我相信，你们帮他是出于江湖上的道义，冲这一点，咱以前的事，我既往不咎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，您早说呀，吓我这一身汗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你可别误会，我只是说放过你们，我可没说放过那个狐狸精。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲楼上"
+        },
+        {
+          "type": "line",
+          "line": "出来吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰她不是狐狸精！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "玲珑，把大少爷先给我带回去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "点住玲珑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗬，你这武功不错呀，你娘应该姓白吧，她没有告诉你，在江湖上如果遇到姓姜的，应该躲着走？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没说过呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那今天我来告诉你，你别以为这个点穴对每个人都管用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "排山倒海（力弹回来）我的手，我的手……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "孩子，这是脱臼，你要是再跟我来劲，我就真不客气了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给小郭接上胳膊"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢阿姨。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜娘往楼上走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干什么，你干什么！你别上来，我不准你伤害蕙兰！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有什么事冲我来，子俊他是无辜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞧瞧瞧瞧，真不错，这才有点苦命鸳鸯的架式。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是是是，阿姨，您就放过他们吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对杨"
+        },
+        {
+          "type": "line",
+          "line": "走，我要找你单独谈话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花解穴手，来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人扶丫环坐下，祝给倒水"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "970"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，敢情你们后院是这样的呀？这整个一个垃圾场吗这是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看着不太干净，稍微一收拾就完全不一样了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再看看这几个伙计啊，一个个獐头鼠目傻不啦叽的样儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看着傻，一个个都鸡贼着呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我呢，倒不是不想买你这个店，可你这店也忒破了点不是的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "广东普通话"
+        },
+        {
+          "type": "line",
+          "line": "岂止是破，简直就是惨不忍睹啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭芙蓉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "会不会做生意，会不会说话啊，这个店呐，虽然是破了一点，但是还是很有历史价值的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以前还住过很多名人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "名人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姬无命你知道吗，就就那盗神，就死在你脚下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妈呀～～"
+        },
+        {
+          "type": "speaker-action",
+          "description": "吓得跳开"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要怕啊~——胡说啥呢，明明死在大堂——呵呵，是自杀，死得心甘情愿，没有忌讳。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，他白天一般不出来，也就晚上出来溜达溜达，你要见着就全当没看着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋着，你们这还闹鬼啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听他们胡说呢，伙计们是不想卖，可以理解啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "方言"
+        },
+        {
+          "type": "line",
+          "line": "谁说不想卖了？我跟你说，就这个破地儿，我跟你说，我一天都待不下，一刮风，满院都是树叶扫都扫不干净，一下雨，那个井里就泛味儿，恶心死啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "上海口音"
+        },
+        {
+          "type": "line",
+          "line": "是的呀～臭是臭地来一塌糊涂～隔夜饭也呕的出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个都不算什么，我跟你讲啊，最恐怖的是这个屋顶啊，偶呦～"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "灶台和风箱里还都是耗子窝。哼"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Jesus，Christ， so dirty place。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们不要再说啦，方言，土语，家乡话，还有洋文，人家钱夫人根本就听不懂，谈判的时候要讲普通话。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "京腔"
+        },
+        {
+          "type": "line",
+          "line": "钱夫人，我这个店是不怎么样，您要是觉得好，您就开个价，您要是觉得不好的话，我就换个人谈去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜啊，你看你别着急啊，有话好商量，都街坊邻居的不是，你看你上次出事，那千年人参还是我出的呢，你忘了？佟掌柜，你看啊，我们家的情况呢你也了解，生意是不少，可没几个赚钱的不是，我们家那败家老钱呐，只会花钱不会赚，说实话啊，我手头还真是不太宽裕。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "京腔"
+        },
+        {
+          "type": "line",
+          "line": "您就说个实价吧，成就成，不成就算。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二百两"
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉盯着她面无表情"
+        },
+        {
+          "type": "line",
+          "line": "——那就等于抢，你看我再不宽裕，我也不能趁火打劫不是的，三百两"
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉还是没有表情"
+        },
+        {
+          "type": "line",
+          "line": "——也不太现实是吧，毕竟是这么大地界儿呢，那就四百两？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉依旧没有表情"
+        },
+        {
+          "type": "line",
+          "line": "我知道了，这肯定也不是你们的心理价位，啥也不说了，五百两！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "成交。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一言为定，佟掌柜，这五十两银票啊算是预付款，剩下的呢，我现在就回去拿去，你把那房契给我准备好啊，对了，还有里边那些古董啥的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "京腔"
+        },
+        {
+          "type": "line",
+          "line": "您要是喜欢的话就留给您了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜啊，我就是喜欢你这性格，爽快！就冲你这个，我再给你加五两银子"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大伙儿都没什么反应"
+        },
+        {
+          "type": "line",
+          "line": "那你们等着啊，我马上就回来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱夫人乐颠颠儿的走了，湘玉什么也没说就进了大堂"
+    }
+  ]
+}

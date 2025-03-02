@@ -1,0 +1,362 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小六将小米铐上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别动老实点，跟我走听见没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你凭啥抓我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "得意"
+        },
+        {
+          "type": "line",
+          "line": "哈哈，绑匪已经落网了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是绑匪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是绑匪？你怎么解释第一封信的内容？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "无助"
+        },
+        {
+          "type": "line",
+          "line": "我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咄咄逼人"
+        },
+        {
+          "type": "line",
+          "line": "我我我，你刚才不挺横的吗？现在怎么结巴上了，说说说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不对呀，第一封信咱不给他看过吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱给他看的是第二封，第一封就咱们几个看过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小米？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我绝不是绑匪，咱都是街坊邻居的，我绑谁不中非得绑小贝呀。再说兔子还不吃窝边草呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "走上前"
+        },
+        {
+          "type": "line",
+          "line": "小六，你除了这个还有别的证据吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掏出张纸"
+        },
+        {
+          "type": "line",
+          "line": "大家伙上眼啊，看看这封信，注意笔迹喔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看了看"
+        },
+        {
+          "type": "line",
+          "line": "跟第一封的笔迹一模一样，你怎么拿到这封信的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说来话长，我开始想到街上打听一下，突然看见几个乞丐鬼鬼祟祟的，我就想过去问一下，哪知道见到我掉头就跑，我这一追不要紧，他们吓得连布袋子都不要了，我捡起这布袋子一看，这封信就藏在里面，落款小米。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掐小米脖子"
+        },
+        {
+          "type": "line",
+          "line": "小米你把小贝弄哪里去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是一封求救信，是让帮中长老帮我留意下小贝的事儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你为嘛见了我就要跑？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那毕竟是帮中的密信，让官府搜去了不好啊。佟掌柜，你一定要相信我啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不说，我怎么能相信你啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说，说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，第一封信确实是我写的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人欲动手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但绝不是一封绑架信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼……你不说是吧，好，跟我回衙门走一趟，打到你说为止。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拉小米"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，小米，我相信这事不是你干的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "老白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是你必须把你知道原原本本、清清楚楚每一个细节都给我交代清楚，否则谁都帮不了你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说，说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天早上，小贝和佟掌柜抄了一架，非常害怕，所以就准备离家出走。"
+        }
+      ]
+    }
+  ]
+}

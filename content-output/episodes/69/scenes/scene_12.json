@@ -1,0 +1,316 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭走向柜台"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，芙妹，你眼睛怎么那么红啊，昨晚没睡好啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别提了，昨晚被掌柜的抓壮丁，陪她聊了一宿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都聊些什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮她想仇人呗。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "韩娟从楼上跑下来"
+        },
+        {
+          "type": "line",
+          "line": "你这是要出去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对我出去一趟啊，回头你跟湘玉说一声不用等我吃饭了啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "韩娟跑出去了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从后院进来"
+        },
+        {
+          "type": "line",
+          "line": "哎，那个人是谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "韩娟，掌柜的从小一块长到大的好朋友。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，那诅咒信就是她写的啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要胡说八道啊，人家都说了不是，发过毒誓的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对了，好姐妹嘛怎么能干出这种事来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，好姐妹就干不出这种事来啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那当然。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "除非她不把你当好姐妹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别听她胡说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "小郭拍了一下桌子"
+        },
+        {
+          "type": "line",
+          "line": "当然她说的有点道理。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小郭啊，掌柜的那封信有没有给过你啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转变口气"
+        },
+        {
+          "type": "line",
+          "line": "她当时第一个就想到给我，被我当场严词拒绝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第一个？原来如此，即使是好姐妹也分亲疏内外啊，嗯，无所谓了，我本来就是孤零零一个人，就这样吧，一个人也没什么不好。孤独算的了什么呢，读读佛经，敲敲木鱼，转眼已是百年。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身离开"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这都哪跟哪呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这种心情我能够理解。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭转过头瞪他"
+        },
+        {
+          "type": "line",
+          "line": "不是那种理解。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉你啊，以后未经我允许，禁止正眼看她、禁止跟她说话、禁止吃她做的菜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不要禁止跟她同处一室啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "1046"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们家的事你少管。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你是我的杂役，他是我的帐房，你们俩的事情我不管谁管？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是先想好怎么劝你的好姐妹无双吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她还在生我的气？不会吧，展堂已经把她劝好了呀？咋回事情嘛。"
+        }
+      ]
+    }
+  ]
+}

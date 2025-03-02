@@ -1,0 +1,186 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟湘玉躺在床上，众人围在一边"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊，你快看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，这场景太熟悉了，不行，我好久不吹了，先练练。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六跪倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干什么啊，这是？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六吹极悲伤的歌曲"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这这，停停停，人还没死哪，你以为开追悼会呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思，我习惯了，每次看到有人躺着，情不自禁，就想吹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊，你来个欢快点的，让人一听就想跳舞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说不定我们跳着、跳着，湘玉就跳起来了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那行，交给我了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六吹极度欢快的《百鸟朝凤》，众人跳舞"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你吹这什么玩意？啊？不知道的以为我们家有多大喜事呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么的哩？这悲的也不行，喜的也不行。不吹了，不吹了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，老白也是着急嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "贝啊，你给你嫂子来一个，来一个不悲不喜，又悲又喜，悲中带喜，喜中带悲的，让你嫂子听听。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "酒干倘卖无……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "酒干倘卖无、酒干倘卖无、酒干倘卖无……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉无奈地看众人"
+    }
+  ]
+}

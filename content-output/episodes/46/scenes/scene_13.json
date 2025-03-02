@@ -1,0 +1,202 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不比了，说啥也不比了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开什么玩笑！你以为是小孩过家家啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥也别说了，反正我是不比了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，我们甘拜下风啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧好吧，不比就不比了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿出一个册子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，把这个签了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是啥吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五岳剑派合并协议。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉、莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "合并？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从现在起，只有五岳剑派，华山嵩山衡山恒山泰山还有恒山全都改成堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我不就是堂主了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这不是欺负人嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖本来就是弱肉强食。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁强谁弱还不一定呢，到时候不是你死就是我活！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，我死你活，合着我横竖都是一死啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到时候，等着叫人给你收尸吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看在我喝你满月酒的份上，我教你一招。以后发暗器的时候千万别太着急，看准了再发，大吉大利。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用你教！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就祝你赢得比武！哎，我可是真心的。"
+        }
+      ]
+    }
+  ]
+}

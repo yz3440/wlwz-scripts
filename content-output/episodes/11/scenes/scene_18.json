@@ -1,0 +1,142 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "咋样？你就笨死。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [{ "type": "line", "line": "我就是照你说的那么讲的。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "咋说的？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我叫小翠，你咧？我姓吕，双口吕，他们都叫我吕秀才，呵呵。那你都爱干啥呀？看书，呵呵呵呵。那除了看书呢？看书，呵呵。那你现在看的啥书啊？不是书，是帐本，呵呵呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "这不说得挺好吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后他就把账本藏到桌子底下，开始跟我胡说八道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "说啥？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你读过《论语》吗？——没有。你读过《老子》吗？——没有，你读过《庄子》吗？——没有，就这样一直说说，说得我就烦了我就过来喝茶了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "还真是个书呆子，看我来。" }]
+    },
+    { "type": "action", "description": "二人一个走到柜台前" },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "是你啊？不排练啦？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们排着呢，我出来休息会儿。哦，你这儿有杯子吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "秀 才",
+      "performances": [{ "type": "line", "line": "我给你倒杯茶去啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "哎，你这儿有酒吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "大白天喝酒啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [{ "type": "line", "line": "恩。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "奥，这才叫名士风范呢。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        { "type": "line", "line": "有句话说呐，唯女子……什么来着？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "唯女子与小人难养也。" }]
+    },
+    {
+      "type": "action",
+      "description": "赛掌柜将酒洒向秀才眼，小翠趁机换走帐本"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        { "type": "line", "line": "放肆，你再敢出口伤人，休怪我告上公堂，走。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我冤枉啊我，那话是孔子说的，跟我有什么关系呀。"
+        }
+      ]
+    }
+  ]
+}

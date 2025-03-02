@@ -1,0 +1,68 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，您先喝点水。慢点，别呛着啊。还真呛着了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还认我做师父？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咋不认呢？一日为师终身为父。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不怕我把你教坏了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我手艺本来就差，再差还能差哪去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出去，出去，出去，都出去！——万岁爷，老臣给您丢脸了，老臣该死，老臣该死，老臣该死，万岁爷，老臣该死啊！"
+        }
+      ]
+    }
+  ]
+}

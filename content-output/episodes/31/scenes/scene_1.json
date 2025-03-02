@@ -1,0 +1,22 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "回放小郭离别片断，背景音乐《Think of me》"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也会想你的，每一天。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人没精打采的在屋里等着，小贝往门外张望"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了来了，耳朵竖起来，听仔细了，一个字都不许落，快藏，快快快，藏厨房里啊，听仔细了啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人奔出，小贝装没事人似的坐下，老谢从门外进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢大哥哥，你回来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来了，回来了。这么晚你还没睡，你有事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有事，就是想问问，那个纹身是怎么回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "纹身？啥纹身啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是你白天给我看的那个，一下有，一下就没有了。你怎么弄的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个呀，其实不是啥纹身，我自己画上去的，一洗就掉。啥纹身呀，没有纹身。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "干笑"
+        },
+        {
+          "type": "line",
+          "line": "那，你打算什么时候动手啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "动啥手啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，你不是说要洗劫我们店吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿，可不敢胡说呀，这可是要杀头的呀！不敢胡说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心，放心，现在呢，就你我两个人，没有人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，我知道你不喜欢我呀，可你也不能这么坑我呀，这么大的罪名，我可担不起呀。你没事了吧，没事就睡觉了啊，快走吧走吧，我明天还……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许睡，你必须把白天跟我说的事重复一遍！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，小妹妹呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "重复！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，中中中，我是山贼，要把你们这洗劫一空，把你抢到山里当那个童养媳，满意了吧，中了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍手"
+        },
+        {
+          "type": "line",
+          "line": "中中中！都出来吧，出来吧！哎哟哈哈哈哈，都听见了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "没精打采"
+        },
+        {
+          "type": "line",
+          "line": "听见啦。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝老谢招手"
+        },
+        {
+          "type": "line",
+          "line": "嗨——！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们还跟他嗨？把他抓起来呀，赶快！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你，我们又不是捕快，抓人的事找小六啊，小贝乖啊，先睡了啊。睡吧，老谢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "我不睡，放着山贼不抓，你们还想不想活啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，小贝，放过我们，饶了我们啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老谢"
+        },
+        {
+          "type": "line",
+          "line": "别着凉了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝呀，都这会了，你再折腾下去，我咋干活呀明天，是吧，行行，睡吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老谢"
+        },
+        {
+          "type": "line",
+          "line": "别跟孩子一般见识啊，回见，回见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，回见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑，笑死你！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一甩胳膊，磕在桌子上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "气死我了！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟石榴？他咋不叫佟苹果呢？他咋不叫红苹果呢！他咋不叫金大莱呢？！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切头切换，想像场景"
+    }
+  ]
+}

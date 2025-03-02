@@ -1,0 +1,262 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人为小六送行"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六小六，这个棉袍送给你啊，我亲手缝的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双有些不高兴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "甭管谁缝的，小六会记她一辈子的。来，凌捕头来来来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "燕捕头，还有啥吩咐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双就交给你了，对她好一点啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪种好啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "反正巡街要带刀，进门三分笑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，赶紧赶马车，否则来不及了啦。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米走来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你小子终于滚蛋啦。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小六找刀，小米拿出钱"
+        },
+        {
+          "type": "line",
+          "line": "这两天没干别的，光顾着给你凑盘缠了。六儿，回头到了京城可别动不动就拔刀，人家城里人，脾气大。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢，谢谢。那小六告辞了，各位保重啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人挥手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六再见！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六走了，众人站在客栈门口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥……哎，为啥这里风气，跟我那儿不一样呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你再住一阵子就习惯了，这个江湖并没有那么险恶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，对了，你们几个是咋聚到一块的？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是一个很长很长的故事，从哪儿开始讲起呢？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人微笑着向观众挥手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人笑，同望同福客栈"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "normal",
+  "rawDescription": "【厨房，夜】",
+  "location": "厨房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧的，赶紧水开了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了来了，所有饺子都在这儿了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你帮我看会儿，我上个厕所。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "记得添点柴禾啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道知道，你快去快回啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭下饺子，添柴禾，把炮仗当木柴扔进去"
+    }
+  ]
+}

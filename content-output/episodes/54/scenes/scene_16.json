@@ -1,0 +1,34 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老包狼狈逃跑，发现小米正躺在墙角睡得一塌糊涂。老包丢进碗里一点银子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "玉皇大帝在上，您老可看清楚，小人不是没有行过善哪，以后再有什么惩罚，千万别再冲着小人来了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头继续丢了一点银子"
+        },
+        {
+          "type": "line",
+          "line": "地藏王菩萨，您老可看清楚，这可是小人最后的零钱了，求求您，以后别再为难小人啦！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老包继续逃跑，小米忽然醒过来，追老包而去。"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白湘玉抱在一起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胸口还闷吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有一点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "心里还慌吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一点点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我抱的这么紧你还慌啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慌，——怕你松手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会的，我永远这么抱着，一直一直的抱着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您抱归抱，那蹄子能消停点吗？你看咱这是砖地又不是大理石唉，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白一只腿在不停抖动"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只听说过老牛刨地，没想到人也有这出。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、佟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "消失！！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "郭芙蓉瞬间消失"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，如果刚才洞房里发生了什么事情的话，你„"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额是说如果，你还要额吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我不会让任何人伤害你，过去不会，现在不会，将来更不会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "突然出现"
+        },
+        {
+          "type": "line",
+          "line": "拜托~"
+        },
+        {
+          "type": "line",
+          "line": "悄悄话节目都是凌晨两三点才播出哎，现在是大白天哎，注意点影响好不好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "感情不是你让人吃豆腐啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一人外面进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问有豆腐吗？呃，不对不对，有空房吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这儿腾不开手，客观里边儿请，自己上楼，左传把角的第二间第三间自己随便儿挑，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多谢，多谢，多谢多谢！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，好点儿没？胸口还疼不疼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦，找无双来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我找她干嘛？哎，她没跟那个大个儿在一块儿吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切，你又不找她，你问这干嘛呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，回头你们见着她，帮我通知一声，根据最新线报，曹公公派了杀手往咱们这儿来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要杀老包？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早就该杀他了，替我谢谢曹公公，谢谢东厂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我会通知无双的，啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "你赶紧把衣裳换了，我一看就来气，快点儿！"
+        }
+      ]
+    }
+  ]
+}

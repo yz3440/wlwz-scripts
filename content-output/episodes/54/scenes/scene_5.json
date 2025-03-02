@@ -1,0 +1,192 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老包朝窗外张望，准备逃跑，听见门外有声音，立刻坐回去，装出痛苦的样子，无双进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你胳膊有没有好一点？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说呢，把你的胳膊拧下来，再装上去，再拧下来，再装上去，你以为是拧螺丝啊？犯人也是人哪，你们有没有人性啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事情又不是我干的啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，我不听你解释，这个情况，我一定会向上反映的，一定会的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是先想想怎么将功赎罪，争取宽大处理吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你先出去一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要方便一下，你要参观吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双出，关门，老包拎起尿罐子在门口埋伏"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可以啦，进来吧。啊——！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双的峨嵋刺刺进了包大人腿"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……我不是故意的，我不是有意的，我以为你想偷袭我，所以——你不会是想偷袭我吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有，我哪有这个胆子嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你举着夜壶干吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我想洗个澡，不可以呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你用夜壶洗澡啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "各人有各人的习惯不可以吗？你出去呀，别人洗澡你也要看吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双出，稍后又闯进来，老包吓一跳"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿，我忘了一样东西……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "突然拔出包大人腿上的峨嵋刺，包大人惨叫"
+        },
+        {
+          "type": "line",
+          "line": "嘘——乖啊，不叫不叫，我马上就找人来给你包扎，很快的。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "过了一段时间，掌柜的醒了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先别急啊，他们说了，只要银子一到，马上就把小贝送回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也未必，这绑架过程当中，万一露相，匪徒那就得撕票，小贝。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "比画杀人动作，小郭掐小六"
+        },
+        {
+          "type": "line",
+          "line": "你掐我干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少说两句你会死啊你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜你放心，只要有我和无双在，再狠的绑匪横竖就是一死啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "痛心"
+        },
+        {
+          "type": "line",
+          "line": "贼死不死跟我没有关系，我只要小贝，我的小贝呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心吧，小贝绝对不可能有事的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊掌柜的，小贝的左右手生命线都已经长通了，她活不到一百岁你找我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "活动手腕"
+        },
+        {
+          "type": "line",
+          "line": "这种事你们就应该提早报案。事儿拖的越久越麻烦，前些日子衡阳有一户人家，孩子遭人绑架了，家里交赎金才晚了半天，人家直接就送来一撮头发。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人死盯着小六"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这种事你们就应该提早报案。事儿拖的越久越麻烦，前些日子衡阳有一户人家，孩子遭人绑架了，家里交赎金才晚了半天，人家直接就送来一撮头发。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吓唬家里人，让他交钱呐。这事儿多亏了人家谢捕头把案子给破了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪个谢捕头？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢步东，关中总捕头——的候选人，专破绑架案。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，小六，这也没你啥事了，你该干嘛去干嘛去。慢走不送拉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不送了。哎？你们叫我走就走，你们算老几啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你算老几呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        },
+        {
+          "type": "line",
+          "line": "我是本镇的唯一捕头……这个这个，这件事情很是棘手，所以我们不能任着性子胡来，再说绑架是严重危害社会治安的行为，我们绝不能等闲视之，为了争取最终的胜利，我们必须要团结一致，万众一心，孤注一掷，反戈一击。1152"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭嘴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吓我一跳，你们一分钟之内，说了好几个闭嘴，你们能不能换点别的，你们？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，葵花点穴手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，我走走走还不行吗？我就不信了，没有你们，我还就破不成案子了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "记得关门啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "挥手"
+        },
+        {
+          "type": "line",
+          "line": "你们不要说了，你们先出去吧。无双你留下，我有话跟你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我们先走了，掌柜的。"
+        }
+      ]
+    }
+  ]
+}

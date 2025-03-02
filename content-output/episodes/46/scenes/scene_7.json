@@ -1,0 +1,78 @@
+{
+  "type": "normal",
+  "rawDescription": "【街上，夜】",
+  "location": "街上",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三十文，我找谁演去，如今情景剧都不这价。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一人提着剑过"
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "好高明的轻功，这么静的巷子今竟然听不到他的脚步声。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "好深厚的内功，呼吸之间竟然听不出间隔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "莫不是来寻仇的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "难不成是六扇门的？"
+        }
+      ]
+    }
+  ]
+}

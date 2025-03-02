@@ -1,0 +1,284 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小翠坐在掌柜的位子上，老白在给她倒茶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝水。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "1058"
+    },
+    {
+      "type": "action",
+      "description": "小翠看见赛和湘玉下楼，走到了楼梯口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，好久不见了！是我，怡红楼的那个！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，这里不欢迎你们，另外找家客栈去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "凶"
+        },
+        {
+          "type": "line",
+          "line": "小翠，这是咋回事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家说了，人家不欢迎咱。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠走到赛面前，老白走到湘玉身旁"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚才还好好的，咋忽然就翻脸了？是不是你又说错啥话了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有，我真的没有啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还敢跟本夫人顶嘴，看来不动点真格的是不行了！棍儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "赛放下包袱，把桌上的棍儿递给了小翠，小翠接过棍儿，开始追着赛打"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，干啥呢这是？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉住小翠"
+        },
+        {
+          "type": "line",
+          "line": "啥意思嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这你还看不出来吗！风水轮流转，她俩调个了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你住手，你不要再打她了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我自己的丫环，我想咋打咋打，想咋骂咋骂，管得着吗你！哼！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说完又想上前打，湘玉拉住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好了，你们可以在这儿住下，但是我有一个条件，你不要再打她了啊，否则我连你俩一块儿赶出去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，还不谢谢佟掌柜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢佟掌柜，谢谢佟掌柜，您的大恩大德，赛……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——小翠永世难忘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧走，还磨蹭啥呢！把行李归置好了！然后把我的内衣跟袜子都洗了！烧两盆水，本夫人要洗个大澡！再弄两瓶老干妈辣椒酱，不辣看我咋打你！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "随后，赛提起所有行李，和小翠一起上了楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的神呀，这还是当初那个小跟屁虫吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是她是谁呀！你看那小人得志那样儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我咋感觉这么不舒服呀，心里堵得慌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "同情心又泛滥了吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这要是我，沦落到这个地步，然后被小郭或无双用鞭子抽，然后还要给她们洗衣服做饭掐腰捶背，这得是什么感觉啊！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭正在忙"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我帮你吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用不用，你在旁边休息吧，需要帮忙我会说话的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭啊，你说，大嘴他经常这样吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑着发脾气，有什么话也不当面说，还拿那个头撞柱子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心吧，有枕头垫着呢。他才不傻呢，你就把你自己的日子过好了，比什么都幸福。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "幸福，也未必是幸福的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一定是的，我能感觉得到，那个杜子俊对你不是一般的喜欢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，可情况太复杂了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "复杂，那才好呢？不明白吧，我问你，什么叫做爱情？不光是卿卿我我吧，时间长了，再深的感情也会犯含糊。那到时候，靠什么来证明你们俩是真心相爱呢？外部压力呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喔……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "若有所思"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "外部压力越大，你们需要克服的困难也就越多。在一起的动力也就会越强了。等以后回忆起来一想，当初我们好不容易才走到一块儿，一定要珍惜现在的日子，吵个小架算什么呢？转眼你们就和好了。所以你信我一句话，爱情来自压力。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杨点头若有所思，燕小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，大嘴不在吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厨房。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "杨蕙兰，你被捕了！"
+        }
+      ]
+    }
+  ]
+}

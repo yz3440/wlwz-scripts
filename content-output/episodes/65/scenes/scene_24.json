@@ -1,0 +1,52 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妈呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展红绫哭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大姐，挨砍的是我呀，要哭也该我哭啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我、我该怎么办啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉房里有药，赶紧给我上点药，你非等我流血不止死了你才甘心是不是？"
+        }
+      ]
+    }
+  ]
+}

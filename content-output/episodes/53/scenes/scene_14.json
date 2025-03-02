@@ -1,0 +1,328 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋个说？知县来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他不会来了。这件事，我一个人承担！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别开玩笑，你算老几？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是我点的，您是我捆的，要杀要剐，您一句话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿！杀你干什么？我堂堂一个礼部侍郎，杀一个小姑娘，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "云南话"
+        },
+        {
+          "type": "line",
+          "line": "说出去让人笑呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听不懂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说出去被别人笑死啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那您是肯原谅我啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我原谅你？——那我就是痴线啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对展"
+        },
+        {
+          "type": "line",
+          "line": "哼！你以为我听不懂啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "云南话"
+        },
+        {
+          "type": "line",
+          "line": "痴线就是二百五！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听不懂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "痴线就是二百五啊！哼，这个事我跟你记着，到了京城我再跟你算账！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包大人，那您要怎么样才肯原谅我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十万两纹银，少一文也不行！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有那么多钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那把你们知县叫来，我找他要钱！还愣着干吗，去呀！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "无双拔刀"
+        },
+        {
+          "type": "line",
+          "line": "你你你想怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要钱我没有，命你可以拿去！但你不要为难我这些朋友！否则做鬼也不会放过你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要吓我，没有用的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大师兄，照顾好自己，无双先走一步！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "举刀欲自尽"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎！他是个假侍郎啊！哎你先把刀放下，我没有骗你的！他不是进京当官，我是押送他进京认罪伏法的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "认罪伏法？买官的事情你也知道了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "买官？！有没有搞错！官是你买的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那那怎么可能呢！我说你不要血口喷人呐！否则我告你诽谤啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是为了救她，随便说说的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "来白拉无双出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也是随便说说的！不对，我什么都没有说，你什么都没有听见，说走了嘴休怪本大人批评你啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "痴线啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二百五！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二百五！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？人呢？"
+        }
+      ]
+    }
+  ]
+}

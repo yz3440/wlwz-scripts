@@ -1,0 +1,508 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了增强你的体质，加快"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老钱晃"
+        },
+        {
+          "type": "line",
+          "line": "——你这怎么了钱老板？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，没事儿，说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了增强你的体质，加快你的反应，我特意为你量为定做了一套功法，下面你跟我学一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开始。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "白、李、吕模仿健美操对观众"
+        },
+        {
+          "type": "line",
+          "line": "康桑阿米达 Music，one，two，three，four，here we go，转身，拍拍手，哦，耶，电视机前面的观众朋友们，对耶……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，妈呀，没事儿吧，怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱、佟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "晕。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还没跳呢，在就晕了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早上没吃早点，我娘子不给我吃，我偷了两鸡蛋没黄儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你早说，我给你做去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做去，做去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，我不吃他做的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要吃鸡，整只的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给你买去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧买赶紧买。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Here we go"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Here we go，yeah，对了，就这样，转个身拍拍手，let's go，哎，好的最好踢得高一点儿，90 度好不好。哎，转个身拍拍手，好的，右右右，左左左，go，go，go"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真够了，真够了，真够了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这才几天呐，鸡都吃了七八只了，怎么办呐以后？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，吃就吃吧，学武功最消耗体力啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "敢情不是花你的钱啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这话我不爱听啊！什么花钱花钱的，花钱是为了啥呀？那不为了挣更多的钱吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三百两银子不想要了，不想要啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想要啊，但是你看他。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看你那样儿！——嘿，老钱呐，别吃了啊，一下午吃两只鸡了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "消耗太大，得补充补充。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，补点儿得了啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "把鸡拿走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，正式开始学习。过来，过来，跟我学啊，指如疾风，势如闪电。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "腕力和速度，腕力啊，看啊，指如疾风，势如闪电。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快点儿，快点儿，速度快点儿，指如疾风，势如闪电"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把老白点上了"
+        },
+        {
+          "type": "line",
+          "line": "指如疾风，势如闪电，指……怎么样赶紧做啊，不给钱了啊。指如疾风……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍老白"
+        },
+        {
+          "type": "line",
+          "line": "，怎么了，他怎么不动啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎哎呀妈呀，钱老板呐，恭喜你出师了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "练成了？指如疾风，势如闪电！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让我点一下。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李、吕吓跑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈，指如疾风，娘子，我回家点穴去，指如疾风，势如闪电。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白动了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是谁谁说他出师了啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不让他给点着了吗，怎么还没出师啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "半分钟都不到呢，就叫出师啦？还愣着干啥，赶紧追去呀，去去去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱老板！"
+        }
+      ]
+    }
+  ]
+}

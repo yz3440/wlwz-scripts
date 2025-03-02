@@ -1,0 +1,272 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人连推带拽到门口，被小米发现"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，你听我说，这人他心眼不坏。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "乞丐甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不敢了，再也不敢了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这话你去跟娄知县说吧，不过不要怕，最多挨顿板子，这样也可以帮你长长记性，走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别，湘玉，湘玉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢着！老白，你说好了，每次三文，只挨骂，不上衙门哪？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每次三文，啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你问他呀！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指老白"
+        },
+        {
+          "type": "line",
+          "line": "啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打小米"
+        },
+        {
+          "type": "line",
+          "line": "那个什么，这……我其实……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你到底想说啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他负责给我钱，每次三文，我过来让他骂一顿，骂完走人。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白推了小米一下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快跟我说，这不是真的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是真的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜瞪眼"
+        },
+        {
+          "type": "line",
+          "line": "嘿嘿，你信吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你骗我，你为啥要骗我，为啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不都让你给逼的吗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我第一次看见你的时候你就骗我，过了这么长时间了，我以为你会改，没有想到你非但没有改，反而变本加厉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没那么严重吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不会怪你的，但是为了让你更好地认识你自身的不足，我决定要……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开个小会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "进门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指小米"
+        },
+        {
+          "type": "line",
+          "line": "给我等着你！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "进门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对乞丐甲"
+        },
+        {
+          "type": "line",
+          "line": "唉，这年头，还是服务业好混哪，中介费，不好赚哪。"
+        }
+      ]
+    }
+  ]
+}

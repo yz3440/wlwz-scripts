@@ -1,0 +1,234 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，夜】",
+  "location": "客栈外",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [{ "type": "line", "line": "拿过来！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [{ "type": "line", "line": "大侠你咋老抢我的碗呀你！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "老朋友，咱们又见面了——拿酒来！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "酒！" }]
+    },
+    { "type": "action", "description": "老邢一饮而尽" },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "朋友，让我喝酒是你这辈子犯的最大的错误，看招！"
+        }
+      ]
+    },
+    { "type": "action", "description": "黑衣人抓住老邢的胳膊一扭" },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "哎哟，疼疼疼……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "黑衣人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉你，上次打不过你是因为你被逼急了，胆气壮，而不是因为喝了酒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "明白明白，疼疼疼……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "下次要是你敢再喝了酒被我碰上，哼哼！" }
+      ]
+    },
+    { "type": "action", "description": "一捋面纱，露出老白真面目" },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "妈呀！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "老白，怎么回事？这到底是怎么回事啊？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "不关他的事，是我出的主意。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "为什么？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我让展堂打扮起来然后假装输给你，是为了让你长点自信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "那他今天为啥不输给我？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "今天是为了不让你喝酒。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "这么说，那套醉拳？" },
+        {
+          "type": "line",
+          "line": "亲娘咧，我以为奇迹会出现，哪有那么多的好事啊，武功是假的啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [{ "type": "line", "line": "师父……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "老邢，但是你的勇气是真的呀！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "昨天晚上你明知道自己武功不如对方，你不还是拼着命往上冲了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        { "type": "line", "line": "对啊，你都被打翻在地了，还不依不饶的。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [{ "type": "line", "line": "这种精神，几个人有啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们平日尊重你，不是因为你这身衣服，也不是因为整天吆五喝六的。而是因为你有这颗心。愿意豁出生命来保护镇上的百姓。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "武功不好，可以慢慢学，如果没有这份心，就武功再好，也当不了一个好捕快！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我同意，老邢，你要是啥时候不当捕快，就来投奔我，我保证你直升四袋。——哎，老邢，我从来没有给过别人直升四袋的机会呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "去去去，一边儿去！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "快快快，快扶老邢回去醒醒酒啊。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "我还是不能确信，我还算一个好捕头吗？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "不算！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [{ "type": "line", "line": "你本来就是！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "哈哈哈哈……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        { "type": "speaker-action", "description": "醉醺醺" },
+        { "type": "line", "line": "不许你们说我师父！" }
+      ]
+    }
+  ]
+}

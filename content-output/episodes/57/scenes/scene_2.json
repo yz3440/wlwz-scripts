@@ -1,0 +1,246 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不就下一代吗，有啥了不起的，回头等慧兰回来，我婚一结，房子一买，我可劲生。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李大嘴在街口看见一个二人抬的轿子和谢掌柜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点，慢点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等会等会，这轿子坐的谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我爹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？你爹去年年底不就没了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是他胜似我爹啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到底谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我新招的伙计。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看这事听着都新鲜，伙计坐轿子，掌柜的在后面溜达，这谁信啊？咋回事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别提了，这不刚招进来三天就出事了！大嘴啊，我都快崩溃了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "节哀节哀，到底咋回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不沾上了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "沾包赖了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不是吗，对了，跟你们佟掌柜说一声啊，以后再招人可得看好了，这要万一摊上个有病的，下半辈子你就养着吧。别的不说，就这医药费，就得这个数，这个数，这个数，这个数，这个数"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边说边做划拳的姿势"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行行，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抓住谢掌柜的手"
+        },
+        {
+          "type": "line",
+          "line": "别划拳别划拳，再划咱俩该喝了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝啥呀，我这杂货铺都快变成药铺了。我跟你说，啥活不干，工钱照拿。吃喝一点不能对付，一对付就犯病。你说我这万贯家财也得让他给我折腾黄了我跟你说。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "祈祷"
+        },
+        {
+          "type": "line",
+          "line": "菩萨保佑，可别再犯病了。不行我得回去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的，到底得的啥病？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢掌柜",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "贴在大嘴耳边"
+        },
+        {
+          "type": "line",
+          "line": "疯了。——我得回去了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑下"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疯了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴踱步沉思，自言自语"
+        },
+        {
+          "type": "line",
+          "line": "我咋摊不上这好事呢？——我咋摊不上这好事呢？！不就是疯吗？装疯谁不会呀！哎呀，那我装疯他们也得信啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对观众，莎士比亚式台词"
+        },
+        {
+          "type": "line",
+          "line": "疯，还是不疯，这是一个问题。是漠然忍受掌柜的苛刻的管理，还是挺身反戈用自己的力量把她解决，这两种，哪一种更高贵？如果仅仅是疯了就能让我回家，那正是我所需要的。疯了，傻了，糊涂了，那么在我疯了之后，我要做些什么，我得好好想一想。"
+        }
+      ]
+    }
+  ]
+}

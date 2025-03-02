@@ -1,0 +1,520 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "交出书信？那是不可能的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能就是不可能，没有为什么。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你全家都被灭门了你就不想报仇啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "昨天想，今天不想了。我花钱买官连累家人，这是报应。再看我这从头到脚，也是报应。回头到了京城，人头落地，那更是报应。我不瞒你们说，我现在就等这一刻。等得都不耐烦了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你只要交出书信，我保你不死啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，我们全家七十三口一个不剩，你觉得我还有脸活下去吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那都是曹公公作的孽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓，他一定会有报应的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "交出书信，他才有报应，否则他就逍遥法外了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就让他逍遥法外，他一个公公，权力再大有什么用，连媳妇都娶不了，还活着有什么意思，像他这种人，活得越久，心里就越苦，老子苦死他！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有没有搞错啊大佬？不是每个男人都像你那么喜欢女性！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用说了，书信我是不交的，打死我也不交。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉推众人出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "曹公公不下台就会有更多的人遭殃，你非但不制止他反而纵容他，那你就成了罪人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓，我们家死了这么多人，别人家就不能死吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，你有没有想过，你死了之后，你底下的七十三口人眼睁睁地看着你，追问你，问你为啥不替他们报仇，到时候你怎么回答他们呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们会理解我的。我的家人，我知道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我算不算你的家人？如果是我，我非但不会理解你，反而会怨恨你痛骂你，"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "骂我什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "懦夫！如果早知道你是这种人，我当初就不该同情心泛滥把你放出去，绝对不会！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身欲出"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下！——那些书信，都在那本册子里。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪本册子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包侍郎醒世恒言。每一页的夹层里都有一封书信。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切场，众人翻看书信，发现是白纸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不对呀，这上面嘛也没有啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还需要这个，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "从怀里掏出小葫芦"
+        },
+        {
+          "type": "line",
+          "line": "这里面是显影粉，拿去往水里面一泡，再往这个纸上一涂，字就出来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，等着，我去打水去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉住老白"
+        },
+        {
+          "type": "line",
+          "line": "让他们去吧。你们大家先出去，我有话跟白少侠说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，出去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白少侠，我和小十六……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "白展堂瞪眼"
+        },
+        {
+          "type": "line",
+          "line": "佟掌柜，什么都没有发生过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你倒是想！你要敢我就一指头……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不敢不敢！她是个好姑娘，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出银票"
+        },
+        {
+          "type": "line",
+          "line": "这里有三千两银子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我拿回去，你把我当什么人了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你不要误会啊，不是给你的，是放在你这里，她有什么爱吃的爱穿的，你就替她买，也不枉费我对她的一片情意……歉意，歉意。你千万不要告诉她是我给的，她知道一定不肯花的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，我不跟她说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋个说，先发个誓，要最毒的那种。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，我发誓，我决不跟她说，我要是跟她说了我就……你过来过来……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "耳语"
+        },
+        {
+          "type": "line",
+          "line": "行了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可以。等一下！白少侠，我求你一件事，你前几天封住了我的七经八脉，能不能替我解一下？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢！合着你是在这儿等我呢啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是呀，马上就要入冬了，这一下起雨来，我浑身又痛又痒，你说哪个受得了啊？求求你啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，坐这儿吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放松点儿啊，葵花解穴手！怎么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再来两下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？——葵花解穴手！怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿呀！好，爽！这几天的苦没白吃！哈哈哈……"
+        }
+      ]
+    }
+  ]
+}

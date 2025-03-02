@@ -1,0 +1,486 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "来人呐，救命啊，浑身又酸又麻，后背痒痒还挠不着，这还让不让人活了？展堂救救我，我保证再也不装睡了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "进去、进去嘛，不信你自己看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，湘玉绝不那种人。她要明知道大家为她担心，她还在这装睡，我怎么可能会喜欢她呢？你们俩说是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为都跟你似的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉好就好在她既诚实又成熟，她要连这点优点都没有，我还跟她干吗，你们俩说是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我也不跟你废话，你现下就给她解穴，她要不醒，我就跟你姓。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你说的！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "解穴"
+        },
+        {
+          "type": "line",
+          "line": "葵花解穴手。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜不动，小郭过去摇晃"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉、佟湘玉，快醒醒、醒醒。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一顿拍打"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉小郭"
+        },
+        {
+          "type": "line",
+          "line": "郭芙蓉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你、你给我一分钟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就一分钟，一分钟我跟她谈一谈。一分钟后她要不醒，我、我就归你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "郭芙蓉做打耳光状"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了、行了，你们赶紧出去吧。去去去，一分钟之后，我保证还你一个活绷乱跳的小寡妇。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "起来吧，大姐。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟！快快快、帮我挠一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉呦，上点、上点，痒死我了，好了、好了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭给她挠"
+        },
+        {
+          "type": "line",
+          "line": "好了，我先睡下了哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还睡啊，大姐。你要装到什么时候？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么知道啊？展堂的话你也听到了，我要现下就醒了，不真成了骗子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你本来就是个骗子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我知道、我知道，但我有什么办法嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两个月哦，带薪哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耗子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊～"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，快来啊、老白，刚声音你听见了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听见了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样？怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你个妄想狂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "骗子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉，你给我起来、起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我过来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭芙蓉我警告你啊，你再赶拿湘玉跟我开玩笑，休怪我娶了你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不娶、不娶，娶完到时后还给你啊。走走走，走吧、走吧"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这怎说话的"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉，你这个骗子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这太过份了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉你放心，我刚才跟她开玩笑的，这辈子除了你，我谁都不会娶。等我找到了千年人参，咱俩就成亲。说起来咱俩都成了两次亲了，但我保证，这次是真的！你乖乖的，等我回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白、老白，我跟你说，你不用走了，小六已经把人参找着啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走！"
+        }
+      ]
+    }
+  ]
+}

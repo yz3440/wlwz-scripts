@@ -1,0 +1,482 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大堂里，莫、佟哭。姬无命做好了一桌的菜，姬，白两人躲到楼梯后面"
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        { "type": "line", "line": "放心吧，酒和菜里我全都放了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "放了多少？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "五个人的量。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "放那么多？不怕留下后遗症阿！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "你——" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "好好好，先吃先吃。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个，两位客官，酒和菜全都上齐了，慢用阿。快快，吃吃吃啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "吃吧。" }]
+    },
+    { "type": "action", "description": "小贝哭" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "咋咧？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [{ "type": "line", "line": "我哥最爱吃爆炒腰花了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "恩公~~" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哭啥呀，赶紧吃赶紧吃，这菜都凉了，快快快，吃吃吃。"
+        }
+      ]
+    },
+    { "type": "action", "description": "湘玉端起爆炒腰花" },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "这就对了。" }]
+    },
+    { "type": "action", "description": "湘玉把腰花都倒了" },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "别别，干吗呀这是。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "相公，不要着急，慢慢吃，不够还有。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没了没了，就这点儿菜，扔完就没了。来来来，吃吃吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有就没有吗，我们少吃一顿又有什么关系嘛，一定要让我的相公吃饱了上路"
+        }
+      ]
+    },
+    { "type": "action", "description": "说着就把另一道菜倒了" },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "别别别" }]
+    },
+    { "type": "action", "description": "老白偷笑" },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "你想干什么吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "我帮您倒，行吧……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "嗯。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        { "type": "speaker-action", "description": "倒菜" },
+        {
+          "type": "line",
+          "line": "莫大侠，您吃好啊。别光顾着吃菜阿，还有酒呢，酒酒——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "对对对，喝酒喝酒。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "你不用管了，小贝给你哥倒上。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        { "type": "speaker-action", "description": "把酒往地上倒" },
+        { "type": "line", "line": "哥~~" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "别别别……三钱银子一壶呐~~" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要说三钱，就是三十钱，三百钱，只要我的相公爱喝，我就买给他喝~~相公~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "恩公~~~" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "这位先生，你也是我家相公的旧相识吗？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "见过，不熟……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        { "type": "line", "line": "既然是亡夫的朋友，那就喝一杯吧——" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "不不不" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，把你的酒杯给他，这还有一点儿福根儿，我来给他满上，先生你一定要一饮而尽，以表哀思……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "恩公——我们不差这口" }]
+    },
+    { "type": "action", "description": "这时有人敲门" },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "倒吧。" }]
+    },
+    { "type": "action", "description": "姬无命趁机倒掉酒后跑去开门" },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "来了来了来了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "掌柜的呢？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "掌柜的买书去了。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "你在这儿干什么呀。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        { "type": "line", "line": "我这不被掌柜招来当伙计了吗。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "大白天的，关啥门呐？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "关门主要是为了办丧事儿。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "办丧事儿。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "办丧事儿？谁死了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [{ "type": "line", "line": "我家相公。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "他家相公。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "他相公不是你吗？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "——那个什么——" },
+        { "type": "speaker-action", "description": "对湘玉小贝" },
+        { "type": "line", "line": "你俩上楼歇着去吧" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "不是——这……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这件事情是这样的，来，二位，来来来。要不喝两盅？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "喝两盅行！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "这不合适吧，这个" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        { "type": "line", "line": "哎呀！这有什么不合适的，小姬呀" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴、邢育森",
+      "performances": [{ "type": "line", "line": "小姬？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "小鸡炖蘑菇呀，这下酒多好。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        { "type": "line", "line": "赶紧炖去，出锅的时候加头蒜阿。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [{ "type": "line", "line": "好。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "……不是，我那酒……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦呦呦，酒刚喝完，这样，我给二位打去啊，稍候稍侯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "等等，等等……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "咋了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "菜咋掉地上了？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [{ "type": "line", "line": "寄托哀思……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "哦……等等把门关上。" }]
+    },
+    { "type": "action", "description": "老白走后，李邢两人开吃" },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        { "type": "line", "line": "木耳不错，就是发得不好，水放多了。" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "这个你也懂啊。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不咋的，想当年我在黄鹤楼——当差那会儿，一天到晚不琢磨别的净琢磨吃的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        { "type": "line", "line": "哦，那你是怎么当上捕头的呀？" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "想知道啊？" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "恩……" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [{ "type": "line", "line": "我姑父姓娄！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "娄？娄县令阿！" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        { "type": "line", "line": "嘘！别大声吵吵，低调，低调阿！" }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [{ "type": "line", "line": "哦，怪不得呢。" }]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行啦，小邢别心理不平衡了，生死有命，富贵在天。你以后啥都甭想你就跟着我啊，有我口吃的，就有你的，来来来，吃吃吃！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "气愤"
+        },
+        {
+          "type": "line",
+          "line": "这个傻秀才吃饱了撑的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "八成是让人给骗了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他就是意志薄弱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "见异思迁，道德有问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说那没用的干啥呀，现在得想办法怎么把小郭稳住。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人点头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "边说边向后院，昼跑"
+        },
+        {
+          "type": "line",
+          "line": "好好好，我先找小郭探探口风，先把她稳住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一定要稳住呀，秀才的小命全掌握在你手里了。"
+        }
+      ]
+    }
+  ]
+}

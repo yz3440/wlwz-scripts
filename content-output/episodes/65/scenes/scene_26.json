@@ -1,0 +1,174 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还疼吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "砍你一剑试试。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又不是真想砍你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不想砍你拔什么剑？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不拔剑怎么吓唬你呀？是你自己撞上去的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "楼下众人悄悄潜入大堂，趴在门外偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎哎哎，你除了哭你还会干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道我没用，我不会做饭，不会洗衣裳，也不懂情趣，就连抓贼的本领，都是从贼那里学来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我打住啊。这话你跟追风说去，跟我说有啥用？我又不能哄你，我哄你，不成那啥了吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你用不着哄我，你打我也行，骂我也行，最好一巴掌打醒我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你说的啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "举手欲打"
+        },
+        {
+          "type": "line",
+          "line": "啊哟，疼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他从来都没有打过我。不管我做错什么，他连句重话都没跟我说过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么好的人，你为什么要放弃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……我出家算了，省得心烦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我站住，站住！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人轻轻下楼躲在楼梯后面"
+    }
+  ]
+}

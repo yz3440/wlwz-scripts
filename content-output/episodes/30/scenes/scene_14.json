@@ -1,0 +1,370 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，来了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭提桶进大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭芙蓉，你告诉我，当初闯荡江湖是为了啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闯荡江湖？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，那为什么闯了一半就不闯了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说呢，等我把债都还清了，咱们江湖再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那已经是二十年以后的事情了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓啊，我有的是时间。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以前有个绰号叫芙蓉女侠，对不对？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他的意思是，建议你改一个绰号，叫芙蓉大妈！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人大笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑吧，随便笑，以后有你们哭的时候。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我现在就想哭，眼睁睁地看着一代女侠变成一代大妈，还一点办法都没有，这种感觉实在太悲凉了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "苍天啊，你就开开眼，给她一个机会吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让这只迷途的羔羊，重新找到人生的方向！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来吧，羔羊，我厨房的大门随时向你敞开着，要烤要炸，大家说话啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最好是烤，多放点孜然。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家大笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们说够了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，长能耐了是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还敢呲牙是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还敢尥蹶子了是不是，我忘了驴不会尥蹶子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就打到她学会为止！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，姐夫，姐，你们这是干啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不管啊，玉不琢不成器，棍棒底下出孝女。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我忍无可忍啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂，点她！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们欺负人……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别哭了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、李大嘴、吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖不相信眼泪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看你这事干啥的嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、李大嘴、吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是她自找的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看见了吗，这就是乱闯江湖的下场！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，你咋也变啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这跟你姐没关系，是你根本就没弄明白，这就是江湖的本来面目。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖……"
+        }
+      ]
+    }
+  ]
+}

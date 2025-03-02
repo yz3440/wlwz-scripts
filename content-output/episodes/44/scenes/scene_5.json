@@ -1,0 +1,316 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "公孙乌龙，果然是你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三妹呀，多日不见，气色不错呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花解穴手，葵花解穴手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，别忙活了，你那指力太差。还有胡椒面吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你赶紧把她给我解开，否则我对你不客气。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "年龄不大，口气不小。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，公孙大哥——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "善哉善哉，还是我自己拿吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "被白三娘凌空点住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，老东西，你以为就你会点穴啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "公孙乌龙突然活动"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妈呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一大把年纪了还来这一套。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，他这是什么功啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这叫龟壳神功，专防点穴的，我已经练了有七重喽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是铜锣湾海龟道人的独门秘技吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊，三妹呀，那年夏天呐，我跟他一起下棋，趁他分心的时候，我点了他的檀中。取了他的秘笈，杀了他的徒众，烧了他的道观。哎，善哉呀，善哉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这还善哉呢？你还有没有点人性啊你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出卖自家兄弟那叫有人性吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你、什么意思？你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是找你的你也别紧张，三妹就你这么一个儿子得给她留着。吕施主在哪儿，知道吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么吕施主？没这人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "年轻人说话要诚实，知道吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要欺人太甚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘俩儿一块上！这才叫欺人太甚，哎呀，唉。我得先找那吕施主去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "这样啊，你给我热热啊，一会儿我回来吃，啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给佟湘玉解穴"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心灵感应"
+        },
+        {
+          "type": "line",
+          "line": "娘，能逃过这一劫吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心灵感应"
+        },
+        {
+          "type": "line",
+          "line": "凶多吉少。"
+        }
+      ]
+    }
+  ]
+}

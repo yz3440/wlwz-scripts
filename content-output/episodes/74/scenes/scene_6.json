@@ -1,0 +1,422 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人皆被迷倒，两姊妹准备行窃"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "兴高采烈"
+        },
+        {
+          "type": "line",
+          "line": "不会吧，传说中的盗圣啊，这么容易就趴下了，说出去谁信呀。哎，哪位是关中大侠啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别废话了，我跟你讲，我们赶快动手，天亮之前必须撤！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那从哪开始啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你上楼，主要是搜佟掌柜那个屋，我到后面几间去搜，快快快。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人分头行动。待她们走后，众人起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样，要不要动手，我去通知小六"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万不要去，她知道展堂是盗圣，小六来了，逮回去一审，还不翻了天了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先看看再说，我就是不知道她们是冲什么来了，如果冲钱咱这没有啊，冲有刚才就应该动手，太奇怪了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "会不会是冲我来的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "W"
+        },
+        {
+          "type": "line",
+          "line": "肯定不会，你说我说一破厨子，又老又丑又没钱，人家凭啥呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "惆怅"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，大嘴，你没事吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惆怅"
+        },
+        {
+          "type": "line",
+          "line": "我有啥事，我挺好的我没事。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "激动"
+        },
+        {
+          "type": "line",
+          "line": "我就是真没想到她真是个贼啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘，先不要难过嘛，再坏的贼也有回头的可能。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的你别安慰我了，我知道自个儿的份量。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对大家"
+        },
+        {
+          "type": "line",
+          "line": "嘘，有动静"
+        },
+        {
+          "type": "speaker-action",
+          "description": "白跑回桌子边，众人继续装昏"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳没找到东西，气极败坏的走进来，从在嘴腰间抽出玄铁菜刀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这死胖子，真本事没有，花言巧语倒是一套一套的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳月云从楼上跑下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，你跟谁说话呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自言自语。找到没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个屋子里边，除了几个古董花瓶，就只有这七八两碎银子，还有一些假冒伪劣的首饰。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，撤吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要撤你撤，都进行到这份上了，难道前功尽弃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "月云，真的算了吧，我不想让他知道的。咱们走吧，姐求你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要走你走，这可是盗圣的宝藏，多少人做梦都梦不到，眼看就要到手了，傻瓜才会半途而废呢！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "欲杀白，柳急忙劝阻"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我的话你听是不听啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我可以不动手，但是你必需告诉我，这个死胖子到底哪里好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个死胖子是不好，又穷又笨又丑……可是，可是他的心肠是的确好，我闯荡江湖这么多年，只有他真心对我好，而且他并不是因为我长得怎么样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别逗了，如果你当初被毁了容，他还会对你这么好吗？鬼才信呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我信，只要他答应过，他就一定会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，这可是"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拖哭腔"
+        },
+        {
+          "type": "line",
+          "line": "盗圣的宝藏呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "走到白跟前欲动手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来都来了，拔根头发总可以吧，好歹也是贼祖宗。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拔老白头发"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "留个纪念吧，走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，那些银子不能拿的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳月云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "总共才七八两银子，光是迷魂散我们俩就搭进去好几十两，总得考虑一下成本问题吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你把这些银子拿了，他们会把这个帐算在他的头上"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指大嘴"
+        },
+        {
+          "type": "line",
+          "line": "，月云，我求你了，你把银子送回去吧，然后顺便把屋子收拾干净，姐陪你去啊，求求你了，走走走。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人上去，众人起来"
+    }
+  ]
+}

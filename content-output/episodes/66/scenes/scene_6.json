@@ -1,0 +1,386 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小六躺在床上，给绑了个严实，正来回挣巴，大伙陆续进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁把你扔在这的，说话呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "$%&*#@#%……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "嘴堵着，小郭把小六嘴里的布扯掉"
+        },
+        {
+          "type": "line",
+          "line": "刀呢，我的刀！谁看见我刀了，刀……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小小郭进来"
+        },
+        {
+          "type": "line",
+          "line": "啊？你……你还有胆子过来你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我警告你啊，你老实一点，否则我一掌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你拼了我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "惊涛……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭蔷薇，吃错药了吧你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩认识啊，你们俩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是小郭的堂妹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "123 让她给宰了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "撞桌子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又不是故意的，那天我来的时候，我就在那敲门，突然见那只恶狗就扑上来咬我，那我随手就是一掌，把它拍那了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小六"
+        },
+        {
+          "type": "line",
+          "line": "这位仁兄更好啊，他拿着刀就要上来砍我，那我又随手一掌，把他也拍那了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他咋跑这来了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我把他绑了扔这里的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那狗呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在马棚里呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "趴窗户看看"
+        },
+        {
+          "type": "line",
+          "line": "哎呀妈呀，还真在那呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "123 是我巡街的狗，你杀它要负法律责任！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小小郭吓了一跳"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭蔷薇呀郭蔷薇，这么大人做事怎么不动脑子？一点法律意识都没有呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，你放心啦，我不会连累你们的啦。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "伸手"
+        },
+        {
+          "type": "line",
+          "line": "你想抓我你就抓吧，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭拦着"
+        },
+        {
+          "type": "line",
+          "line": "让传说中的燕捕头为我的江湖行划上一个圆满的句点，我死也值了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冷笑"
+        },
+        {
+          "type": "line",
+          "line": "哈哈哈哈……你以为两句好话，就能逃得过法网吗？哈哈哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "耳语"
+        },
+        {
+          "type": "line",
+          "line": "她爹是六扇门的缉盗总顾问，六……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转成哭声"
+        },
+        {
+          "type": "line",
+          "line": "哈哈哈哈……那这次就算了，下不为例，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "失魂落魄的往外走"
+        },
+        {
+          "type": "line",
+          "line": "123，小六没用，不能替你报仇，你千万不要怪我呀，123……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这孩子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "忽然反应过来"
+        },
+        {
+          "type": "line",
+          "line": "郭芙蓉？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，刚才那话真的不是我说的……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "逃跑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭芙蓉，郭芙蓉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "追出"
+    }
+  ]
+}

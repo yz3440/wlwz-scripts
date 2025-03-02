@@ -1,0 +1,326 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大伙陆续回来，掌柜在门口等待"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可咋办嘛，不会是抓不到了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也不一定啊，我们是回来了，白少侠和小贝不还没回来吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我进来！熊孩子，早知道这样就不带你去了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了，你问她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道那是马蜂窝呀，再说了，我也是帮着抓犯人嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那犯人能在马蜂窝里藏着吗？——多亏我跑得快呀，要不然我就成白展胖了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思，被马蜂蜇的呗。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小贝"
+        },
+        {
+          "type": "line",
+          "line": "你给我起来，还有脸坐着？漫天遍野的马蜂，嗡嗡的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿，我说嘛来着，叫你们早点走，免得夜长梦多，非不听，这回可好了，煮熟的鸭子飞了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去，这人又不是展前辈放走的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都怪我，怪我怪我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪得着你吗，你又不是捕快，有义务看犯人吗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，你这人怎么这样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么的了，怎么的了，怎么的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，我说这个时候不是吵架的时候，如果犯人抓不回来，那这个案子就只能撤消啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会啊，你手里不是有曹公共的收据和包大仁的口供吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有用的，那东厂的势力实在太大了，人证物证那是缺一不可，如果我们贸然立案，只怕引火烧身哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "烧就烧，有嘛好怕的，要不然你把物证搁我这，再不然就咱们俩一人一样。省得出岔子。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "燕小六抢过收据"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你把物证还给我，我数到三，一……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把收据放在蜡烛上面威胁"
+        },
+        {
+          "type": "line",
+          "line": "一二三四五六七八，八后边几来着？你再过来，再过来我烧了它！你再过来我就烧了它。你不有峨眉刺吗，你扎我，你拿峨眉刺扎我，我求求你，你扎我，啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "燕小六正显摆结果真的把收据给烧了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的证据，证据！我今天杀了你，我今天……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "门口趴着一个人"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这有人，这有人……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有个大娘呢？快给倒点水，晕过去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "救命啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！鬼呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鬼呀，鬼呀！不对呀，看着这么脸熟呢？抬起头来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "救我，救我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿嘿哈哈，包大仁！别动，这是我逮着的，你别跟我抢，别跟我抢，我逮着的，哈哈哈哈！走，跟我回去，可逮着你了。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟关房门，强提精神，边跳边唱《杨柳青——溜肥肠》"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郎君呀，啊啊啊 Céi——你是不是饿得慌呀，呀呼依呼嘿，你要是饿得慌，请你就对我湘玉讲，湘玉我给你溜肥肠，溜啊溜啊溜啊溜啊……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "忍不住抚头抽涕，再强作笑颜"
+        },
+        {
+          "type": "line",
+          "line": "不能哭，就是不能哭！从前有座山，山里有个庙，庙里有个老和尚，还有一个小和尚……老和尚给小和尚讲故事……讲的是——就是不能哭，哼——从前有座山、山里有个庙，庙里有个……呜——呜——呜——"
+        }
+      ]
+    }
+  ]
+}

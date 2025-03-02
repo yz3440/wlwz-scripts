@@ -1,0 +1,284 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉杜子俊"
+        },
+        {
+          "type": "line",
+          "line": "过来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "挣扎"
+        },
+        {
+          "type": "line",
+          "line": "干什么？你们凭什么抓她呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是先想想你自己吧。坐下！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们凭什么抓我呀？我犯了什么罪呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，企图用凶器攻击本捕头。只要定罪，那就是一顿板子，最少四十。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "挨完板子挨鞭子，挨完鞭子挨板凳，挨完板凳挨板砖，我打傻你我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我刚才可是正当防卫呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀？还敢嘴硬啊？要不先打四十大板？我找板子去啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，大人，我冤枉啊大人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来回来！别听他们胡说八道啊，这不是公堂，没人敢打你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我再问你，你跟杨蕙兰，到底嘛关系？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "夫妻关系啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白，大嘴吃惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我和蕙兰虽然没有举行过婚礼，可是我们两个喝过交杯酒，交换过定情信物，乡亲们都说我和蕙兰有夫妻相啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行啊，你信不信我一脚——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "过来就要踹杜子俊"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴，你什么意思，人家没招你没惹你你干啥呀这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姓白的，你向着他向着我你给我个准话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位先生是不是姓李啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，我姓李怎么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这个姓很倒霉啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李，白吃惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李斯知道吧，秦国的宰相，多大的官啊，被干掉了，被腰斩了。很倒霉啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我刀呢，我刀呢……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "白劝阻"
+        },
+        {
+          "type": "line",
+          "line": "我刀呢"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你粗俗，你多么粗俗你！怪不得蕙兰她不愿意搭理你。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李大嘴暴怒，老白与小六劝阻"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别拿刀，走走走。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人推大嘴出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，只要能见到蕙兰就行了。这回可不能让她再跑掉了。"
+        }
+      ]
+    }
+  ]
+}

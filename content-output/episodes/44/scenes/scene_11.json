@@ -1,0 +1,380 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大堂砸得乱七八糟"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别过来，你别别别过来，我我我，我是衙门的人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就你这胆儿还当捕快呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大胆，你可以侮辱我的职业，但你不能侮辱我的人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，反过来也一样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看你这意思是想以身殉职啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，啊？不是！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，今天我成全你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手下留人！有什么深仇大恨非得在这儿解决啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我就是想吓唬吓唬他，不是想真杀他，善哉呀善哉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到底咋回事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我下了楼，正准备打烊，老邢正好进来，非要吃饭，我说不行，他就拍桌子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢的掌力可以呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不是他是公孙——先生，一掌拍过去桌子也塌了，凳子也倒了，锅碗瓢盆都碎了，还说是替我打抱不平。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那啥，要没啥事儿我就先走了啊。告辞，告辞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！以后对大家客气一点儿，不然的话，形同此桌。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切镜头，小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还了得，还有没有王法了啊？人呢？人呢？那小子人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪个小子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚才谁在这儿闹事来着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我，我刚学过的降龙十八掌。你快走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等会儿，这谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厄……这是我新招的伙计。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那么大岁数？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，老伙计。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邦菜，老邦菜说你呢！刚才怎么回事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问，官人贵姓啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "免贵——你问这干嘛？跟你有关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我得问清楚了，日后你在我眼前来回来去晃悠，我得记得哪个是哪个呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘛意思，你说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，不说也罢，就算姓王吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才姓王八呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放肆！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "狠狠抽小六耳光"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟！你、你敢打我？连我妈都舍不得打我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮我照顾好我七舅姥——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "公孙先生，这小子交给我了，你老息怒，走走。"
+        }
+      ]
+    }
+  ]
+}

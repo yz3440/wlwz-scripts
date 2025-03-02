@@ -1,0 +1,288 @@
+{
+  "type": "normal",
+  "rawDescription": "【西街，夜】",
+  "location": "西街",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老谢跑出门，发现四盗贼一动不动，无双正在旁边看着"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻！有没有搞错，喂，喂？都不能动了！这么多人，打一个都没有打过，无双姐，你真是我的SuperStar！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老谢"
+        },
+        {
+          "type": "line",
+          "line": "老兄，武功这么差还敢当山贼？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍老谢"
+        },
+        {
+          "type": "line",
+          "line": "太不自量了，啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我我……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头，差点撞小六刀上"
+        },
+        {
+          "type": "line",
+          "line": "呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不过话又说回来，无双姐，你真的好棒啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿嘿……不是我干的，我来的时候他们已经这样子了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，嗨，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老谢吓得一哆嗦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这刀把，怕嘛呢？怎么样，还有嘛问题吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们咋知道我是山贼呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，这你就甭管了，给你两个选择，第一，乖乖束手就擒……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我选二！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "要使坏"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从后边蹿过来"
+        },
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老谢定住了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好样的无双，带回衙门侯审。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等等等……你们怎么知道他们是山贼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "线报。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁的线报？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道去，头先我一回衙门，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出张纸条"
+        },
+        {
+          "type": "line",
+          "line": "这封举报信就钉在墙上了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看看……哎？这好象是白大哥的笔迹呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，我师兄的字哪有那么难看啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是他用左手写的，我看见过。你放心，肯定是他。要不然，那些山贼怎么被点住的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就是说，老白其实一直没走？不可能啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "四处喊"
+        },
+        {
+          "type": "line",
+          "line": "白大哥，白大哥，白大哥你在吗？你在就吱个声啊！我是小贝，我想死你了！白大哥，白大哥！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "街口闪过一个黑影"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥，在你就吱声啊！"
+        }
+      ]
+    }
+  ]
+}

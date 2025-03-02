@@ -1,0 +1,426 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，两人又腻味上了，隔应死人了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙蓉妹妹~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才哥哥~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "换一个换一个，芙妹！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "才哥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听着那么别扭呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊是啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不要叫我名字试试？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你叫什么名字来着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕轻侯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道啦，侯哥！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也要听我也要听啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要听什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "西游记啊，你们讲哪儿啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去去，你属耗子的呀，见缝就钻。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我属什么你别管，你属什么我可知道，猴哥，我饿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "信不信我抽你！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟父入店"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，客官您是打尖啊还是住店呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟伯达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "专门见你掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的不在，您有事跟我说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟伯达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你赶紧出去，给我把马喂好，草料要细一点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟伯达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "粗了可是伤胃啊，额跟你说，这可是纯种的大宛驹啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这老头谁呀？说话这么横。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一匹破马，就跟谁没骑过一样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟伯达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这个店开了多长时间了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你活了多久，这店就开了多久。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟伯达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，你个小女子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "侯哥闪开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "八戒当心，我去叫老白去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟伯达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了？还想跟额动手呢？额看你是马不知道自己的脸长！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是牛不知道自己皮厚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟伯达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "牛皮不行，我麂皮硝好了，那才叫厚呢！知不知道额这两个铁胆子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "铁胆？我连蛇胆我都吃过，哎呀我天呐，这老家伙挺有手劲啊，这玩意儿挺沉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀爹！你咋来了呀，为啥不事先说一声，哎，额娘身体还好吧，额弟长高了吧，武功练的咋样，还偷不偷懒了？爹？——白展堂！是不是你干的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我，是秀才！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪会点穴啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，是秀才让我干的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你站住呀，把他的穴道解开呀，不要跑！"
+        }
+      ]
+    }
+  ]
+}

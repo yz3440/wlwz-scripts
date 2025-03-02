@@ -1,0 +1,384 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你走吧，我以后再也不见你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰，是不是我娘副你这么说的？我娘到底跟你说了些什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩好好演，想哭就多哭会儿。我到外边等着去，不着急。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，你为什么要这么做呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一会儿她会告诉你的。你要恨我你就恨吧，啊，反正咱有的是时间，蕙兰啊，我把他交给你了啊。别让我失望，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小声"
+        },
+        {
+          "type": "line",
+          "line": "我相信你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰，咱不是都说好了吗？咱到海南，造个小房子，你织网我打鱼，可是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，我食言了，你还是跟她回去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再碰我就让你筋断骨折！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那啥，我能说两句吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人欲拦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事没事，我知道自己在干什么。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你站住，你要想趁火打劫的话，先把我撂倒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把杜掀到一边"
+        },
+        {
+          "type": "line",
+          "line": "我对你没兴趣，蕙兰，这是我第二个愿望。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "改天好吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好，第二个愿望，你怎么想就怎么做，不要考虑任何人的想法，可以吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你到底想说什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "扯过杜"
+        },
+        {
+          "type": "line",
+          "line": "你喜欢他你就跟他走，你嫁的是他又不是他娘，当然，你要想嫁给我现在还来得及——开个玩笑，我说的是真心的，你好好想想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先别高兴得太早，跟着我，逃亡一生。不是那么好玩的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是逃亡，是旅行，杜夫人，你准备好了吗？咱可以启程了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快，跟我来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "到了后院"
+        },
+        {
+          "type": "line",
+          "line": "一直往北有辆马车接你，绿棚红边。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "杜娘已经在前面等着"
+        },
+        {
+          "type": "line",
+          "line": "你们快走，这儿有我呢，还不快走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真没想到啊，你还是做了个这么错误的决定。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对你来说，也许是个错误，可是对我来说，是我人生中最重要的转折点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "转折点？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从小到大，我所有的事情都是你一手安排的。锦衣玉食，荣华富贵，你以为我很喜欢吗？娘，我已经快三十了娘，我跟你说实话吧，在碰到蕙兰之前我就不知道什么是快乐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉什么是快乐！没有心事，不愁吃穿，永远不用考虑明天去哪儿，永远都不知道什么叫追兵，这就是快乐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可人和人是不一样的啊，我不希望大家伙这几句话就能说服你，我只想告诉你，娘，你要是再不放我走，我将要做出第二个错误的选择。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你威胁我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就算是吧！即使今天我和蕙兰逃不出去，我们两个也要在一起，这是一个约定，即使被砍了头，也在所不辞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "杜娘一步步走近他们，老白极力劝阻"
+        },
+        {
+          "type": "line",
+          "line": "不用怕，你们两个已经通过了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人不解，杜娘大笑"
+        },
+        {
+          "type": "line",
+          "line": "哈哈，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍杨蕙兰"
+        },
+        {
+          "type": "line",
+          "line": "我不是给你讲过，麻雀变成凤凰的故事吗？我这只老麻雀啊，当年就是这么变成的凤凰，不过我希望，将来你们的儿子长大了，想出点新招数来，至少别比我这个招数差！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "从手上取下玉手镯"
+        },
+        {
+          "type": "line",
+          "line": "这个是我们杜家祖传的玉手镯。归你了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人欢呼，佟拿过手镯，戴到自己手上试一下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，错了，错了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "戴到杨手上"
+    }
+  ]
+}

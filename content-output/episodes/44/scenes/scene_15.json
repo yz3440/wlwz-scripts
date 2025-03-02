@@ -1,0 +1,364 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，别等了，该来的，迟早会来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我就怕他们来的不是时候。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，谁要来呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个没谁，这两天太燥，盼着下雨呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那先吃饭吧，尝尝我做的菜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厄，你们先吃，我还想出去看看。那个刚动完手，见了血，胃口不太好，给我留点儿菜啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我出去看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，来来来，你们坐。来来来，请坐请坐，都请坐，请入座啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "吕秀才扶着郭芙蓉进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来快入座入座，快请坐请坐请坐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别怕别怕，他已经不是从前的那个他啦，要不你试试？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不你们大家都试试？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我试试啊，帮我夹块肉，要瘦的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好夹块肉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要瘦的呀，你是没长眼睛还是没长耳朵啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把那个肥的剔下去不就是瘦的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别光说，赶紧剔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，剔，肥的拿出来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，乖，上门口蹲着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，蹲着。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "公孙去门口蹲着"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉瓜老汉，过来过来，叫你呢瓜老汉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听话，来来来，给大伙儿背首诗，助助兴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "背首诗啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，那就，我给大家奉献一首我自己创作的《菩提颂》，见笑啊见笑啊。菩提树下都是宝，大家学习要趁早，勤学多问为什么，这样态度才算好。每天晚上背一遍，包你一辈子忘不了，忘——不——了——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "鼓掌"
+        },
+        {
+          "type": "line",
+          "line": "哈哈哈哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "挺好挺好，好好好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他这臭诗啊，卖烧饼的每天都能写好几百首。哈哈哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "善哉呀，善哉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "凌空点中郭芙蓉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心吧，死不了，只不过就疼一些。剧疼喔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，你到底数没数啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我数了呀，师父你说你教的我我能不数吗，第一，她是不是来寻仇的，这有可能啊。第二，她是不是伤害了我了，那肯定伤害了我了。"
+        }
+      ]
+    }
+  ]
+}

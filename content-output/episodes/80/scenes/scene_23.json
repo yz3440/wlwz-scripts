@@ -1,0 +1,356 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十年了，我每天都在想你，不，应该说是每分钟都在想你。你害得我好苦啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明明是你追我，怎么成了我害你了？啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我从小受的教育就是只要能抓到贼，就不惜一切代价！那天，第一颗我先打她的左眼，你竟然接住了，一个贼，竟然能保护人质。而我一个捕快，竟然为了抓贼伤害人质，这难道不是一种讽刺吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这也是下意识的本能反应。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到凌旁"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自从那次以后，我每次动手，都要好好想一想，这样对不对，合不合适，如果是盗圣，他会怎么做？于是我变的越来越犹豫，变得婆婆妈妈，拖拖拉拉，最终成为一个绣花大枕头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得你能这么想挺好的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你闭嘴，你已经把我前半生毁了。我要找回我自己。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是你干掉他就能变回你自己吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人一个个起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋回事，你咋醒了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡了一大觉，早看出你小子心里有鬼了。姑奶奶的警惕性，没你想得那么差。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "向凌挥手"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "与老白击掌"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是咋回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凌捕头，你受够了以貌取人的苦，应该知道被人误会是什么感觉，展堂他并不是一个坏人呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，他不是坏人，我是。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冷笑"
+        },
+        {
+          "type": "speaker-action",
+          "description": "一把将掌柜的抓到身边，锁喉"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我嫂子。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白抓住小贝，说了几句悄悄话"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂，我数三声，你自行把你点穴的指头断了，一二……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "隔空打穴。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "凌下意识的接住石子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "凌被点住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚才的那颗石子，打的还她是左眼，同样的情况，你跟我做了同样的选择，这证明咱们俩之间根本没有差别。你命中注定是个好人，认命吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人点头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花解穴手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凌捕头，武功再高，计谋再妙，也未必能当一个好的捕快，人在江湖，啥都能少一颗仁心不能少，你明白吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我的免罪金牌，刑部颁发的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "凌坐下，老白掏出金牌"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋不早说呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "疑惑，接过金牌看了看"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果这层窗户纸不让你自己捅破了，你这辈子能消停吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做朋友，我们热烈欢迎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做敌人，排山倒海伺候之，自己选吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "比画"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凌腾云对不起大家。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身，行礼"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白还礼，大嘴醒了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的啦？我这落枕了？脖子咋这么疼呢？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人帮他揉揉"
+    },
+    {
+      "type": "action",
+      "description": "字幕：告别的时候到了"
+    }
+  ]
+}

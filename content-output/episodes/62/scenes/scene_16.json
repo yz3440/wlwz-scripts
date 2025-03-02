@@ -1,0 +1,428 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "满桌佳肴众人准备落座"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开饭喽！开饭喽开饭喽！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开饭了开饭了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起！这个位子已经有人了，哈哈，不好意思啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这也有人啦有人！哼哼哼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，有人了，嘿嘿，有人了，哈哈哈哈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！哎哎！这是我们掌柜的座啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我那那，这，哎，都有人啊，那我换张桌子吃吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要换了，就坐到这儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这儿是你坐的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我让你坐！吃饭吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢仲达夹肉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！小贝吃块肉，补补身体啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊呵呵，你吃你吃。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢仲达夹鸡腿"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕轻侯",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，小郭啊，吃个鸡腿补补脚力啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你吃你吃你吃。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢仲达夹鸡爪子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，无双吃个鸡爪子，补补腕力啊，哼哈呵呵呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊你补你补。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢仲达夹头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！掌柜的来吃个鸡头，补补脑力。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你补你补。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "夹起一个豌豆给谢"
+        },
+        {
+          "type": "line",
+          "line": "哎哟，谢大哥来吃个豆，一定要细、嚼、慢、咽、哦，来来来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，嫂子啊，你不用表扬我，我知道，嘿嘿，这是我应该做的嘛，哼哼嘿嘿嘿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢小贝妹妹啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不客气不客气！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真了，你的行为啊，让我想起一个有名的古人呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪个人啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恐龙。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才是恐龙哪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别生气啊，那个恐龙可好啦，他把大梨让给别人吃，自己不吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵呵！拜托啊大哥，那是孔融！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不管是恐龙还是孔融啊，真的，你的行为啊，让我好感动啊，真的，毛豆虽小，情义无价呀。小小的毛豆呀，体现了无限的爱心呀！你说这是心的呼唤，这是爱的奉献呀，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "死神也望而却步，幸福之花处处开遍，啊~"
+        },
+        {
+          "type": "line",
+          "line": "只要——咋了？他们，咋走了？他们咋不吃了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人吓跑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，你吃你的啊，让他们饿死好了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，吃块儿肉先啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我吃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不吃算了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我吃我吃我吃，谢谢谢谢，淑淑淑、芬芬芬，哥终于吃到传说中的回锅肉啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃吧吃吧！迟早腻死你！"
+        }
+      ]
+    }
+  ]
+}

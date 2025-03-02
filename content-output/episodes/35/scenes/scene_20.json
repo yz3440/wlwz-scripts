@@ -1,0 +1,224 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双吾妹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是无双，我的妹妹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真以为我不认识字呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，那您接着看，接着看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "见信如晤。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是会晤的……是这个意思吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这都知道，真有文化。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "夫何鬼兔之令次女。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是瑰逸之令姿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就你能，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对无双"
+        },
+        {
+          "type": "line",
+          "line": "无双姐，您甭理他。接着看，接着看啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "独广世以乃君羊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "独旷……当我没说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说吧，我不在乎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双姐，你怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他不就是嫌我没文化嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，他他他那个……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他他他，他多有文化，什么怪字都认识。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那些可都是常用字啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你少说两句能死啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对无双"
+        },
+        {
+          "type": "line",
+          "line": "不常用，不常用。有些字连我都不认识。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他还写，明知道我没念几年书，写这种信来羞辱我。吕秀才，欺人太甚，吕秀才，吕秀才。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "一地碎瓷片"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "蹲在地上，握着一片"
+        },
+        {
+          "type": "line",
+          "line": "花瓶花瓶，咱们说好了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "等我长大以后，你给我当嫁妆的，你为什么离我而去，为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，小妹妹你别难过，我真的不是故意的啊我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去~躲开~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小瓶瓶，你还记得吗？你在的时候，我每天都帮你擦身子，一擦就是一百遍，一百遍哪~！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拭泪，拉起小贝"
+        },
+        {
+          "type": "line",
+          "line": "瓶死不能复生，节哀顺变啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭道"
+        },
+        {
+          "type": "line",
+          "line": "小瓶瓶，不，小瓶瓶的命运不应该是这样的，我那可爱又可怜的小瓶瓶。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "晕"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝小贝，你要坚强，你要支持住啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "否则小瓶瓶在九泉之下也不会瞑目的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们一定要为小瓶瓶报仇。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又晕"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝！小贝！小贝！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "起来起来，不要装了，到底是咋回事情？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "机械地"
+        },
+        {
+          "type": "line",
+          "line": "小瓶瓶遭人毒害，永远永远地离开了我们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的呀，我不是故意的，真的不是故意的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行啦~你别老说那没用的了，一个花瓶六两，俩花瓶十二两，你先赔完钱再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪有那么多钱啊我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那算了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "咬牙切齿"
+        },
+        {
+          "type": "line",
+          "line": "你这个无耻的凶手，我再也不想看到你，滚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "中"
+        },
+        {
+          "type": "speaker-action",
+          "description": "向门口走去，碰到小六无双"
+        },
+        {
+          "type": "line",
+          "line": "呀，官爷，官爷饶命，还有官娘。官娘啊官爷，我我我冤枉啊，我真的是冤枉的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "冤枉，人证物证俱在，你还敢说冤枉？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，这事儿连你都知道了呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，这个……呵呵呵，那是自然的，身为本镇的唯一捕头，耳聪目明消息灵通是起码的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "接着审，我学习学习啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题儿"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出烟袋"
+        },
+        {
+          "type": "line",
+          "line": "请好吧您"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐到桌子边"
+        },
+        {
+          "type": "line",
+          "line": "拿纸。说，为嘛打碎花瓶？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥，我也不知道为啥呀。我一大早起来，那个花瓶就放在我床上，我一翻身，咣，打了一个，我一下地，咣，又打一个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这花瓶又没有长脚，怎么会跑到你的床上去呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是不是想顺手牵羊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是不是？是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，我发誓！谁拿的花瓶，谁全家不得~好死！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人看大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "嘿，怎么说话呢你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他又没有说你，你急个啥嘛？燕捕头，你接着审。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "花瓶既然不是你拿的，那肯定是别人拿的。是不是你，是不是你？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "问了一圈，众人摇头"
+        },
+        {
+          "type": "line",
+          "line": "不是他们拿的，既然花瓶不是他们拿的，那说明拿花瓶的人……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "此人肯定有梦游症，晚上放的，白天又忘了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啦！我想起来了，是狐仙！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "狐仙？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，我跟你说，咱们这个店啊，有个千年的狐仙啊，一到晚上就现形，对了，这个狐仙还有肺气肿呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要听他胡说八道的，哪里有狐仙？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有嘛，没有嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有，有，我见过的，不信问掌柜的，掌柜的也见过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "学小郭的颤音"
+        },
+        {
+          "type": "line",
+          "line": "狐仙？"
+        },
+        {
+          "type": "action",
+          "description": "小郭低头"
+        },
+        {
+          "type": "line",
+          "line": "我没有见过。糊涂人我倒是见了一堆，多么老实的一个人，进了城就为赚钱回家盖房子，未婚妻天天都在村口苦苦的等着，换成了你们，你们是什么感受呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢仲达",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭着蹭到门口"
+        },
+        {
+          "type": "line",
+          "line": "淑淑淑、芬芬芬，等着我啊！哥一定回家给你盖房子！"
+        }
+      ]
+    }
+  ]
+}

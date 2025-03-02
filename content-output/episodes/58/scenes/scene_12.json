@@ -1,0 +1,438 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，夜】",
+  "location": "客栈门口",
+  "timeOfDay": "夜",
+  "performances": [
+    {
+      "type": "action",
+      "description": "李大嘴欲杀鸡"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手！你干什么呢，你干什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己不会看呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位大哥，我只希望你仔细地想一想，这把刀，如果砍在你自己的脖子上，你是什么感觉？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没犯法砍我干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没犯法，那鸡犯法了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "万物皆有灵，鸡也有血有肉，也能感觉到痛苦，难道你没有感觉到它绝望的呻吟吗？难道你没有感受到它痛苦的挣扎吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你嘛意思啊，你谁呀你？从哪儿来，到哪儿去，姓嘛叫嘛？赶紧说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是谁你甭管，今天只要有我在，你们就休想残害这只可怜的鸡。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是吗？那就瞧好了啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "欲杀鸡"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把刀架在自己脖子上"
+        },
+        {
+          "type": "line",
+          "line": "你敢杀这只鸡，我就杀我自己，你看着办吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别别别，有话好好说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这人绝对是个疯子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六试试"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "试试试试"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇呀呀呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放着我来测试一下"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位姑娘，我问你一个问题啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小明带着女友去河边散步，女友落水，小明去救，捞了半天，什么也没捞见，小明就哭着回家了。过了两年他故地重游，遇见河边有两个老头在聊天，一个说：\"水清则无鱼，这条河里没有水草，所以没有鱼。\"小明听后，当场精神失常跳水自尽，请问这是为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么知道？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你仔细想一想，你要是回答上来呢，我们就把这只鸡给放了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也许是女友死后，小明过度伤心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为嘛当时没事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有些事情是越想越伤心啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然是装疯那就好办了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思？是谁装疯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，少废话，我是本镇的唯一捕头燕小六。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是本镇唯一的捕快"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        },
+        {
+          "type": "line",
+          "line": "捕快祝无双。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胆敢放肆一切后果自负。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我南宫残花自打走上这条路，就没打算回头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "南宫残花？你小的时候是不是在汉中呆过呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉！就是龙门镖局的那个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大师姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小师妹！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "原来是自己人……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么在这儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自己人自己人，这个南宫是我的小师妹，我俩小时候一块儿学过琴。我弹琵琶，她吹笛子，人称天才小姐妹，对不对呀？"
+        }
+      ]
+    }
+  ]
+}

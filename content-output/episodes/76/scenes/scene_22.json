@@ -1,0 +1,350 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，傍晚】",
+  "location": "大堂",
+  "timeOfDay": "傍晚",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人翘首期盼老白的归来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白老白，怎么样，银子交过去了吗？小贝呢？小贝。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白坐，大嘴倒水，小郭还在看门外"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先不说这个，掌柜的怎么样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他已经知道了，是小六说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六是怎么知道？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴看门口方向，老白回头，只见小米，小米想跑"
+        },
+        {
+          "type": "line",
+          "line": "站住，过来，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉小米"
+        },
+        {
+          "type": "line",
+          "line": "我还有事儿问你呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "问吧，这次免费。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，这事儿你除了告诉小六还告诉谁了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没了，就小六，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白瞪眼"
+        },
+        {
+          "type": "line",
+          "line": "还有大周，我托人打听事总得给事说清楚吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了老白，出什么事了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我拿着银子去了西凉河，在小石桥底下发现了第三封信。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把信递给秀才"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快念念。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "尊敬的朋友们，这件事本来很好解决，但你们竟然私自报了官。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁报，不是我们报的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们既然不仁，那就休怪我们不义了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掐住秀才脖子"
+        },
+        {
+          "type": "line",
+          "line": "你们想干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我们，是他们，这一千两银子，已经不能解决我们之间的问题了。经过再次协商，我们决定把赎金提高一倍，时间和地点，另行通知。若再有报官之举，一切后果自负。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐地起价，这不是抢钱吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急得打小米"
+        },
+        {
+          "type": "line",
+          "line": "你还好意思说，都怪你，你要不告诉小六怎么会变成这样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "无奈"
+        },
+        {
+          "type": "line",
+          "line": "我，我不是想帮个忙吗？再说人家小六是个捕头啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行啦，净说那没用的。你好好回忆回忆，你都跟谁说了？一个都不许落下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让我想想，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "数手指头"
+        },
+        {
+          "type": "line",
+          "line": "大周，胖洪，帅胡，小姜，老高，小毛，还有汤姆，杰瑞，米老鼠，唐老鸦，苏青青……丐帮的兄弟只要在附近的我全通知到了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老白以拳顶头"
+        },
+        {
+          "type": "line",
+          "line": "也就是说，绑匪就在其中了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴，那可都是自家兄弟啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是你兄弟，跟我们没关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，小米也是一番好意，别老拿他撒气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他本来就是嘛，要不是跟小六多嘴，掌柜的能知道吗？就算小贝回来了，掌柜的这次也得大病一场，不信你就等着瞧好了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走向后院"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就说吧你。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "去后院"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我先走了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米出门，老白上楼"
+    }
+  ]
+}

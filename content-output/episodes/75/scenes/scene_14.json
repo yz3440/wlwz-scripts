@@ -1,0 +1,724 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "无双在教小贝练功，大嘴进"
+    },
+    {
+      "type": "action",
+      "description": "1136"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，正练着呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有什么事儿吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没啥事，跟你没啥事，我找无双。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没看见啊，我们俩现在正在练功呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不你先回避一下，回避一下，回头我给你做好吃的行不行？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "推小贝"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥，什么人啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，那个……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝你乖，先回屋，我们马上就好的，乖点乖点。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双啊，你那个狠招不管用啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有想到你对蕙兰感情那么深吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我还有救吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一次不行就再试一次吧，试多几次总会有效果的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "行行行，那你现在有时间吗？现在？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "不太情愿"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说，你可得帮我，我这两天脑子乱透了，你得帮我整理一下，不然的话我真的变成精神病了你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好吧好吧，你先把眼睛眯起来——哎，先说好了啊，我不说走你可不准走，不要再像上次那样！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心放心，对，还有一点，无双，这回别老抽我脸行吗？我这还肿着呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "好了好了，集中注意力啊，action。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴眼前又出现了蕙兰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "激动"
+        },
+        {
+          "type": "line",
+          "line": "蕙兰你又回来了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抓住蕙兰手"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有事说事啊，别动手动脚的，咱俩还没熟到那份上呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，你上回说想要个胭脂水粉……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你真的去买了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没有，主要是有个问题我想问个清楚点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么问题啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你觉得，咱俩还有可能吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一字一顿"
+        },
+        {
+          "type": "line",
+          "line": "没，-有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不用回答那么快，你可以稍微考虑考虑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用，老实说啊，我对你毫无兴趣。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不用说得那么直接，你稍微婉转点也行啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题啊，我对你啊，基本没有兴趣。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再婉转一点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对你呀，有那么一点兴趣。但咱俩是不可能的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我前一阵子都已经嫁人了，的孩子都可以上街打酱油了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴心痛，眼眶湿润了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那孩子他爹？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他爹，跟你有什么关系啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，我就想知道，知道他是干啥的，他跟我比起来咋样，要不然我老不死心呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他又帅，又有钱，而且武功盖世，名盛江湖。这都是小问题，最重要的是，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "注意到大嘴的眼睛"
+        },
+        {
+          "type": "line",
+          "line": "你眼睛怎么红了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "1137"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢噢，没事，没事，风刮的，你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你真的那么喜欢蕙兰吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得啊，如果真的喜欢一个人，而她又不是名花有主，你不一定非要放弃的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "痛苦"
+        },
+        {
+          "type": "line",
+          "line": "我没想放弃啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，算了，这招啊，对你似乎没什么用。就这么着吧，把你的眼睛眯起来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴眼睛聚集，蕙兰变回了无双，大嘴吃了一惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道自己刚才说了些什么吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴摇头"
+        },
+        {
+          "type": "line",
+          "line": "我的情况和你的有些不太一样，秀才是因为有了小郭，所以我不得不选择放弃，但对你来说，等待虽然是辛苦的，但未必就是条死路。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我不能再等了呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你刚才不是这么说的，老实说，刚才蕙兰拒绝你的时候，你的眼神真的很让人心疼。那个时候我才知道，你不可能真的忘掉蕙兰，除非是她亲口拒绝你，否则你是不会甘心的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "痛苦不已，语无伦次"
+        },
+        {
+          "type": "line",
+          "line": "那，那我，那我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你不要太难过了吗，刚才只是虚拟的场景，蕙兰未必她会那么绝情的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会的，不会的，她要不绝情她不会走，我跟你说，她走之前跟我说那话，比你跟我说的婉转不到哪儿去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "出"
+        },
+        {
+          "type": "line",
+          "line": "你们俩怎么回事啊，说了这么长时间，有完没完到底？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "怒"
+        },
+        {
+          "type": "line",
+          "line": "行行，大人说话，小孩一边呆着去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，呀哼，再来劲小心我点你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "气"
+        },
+        {
+          "type": "line",
+          "line": "点啊，你点死我，你点死我，点点点！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴定住，小贝乐坏"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，无双姐姐，我成功了！耶！谢谢你啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对李"
+        },
+        {
+          "type": "line",
+          "line": "大嘴啊，您不是挺狂的吗？啊，嘻嘻嘻。服不服啊？你如果服的话呢，你就眨巴眨巴眼，不服的话呢，那你就在这儿呆着吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴拼命眨眼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不差不多，葵花解穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝我逮着整死你！你站住，别跑，站住！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "追小贝出"
+    },
+    {
+      "type": "action",
+      "description": "拉回现实"
+    }
+  ]
+}

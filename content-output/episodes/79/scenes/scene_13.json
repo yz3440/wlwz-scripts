@@ -1,0 +1,272 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴在练拳脚"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，坐坐坐。急也没有用，这是上头特批的拘押令，连娄知县都没权力过问。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那蕙兰都干啥了，凭啥抓她呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定是那杜子俊捣的乱，我早就看出来，那东西，不是什么好家伙。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要胡说了，人家还等着娶媳妇呢。现在捣鬼，图啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没准他真有十九个姨太太呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟他拼了我"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑出去，大家各忙各的，大嘴又跑进来"
+        },
+        {
+          "type": "line",
+          "line": "你们咋不拦着我呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拦着你有用吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一天到晚不干正事，就知道胡咧咧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们说怎么办，横不能咱劫狱去吧。——哎，咱咋就不能劫狱呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，你去劫呀，回头不要说认识我们啊，小郭，给他找点家伙，让他去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭把酒勺给他"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去就去，不就一死吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看了看酒勺"
+        },
+        {
+          "type": "line",
+          "line": "这不行，起来起来起来，为了蕙兰我跟他拼了我。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "搬着凳子出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "傻家伙不会真的去了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他那个胆子比芝麻还小，放心吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可是蕙兰啊。展堂，你出去看看呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干什么，你干什么？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李拿着凳子追着杜子俊进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有本事别躲，有本事别躲，你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，没有完了还，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对杜"
+        },
+        {
+          "type": "line",
+          "line": "你谈得怎么样呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "失败了。我和我娘谈崩了。我娘她是大发雷霆啊，她还威胁说，要对蕙兰下手啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家恍然大悟"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰呢？我得马上带她走啊，蕙兰，蕙兰！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别喊了，她不在这儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴拎着一个大盆往屋子里进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么味儿，这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，起来起来，把手给我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "相信我，没错的啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉着秀才的手往盆里泡"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，这是什么呀，这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "醋啊，糖醋小排你吃过没，为啥那么有嚼头，就是因为这醋。咱先在醋里把手骨头给泡软了，他再咋捏都没事了，这就叫以柔克刚，以弱制强。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这能行吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行咋办呐，如花似玉的闺女你不想娶了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "端着盆欲走"
+        },
+        {
+          "type": "line",
+          "line": "不想娶算了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来回来，放这儿。为了芙妹，我豁出去了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "双手往醋盆里泡"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋？一只手还不够啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "万一她爹是左撇子呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，对。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才在泡手，小贝端着铁砂盆进屋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎有了有了，试试咱这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "铁砂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "铁……你别逗了，现在练铁砂功哪还来得及啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错，这个铁砂啊是用来做手套的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李、吕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手套？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，我每次挨先生手板呢，都在考虑对策，经过无数次的斗争之后呢，才想出了这条妙计。呐，你先把铁砂涂呢在手上，然后放到炉子里去烤"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才吓一跳"
+        },
+        {
+          "type": "line",
+          "line": "经过加热呢，铁砂就会熔化，然后在你手上形成一层无比坚硬的保护膜，到那个时候……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就成三等残废了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了，就当我白忙活了呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来回来回来，放这儿，不就烤嘛"
+        },
+        {
+          "type": "speaker-action",
+          "description": "伸手往盆里沾铁砂"
+        },
+        {
+          "type": "line",
+          "line": "怎么烤烤多久。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "经过我的猜测呢，大概也就三天三夜。"
+        }
+      ]
+    }
+  ]
+}

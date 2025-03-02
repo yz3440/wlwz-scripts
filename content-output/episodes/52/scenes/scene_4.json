@@ -1,0 +1,300 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟石头做准备活动"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这招能管用吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不求管用，只要让她知道咱石头是条汉子，这就够了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "门响声"
+        },
+        {
+          "type": "line",
+          "line": "来了，赶紧的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟石头做俯卧撑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两千九百九十七，两千九百九十八，两千九百九十九，坚持三千！石头你果然是条汉子耶！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "故作吃惊"
+        },
+        {
+          "type": "line",
+          "line": "无双？你什么时候来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚来刚来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行了，老啦，我一前随便一做就是好几万！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过了过了，悠着点吹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一下子做那么多俯卧撑，你不累呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我习惯了，其实吧，我也不想做那么多，你看，二头肌不答应。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，就你那细胳膊细腿的哪来的二头肌嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，一口气做了三千个俯卧撑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三千个，不错嘛？啥时候起床的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚起的，也就比你早起个十分钟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十分钟，一个俯卧撑就算你一秒，一分钟六十个那三千个需要多久？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "扳手指头"
+        },
+        {
+          "type": "line",
+          "line": "哎，谁有算盘呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用算了一共需要五十分钟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐夫？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "石头做的快，十分钟做三千换算下来一秒钟做五个呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，也不行了，年轻的时候，哎呀，一秒钟能作七八十！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "七八十个？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，不信问我姐夫。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别问我，你年轻的时候我不认识你！这败家玩意。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这家伙银子银子，连本带利！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有有！有这事！一秒钟做七八十，这小子年轻的时候。为啥做七八十呢？怎么就做七八十了呢？因为——他经常服用白驼山牌壮骨粉。无双，小郭上。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双小郭广告，对观众"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俗话说得好人在江湖飘啊！谁人不挨刀啊！白驼山壮骨粉，挨了刀服一包，包你想挨第二刀。闪了腰服一包，活到二百不显老！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白驼山壮骨粉，北宋欧阳锋独家秘方，内用外服均有奇效，本镇各大药房均有销售，购买时请认准黑蛤蟆防伪标志，呱！呱！——白驼山壮骨粉，青春的粉！友谊的粉！看着很像面粉，吃着更像面粉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧走赶紧走！"
+        }
+      ]
+    }
+  ]
+}
