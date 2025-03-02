@@ -27,13 +27,21 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你看清楚了吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看清楚了吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
       "performances": [
-        { "type": "line", "line": "清楚了，她对你挺上心的，满好的满好的。" }
+        {
+          "type": "line",
+          "line": "清楚了，她对你挺上心的，满好的满好的。"
+        }
       ]
     },
     {
@@ -49,9 +57,17 @@
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "无双也是为了你好嘛，" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双也是为了你好嘛，"
+        }
+      ]
     },
-    { "type": "action", "description": "老白推小六脸" },
+    {
+      "type": "action",
+      "description": "老白推小六脸"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
@@ -76,36 +92,66 @@
       "type": "dialog",
       "speaker": "祝无双",
       "performances": [
-        { "type": "line", "line": "不敢不敢，您忙啊您忙。" },
-        { "type": "speaker-action", "description": "说完溜走" }
+        {
+          "type": "line",
+          "line": "不敢不敢，您忙啊您忙。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完溜走"
+        }
       ]
     },
-    { "type": "action", "description": "众人撵出店外" },
+    {
+      "type": "action",
+      "description": "众人撵出店外"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "南方口音" },
-        { "type": "line", "line": "你们干什么，你们干什么？" }
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "你们干什么，你们干什么？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "speaker-action", "description": "学南方口音" },
-        { "type": "line", "line": "我姓王，草头王。" }
+        {
+          "type": "speaker-action",
+          "description": "学南方口音"
+        },
+        {
+          "type": "line",
+          "line": "我姓王，草头王。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "学" },
-        { "type": "line", "line": "王豆的王，王豆的豆，哈哈哈。" }
+        {
+          "type": "speaker-action",
+          "description": "学"
+        },
+        {
+          "type": "line",
+          "line": "王豆的王，王豆的豆，哈哈哈。"
+        }
       ]
     },
-    { "type": "action", "description": "老白比划\"嘘\"" },
+    {
+      "type": "action",
+      "description": "老白比划\"嘘\""
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -119,7 +165,12 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -135,7 +186,10 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "你回就回来，你整这出儿干啥呀？" }
+        {
+          "type": "line",
+          "line": "你回就回来，你整这出儿干啥呀？"
+        }
       ]
     },
     {
@@ -151,22 +205,42 @@
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "幼稚，相当的幼稚。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "幼稚，相当的幼稚。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "是是是。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是是是。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "你才幼稚呢。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才幼稚呢。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "嘘～～～小声点。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘～～～小声点。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -182,19 +256,35 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "不出去了啊，哪儿也不走了，走吧。" }
+        {
+          "type": "line",
+          "line": "不出去了啊，哪儿也不走了，走吧。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "又去哪儿呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "又去哪儿呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "回屋啊，琢磨什么呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "回屋啊，琢磨什么呢？"
+        }
+      ]
     },
-    { "type": "action", "description": "众人一起进屋" }
+    {
+      "type": "action",
+      "description": "众人一起进屋"
+    }
   ]
 }

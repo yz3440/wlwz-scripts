@@ -67,19 +67,31 @@
         {
           "type": "line",
           "line": "当然没啥感觉了，既然选择了小郭，就应该好好跟她在一块儿"
-        },
-        {
-          "type": "action",
-          "description": "小郭高兴"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭高兴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "娶鸡随鸡娶狗随狗嘛"
-        },
-        {
-          "type": "action",
-          "description": "小郭听起来别扭"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭听起来别扭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "不过，如果能够再重新选择一次的话……"

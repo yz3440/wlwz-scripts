@@ -415,19 +415,31 @@
         {
           "type": "line",
           "line": "拿来吧。哎呀，想吃吗？"
-        },
-        {
-          "type": "action",
-          "description": "白点头"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白点头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "做梦都想吃？"
-        },
-        {
-          "type": "action",
-          "description": "白不停地点头"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白不停地点头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "那就继续做梦吧，啊。"

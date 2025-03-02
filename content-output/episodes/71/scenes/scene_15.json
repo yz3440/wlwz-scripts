@@ -247,11 +247,17 @@
         {
           "type": "line",
           "line": "掌柜的还会用成语了……"
-        },
-        {
-          "type": "action",
-          "description": "佟湘玉瞪"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉瞪"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "一直都会，老用。那啥，掌柜的，我给金小姐做饭去。"

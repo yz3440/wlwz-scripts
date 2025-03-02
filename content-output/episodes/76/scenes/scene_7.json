@@ -353,19 +353,31 @@
         {
           "type": "line",
           "line": "小贝刚才回来了，然后我批评她几句，我看孩子挺虚心的，就让她上课去了，"
-        },
-        {
-          "type": "action",
-          "description": "掌柜的露出怀疑的眼神"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的露出怀疑的眼神"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "那你要找她我现在就给你找去。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "掌柜的坐下"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的坐下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "这样，你先上楼歇会儿消消气，"

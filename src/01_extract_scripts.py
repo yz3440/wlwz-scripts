@@ -85,7 +85,8 @@ def extract_scene(script_lines: List[str]) -> List[ Scene]:
 
     for i, line in enumerate(script_lines):
         line = line.strip()
-        if line.startswith("【") and line.endswith("】"):
+        line_first_part = line.split(" ")[0]
+        if line_first_part.startswith("【") and line_first_part.endswith("】"):
             scene_heading = {
                 "line_idx": i,
                 "scene_description": line,

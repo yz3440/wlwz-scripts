@@ -189,12 +189,12 @@
         {
           "type": "line",
           "line": "哎，老白你来的正好，这封信你帮我念念"
-        },
-        {
-          "type": "action",
-          "description": "老白伸手去拿"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "老白伸手去拿"
     },
     {
       "type": "dialog",
@@ -217,12 +217,12 @@
         {
           "type": "line",
           "line": "谁掺和了，信里写啥呀？"
-        },
-        {
-          "type": "action",
-          "description": "湘玉拍了他手一下"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉拍了他手一下"
     },
     {
       "type": "dialog",
@@ -357,11 +357,17 @@
         {
           "type": "line",
           "line": "大嘴，大嘴，麻烦你帮帮忙，帮我拿一下。"
-        },
-        {
-          "type": "action",
-          "description": "大嘴接过盆，还在不停的唠叨"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴接过盆，还在不停的唠叨"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "点穴手！"

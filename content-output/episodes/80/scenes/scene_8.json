@@ -12,57 +12,103 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "走小贝，快点，楼上还有行李吗？" }
+        {
+          "type": "line",
+          "line": "走小贝，快点，楼上还有行李吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "着啥急嘛？我还想洗个脸。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "路上再洗吧。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "不。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "着啥急嘛？我还想洗个脸。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "那好吧，我烧水去。" },
-        { "type": "speaker-action", "description": "转头跑去厨房" }
+        {
+          "type": "line",
+          "line": "路上再洗吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好吧，我烧水去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转头跑去厨房"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "早说嘛，这么早叫人家，我先回屋睡个回笼觉。" }
+        {
+          "type": "line",
+          "line": "早说嘛，这么早叫人家，我先回屋睡个回笼觉。"
+        }
       ]
     },
-    { "type": "action", "description": "老白跑回来把住小贝" },
+    {
+      "type": "action",
+      "description": "老白跑回来把住小贝"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "别别别，孩子，上了路再睡。乖听话。" }
+        {
+          "type": "line",
+          "line": "别别别，孩子，上了路再睡。乖听话。"
+        }
       ]
     },
-    { "type": "action", "description": "小贝用力试图争脱" },
+    {
+      "type": "action",
+      "description": "小贝用力试图争脱"
+    },
     {
       "type": "dialog",
       "speaker": "莫小贝",
-      "performances": [{ "type": "line", "line": "不行。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "上路了想睡多久睡多久。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "上路了想睡多久睡多久。"
+        }
+      ]
     },
     {
       "type": "action",
@@ -72,61 +118,112 @@
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "speaker-action", "description": "持刀行礼" },
-        { "type": "line", "line": "小弟初来乍到，请多关照。" },
-        { "type": "speaker-action", "description": "贴着大门，冲门外" },
-        { "type": "line", "line": "不要再追了，不要逼我翻脸！" }
+        {
+          "type": "speaker-action",
+          "description": "持刀行礼"
+        },
+        {
+          "type": "line",
+          "line": "小弟初来乍到，请多关照。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "贴着大门，冲门外"
+        },
+        {
+          "type": "line",
+          "line": "不要再追了，不要逼我翻脸！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "speaker-action", "description": "拍门" },
-        { "type": "line", "line": "开门开门开门，谁逼你翻脸了？赶紧开门啊。" }
+        {
+          "type": "speaker-action",
+          "description": "拍门"
+        },
+        {
+          "type": "line",
+          "line": "开门开门开门，谁逼你翻脸了？赶紧开门啊。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "你是谁呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是谁呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "小六，我们镇上的燕捕头。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，我们镇上的燕捕头。"
+        }
+      ]
     },
-    { "type": "action", "description": "掌柜的开门，小六进" },
+    {
+      "type": "action",
+      "description": "掌柜的开门，小六进"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "speaker-action", "description": "兴奋" },
+        {
+          "type": "speaker-action",
+          "description": "兴奋"
+        },
         {
           "type": "line",
           "line": "我的个妈呀，胡同口站着一大帮女孩，全都十七八岁，手里拿着鲜花和荧光棒。"
         }
       ]
     },
-    { "type": "action", "description": "掌柜的朝凌腾云指，小六回头看看他" },
+    {
+      "type": "action",
+      "description": "掌柜的朝凌腾云指，小六回头看看他"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "这人谁呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这人谁呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "speaker-action", "description": "行礼" },
-        { "type": "line", "line": "在下凌腾云，拜见燕捕头。" }
+        {
+          "type": "speaker-action",
+          "description": "行礼"
+        },
+        {
+          "type": "line",
+          "line": "在下凌腾云，拜见燕捕头。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "speaker-action", "description": "满面笑容" },
+        {
+          "type": "speaker-action",
+          "description": "满面笑容"
+        },
         {
           "type": "line",
           "line": "还礼还礼，你怎么现在就来啦？来来来，坐坐坐。"
@@ -136,18 +233,31 @@
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "不要再提咧，一路被人追我。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再提咧，一路被人追我。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "谁追你？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁追你？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "speaker-action", "description": "坐下" },
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        },
         {
           "type": "line",
           "line": "我是逃了三天三夜。日夜奔程才来到这儿，三天都没有合眼了。"
@@ -162,16 +272,28 @@
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "speaker-action", "description": "冲门外" },
-        { "type": "line", "line": "闭嘴。" }
+        {
+          "type": "speaker-action",
+          "description": "冲门外"
+        },
+        {
+          "type": "line",
+          "line": "闭嘴。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "speaker-action", "description": "走到门口" },
-        { "type": "line", "line": "谁呀，吵吵嘛呢这是？谁呀这是？" }
+        {
+          "type": "speaker-action",
+          "description": "走到门口"
+        },
+        {
+          "type": "line",
+          "line": "谁呀，吵吵嘛呢这是？谁呀这是？"
+        }
       ]
     },
     {
@@ -182,39 +304,62 @@
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "line", "line": "燕捕头，这可是你的地盘，" },
-        { "type": "speaker-action", "description": "拉小六到一边" },
-        { "type": "line", "line": "你一定要为我做主啊。就靠你了，谢谢你了。" }
+        {
+          "type": "line",
+          "line": "燕捕头，这可是你的地盘，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉小六到一边"
+        },
+        {
+          "type": "line",
+          "line": "你一定要为我做主啊。就靠你了，谢谢你了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "放心吧，这事儿包我身上了。这是谁呀这是？" }
+        {
+          "type": "line",
+          "line": "放心吧，这事儿包我身上了。这是谁呀这是？"
+        }
       ]
     },
-    { "type": "action", "description": "出客栈大喊" },
+    {
+      "type": "action",
+      "description": "出客栈大喊"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "静一静，静一静，我是本镇的唯一捕头燕小六！" }
+        {
+          "type": "line",
+          "line": "静一静，静一静，我是本镇的唯一捕头燕小六！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "粉丝乙",
       "performances": [
-        { "type": "line", "line": "走开啦，我们只要凌腾云。" },
-        { "type": "speaker-action", "description": "继续高喊" },
+        {
+          "type": "line",
+          "line": "走开啦，我们只要凌腾云。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "继续高喊"
+        },
         {
           "type": "line",
           "line": "腾云腾云我爱你，就像老鼠爱大米，腾云腾云我想你，每天晚上梦到你"
         }
       ]
     },
-
     {
       "type": "action",
       "description": "凌腾云极端无奈"
@@ -232,7 +377,12 @@
     {
       "type": "dialog",
       "speaker": "粉丝乙",
-      "performances": [{ "type": "line", "line": "走开。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走开。"
+        }
+      ]
     },
     {
       "type": "action",
@@ -241,21 +391,37 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "小六小六。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六小六。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "line", "line": "我的妈呀，这帮小女生还真厉害。" }
+        {
+          "type": "line",
+          "line": "我的妈呀，这帮小女生还真厉害。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "小六，快快快。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，快快快。"
+        }
+      ]
     },
-    { "type": "action", "description": "老白扶小六坐下" },
+    {
+      "type": "action",
+      "description": "老白扶小六坐下"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
@@ -270,7 +436,10 @@
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "speaker-action", "description": "起身，行礼" },
+        {
+          "type": "speaker-action",
+          "description": "起身，行礼"
+        },
         {
           "type": "line",
           "line": "燕捕头，小弟对不起你，以后有用得着小弟的地方尽管开口。粉身碎骨，在所不辞。"
@@ -281,8 +450,14 @@
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
-        { "type": "speaker-action", "description": "还礼" },
-        { "type": "line", "line": "客气，客气。来来坐坐坐。" }
+        {
+          "type": "speaker-action",
+          "description": "还礼"
+        },
+        {
+          "type": "line",
+          "line": "客气，客气。来来坐坐坐。"
+        }
       ]
     },
     {
@@ -292,13 +467,26 @@
     {
       "type": "dialog",
       "speaker": "粉丝甲",
-      "performances": [{ "type": "line", "line": "请问凌腾云在吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问凌腾云在吗？"
+        }
+      ]
     },
-    { "type": "action", "description": "小六惊惧，喊叫着跑到楼梯附近" },
+    {
+      "type": "action",
+      "description": "小六惊惧，喊叫着跑到楼梯附近"
+    },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "你是谁啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是谁啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -314,69 +502,131 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "哎呀妈呀，真可怜。这是粉丝吗？" },
-        { "type": "speaker-action", "description": "手在粉丝甲眼睛前比画" }
+        {
+          "type": "line",
+          "line": "哎呀妈呀，真可怜。这是粉丝吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "手在粉丝甲眼睛前比画"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "粉丝甲",
-      "performances": [{ "type": "line", "line": "请问你是凌腾云吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问你是凌腾云吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "我……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……"
+        }
+      ]
     },
-    { "type": "action", "description": "凌腾云跑到老白跟前，示意老白不要说话" },
+    {
+      "type": "action",
+      "description": "凌腾云跑到老白跟前，示意老白不要说话"
+    },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "就是他，就是他。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是他，就是他。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "粉丝甲",
       "performances": [
-        { "type": "line", "line": "这束花采了一上午了，送给你。" }
+        {
+          "type": "line",
+          "line": "这束花采了一上午了，送给你。"
+        }
       ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "谢谢啊。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "粉丝甲",
-      "performances": [{ "type": "line", "line": "我能摸摸你吗？" }]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "你……摸……" },
-        { "type": "speaker-action", "description": "回头看看掌柜的" },
-        { "type": "line", "line": "摸，摸。" }
+        {
+          "type": "line",
+          "line": "谢谢啊。"
+        }
       ]
     },
-    { "type": "action", "description": "粉丝甲摸摸老白" },
     {
       "type": "dialog",
       "speaker": "粉丝甲",
-      "performances": [{ "type": "line", "line": "好象没有传说中的那么帅嘛。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我能摸摸你吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……摸……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头看看掌柜的"
+        },
+        {
+          "type": "line",
+          "line": "摸，摸。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "粉丝甲摸摸老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "粉丝甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好象没有传说中的那么帅嘛。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "姑娘你还年轻，还没有成熟的审美观。" }
+        {
+          "type": "line",
+          "line": "姑娘你还年轻，还没有成熟的审美观。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "哎，对。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，对。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -388,16 +638,29 @@
         }
       ]
     },
-    { "type": "action", "description": "转身摸门" },
+    {
+      "type": "action",
+      "description": "转身摸门"
+    },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "等等女子。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等女子。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "等一下。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -409,32 +672,60 @@
         }
       ]
     },
-    { "type": "action", "description": "走到粉丝甲面前" },
+    {
+      "type": "action",
+      "description": "走到粉丝甲面前"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "对，他是。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，他是。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "摸吧，摸吧。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "摸吧，摸吧。"
+        }
+      ]
     },
-    { "type": "action", "description": "粉丝甲摸摸凌" },
+    {
+      "type": "action",
+      "description": "粉丝甲摸摸凌"
+    },
     {
       "type": "dialog",
       "speaker": "粉丝甲",
       "performances": [
-        { "type": "line", "line": "耶，你中计了，我终于摸到你了。" }
+        {
+          "type": "line",
+          "line": "耶，你中计了，我终于摸到你了。"
+        }
       ]
     },
-    { "type": "action", "description": "开门出客栈" },
+    {
+      "type": "action",
+      "description": "开门出客栈"
+    },
     {
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "speaker-action", "description": "关门" },
-        { "type": "line", "line": "这都是啥人？这都是啥人？" }
+        {
+          "type": "speaker-action",
+          "description": "关门"
+        },
+        {
+          "type": "line",
+          "line": "这都是啥人？这都是啥人？"
+        }
       ]
     },
     {
@@ -444,20 +735,36 @@
     {
       "type": "dialog",
       "speaker": "粉丝乙",
-      "performances": [{ "type": "line", "line": "是我，腾云哥哥，是我呀。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我，腾云哥哥，是我呀。"
+        }
+      ]
     },
-    { "type": "action", "description": "凌绕着榆木桌走" },
+    {
+      "type": "action",
+      "description": "凌绕着榆木桌走"
+    },
     {
       "type": "dialog",
       "speaker": "粉丝乙",
       "performances": [
-        { "type": "line", "line": "你别走呀，你不会这么绝情吧？" }
+        {
+          "type": "line",
+          "line": "你别走呀，你不会这么绝情吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "拦住。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "拦住。"
+        }
+      ]
     },
     {
       "type": "action",
@@ -466,19 +773,35 @@
     {
       "type": "dialog",
       "speaker": "粉丝乙",
-      "performances": [{ "type": "line", "line": "走开呀，腾云哥哥。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "走开呀，腾云哥哥。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "你是谁呀？我认识你吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是谁呀？我认识你吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "粉丝乙",
       "performances": [
-        { "type": "line", "line": "你走开，" },
-        { "type": "speaker-action", "description": "推开小六" },
+        {
+          "type": "line",
+          "line": "你走开，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "推开小六"
+        },
         {
           "type": "line",
           "line": "我从西安一路跟你到这儿的，我只想问你两个问题。"
@@ -488,50 +811,98 @@
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "问吧，问完赶紧回家。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "粉丝甲",
-      "performances": [{ "type": "line", "line": "我回去以后我就要嫁人了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "恭喜。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "问吧，问完赶紧回家。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "粉丝甲",
       "performances": [
-        { "type": "line", "line": "不过我在嫁人之前，我就想问你，你能娶我不？" }
+        {
+          "type": "line",
+          "line": "我回去以后我就要嫁人了。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "不能，你可以回去了吗？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭喜。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "粉丝甲",
       "performances": [
-        { "type": "speaker-action", "description": "柔" },
-        { "type": "line", "line": "等一下，" },
-        { "type": "speaker-action", "description": "对掌柜" },
-        { "type": "line", "line": "能借个笔跟纸吗？" }
+        {
+          "type": "line",
+          "line": "不过我在嫁人之前，我就想问你，你能娶我不？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不能，你可以回去了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "粉丝甲",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "柔"
+        },
+        {
+          "type": "line",
+          "line": "等一下，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对掌柜"
+        },
+        {
+          "type": "line",
+          "line": "能借个笔跟纸吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "账台有，自己拿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "账台有，自己拿？"
+        }
+      ]
     },
-    { "type": "action", "description": "粉丝乙走去柜台" },
+    {
+      "type": "action",
+      "description": "粉丝乙走去柜台"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "写啥呢？写啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "写啥呢？写啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -546,7 +917,12 @@
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "滚！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "滚！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -556,29 +932,62 @@
           "type": "line",
           "line": "谢谢啊，腾云哥哥你放心，这二十八个字，我一定会牢记一辈子的，"
         },
-        { "type": "speaker-action", "description": "冲小六" },
-        { "type": "line", "line": "滚开。" },
-        { "type": "speaker-action", "description": "冲凌" },
-        { "type": "line", "line": "一辈子啊，腾云哥哥，谢谢。" }
+        {
+          "type": "speaker-action",
+          "description": "冲小六"
+        },
+        {
+          "type": "line",
+          "line": "滚开。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲凌"
+        },
+        {
+          "type": "line",
+          "line": "一辈子啊，腾云哥哥，谢谢。"
+        }
       ]
     },
-    { "type": "action", "description": "走出门去，掌柜的关门" },
+    {
+      "type": "action",
+      "description": "走出门去，掌柜的关门"
+    },
     {
       "type": "dialog",
       "speaker": "粉丝乙",
-      "performances": [{ "type": "line", "line": "啊，腾云哥哥给我签字了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，腾云哥哥给我签字了。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "我对不起大家。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对不起大家。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "太可怕了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "太可怕了。"
+        }
+      ]
     },
-    { "type": "action", "description": "门外有人敲门" },
+    {
+      "type": "action",
+      "description": "门外有人敲门"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
@@ -589,31 +998,56 @@
         }
       ]
     },
-    { "type": "action", "description": "凌开门，小郭一见有些吃惊" },
+    {
+      "type": "action",
+      "description": "凌开门，小郭一见有些吃惊"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎呦。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "line", "line": "姑娘我求求你，你能不能自重一点！" }
+        {
+          "type": "line",
+          "line": "姑娘我求求你，你能不能自重一点！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "凌捕头……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "凌捕头……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "speaker-action", "description": "冲掌柜的" },
-        { "type": "line", "line": "你不用解释了。" },
-        { "type": "speaker-action", "description": "冲小郭" },
+        {
+          "type": "speaker-action",
+          "description": "冲掌柜的"
+        },
+        {
+          "type": "line",
+          "line": "你不用解释了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲小郭"
+        },
         {
           "type": "line",
           "line": "我长的帅不是我的问题，但是你以貌取人就是你的问题了，你难道不觉得羞耻吗？"
@@ -623,19 +1057,32 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "说什么呐你？这人谁呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说什么呐你？这人谁呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "line", "line": "好啦好啦，你不用装了，装啥呢在那儿装。" }
+        {
+          "type": "line",
+          "line": "好啦好啦，你不用装了，装啥呢在那儿装。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "凌捕头……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "凌捕头……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -650,7 +1097,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "凌捕头……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "凌捕头……"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -662,11 +1114,19 @@
         }
       ]
     },
-    { "type": "action", "description": "老白在给小六擦伤口" },
+    {
+      "type": "action",
+      "description": "老白在给小六擦伤口"
+    },
     {
       "type": "dialog",
       "speaker": "燕小六",
-      "performances": [{ "type": "line", "line": "爱谁带谁带，她我可不敢招。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "爱谁带谁带，她我可不敢招。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -682,17 +1142,34 @@
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        { "type": "line", "line": "啊，噢。" },
-        { "type": "speaker-action", "description": "冲小郭行礼" },
-        { "type": "line", "line": "对不起冒犯了，在下凌腾云。" }
+        {
+          "type": "line",
+          "line": "啊，噢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲小郭行礼"
+        },
+        {
+          "type": "line",
+          "line": "对不起冒犯了，在下凌腾云。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "切。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "切。"
+        }
+      ]
     },
-    { "type": "action", "description": "走向后院" },
+    {
+      "type": "action",
+      "description": "走向后院"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
@@ -706,17 +1183,32 @@
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "太好了，多谢了啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "太好了，多谢了啊。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "没有关系。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有关系。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "哎，你不是单身吧？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你不是单身吧？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -732,38 +1224,67 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "行礼" },
-        { "type": "line", "line": "白展堂。" }
+        {
+          "type": "speaker-action",
+          "description": "行礼"
+        },
+        {
+          "type": "line",
+          "line": "白展堂。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
-      "performances": [{ "type": "line", "line": "我在哪儿见过你吧？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
       "performances": [
-        { "type": "speaker-action", "description": "转身给小六擦伤口" },
-        { "type": "line", "line": "不可能。" }
-      ]
-    },
-    { "type": "action", "description": "擦的小六喊疼" },
-    {
-      "type": "dialog",
-      "speaker": "凌腾云",
-      "performances": [
-        { "type": "line", "line": "你长得特别像我远房一个表舅。" }
+        {
+          "type": "line",
+          "line": "我在哪儿见过你吧？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "呵，真会说笑话，来，客官楼上请。" }
+        {
+          "type": "speaker-action",
+          "description": "转身给小六擦伤口"
+        },
+        {
+          "type": "line",
+          "line": "不可能。"
+        }
       ]
     },
-    { "type": "action", "description": "二人上楼" }
+    {
+      "type": "action",
+      "description": "擦的小六喊疼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你长得特别像我远房一个表舅。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，真会说笑话，来，客官楼上请。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人上楼"
+    }
   ]
 }

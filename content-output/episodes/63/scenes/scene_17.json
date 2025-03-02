@@ -22,22 +22,34 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "依我看啊，白展堂这招叫作破釜沉舟。" }
+        {
+          "type": "line",
+          "line": "依我看啊，白展堂这招叫作破釜沉舟。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "哦，我说他为啥老拿个破斧子瞎抡呢。" }
+        {
+          "type": "line",
+          "line": "哦，我说他为啥老拿个破斧子瞎抡呢。"
+        }
       ]
     },
-    { "type": "action", "description": "大伙无奈" },
+    {
+      "type": "action",
+      "description": "大伙无奈"
+    },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "我说的破釜……跟你说了你也不懂。" }
+        {
+          "type": "line",
+          "line": "我说的破釜……跟你说了你也不懂。"
+        }
       ]
     },
     {
@@ -53,7 +65,12 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "哎呀，你们上哪去？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你们上哪去？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -63,13 +80,21 @@
           "type": "line",
           "line": "跟他谈谈去呗，既然不把我当兄弟，咱就跟他绝交！"
         },
-        { "type": "speaker-action", "description": "拉着小贝要出门" }
+        {
+          "type": "speaker-action",
+          "description": "拉着小贝要出门"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "绝交以后呢，就没下文了？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "绝交以后呢，就没下文了？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -85,7 +110,10 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "那也不能就这么下去，假装不认识啊？" }
+        {
+          "type": "line",
+          "line": "那也不能就这么下去，假装不认识啊？"
+        }
       ]
     },
     {
@@ -102,9 +130,18 @@
       "type": "dialog",
       "speaker": "莫小贝",
       "performances": [
-        { "type": "line", "line": "对对，这个我会的，你看啊。" },
-        { "type": "speaker-action", "description": "比划" },
-        { "type": "line", "line": "桥来桥上走！" }
+        {
+          "type": "line",
+          "line": "对对，这个我会的，你看啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "比划"
+        },
+        {
+          "type": "line",
+          "line": "桥来桥上走！"
+        }
       ]
     },
     {
@@ -125,7 +162,10 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "speaker-action", "description": "把手放回小郭脑袋上" },
+        {
+          "type": "speaker-action",
+          "description": "把手放回小郭脑袋上"
+        },
         {
           "type": "line",
           "line": "嗯哪，就假装不认识，就当不认识他，之后他肯定着急，一着急，一上火，葵花点穴手，啥都明白了。"
@@ -135,13 +175,26 @@
     {
       "type": "dialog",
       "speaker": "众人",
-      "performances": [{ "type": "line", "line": "嗯——对，葵花点穴手！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯——对，葵花点穴手！"
+        }
+      ]
     },
-    { "type": "action", "description": "全都定住" },
+    {
+      "type": "action",
+      "description": "全都定住"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "闹啥呀都。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "闹啥呀都。"
+        }
+      ]
     }
   ]
 }

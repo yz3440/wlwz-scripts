@@ -4,12 +4,18 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "湘玉、大嘴、无双在门口等着" },
+    {
+      "type": "action",
+      "description": "湘玉、大嘴、无双在门口等着"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "掌柜的，你说那高人到底长啥样？1049" }
+        {
+          "type": "line",
+          "line": "掌柜的，你说那高人到底长啥样？1049"
+        }
       ]
     },
     {
@@ -26,34 +32,51 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "白眉。多亏了他，我和芙妹才有今天。" }
+        {
+          "type": "line",
+          "line": "白眉。多亏了他，我和芙妹才有今天。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "那你是不是还要给他烧柱香下个拜啊？" }
+        {
+          "type": "line",
+          "line": "那你是不是还要给他烧柱香下个拜啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        { "type": "line", "line": "这个败类，下次见一回打一次决不手软。" }
+        {
+          "type": "line",
+          "line": "这个败类，下次见一回打一次决不手软。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "掌柜的，他要真是高人，我能不能跟着也拜拜？" }
+        {
+          "type": "line",
+          "line": "掌柜的，他要真是高人，我能不能跟着也拜拜？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "你没病没灾的，拜他干啥呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没病没灾的，拜他干啥呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -69,7 +92,10 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "没两月又当厨子了，跟没拜一样。" }
+        {
+          "type": "line",
+          "line": "没两月又当厨子了，跟没拜一样。"
+        }
       ]
     },
     {
@@ -85,19 +111,40 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "来了来了。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了。"
+        }
+      ]
     },
-    { "type": "action", "description": "韩娟带着一个\"高人\"出现在门口" },
+    {
+      "type": "action",
+      "description": "韩娟带着一个\"高人\"出现在门口"
+    },
     {
       "type": "dialog",
       "speaker": "韩娟",
-      "performances": [{ "type": "line", "line": "这位就是我师父。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位就是我师父。"
+        }
+      ]
     },
-    { "type": "action", "description": "马卓子给众人行礼" },
+    {
+      "type": "action",
+      "description": "马卓子给众人行礼"
+    },
     {
       "type": "dialog",
       "speaker": "马卓子",
-      "performances": [{ "type": "line", "line": "本人姓马，别号卓子。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "本人姓马，别号卓子。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -112,7 +159,12 @@
     {
       "type": "dialog",
       "speaker": "马卓子",
-      "performances": [{ "type": "line", "line": "嗨！你谁呀，你谁呀？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨！你谁呀，你谁呀？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -127,7 +179,12 @@
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "怪不得叫马卓子。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得叫马卓子。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -162,19 +219,32 @@
     {
       "type": "dialog",
       "speaker": "马卓子",
-      "performances": [{ "type": "line", "line": "你们谁解煞啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们谁解煞啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
       "performances": [
-        { "type": "line", "line": "啊啊，是我，这是我的头发和指甲。" }
+        {
+          "type": "line",
+          "line": "啊啊，是我，这是我的头发和指甲。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "马卓子",
-      "performances": [{ "type": "line", "line": "你先拿着，起油锅。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先拿着，起油锅。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -186,11 +256,19 @@
         }
       ]
     },
-    { "type": "action", "description": "众人簇拥着马卓子进后院" },
+    {
+      "type": "action",
+      "description": "众人簇拥着马卓子进后院"
+    },
     {
       "type": "dialog",
       "speaker": "马卓子",
-      "performances": [{ "type": "line", "line": "快点啊。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "快点啊。"
+        }
+      ]
     },
     {
       "type": "dialog",

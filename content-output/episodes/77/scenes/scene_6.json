@@ -135,8 +135,14 @@
       "description": "谢抱头趴在椅子上"
     },
     {
-      "type": "line",
-      "line": "人呢？"
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人呢？"
+        }
+      ]
     },
     {
       "type": "dialog",

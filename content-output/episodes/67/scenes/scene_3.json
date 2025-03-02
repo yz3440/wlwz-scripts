@@ -282,12 +282,18 @@
       "performances": [
         {
           "type": "line",
-          "line": "姬无病的那个百花软筋散我这还剩了点，你爹来了之后你就一喷，反正大家都没有力气呀，察觉不出来，然后我们再……"
-        },
-        {
-          "type": "action",
-          "description": "众人瞪着她"
-        },
+          "line": "姬无病的那个百花软筋散我这还剩了一点儿，你爹来了之后你就一喷，反正大家都没有力气呀，察觉不出来，然后我们再……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人瞪着她"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
         {
           "type": "line",
           "line": "我都说不说了嘛。"

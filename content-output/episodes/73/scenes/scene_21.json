@@ -4,50 +4,94 @@
   "location": "大堂",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "柳星雨往门外张望，湘玉从楼上跑下" },
     {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "柳姑娘，你在等人呀？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "柳星雨",
-      "performances": [{ "type": "line", "line": "没有没有，你找我有事啊？" }]
+      "type": "action",
+      "description": "柳星雨往门外张望，湘玉从楼上跑下"
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "我到现在还不知道你是从哪儿来的。" }
+        {
+          "type": "line",
+          "line": "柳姑娘，你在等人呀？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "柳星雨",
-      "performances": [{ "type": "line", "line": "你呆会就知道了。" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "嗯？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "柳星雨",
       "performances": [
-        { "type": "line", "line": "我的意思是说，" },
-        { "type": "speaker-action", "description": "支吾" },
-        { "type": "line", "line": "我还没有想好怎么跟你们说。" }
+        {
+          "type": "line",
+          "line": "没有没有，你找我有事啊？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "这个" },
-        { "type": "speaker-action", "description": "望望老白，笑" },
-        { "type": "line", "line": "还用想吗？" }
+        {
+          "type": "line",
+          "line": "我到现在还不知道你是从哪儿来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你呆会就知道了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的意思是说，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "支吾"
+        },
+        {
+          "type": "line",
+          "line": "我还没有想好怎么跟你们说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个"
+        },
+        {
+          "type": "speaker-action",
+          "description": "望望老白，笑"
+        },
+        {
+          "type": "line",
+          "line": "还用想吗？"
+        }
       ]
     },
     {
@@ -58,8 +102,14 @@
           "type": "line",
           "line": "湘玉姐，你不是我，你不能明白，这种人在江湖身不由己的感觉，"
         },
-        { "type": "speaker-action", "description": "扑到湘玉怀里，哭" },
-        { "type": "line", "line": "湘玉姐……" }
+        {
+          "type": "speaker-action",
+          "description": "扑到湘玉怀里，哭"
+        },
+        {
+          "type": "line",
+          "line": "湘玉姐……"
+        }
       ]
     },
     {
@@ -72,45 +122,79 @@
         }
       ]
     },
-    { "type": "action", "description": "佟走，柳欲对老白哭" },
+    {
+      "type": "action",
+      "description": "佟走，柳欲对老白哭"
+    },
     {
       "type": "dialog",
       "speaker": "柳星雨",
-      "performances": [{ "type": "line", "line": "白大哥……" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥……"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "别动，这招对她管用，对我没用。" }
+        {
+          "type": "line",
+          "line": "别动，这招对她管用，对我没用。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "柳星雨",
-      "performances": [{ "type": "line", "line": "你什么意思啊？" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你知道我什么意思！" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "柳星雨",
-      "performances": [{ "type": "line", "line": "我不明白。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "水缸旁边那一摊白色粉未小郭说是你洒的？" }
+        {
+          "type": "line",
+          "line": "你知道我什么意思！"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "柳星雨",
-      "performances": [{ "type": "line", "line": "是又怎么样？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不明白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "水缸旁边那一摊白色粉未小郭说是你洒的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是又怎么样？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -125,15 +209,29 @@
     {
       "type": "dialog",
       "speaker": "柳星雨",
-      "performances": [{ "type": "line", "line": "错，那是我治嗓子的药。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "错，那是我治嗓子的药。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "是吗？那好，我这儿有一包你拿去尝尝，" },
-        { "type": "speaker-action", "description": "柳拆开小包装" },
-        { "type": "line", "line": "放心，这都是面上的一层，一点都不脏。" }
+        {
+          "type": "line",
+          "line": "是吗？那好，我这儿有一包你拿去尝尝，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "柳拆开小包装"
+        },
+        {
+          "type": "line",
+          "line": "放心，这都是面上的一层，一点都不脏。"
+        }
       ]
     },
     {
@@ -146,11 +244,19 @@
         }
       ]
     },
-    { "type": "action", "description": "柳跑，郭过来掐老白" },
+    {
+      "type": "action",
+      "description": "柳跑，郭过来掐老白"
+    },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "你看你干的好事！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看你干的好事！"
+        }
+      ]
     },
     {
       "type": "action",
@@ -170,7 +276,10 @@
       "type": "dialog",
       "speaker": "柳星雨",
       "performances": [
-        { "type": "line", "line": "就凭你这句话，我愿意把一切事情都告诉你。" }
+        {
+          "type": "line",
+          "line": "就凭你这句话，我愿意把一切事情都告诉你。"
+        }
       ]
     },
     {
@@ -180,9 +289,17 @@
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "六扇门？！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "六扇门？！"
+        }
+      ]
     },
-    { "type": "action", "description": "小郭捡起" },
+    {
+      "type": "action",
+      "description": "小郭捡起"
+    },
     {
       "type": "dialog",
       "speaker": "柳星雨",
@@ -197,8 +314,14 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "speaker-action", "description": "对白" },
-        { "type": "line", "line": "满意，满意了吧？六扇门啊。" }
+        {
+          "type": "speaker-action",
+          "description": "对白"
+        },
+        {
+          "type": "line",
+          "line": "满意，满意了吧？六扇门啊。"
+        }
       ]
     }
   ]

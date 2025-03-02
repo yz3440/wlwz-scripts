@@ -235,14 +235,20 @@
         {
           "type": "line",
           "line": "是我，"
-        },
-        {
-          "type": "action",
-          "description": "燕的刀架到白脖子上"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "燕的刀架到白脖子上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
-          "line": "我不打自招我有病啊？"
+          "line": "我不打自招我有病吧？"
         }
       ]
     },

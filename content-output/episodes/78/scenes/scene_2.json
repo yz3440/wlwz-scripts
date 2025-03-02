@@ -4,22 +4,38 @@
   "location": "男寝",
   "timeOfDay": "昼",
   "performances": [
-    { "type": "action", "description": "大家手忙脚乱地给大嘴化妆" },
     {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "疼，疼，疼" }]
-    },
-    {
-      "type": "dialog",
-      "speaker": "祝无双",
-      "performances": [{ "type": "line", "line": "鞋挤不挤脚啊。" }]
+      "type": "action",
+      "description": "大家手忙脚乱地给大嘴化妆"
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "还行，我这是不是太花哨了我？" }
+        {
+          "type": "line",
+          "line": "疼，疼，疼"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鞋挤不挤脚啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还行，我这是不是太花哨了我？"
+        }
       ]
     },
     {
@@ -46,15 +62,29 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        { "type": "line", "line": "哎呀，看到没，身份的象征" },
-        { "type": "speaker-action", "description": "给他带玉" },
-        { "type": "line", "line": "小心点啊，玉贵着呢，打碎了赔双倍价钱。" }
+        {
+          "type": "line",
+          "line": "哎呀，看到没，身份的象征"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给他带玉"
+        },
+        {
+          "type": "line",
+          "line": "小心点啊，玉贵着呢，打碎了赔双倍价钱。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
-      "performances": [{ "type": "line", "line": "记住了，你是最帅的。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "记住了，你是最帅的。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -70,7 +100,10 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "掌柜的掌柜的，板寸不用抹油了啊。" }
+        {
+          "type": "line",
+          "line": "掌柜的掌柜的，板寸不用抹油了啊。"
+        }
       ]
     },
     {
@@ -86,19 +119,35 @@
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "接下来，眉毛，眉毛。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "接下来，眉毛，眉毛。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "干、干啥玩意儿？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "干、干啥玩意儿？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "祝无双",
       "performances": [
-        { "type": "speaker-action", "description": "拿剪子" },
-        { "type": "line", "line": "别动，别动，修正了，修正了。" }
+        {
+          "type": "speaker-action",
+          "description": "拿剪子"
+        },
+        {
+          "type": "line",
+          "line": "别动，别动，修正了，修正了。"
+        }
       ]
     },
     {
@@ -115,7 +164,10 @@
         }
       ]
     },
-    { "type": "action", "description": "老白进" },
+    {
+      "type": "action",
+      "description": "老白进"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
@@ -128,18 +180,31 @@
           "type": "speaker-action",
           "description": "给大嘴一朵玫瑰花，刺了他一下"
         },
-        { "type": "line", "line": "刺忘摘了，处理一下，处理一下。" }
+        {
+          "type": "line",
+          "line": "刺忘摘了，处理一下，处理一下。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "吕秀才",
-      "performances": [{ "type": "line", "line": "大嘴，这个你拿着。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，这个你拿着。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "干啥玩意儿，我又不识字。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥玩意儿，我又不识字。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -194,7 +259,12 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "那你给我了，你咋办啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你给我了，你咋办啊？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -210,30 +280,51 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        { "type": "line", "line": "大嘴，我没啥好说的，只有一句话，马到成功。" }
+        {
+          "type": "line",
+          "line": "大嘴，我没啥好说的，只有一句话，马到成功。"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
-      "performances": [{ "type": "line", "line": "功德圆满！" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "功德圆满！"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        { "type": "line", "line": "满园春色，色即是空、空穴来风……疯疯癫癫……" }
+        {
+          "type": "line",
+          "line": "满园春色，色即是空、空穴来风……疯疯癫癫……"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "说啥呢？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥呢？"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "风花雪月。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "风花雪月。"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -245,27 +336,50 @@
         }
       ]
     },
-    { "type": "action", "description": "大嘴出，随即哎呀哎呀跑了回来" },
+    {
+      "type": "action",
+      "description": "大嘴出，随即哎呀哎呀跑了回来"
+    },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
-      "performances": [{ "type": "line", "line": "咋了，这是干嘛了，这是？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了，这是干嘛了，这是？"
+        }
+      ]
     },
-    { "type": "action", "description": "蕙兰进" },
+    {
+      "type": "action",
+      "description": "蕙兰进"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "speaker-action", "description": "深沉状" },
-        { "type": "line", "line": "嗨，请问找在下有啥事吗？" }
+        {
+          "type": "speaker-action",
+          "description": "深沉状"
+        },
+        {
+          "type": "line",
+          "line": "嗨，请问找在下有啥事吗？"
+        }
       ]
     },
     {
       "type": "dialog",
       "speaker": "杨蕙兰",
       "performances": [
-        { "type": "line", "line": "没找你，" },
-        { "type": "speaker-action", "description": "对掌柜" },
+        {
+          "type": "line",
+          "line": "没找你，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对掌柜"
+        },
         {
           "type": "line",
           "line": "哎，麻烦你帮我端两坛好酒到我屋去啊，谢谢啊，你们继续吧。"
@@ -275,9 +389,17 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "我，我刚才表现咋样？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我刚才表现咋样？"
+        }
+      ]
     },
-    { "type": "action", "description": "众人无可奈何笑" },
+    {
+      "type": "action",
+      "description": "众人无可奈何笑"
+    },
     {
       "type": "dialog",
       "speaker": "李大嘴",
@@ -301,19 +423,35 @@
     {
       "type": "dialog",
       "speaker": "李大嘴",
-      "performances": [{ "type": "line", "line": "谁叫兰花指啊？" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁叫兰花指啊？"
+        }
+      ]
     },
-    { "type": "action", "description": "老白示范，大嘴学，众人冷" },
+    {
+      "type": "action",
+      "description": "老白示范，大嘴学，众人冷"
+    },
     {
       "type": "dialog",
       "speaker": "白展堂",
-      "performances": [{ "type": "line", "line": "你那是中风，回走，好好练。" }]
+      "performances": [
+        {
+          "type": "line",
+          "line": "你那是中风，回走，好好练。"
+        }
+      ]
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        { "type": "line", "line": "那行，那个我练练兰花指，兰花指。" }
+        {
+          "type": "line",
+          "line": "那行，那个我练练兰花指，兰花指。"
+        }
       ]
     }
   ]

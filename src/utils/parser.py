@@ -130,7 +130,7 @@ def find_missing_parts(parsed_text: str, original_text: str):
     for line in original_text_lines:
         import re
 
-        parts = re.split(r"[（）—().,!?;:，。！？；：、„~【】…]", line)
+        parts = re.split(r"[（）—().,!?;:，。！？；：、„~【】…‘’“”]", line)
         for part in parts:
             part = part.strip()
             if part != "" and part != None:

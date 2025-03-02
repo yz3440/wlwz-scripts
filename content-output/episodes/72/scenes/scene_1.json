@@ -185,11 +185,17 @@
         {
           "type": "line",
           "line": "湘玉姐，请您注意您的称呼好吗？"
-        },
-        {
-          "type": "action",
-          "description": "众人不解"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人不解"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "——我主要是害怕引起误会。"
@@ -323,11 +329,17 @@
         {
           "type": "line",
           "line": "湘玉姐说了……"
-        },
-        {
-          "type": "action",
-          "description": "众人咳嗽"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人咳嗽"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "line",
           "line": "——金小姐说了，说你是个好人。"
@@ -577,11 +589,17 @@
         {
           "type": "line",
           "line": "蒸羊羔、蒸熊掌、蒸鹿尾、烧花鸭、烧雏鸡、烧子鸽、卤猪、卤鸭、酱鸡、腊肉、松花、小肚、晾肉、香肠"
-        },
-        {
-          "type": "action",
-          "description": "掌柜变色"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜变色"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "……这些就算了，先把咸菜花生给我上来吧……"
@@ -727,20 +745,16 @@
       ]
     },
     {
+      "type": "action",
+      "description": "吕跑开,大嘴想叫住吕"
+    },
+    {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "哎哎"
-        },
-        {
-          "type": "action",
-          "description": "吕跑开"
-        },
-        {
-          "type": "line",
-          "line": "，掌柜的，你别听他胡说，我觉得你挺好的，真的。"
+          "line": "掌柜的，你别听他胡说，我觉得你挺好的，真的。"
         }
       ]
     },
