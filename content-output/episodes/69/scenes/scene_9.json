@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -69,12 +70,12 @@
         {
           "type": "line",
           "line": "佟湘玉！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拍桌子"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "拍桌子"
     },
     {
       "type": "dialog",
@@ -83,12 +84,12 @@
         {
           "type": "line",
           "line": "何夫人！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拍桌子"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "拍桌子"
     },
     {
       "type": "dialog",

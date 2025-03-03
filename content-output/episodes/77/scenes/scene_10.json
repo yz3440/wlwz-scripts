@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -259,17 +260,12 @@
         {
           "type": "line",
           "line": "话还没说完呐，钱我可以借给你，但是你得答应我个条件，你给我当三年的使唤丫头，任打任骂，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭鄙视钱"
-    },
-    {
-      "type": "dialog",
-      "speaker": "钱夫人",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭鄙视之"
+        },
         {
           "type": "line",
           "line": "叫你干啥就干啥，咋样？你要是不肯的话，那就当我啥也没说。"

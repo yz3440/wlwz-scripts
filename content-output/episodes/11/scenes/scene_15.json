@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,7 +16,13 @@
         {
           "type": "line",
           "line": "来了来了来了。谁呀这么早，来了来了。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "赛掌柜和小翠迎面而来"
@@ -415,7 +422,8 @@
           "line": "盘儿亮条儿顺，你看我咋样儿？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "赛貂禅,小翠",
           "description": "二人不屑"
         },
         {

@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -40,11 +41,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "葵花点！"
-        },
-        {
-          "type": "line",
-          "line": "！"
+          "line": "葵花点！！"
         },
         {
           "type": "speaker-action",
@@ -58,7 +55,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -78,7 +75,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -164,7 +161,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -224,7 +221,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -244,7 +241,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -259,10 +256,6 @@
         {
           "type": "line",
           "line": "我来！书信到底藏哪儿了？否则我就---"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拔刀"
         }
       ]
     },
@@ -288,7 +281,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -350,11 +343,7 @@
         },
         {
           "type": "line",
-          "line": "嘿嘿嘿"
-        },
-        {
-          "type": "line",
-          "line": "嘿。"
+          "line": "嘿嘿嘿嘿。"
         }
       ]
     },

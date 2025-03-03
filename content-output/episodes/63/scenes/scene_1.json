@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -167,7 +168,8 @@
           "line": "我不走了，啊"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "掌柜的掐了他一下"
         },
         {
@@ -211,7 +213,8 @@
           "line": "看见了吧？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉疑惑"
         },
         {
@@ -227,7 +230,8 @@
           "line": "瞧瞧这动作，再看看这眼神儿"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉看着老白，仿似不认识"
         },
         {
@@ -273,17 +277,12 @@
         {
           "type": "line",
           "line": "我可以的，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭坐床边嗑瓜子"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭坐床边嗑瓜子"
+        },
         {
           "type": "line",
           "line": "我一个人可以的，我不要嫁人，"

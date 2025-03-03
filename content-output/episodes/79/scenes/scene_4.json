@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -124,7 +125,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "哼（笑），这些话，你可以告诉那个小捕头。"
+          "line": "哼，这些话，你可以告诉那个小捕头。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑"
         }
       ]
     },

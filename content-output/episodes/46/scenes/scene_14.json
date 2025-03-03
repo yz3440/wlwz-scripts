@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -51,17 +52,11 @@
         {
           "type": "line",
           "line": "好吧好吧，不比就不比了。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "拿出一个册子"
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿出一个册子"
+        },
         {
           "type": "line",
           "line": "来，把这个签了。"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -79,7 +80,13 @@
         {
           "type": "line",
           "line": "展堂？你咋出来的？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "你不就是那个降龙十八掌吗？"

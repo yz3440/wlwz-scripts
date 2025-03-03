@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，昼】",
   "location": "客栈外",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -84,7 +85,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "知道嘛叫好捕快吗？绝不让好人受一点儿委屈，也不让坏人尝一点儿甜头。说不说，跟我走。呦呵，你还敢拒捕。好啊，"
+          "line": "知道嘛叫好捕快吗？绝不让好人受一点儿委屈，也不让坏人尝一点儿甜头。说不说，跟我走。呦\n呵，你还敢拒捕。好啊，"
         },
         {
           "type": "speaker-action",

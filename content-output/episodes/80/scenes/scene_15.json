@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -91,7 +92,8 @@
           "line": "葵花点穴手，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "凌腾云",
           "description": "凌似乎是更疼了"
         },
         {
@@ -99,7 +101,8 @@
           "line": "葵花点穴手，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "凌腾云",
           "description": "又是一声惨叫"
         },
         {
@@ -145,7 +148,8 @@
           "line": "你要干啥？你要干啥？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白点穴"
         },
         {
@@ -203,17 +207,11 @@
         {
           "type": "line",
           "line": "这位大哥你太幽默了，我就喜欢这有幽默的人。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "走上前几步，众人退后坐床上，掌柜的来扶凌坐下"
-    },
-    {
-      "type": "dialog",
-      "speaker": "凌腾云",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "走上前几步，众人退后坐床上，掌柜的来扶凌坐下"
+        },
         {
           "type": "line",
           "line": "你们咋不扶我呢？我看出来了，还是乡党对我好。佟掌柜，谢谢你啊。"
@@ -257,17 +255,11 @@
         {
           "type": "line",
           "line": "我听说，这个平谷一点红，还有姬无命还有公孙乌龙，都是在你们这儿落网的，真是不简单呀。这些大人物，不要说在西安了，就是在京城也不定能见着啊。不过有一天，我总会见到这些大盗的，到时候，我一定让他们看看，什么是真正的迅雷刀法！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "一个转身，脑袋直接撞到柱子上，众人吃惊"
-    },
-    {
-      "type": "dialog",
-      "speaker": "凌腾云",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "一个转身，脑袋直接撞到柱子上，众人吃惊"
+        },
         {
           "type": "line",
           "line": "疼得很，不好意思。"
@@ -295,12 +287,12 @@
         {
           "type": "line",
           "line": "走了走了，不要送。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又撞到门框上，凌腾云出"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "又撞到门框上，凌腾云出"
     },
     {
       "type": "dialog",

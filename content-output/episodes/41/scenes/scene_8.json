@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -111,7 +112,13 @@
         {
           "type": "line",
           "line": "这倒不算什么啦。哎，如果你能晋级到白银弟兄啊，还可以免费参加全国各大酒楼的亲自培训。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
         {
           "type": "line",
           "line": "哎，如果你能晋级到黄金弟兄，还可以进京，接受御膳房总管的亲自培训呢！"

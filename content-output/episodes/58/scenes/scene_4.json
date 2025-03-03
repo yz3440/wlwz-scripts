@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -85,7 +86,13 @@
         {
           "type": "line",
           "line": "你给我站住！过来，坐下！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "这锁这么结实，怎么打开啊？"
@@ -143,7 +150,13 @@
         {
           "type": "line",
           "line": "稍微忍着点儿不会很痛的，走你！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "我不是叫你忍着点吗？"
@@ -307,11 +320,23 @@
         {
           "type": "line",
           "line": "换个方法。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "有了，拿着。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "大嘴！"

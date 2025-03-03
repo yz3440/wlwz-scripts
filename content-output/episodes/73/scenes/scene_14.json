@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -28,7 +29,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎哎，大嘴大嘴，干吗呢，干吗呢？"
+          "line": "哎哎，大嘴"
         }
       ]
     },
@@ -38,11 +39,21 @@
     },
     {
       "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，干吗呢，干吗呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
       "speaker": "白展堂",
       "performances": [
         {
           "type": "line",
-          "line": "甭管甭管，让他撞。"
+          "line": "甭管甭管，让他撞"
         }
       ]
     },

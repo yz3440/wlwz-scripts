@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -84,7 +85,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "清风",
+      "speaker": "清 风",
       "performances": [
         {
           "type": "line",

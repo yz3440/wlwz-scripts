@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，傍晚】",
   "location": "大堂",
   "timeOfDay": "傍晚",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -339,12 +340,12 @@
         {
           "type": "line",
           "line": "我先走了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小米出门，老白上楼"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小米出门，老白上楼"
     }
   ]
 }

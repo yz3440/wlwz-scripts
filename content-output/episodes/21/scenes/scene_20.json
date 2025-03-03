@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -23,7 +24,8 @@
           "line": "手指头再直点儿，差不多了。捅两下~"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "燕捅白"
         },
         {
@@ -238,12 +240,18 @@
       "performances": [
         {
           "type": "line",
-          "line": "办完大案不要升官嘛，万一升到了那个六扇门总部，见了四大神捕。一问：\"哟年轻人，功夫挺好的嘛，跟谁学的？\"\"白展堂。\"\"谁是白展堂？\""
-        },
-        {
-          "type": "speaker-action",
-          "description": "白倒"
-        },
+          "line": "办完大案不要升官嘛，万一升到了那个六扇门总部，见了四大神捕。一问：'哟年轻人，功夫挺好的嘛，跟谁学的？''白展堂。''谁是白展堂？'"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "哎哎，老白，没事吧？"

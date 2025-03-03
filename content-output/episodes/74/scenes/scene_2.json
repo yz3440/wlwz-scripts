@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -45,20 +46,15 @@
         {
           "type": "line",
           "line": "我同意，只要有足够的时间啊，任何人都可以的。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "无双小郭不悦"
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "祝无双 郭芙蓉",
+          "description": "无双小郭不悦"
+        },
         {
           "type": "line",
-          "line": "但也得有个先来后到。"
+          "line": "——但也得有个先来后到。"
         }
       ]
     },
@@ -235,17 +231,12 @@
         {
           "type": "line",
           "line": "是我，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "燕的刀架到白脖子上"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "燕小六",
+          "description": "燕的刀架到白脖子上"
+        },
         {
           "type": "line",
           "line": "我不打自招我有病吧？"

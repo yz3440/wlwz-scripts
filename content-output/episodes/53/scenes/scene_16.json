@@ -3,10 +3,11 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -40,7 +41,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -149,7 +150,8 @@
           "line": "你觉得现在还来这套管用吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "包大人",
           "description": "包摇头"
         },
         {
@@ -189,11 +191,17 @@
         {
           "type": "line",
           "line": "又装？看来必须得动真格的！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拿烙铁"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿烙铁"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "我可真烫了啊！"
@@ -207,19 +215,31 @@
         {
           "type": "line",
           "line": "不要这么残忍！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拿出簪子，众人鼓掌"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿出簪子，众人鼓掌"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "扎！扎！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "包大人没反应"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "包大人没反应"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "真的晕了。"
@@ -238,7 +258,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -258,7 +278,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -282,7 +302,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -302,7 +322,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -44,19 +45,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "他们会折磨你，"
-        },
-        {
-          "type": "line",
-          "line": "打你，"
-        },
-        {
-          "type": "line",
-          "line": "骂你，"
-        },
-        {
-          "type": "line",
-          "line": "找一群要饭的往你脸上吐口水。"
+          "line": "他们会折磨你，，打你，，骂你，，找一群要饭的往你脸上吐口水。"
         }
       ]
     },
@@ -206,7 +195,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "„"
+          "line": "…"
         }
       ]
     },
@@ -226,7 +215,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "相„"
+          "line": "相…"
         }
       ]
     },

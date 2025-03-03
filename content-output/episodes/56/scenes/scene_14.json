@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -20,7 +21,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -40,7 +41,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -88,7 +89,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -128,17 +129,17 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
           "line": "好妹妹，我从今之后，决不辜负你！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "把无双抱在怀里"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "把无双抱在怀里"
     },
     {
       "type": "dialog",
@@ -152,7 +153,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

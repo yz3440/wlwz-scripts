@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -89,7 +90,8 @@
           "line": "你错了，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白吓一跳"
         },
         {

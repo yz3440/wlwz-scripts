@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -229,6 +230,10 @@
       ]
     },
     {
+      "type": "action",
+      "description": "！"
+    },
+    {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
@@ -427,6 +432,10 @@
           "description": "撞到门上"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "！"
     },
     {
       "type": "action",

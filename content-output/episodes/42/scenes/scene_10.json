@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -211,12 +212,12 @@
         {
           "type": "line",
           "line": "哎慢着，放下。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对小六"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "对小六"
     },
     {
       "type": "dialog",
@@ -315,11 +316,17 @@
         {
           "type": "line",
           "line": "还愣着干啥，还真的真的，快扶燕捕头起来。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对小郭"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "对小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "一天都不干正事儿，就知道添乱。"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -174,7 +175,7 @@
         },
         {
           "type": "speaker-action",
-          "description": "把小六点上"
+          "description": "把小六点上了"
         },
         {
           "type": "line",
@@ -369,17 +370,12 @@
         {
           "type": "line",
           "line": "你慢点喝，给我留点。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老邢瞪老白"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "老邢",
+          "description": "老邢瞪老白"
+        },
         {
           "type": "line",
           "line": "行行行，你喝你喝，不够了还有啊。"
@@ -483,17 +479,12 @@
         {
           "type": "line",
           "line": "是个孩子就有。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老邢瞪老白"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "老邢",
+          "description": "老邢瞪老白"
+        },
         {
           "type": "line",
           "line": "小六特别足。"
@@ -531,17 +522,11 @@
         {
           "type": "line",
           "line": "咋的，怕我不付钱是吧？来来来。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "掏出好多散碎银子"
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出好多散碎银子"
+        },
         {
           "type": "line",
           "line": "够不够，够不够，够不够？"
@@ -653,12 +638,12 @@
         {
           "type": "line",
           "line": "老天爷呀，我怎么收了这么一个徒弟呀，你说是你眼瞎了还是我眼瞎了呀。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "哭"
     },
     {
       "type": "dialog",

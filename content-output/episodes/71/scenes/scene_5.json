@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -27,7 +28,13 @@
         {
           "type": "speaker-action",
           "description": "迎上了进来的佟湘玉"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "掌柜的！"
@@ -283,10 +290,6 @@
           "line": "我亲耳听见的，出了人命，惨不忍睹，脑浆子都打出来了……"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1071"
     },
     {
       "type": "dialog",

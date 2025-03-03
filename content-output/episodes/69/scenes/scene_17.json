@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -14,7 +15,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "掌柜的，你说那高人到底长啥样？1049"
+          "line": "掌柜的，你说那高人到底长啥样？"
         }
       ]
     },
@@ -252,31 +253,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "秀才，去把账结一下，关门了，打烊了，不好意思把账结一下。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人簇拥着马卓子进后院"
-    },
-    {
-      "type": "dialog",
-      "speaker": "马卓子",
-      "performances": [
+          "line": "秀才，去把账结一下，关门了，打烊了，不好意思把账结一下"
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人簇拥着马卓子进后院"
+        },
         {
           "type": "line",
-          "line": "快点啊。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
-        {
-          "type": "line",
-          "line": "谢谢啊，欢迎下次再来。"
+          "line": "谢谢啊，欢迎下次再来"
         }
       ]
     }

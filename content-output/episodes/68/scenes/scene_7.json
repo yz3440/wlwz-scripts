@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -155,7 +156,8 @@
           "line": "我知道，我们能不能分餐制呀？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人奇怪"
         },
         {
@@ -213,12 +215,12 @@
       "speaker": "辛普森",
       "performances": [
         {
-          "type": "line",
-          "line": "这是鸡 leg 谁感兴趣呀？"
-        },
-        {
           "type": "speaker-action",
           "description": "把刚才抓的鸡腿拿起来给众人"
+        },
+        {
+          "type": "line",
+          "line": "这是鸡 leg 谁感兴趣呀？"
         }
       ]
     },
@@ -258,7 +260,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "跟我说一遍，\"l\"\"e\"\"g\",leg"
+          "line": "跟我说一遍，\"l\" \"e\" \"g\"，leg"
         }
       ]
     },
@@ -268,7 +270,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "\"l\"\"e\"\"g\",leg,哈哈。"
+          "line": "\"l\" \"e\" \"g\"，leg，哈哈。"
         }
       ]
     },

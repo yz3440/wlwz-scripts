@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -100,7 +101,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我算算啊„"
+          "line": "我算算啊…"
         }
       ]
     },
@@ -120,7 +121,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我，我„"
+          "line": "我，我…"
         }
       ]
     },
@@ -260,7 +261,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "秀才„"
+          "line": "秀才…"
         }
       ]
     },
@@ -290,7 +291,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我，我没有啊，我哪有啊？问她，她可以证明，我„"
+          "line": "我，我没有啊，我哪有啊？问她，她可以证明，我…"
         }
       ]
     },
@@ -321,7 +322,13 @@
         {
           "type": "line",
           "line": "你听你听，他刚才就是这么吼我的。再这样下去我这颗脆弱的心，迟早要给他吓停了。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "我看她能坚持到啥时候去。"

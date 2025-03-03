@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -261,22 +262,6 @@
         {
           "type": "line",
           "line": "当老婆咯，选中的就留下，没选中的就去死了。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "指无双"
-        },
-        {
-          "type": "line",
-          "line": "呆会儿，你会用绳子上吊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "指小郭"
-        },
-        {
-          "type": "line",
-          "line": "你呢，用尖刀自裁。"
         }
       ]
     },
@@ -297,6 +282,22 @@
         {
           "type": "line",
           "line": "这是规矩。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指无双"
+        },
+        {
+          "type": "line",
+          "line": "呆会儿，你会用绳子上吊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小郭"
+        },
+        {
+          "type": "line",
+          "line": "你呢，用尖刀自裁。"
         }
       ]
     },

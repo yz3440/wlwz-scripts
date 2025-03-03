@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -47,8 +48,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "猫：喵……喵……"
+      "type": "dialog",
+      "speaker": "猫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喵……喵……"
+        }
+      ]
     },
     {
       "type": "dialog",

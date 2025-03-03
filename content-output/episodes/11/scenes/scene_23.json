@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -374,7 +375,7 @@
         },
         {
           "type": "line",
-          "line": "一样。"
+          "line": "一样"
         }
       ]
     },
@@ -384,7 +385,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "交税是咱们应尽的责任和义务。"
+          "line": "交税是咱们应尽的责任和义务，"
         }
       ]
     },
@@ -398,7 +399,7 @@
         },
         {
           "type": "line",
-          "line": "义务。"
+          "line": "\"义务\""
         }
       ]
     },
@@ -422,7 +423,7 @@
         },
         {
           "type": "line",
-          "line": "权利。"
+          "line": "\"权利\""
         }
       ]
     },
@@ -446,7 +447,7 @@
         },
         {
           "type": "line",
-          "line": "的哨。"
+          "line": "\"的哨\""
         }
       ]
     },
@@ -470,7 +471,7 @@
         },
         {
           "type": "line",
-          "line": "而来。"
+          "line": "\"而来\""
         }
       ]
     },
@@ -480,7 +481,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "远的不说，就说你那五十两银子。"
+          "line": "远的不说，就说你那五十两银子，"
         }
       ]
     },
@@ -494,7 +495,7 @@
         },
         {
           "type": "line",
-          "line": "五十两银子。"
+          "line": "\"五十两银子\""
         }
       ]
     },
@@ -518,7 +519,7 @@
         },
         {
           "type": "line",
-          "line": "钱呐钱呐钱呐。"
+          "line": "\"钱呐钱呐钱呐\""
         }
       ]
     },
@@ -531,8 +532,9 @@
           "line": "好好好，这说得是太好了。我今儿啊，真是听君一席话，胜读十年书。"
         },
         {
-          "type": "speaker-action",
-          "description": "小翠附和\"一席话\"\"十年书\""
+          "type": "reaction",
+          "reactor": "小翠",
+          "description": "小翠附和\"十年书\""
         },
         {
           "type": "line",

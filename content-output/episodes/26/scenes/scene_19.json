@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -339,16 +340,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "掌柜的…"
-        },
-        {
           "type": "speaker-action",
           "description": "噎住，忍痛转而把手指向秀才"
         },
         {
           "type": "line",
-          "line": "——好好干活，色香味俱全啊！"
+          "line": "掌柜的…——好好干活，色香味俱全啊！"
         }
       ]
     },

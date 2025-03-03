@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -75,18 +76,20 @@
         {
           "type": "line",
           "line": "你是我的另一半，我不对你好对谁好？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "两人感觉发麻"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人感觉发麻"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
-          "line": "不好意思，这种话我实在是不太会说。"
-        },
-        {
-          "type": "line",
-          "line": "下次不说了。"
+          "line": "不好意思，这种话我实在是不太会说。下次不说了。"
         }
       ]
     },
@@ -137,14 +140,20 @@
         {
           "type": "line",
           "line": "吃过了也不能走，我让你喂我吃"
-        },
-        {
-          "type": "speaker-action",
-          "description": "两人鸡皮疙瘩"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人鸡皮疙瘩"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
-          "line": "我好象也不太擅长这个。"
+          "line": "——我好象也不太擅长这个。"
         }
       ]
     },
@@ -167,7 +176,8 @@
           "line": "啊，那就来吧，啊~"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "展堂喂湘玉"
         },
         {
@@ -205,7 +215,8 @@
           "line": "啊~"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉喂展堂"
         },
         {

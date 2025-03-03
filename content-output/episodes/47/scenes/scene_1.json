@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -244,7 +245,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "小贝，我滴好小贝……„好吧，只要你一个月不闯祸就给你涨钱！"
+          "line": "小贝，我滴好小贝………好吧，只要你一个月不闯祸就给你涨钱！"
         }
       ]
     },
@@ -338,13 +339,9 @@
       "performances": [
         {
           "type": "line",
-          "line": "娟儿！"
+          "line": "娟儿！！"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "！"
     },
     {
       "type": "dialog",
@@ -352,13 +349,9 @@
       "performances": [
         {
           "type": "line",
-          "line": "湘玉！"
+          "line": "湘玉！！"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "！"
     },
     {
       "type": "dialog",
@@ -366,13 +359,9 @@
       "performances": [
         {
           "type": "line",
-          "line": "娟儿！"
+          "line": "娟儿！！"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "！"
     }
   ]
 }

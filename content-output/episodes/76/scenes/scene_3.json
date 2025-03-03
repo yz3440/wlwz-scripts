@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -11,7 +12,13 @@
         {
           "type": "line",
           "line": "解穴手。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "掌柜的疯了似的打展堂"

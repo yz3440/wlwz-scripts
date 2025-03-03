@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，昼】",
   "location": "客栈外",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -27,7 +28,8 @@
           "line": "管得着么你？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小米",
           "description": "小米拉住小贝"
         },
         {

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -190,7 +191,21 @@
       "performances": [
         {
           "type": "line",
-          "line": "新一轮的警告，我就不信了，这个世界上还有死不讲理的人（佟湘玉瞪秀才）——和猫。"
+          "line": "新一轮的警告，我就不信了，这个世界上还有死不讲理的人"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉瞪秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——和猫。"
         }
       ]
     },
@@ -393,7 +408,13 @@
         {
           "type": "line",
           "line": "不要再说风凉话了，赶紧干活去。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "看见秀才，笑"
@@ -411,11 +432,17 @@
         {
           "type": "line",
           "line": "我想过了，办法有三。一，直接给这只猫下毒。二，给它楼顶上晒的那些老鼠干下毒。三，给其他猫下毒！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "众人不解"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人不解"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "——让它孤独而死。高不高？"
@@ -471,17 +498,19 @@
       "speaker": "燕小六",
       "performances": [
         {
-          "type": "line",
-          "line": ""
-        },
-        {
           "type": "speaker-action",
           "description": "对食客"
         },
         {
           "type": "line",
           "line": "吃饭吃饭吃饭……！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "对秀才"
@@ -873,11 +902,17 @@
         {
           "type": "line",
           "line": "帮我照顾好我七舅姥爷三外甥女儿和她前一个丈母娘……哪儿跑——！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "冲出门外，一阵打斗声"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "冲出门外，一阵打斗声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "嗯嗯，师傅，我错了，我不是故意的师傅……李大嘴儿！"

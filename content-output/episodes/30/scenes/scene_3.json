@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -421,10 +422,16 @@
         {
           "type": "line",
           "line": "为了你的前途，我也送你四个字，低眉顺眼。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
-          "type": "speaker-action",
-          "description": "疼，疼……"
+          "type": "line",
+          "line": "疼，疼……"
         }
       ]
     }

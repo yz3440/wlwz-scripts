@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -91,17 +92,12 @@
         {
           "type": "line",
           "line": "她在也没关系，我只是来看看你们好不好……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜倒茶"
-    },
-    {
-      "type": "dialog",
-      "speaker": "祝无双",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "掌柜倒茶"
+        },
         {
           "type": "line",
           "line": "唉——放着我来！"
@@ -439,14 +435,8 @@
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "猫 叫",
-      "performances": [
-        {
-          "type": "line",
-          "line": "喵……"
-        }
-      ]
+      "type": "action",
+      "description": "猫 叫：喵……"
     },
     {
       "type": "dialog",

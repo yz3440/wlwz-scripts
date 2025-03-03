@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -209,7 +210,8 @@
           "line": "哇噻！可以啊！哈哈哈"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "佟湘玉瞪小郭"
         },
         {
@@ -237,7 +239,8 @@
           "line": "哇噻！她怎么不教我呢？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "佟湘玉瞪小郭"
         },
         {
@@ -426,7 +429,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "——看来我真得给你好好传授一下江湖知识了，老白！"
+          "line": "——看来我真得给你好好传授一下江湖知识了…老白！"
         }
       ]
     },
@@ -454,7 +457,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我给你补课你信吗？"
+          "line": "我给你补课你信吗。？"
         }
       ]
     },

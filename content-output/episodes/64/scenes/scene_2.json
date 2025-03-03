@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门外，夜】",
   "location": "客栈门外",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -10,7 +11,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "站住，我给你最后一次机会，到底怎么回事儿？962"
+          "line": "站住，我给你最后一次机会，到底怎么回事儿？"
         }
       ]
     },

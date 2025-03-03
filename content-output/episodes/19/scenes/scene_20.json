@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -450,11 +451,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "瞧好了啊——"
-        },
-        {
-          "type": "speaker-action",
-          "description": "呀，我的手～～"
+          "line": "瞧好了啊——呀，我的手～～"
         }
       ]
     }

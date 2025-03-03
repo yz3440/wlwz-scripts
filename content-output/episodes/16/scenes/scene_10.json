@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -361,12 +362,12 @@
         {
           "type": "line",
           "line": "你签不签？签不签？你不签也行。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "咬"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "咬"
     },
     {
       "type": "dialog",

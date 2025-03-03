@@ -3,18 +3,19 @@
   "rawDescription": "【屋顶，夜】",
   "location": "屋顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
       "speaker": "吕、郭",
       "performances": [
         {
-          "type": "line",
-          "line": "我爱你，爱着你，就像老鼠爱大米，不管有多少风雨我都会依然陪着你……"
-        },
-        {
           "type": "speaker-action",
           "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "我爱你，爱着你，就像老鼠爱大米，不管有多少风雨我都会依然陪着你……"
         }
       ]
     },

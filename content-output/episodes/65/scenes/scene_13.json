@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -129,12 +130,12 @@
         {
           "type": "line",
           "line": "捧着你的脸，为你把眼泪擦干，这颗心永远属于你，告诉我不再孤单。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "切回现实"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "切回现实"
     }
   ]
 }

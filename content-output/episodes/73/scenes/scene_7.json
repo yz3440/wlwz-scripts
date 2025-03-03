@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -157,16 +158,11 @@
         {
           "type": "line",
           "line": "好啊，那你去找我师兄啊？"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝、祝无双",
-      "performances": [
+        },
         {
-          "type": "line",
-          "line": "去啊，去啊！找去啊！"
+          "type": "reaction",
+          "reactor": "莫、祝对李",
+          "description": "去啊，去啊，去！找去啊！"
         }
       ]
     },

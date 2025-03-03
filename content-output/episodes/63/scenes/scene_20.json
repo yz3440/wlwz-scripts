@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -167,7 +168,8 @@
           "line": "喔唷，男女授受不亲啊，你刚才管我叫什么？我说过多少回了，我姓黄，草头黄，黄是黄豆豆的黄，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人无奈"
         },
         {
@@ -261,15 +263,17 @@
           "line": "佟掌柜，老白入室行窃，在十八里铺落网啦，"
         },
         {
-          "type": "speaker-action",
-          "description": "\"黄豆豆\"一脸惊讶"
+          "type": "reaction",
+          "reactor": "\"黄豆豆\"",
+          "description": "一脸惊讶"
         },
         {
           "type": "line",
           "line": "听我师父说，马上重铐押送回京城……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "掌柜的昏倒"
         }
       ]

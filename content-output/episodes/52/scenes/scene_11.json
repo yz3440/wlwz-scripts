@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，傍晚】",
   "location": "大堂",
   "timeOfDay": "傍晚",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -206,6 +207,10 @@
       "type": "dialog",
       "speaker": "众人",
       "performances": [
+        {
+          "type": "line",
+          "line": ""
+        },
         {
           "type": "speaker-action",
           "description": "唱"

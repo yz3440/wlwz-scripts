@@ -3,6 +3,7 @@
   "rawDescription": "【屋顶，夜】",
   "location": "屋顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -111,11 +112,17 @@
         {
           "type": "line",
           "line": "你知道我要的幸福是什么吗？看你吓得那的样子。切，我要的很简单，一日三餐，粗茶淡饭。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "键盘声"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "键盘声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "什么声音？"
@@ -139,11 +146,17 @@
         {
           "type": "line",
           "line": "还有零食也不能少喔，蜜饯干果，瓜子点心。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "继续键盘声"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "继续键盘声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "哎，真的啊，什么声音吗？"
@@ -307,11 +320,17 @@
         {
           "type": "line",
           "line": "这，不算贵啦，你知道红木的要多少钱吗。还有我的梳妆台，最好要有一面大的镜子，要纯铜的哦。还有我的床，要鸡翅木雕花儿的，还有马桶……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "秀才吓得晕倒"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才吓得晕倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "哎哎，秀才，你怎么了？"

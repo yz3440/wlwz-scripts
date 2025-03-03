@@ -3,7 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -140,17 +140,12 @@
         {
           "type": "line",
           "line": "其实，我对蕙兰也就那么回事"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大家嘘他"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "大家嘘他"
+        },
         {
           "type": "line",
           "line": "不管怎么说，她也是个逃犯呐，是不是，你说她从大牢里逃出来，我跟着她没吃没喝的，满世界乱跑……"

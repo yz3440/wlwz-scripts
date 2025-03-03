@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -631,17 +632,12 @@
         {
           "type": "line",
           "line": "给洒家倒酒！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人跑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人跑"
+        },
         {
           "type": "line",
           "line": "我自己倒，自己倒。哎呀，这女人啊，不温柔没关系，不体贴也无所谓，只要咱想喝酒的时候，它能给咱热一下……这辈子就值啦！"

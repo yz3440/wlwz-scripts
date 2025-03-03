@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -377,7 +378,13 @@
         {
           "type": "line",
           "line": "还没有想好，但是既然是个艺术品，总得找个地方放吧？放在啥地方好呢？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "不要看了，不要看了，看起来就没个完了。长这么大就没有见过啥好东西。穷命。看看这做工，啧啧啧！"

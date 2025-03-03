@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -10,7 +11,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "好啦好啦好啦，好啦„"
+          "line": "好啦好啦好啦，好啦…"
         }
       ]
     },
@@ -70,7 +71,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "李秀莲„"
+          "line": "李秀莲…"
         }
       ]
     },
@@ -153,8 +154,12 @@
       "speaker": "李大嘴",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
           "type": "line",
-          "line": "（唱）你在我眼里是最美，每一个笑容都让我沉醉，你的笑，你的美„."
+          "line": "你在我眼里是最美，每一个笑容都让我沉醉，你的笑，你的美…."
         }
       ]
     },
@@ -164,7 +169,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "她那个样子，粗鄙，庸俗，自私透顶！真是，随便找个人都比她强一百八十倍，真的„还是个嫁过人的！我告诉你，我认识你我算是瞎了眼了！我娶头驴也比她强，真的，比她强！比她强！比她强！"
+          "line": "她那个样子，粗鄙，庸俗，自私透顶！真是，随便找个人都比她强一百八十倍，真的…还是个嫁过人的！我告诉你，我认识你我算是瞎了眼了！我娶头驴也比她强，真的，比她强！比她强！比她强！"
         }
       ]
     },
@@ -184,7 +189,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "那啥，我们错了，我们，我们改„"
+          "line": "那啥，我们错了，我们，我们改…"
         }
       ]
     },
@@ -234,7 +239,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "要么喊要么出去，我数到三。一，二„他们走了（唱）独自彷徨，中止感情游戏，让爱的感觉就此远离，so let's party， can u see？can u see„一段感情竟然就此结束，内心深处，刹那之间感到好无助，很想问你离开以后是否像我一样有些难过，aha，hold on， let me check the beat„"
+          "line": "要么喊要么出去，我数到三。一，二…他们走了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "独自彷徨，中止感情游戏，让爱的感觉就此远离，so let's party， can u see？can u see…一段感情竟然就此结束，内心深处，刹那之间感到好无助，很想问你离开以后是否像我一样有些难过，aha，hold on， let me check the beat…"
         }
       ]
     }

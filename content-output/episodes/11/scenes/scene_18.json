@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -120,7 +121,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "秀 才",
+      "speaker": "秀才",
       "performances": [
         {
           "type": "line",
@@ -185,12 +186,13 @@
         {
           "type": "line",
           "line": "唯女子与小人难养也。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "赛貂禅",
+          "description": "赛掌柜将酒洒向秀才眼，小翠趁机换走帐本"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "赛掌柜将酒洒向秀才眼，小翠趁机换走帐本"
     },
     {
       "type": "dialog",

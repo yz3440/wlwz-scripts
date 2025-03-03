@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -107,7 +108,8 @@
           "line": "耶！我很爱你们呐！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人欢呼"
         },
         {
@@ -115,7 +117,8 @@
           "line": "接下来我为大家献上一曲……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人欢呼"
         },
         {
@@ -433,7 +436,8 @@
           "line": "我还是个孩子，谁能易容成我这个样子吗！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人要打"
         },
         {

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -55,12 +56,12 @@
         {
           "type": "line",
           "line": "那好吧，我烧水去。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "转头跑去厨房"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "转头跑去厨房"
     },
     {
       "type": "dialog",
@@ -266,16 +267,12 @@
     },
     {
       "type": "action",
-      "description": "外面众粉丝高喊\"腾云腾云我想你，每天晚上梦到你\"！"
+      "description": "外面众粉丝高喊\"腾云腾云我想你，每天晚上梦到你\"！凌冲门外"
     },
     {
       "type": "dialog",
       "speaker": "凌腾云",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "冲门外"
-        },
         {
           "type": "line",
           "line": "闭嘴。"
@@ -325,17 +322,11 @@
         {
           "type": "line",
           "line": "放心吧，这事儿包我身上了。这是谁呀这是？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "出客栈大喊"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "出客栈大喊"
+        },
         {
           "type": "line",
           "line": "静一静，静一静，我是本镇的唯一捕头燕小六！"
@@ -349,20 +340,12 @@
         {
           "type": "line",
           "line": "走开啦，我们只要凌腾云。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "继续高喊"
-        },
-        {
-          "type": "line",
-          "line": "腾云腾云我爱你，就像老鼠爱大米，腾云腾云我想你，每天晚上梦到你"
         }
       ]
     },
     {
       "type": "action",
-      "description": "凌腾云极端无奈"
+      "description": "继续高喊\"腾云腾云我爱你，就像老鼠爱大米，腾云腾云我想你，每天晚上梦到你\"，凌腾云极端无奈"
     },
     {
       "type": "dialog",
@@ -635,12 +618,12 @@
         {
           "type": "line",
           "line": "对不起，我是个盲人，也许这次我不该来，天底下哪有那么多奇迹。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身摸门"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "转身摸门"
     },
     {
       "type": "dialog",
@@ -669,12 +652,12 @@
         {
           "type": "line",
           "line": "女子，对不起啊，我刚才骗你咧，其实我才是凌腾云，你摸我吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到粉丝甲面前"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "走到粉丝甲面前"
     },
     {
       "type": "dialog",
@@ -707,12 +690,12 @@
         {
           "type": "line",
           "line": "耶，你中计了，我终于摸到你了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "开门出客栈"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "开门出客栈"
     },
     {
       "type": "dialog",
@@ -739,17 +722,11 @@
         {
           "type": "line",
           "line": "是我，腾云哥哥，是我呀。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "凌绕着榆木桌走"
-    },
-    {
-      "type": "dialog",
-      "speaker": "粉丝乙",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "凌绕着榆木桌走"
+        },
         {
           "type": "line",
           "line": "你别走呀，你不会这么绝情吧？"
@@ -910,7 +887,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "腾云哥哥跟我说过的每一句话的每一个字我都要记下来。你谁呀，我认识你吗？说吧，说完赶紧回家。恭喜，不能，你可以回去了吗？腾云哥哥，这是二十七个字，你能再多送我一个字凑个吉利数行不？"
+          "line": "腾云哥哥跟我说过的每一句话的每一个字我都要记下来。你谁呀，我认识你吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边说边写"
+        },
+        {
+          "type": "line",
+          "line": "说吧，说完赶紧回家。恭喜，不能，你可以回去了吗？腾云哥哥，这是二十七个字，你能再多送我一个字凑个吉利数行不？"
         }
       ]
     },
@@ -947,17 +932,11 @@
         {
           "type": "line",
           "line": "一辈子啊，腾云哥哥，谢谢。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "走出门去，掌柜的关门"
-    },
-    {
-      "type": "dialog",
-      "speaker": "粉丝乙",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "走出门去，掌柜的关门"
+        },
         {
           "type": "line",
           "line": "啊，腾云哥哥给我签字了。"
@@ -1163,12 +1142,12 @@
         {
           "type": "line",
           "line": "切。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走向后院"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "走向后院"
     },
     {
       "type": "dialog",
@@ -1279,12 +1258,12 @@
         {
           "type": "line",
           "line": "呵，真会说笑话，来，客官楼上请。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "二人上楼"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "二人上楼"
     }
   ]
 }

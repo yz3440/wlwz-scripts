@@ -3,6 +3,7 @@
   "rawDescription": "【东街，夜】",
   "location": "东街",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -121,7 +122,8 @@
           "line": "那兄弟有难你帮不帮忙？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小米",
           "description": "小米为难"
         },
         {
@@ -177,7 +179,8 @@
           "line": "钱有的是，就看你帮不帮忙。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小米",
           "description": "小米表示同意"
         },
         {

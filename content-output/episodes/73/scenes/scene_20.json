@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -92,7 +93,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我帮你打好了，"
+          "line": "我帮你打好了。"
         },
         {
           "type": "speaker-action",
@@ -341,7 +342,8 @@
           "line": "包括自由？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "柳星雨",
           "description": "柳瞪她"
         },
         {
@@ -366,7 +368,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "那还是算了，我还是去看戏吧。1108"
+          "line": "那还是算了，我还是去看戏吧。"
         }
       ]
     },

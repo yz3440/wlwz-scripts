@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -45,12 +46,12 @@
         {
           "type": "line",
           "line": "天哪，我的神呀！这可咋办呀！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "撩开帘欲出"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "撩开帘欲出"
     },
     {
       "type": "dialog",

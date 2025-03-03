@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -93,11 +94,17 @@
         {
           "type": "line",
           "line": "住手。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拉过小贝"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拉过小贝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
         {
           "type": "line",
           "line": "疼不疼啊？疼不疼啊？"

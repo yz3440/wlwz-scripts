@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -365,17 +366,11 @@
         {
           "type": "line",
           "line": "盗神也行啊，姬无命，那我发小儿，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人躲"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人躲"
+        },
         {
           "type": "line",
           "line": "你们连姬无命都记得，怎么就不记得我呢？"
@@ -537,31 +532,19 @@
         {
           "type": "line",
           "line": "葵花点穴手！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "点住李，发现挣不开"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住李，发现挣不开"
+        },
         {
           "type": "line",
           "line": "葵花解穴手，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大嘴松手"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴松手"
+        },
         {
           "type": "line",
           "line": "葵花点~你看还有什么说的？"

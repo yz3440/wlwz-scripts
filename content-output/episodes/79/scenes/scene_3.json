@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -39,11 +40,17 @@
         {
           "type": "line",
           "line": "蕙兰，你别动，我给你解开绳子。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "蕙兰挣扎"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "蕙兰挣扎"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
         {
           "type": "line",
           "line": "哎呀，你别闹了行不行！你这么闹我怎么给你解绳子呀！来来来，我给你解开，来来来。"
@@ -139,7 +146,8 @@
           "line": "好吧，那你坐这儿吧，过来"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "杜子俊",
           "description": "杜坐过去"
         },
         {
@@ -155,11 +163,17 @@
         {
           "type": "line",
           "line": "哎呀，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "杨用头打晕他"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杨用头打晕他"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
         {
           "type": "line",
           "line": "我的娘唉……"
@@ -177,12 +191,12 @@
         {
           "type": "line",
           "line": "姓杜的，这就是你瞎跟人套瓷的下场。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "过去欲抓住杜"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "过去欲抓住杜"
     },
     {
       "type": "dialog",

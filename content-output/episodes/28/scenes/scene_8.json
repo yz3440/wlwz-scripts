@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -295,7 +296,13 @@
         {
           "type": "speaker-action",
           "description": "指小郭"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "鸡是她抓的。"

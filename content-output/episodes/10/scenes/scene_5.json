@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -71,7 +72,13 @@
         {
           "type": "line",
           "line": "就一杯，一杯，也不枉咱为师一场，干啦。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
         {
           "type": "line",
           "line": "这人啊，真是各有天命啊，碰见那个命好的，一生下来，武功就准备好了，直接学就行了。"

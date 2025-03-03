@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,11 +16,17 @@
         {
           "type": "line",
           "line": "哎呀，等一下，等一下。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "替老白铺褥子"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "替老白铺褥子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "现在夜里凉，多加床褥子啊。"
@@ -43,7 +50,13 @@
         {
           "type": "line",
           "line": "展堂，昨天的事情是我做的不对，我不应该问那种愚蠢的问题。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "关切地"

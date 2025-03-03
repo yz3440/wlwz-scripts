@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -141,12 +142,8 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "南方口音"
-        },
-        {
           "type": "line",
-          "line": "无双啊，说她脖子有点酸，让我帮她捏一捏。"
+          "line": "哦（南方口音）无双啊，说她脖子有点酸，让我帮她捏一捏。"
         }
       ]
     },
@@ -332,11 +329,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "下到酒里去，如果不把他给弄晕了，拿谁换太子去，你们都不要废话了啊，赶紧行动起来，我在外头等你们，弄好了就赶紧通知我一声"
-        },
-        {
-          "type": "speaker-action",
-          "description": "说完起身往外走"
+          "line": "下到酒里去，如果不把他给弄晕了，拿谁换太子去，你们都不要废话了啊，赶紧行动起来，我在外头等你们，弄好了就赶紧通知我一声（说完起身往外走）"
         }
       ]
     },

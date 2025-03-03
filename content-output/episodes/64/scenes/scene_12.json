@@ -3,11 +3,8 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
-    {
-      "type": "action",
-      "description": "970"
-    },
     {
       "type": "dialog",
       "speaker": "钱夫人",
@@ -241,11 +238,17 @@
         {
           "type": "line",
           "line": "你们不要再说啦，方言，土语，家乡话，还有洋文，人家钱夫人根本就听不懂，谈判的时候要讲普通话。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "京腔"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "京腔"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "钱夫人，我这个店是不怎么样，您要是觉得好，您就开个价，您要是觉得不好的话，我就换个人谈去。"
@@ -285,7 +288,8 @@
           "line": "二百两"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉盯着她面无表情"
         },
         {
@@ -293,7 +297,8 @@
           "line": "——那就等于抢，你看我再不宽裕，我也不能趁火打劫不是的，三百两"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉还是没有表情"
         },
         {
@@ -301,7 +306,8 @@
           "line": "——也不太现实是吧，毕竟是这么大地界儿呢，那就四百两？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉依旧没有表情"
         },
         {
@@ -353,8 +359,9 @@
           "line": "佟掌柜啊，我就是喜欢你这性格，爽快！就冲你这个，我再给你加五两银子"
         },
         {
-          "type": "speaker-action",
-          "description": "大伙儿都没什么反应"
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "大伙都没什么反应"
         },
         {
           "type": "line",

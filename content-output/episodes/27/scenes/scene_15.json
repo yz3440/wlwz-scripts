@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -11,11 +12,17 @@
         {
           "type": "line",
           "line": "客官，慢吃慢用啊。大家伙吃好喝好啊。国泰民安。哎哟，这不是六大掌柜吗？嘛风把您给吹来了？来来来，我扶您进去。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "刘掌柜被吓走"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "刘掌柜被吓走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "哎哎哎，恕不远送。慢走。"

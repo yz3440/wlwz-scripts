@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -245,14 +246,8 @@
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "乞丐",
-      "performances": [
-        {
-          "type": "line",
-          "line": "出事了出事了！"
-        }
-      ]
+      "type": "action",
+      "description": "乞丐：出事了出事了！"
     },
     {
       "type": "dialog",

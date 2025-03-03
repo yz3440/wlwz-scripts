@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -45,18 +46,24 @@
       "speaker": "李大嘴",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "哎……"
-        },
-        {
           "type": "line",
-          "line": "你以后还会再回来吗？"
+          "line": "哎……"
         }
       ]
     },
     {
       "type": "action",
       "description": "众人散"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以后还会再回来吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -95,12 +102,12 @@
         {
           "type": "line",
           "line": "希望，也祝你一路顺风，干粮你拿着，啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "给她一包干粮"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "给她一包干粮"
     },
     {
       "type": "dialog",
@@ -119,11 +126,17 @@
         {
           "type": "line",
           "line": "啊，对，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "从腰间抽出玄铁菜刀"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "从腰间抽出玄铁菜刀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "我这还有把菜刀，我已经身无分文了。也就这个还能送得出手。"
@@ -157,11 +170,17 @@
         {
           "type": "line",
           "line": "我有纪念品，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "从包裹里拿出苹果"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "从包裹里拿出苹果"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
         {
           "type": "line",
           "line": "从来没有人给我削过苹果，你是第一个，我希望不是最后一个。"
@@ -175,17 +194,12 @@
         {
           "type": "line",
           "line": "肯定不是，要不，你也拔根头发给我留个纪念？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "柳正欲拔，李拦住她"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "柳星雨",
+          "description": "柳正欲拔，李拦住她"
+        },
         {
           "type": "line",
           "line": "哎呀不用，跟你开玩笑的，呵呵呵。"
@@ -207,11 +221,17 @@
         {
           "type": "line",
           "line": "——我觉得自己的东西不干净，你跟我来"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拉李到门外"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拉李到门外"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
         {
           "type": "line",
           "line": "你看那个月亮，"

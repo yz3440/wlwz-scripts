@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -53,11 +54,17 @@
         {
           "type": "line",
           "line": "今天上午还好好的，咋忽然就变成这个样子了，惨白惨白的。真成小白脸了。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小米跑进客栈，老白拉小米出去"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米跑进客栈，老白拉小米出去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "呦，你们俩商量啥呢，神神秘秘的。"
@@ -95,11 +102,17 @@
         {
           "type": "line",
           "line": "没事。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "推小米"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "推小米"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "我们俩私事。"
@@ -123,12 +136,12 @@
         {
           "type": "line",
           "line": "没事，没事。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "起身，拍拍屁股"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "起身，拍拍屁股"
     },
     {
       "type": "dialog",
@@ -137,12 +150,12 @@
         {
           "type": "line",
           "line": "无所谓，不想说算了。你们俩继续啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "上楼"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "上楼"
     },
     {
       "type": "dialog",
@@ -307,11 +320,17 @@
         {
           "type": "line",
           "line": "来了来了，第二封信。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老白指着大嘴"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白指着大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "你看我干啥呀？我啥都不知道。我刚到院子里就看这封信在地上了。"
@@ -325,11 +344,17 @@
         {
           "type": "line",
           "line": "走，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "奔后院，转身对小米"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "奔后院，转身对小米"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "你别跟着啊，你在这儿看店。有事我通知你，记着啊，千万别告诉湘玉。"

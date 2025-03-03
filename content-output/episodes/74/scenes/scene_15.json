@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -204,21 +205,16 @@
       "performances": [
         {
           "type": "line",
-          "line": "手绢啊，手绢我有，两条。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "郭在门外笑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "祝无双",
-      "performances": [
+          "line": "手绢啊，手绢我有，两条"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "郭在门外笑"
+        },
         {
           "type": "line",
-          "line": "自已绣的。"
+          "line": "，自已绣的。"
         }
       ]
     },
@@ -299,6 +295,10 @@
         {
           "type": "line",
           "line": "上街买去！——西街布店正在打折，十文钱三条呢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "欲走"
         }
       ]
     },
@@ -319,10 +319,6 @@
         {
           "type": "line",
           "line": "那我就没有办法了，手绢是有特殊含义的。不能随便送人"
-        },
-        {
-          "type": "speaker-action",
-          "description": "欲走"
         }
       ]
     },
@@ -333,16 +329,22 @@
         {
           "type": "line",
           "line": "无双，那你有没有没有啥特殊含义的，"
-        },
-        {
-          "type": "line",
-          "line": "只要是你亲手做的……"
         }
       ]
     },
     {
       "type": "action",
       "description": "小郭进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要是你亲手做的……"
+        }
+      ]
     },
     {
       "type": "dialog",

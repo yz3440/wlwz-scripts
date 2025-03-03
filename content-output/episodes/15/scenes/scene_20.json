@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -199,7 +200,13 @@
         {
           "type": "line",
           "line": "不管，你爱吃不吃！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "啥意思吗？"
@@ -441,12 +448,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "这个鞋啊，当年少说也值十两银子，我穿了七八年破是破了点，但特别随脚，送你们吧！不要鞋还有鞋垫，真的，绑腿啊，腰带啊，袜子啊，都可以，千万别跟我客气！"
-        },
-        {
           "type": "speaker-action",
           "description": "脱鞋"
+        },
+        {
+          "type": "line",
+          "line": "这个鞋啊，当年少说也值十两银子，我穿了七八年破是破了点，但特别随脚，送你们吧！不要鞋还有鞋垫，真的，绑腿啊，腰带啊，袜子啊，都可以，千万别跟我客气！"
         }
       ]
     },

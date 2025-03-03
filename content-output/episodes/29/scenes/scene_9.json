@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -100,7 +101,7 @@
         },
         {
           "type": "line",
-          "line": "啊？"
+          "line": "——啊？"
         }
       ]
     },
@@ -478,11 +479,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "啊！"
-        },
-        {
-          "type": "line",
-          "line": "！"
+          "line": "啊！！"
         }
       ]
     },

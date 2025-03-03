@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -17,7 +18,8 @@
           "line": "这个地方冬暖夏凉，通风透气，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白呛得咳嗽"
         },
         {
@@ -43,11 +45,17 @@
         {
           "type": "line",
           "line": "年轻人，人生不可能很完美，有缺憾才有上进的动力，好好努力吧。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老白要说话"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白要说话"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "要不是看到小贝的面子，我才不会收留你，希望你好自为之。"

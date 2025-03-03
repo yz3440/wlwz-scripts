@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -115,17 +116,11 @@
         {
           "type": "line",
           "line": "葵花点穴手，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "点住老白，解开众人"
-    },
-    {
-      "type": "dialog",
-      "speaker": "祝无双",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住老白，解开众人"
+        },
         {
           "type": "line",
           "line": "葵花解穴手！"
@@ -259,17 +254,12 @@
         {
           "type": "line",
           "line": "好，就算是双侠，当时店里没有人会武功吧，我要是不出手的话谁能把她制服……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人背后笑做鬼脸"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人背后笑做鬼脸"
+        },
         {
           "type": "line",
           "line": "想不起来？那好，那我给大家提醒一下啊，当时……"

@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -65,17 +66,12 @@
         {
           "type": "line",
           "line": "你觉得我像个慈善家吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小贝摇头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "莫小贝",
+          "description": "小贝摇头"
+        },
         {
           "type": "line",
           "line": "那不就得了，一边去。"

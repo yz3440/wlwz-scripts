@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -211,17 +212,11 @@
         {
           "type": "line",
           "line": "追风！四大神捕，六扇门的，他排老三"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白倒地"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白倒地"
+        },
         {
           "type": "line",
           "line": "大人，大人不记小人过，宰相肚里能撑船。"

@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -95,7 +96,13 @@
         {
           "type": "speaker-action",
           "description": "跑到门边"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "燕——小——六！"
@@ -113,7 +120,13 @@
         {
           "type": "speaker-action",
           "description": "边喊边拔刀，进来，眼光落在大嘴手上，手里拿着那盒他送给无双的胭脂"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "——的胭脂。"
@@ -301,7 +314,13 @@
         {
           "type": "speaker-action",
           "description": "摩拳擦掌，深情地"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "无双……"

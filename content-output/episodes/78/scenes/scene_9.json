@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -209,17 +210,11 @@
         {
           "type": "line",
           "line": "点穴手！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "点住杨蕙兰"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住杨蕙兰"
+        },
         {
           "type": "line",
           "line": "放你可以，但是你必须保证不许再伤人，否则的话我还点你，明白你就眨眨眼……解穴手！"
@@ -394,6 +389,10 @@
       "type": "dialog",
       "speaker": "众人",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
         {
           "type": "line",
           "line": "不要问，不要说，一切尽在不言中，这一刻偎着烛光让我们静静地度过，莫回首，莫回头，让我唱起这首歌，这一刻，泪水轻轻的滑落，愿心中，永远留着我的笑容，伴我走过每一个春夏秋冬……"

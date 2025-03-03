@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -63,12 +64,13 @@
         {
           "type": "line",
           "line": "你呀，哪来的智，人家夸的是展堂，又不是白展堂。是吧，掌柜的？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂,燕小六",
+          "description": "老白和小六冷眼旁观"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "老白和小六冷眼旁观"
     },
     {
       "type": "dialog",
@@ -116,7 +118,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -224,7 +226,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -258,7 +260,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -292,7 +294,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -317,17 +319,11 @@
         {
           "type": "line",
           "line": "燕小六！我的客人啥时候走，跟你没有关系。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "抢过小六的水推小六出"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "抢过小六的水推小六出"
+        },
         {
           "type": "line",
           "line": "你要是没有啥事就出去。"
@@ -356,7 +352,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

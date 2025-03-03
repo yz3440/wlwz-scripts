@@ -3,18 +3,15 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
-    {
-      "type": "action",
-      "description": "众人："
-    },
     {
       "type": "dialog",
       "speaker": "众人",
       "performances": [
         {
           "type": "speaker-action",
-          "description": "同时唱"
+          "description": "唱"
         },
         {
           "type": "line",
@@ -286,10 +283,6 @@
       "type": "dialog",
       "speaker": "众人",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "同时唱"
-        },
         {
           "type": "line",
           "line": "耶！我们小手拉小手，走走走走走。"

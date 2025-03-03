@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -69,7 +70,13 @@
         {
           "type": "line",
           "line": "这就对了。生活中有很多的不如意，如果一不开心，就寄希望于如果当初，那你永远都不会开心。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "趁着开心，我给大家赋诗一首。"

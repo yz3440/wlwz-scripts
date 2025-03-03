@@ -3,18 +3,19 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "走下楼，柔声"
-        },
-        {
           "type": "line",
           "line": "不好意思，让大家久等了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走下楼，柔声"
         }
       ]
     },

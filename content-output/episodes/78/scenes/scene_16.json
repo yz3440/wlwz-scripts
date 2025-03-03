@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -70,17 +71,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "出去！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
-        {
-          "type": "line",
-          "line": "回来回来，干啥去？"
+          "line": "出去！回来回来，干啥去？"
         }
       ]
     },

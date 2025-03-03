@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -59,17 +60,11 @@
         {
           "type": "line",
           "line": "以后我对你会像对我娘一样好的啊，呵呵。哎呀，在没决定娶你之前呢，我一直拿不定主意，这下好了，你帮我把主意拿了。呵呵呵……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人躲在门外偷听"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人躲在门外偷听"
+        },
         {
           "type": "line",
           "line": "哎呀，实不相瞒呐，在没决定之前呢，我心里一直很矛盾，这决定之后呢，一下子就踏实了。我觉得人生有目标了，不像以前那么没着没落的了，感觉非常旺德福。"
@@ -151,31 +146,21 @@
         {
           "type": "line",
           "line": "哎，你脖子还疼吗？哎，以后别再干傻事儿了啊，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "柳点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "柳星雨",
+          "description": "柳点头"
+        },
         {
           "type": "line",
           "line": "你要真对我有意见呢，你直接跟我说，我争取改。咱俩争取一辈子都不吵架。一辈子相敬如宾，把秀才他俩给比下去。啊。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "柳一边吃苹果一边略有迟疑地点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "柳星雨",
+          "description": "柳一边吃苹果一边略有迟疑地点头"
+        },
         {
           "type": "line",
           "line": "来，再吃一块。"
@@ -319,17 +304,12 @@
         {
           "type": "line",
           "line": "小六，这女的八成是同伙"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众惊"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众惊"
+        },
         {
           "type": "line",
           "line": "——她跟柳姑娘用的是同一个品牌的香粉，而且鞋的款式一模一样，最重要的是，她们俩练的是同一种轻功，走路都是惦着脚。"
@@ -385,12 +365,13 @@
         {
           "type": "line",
           "line": "楼上那女的……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "白忙后住他的嘴"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "白忙后住他的嘴"
     },
     {
       "type": "dialog",
@@ -507,7 +488,8 @@
           "line": "来来来这边这边，你先回去，没事啊，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "小六欲反抗"
         },
         {
@@ -516,11 +498,11 @@
         },
         {
           "type": "speaker-action",
-          "description": "W"
+          "description": "停顿"
         },
         {
           "type": "line",
-          "line": "——向你汇报，行了吧？"
+          "line": "向你汇报，行了吧？"
         }
       ]
     },

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -99,13 +100,13 @@
       ]
     },
     {
+      "type": "action",
+      "description": "掌柜笑"
+    },
+    {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "掌柜笑"
-        },
         {
           "type": "line",
           "line": "笑啥呀？赶紧走赶紧走，我一个人饿不死，不还有汤圆呢嘛。"

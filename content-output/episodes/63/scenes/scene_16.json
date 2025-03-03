@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -43,11 +44,17 @@
         {
           "type": "line",
           "line": "行了，你别装了，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "抢过斧子"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "抢过斧子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "我都听小郭说了，你说你回来就回来呗，你整这出干啥呀。"
@@ -261,12 +268,12 @@
         {
           "type": "line",
           "line": "行行行，我没话跟你说了，老白，你孤军奋战，好运，好运。什么人呢"
+        },
+        {
+          "type": "speaker-action",
+          "description": "离开"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "离开"
     },
     {
       "type": "dialog",

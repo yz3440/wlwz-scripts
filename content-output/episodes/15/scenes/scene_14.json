@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -45,7 +46,13 @@
         {
           "type": "line",
           "line": "不行，没有听说过夜长梦多吗，你等着，我这就去把他引开，然后你趁机出门，手脚一定要轻着点啊！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "这么晚了，你咋还不睡呀？"
@@ -99,7 +106,13 @@
         {
           "type": "line",
           "line": "你先进去，我拿个板凳！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "站住，葵花点穴手！"
@@ -145,7 +158,13 @@
         {
           "type": "line",
           "line": "谢了，哈哈哈！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
         {
           "type": "line",
           "line": "小毛贼，你终于撞在我手里！"
@@ -157,14 +176,8 @@
       "description": "老邢拉下面罩，愕然发现是小郭"
     },
     {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
-        {
-          "type": "line",
-          "line": "呀，这？"
-        }
-      ]
+      "type": "action",
+      "description": "——呀，这？"
     },
     {
       "type": "dialog",
@@ -443,7 +456,13 @@
         {
           "type": "line",
           "line": "三钱。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
         {
           "type": "line",
           "line": "以后注意喔。教训啊，教训！"

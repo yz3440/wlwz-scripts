@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -171,20 +172,31 @@
         {
           "type": "line",
           "line": "干完粗活以后让人家洗手嘛！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "向小郭"
         },
         {
           "type": "line",
-          "line": "小妹妹，记住我的话，对于女人来讲，手的美丽甚至比脸更重要明白吗？"
+          "line": "小妹妹，记住我的话，对于女人来讲，手的美丽甚至比脸更重要"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭点头"
+        },
+        {
+          "type": "line",
+          "line": "明白吗？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭点头"
     },
     {
       "type": "dialog",

@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -100,7 +101,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -130,7 +131,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -163,10 +164,6 @@
       "speaker": "包大人",
       "performances": [
         {
-          "type": "line",
-          "line": ""
-        },
-        {
           "type": "speaker-action",
           "description": "唱"
         },
@@ -193,11 +190,17 @@
         {
           "type": "line",
           "line": "那还不赶紧去挑！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拿银子"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿银子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
         {
           "type": "line",
           "line": "够不够？"
@@ -324,7 +327,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -368,7 +371,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -480,7 +483,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -490,7 +493,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -524,7 +527,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -544,7 +547,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -585,7 +588,8 @@
           "line": "好好说话！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "包大人",
           "description": "包大人吓昏了"
         },
         {

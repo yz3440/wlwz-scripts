@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，昼】",
   "location": "客栈外",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -19,12 +20,12 @@
         {
           "type": "line",
           "line": "咋，这又大扫除不是？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "刚要起身"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "刚要起身"
     },
     {
       "type": "dialog",
@@ -91,11 +92,17 @@
         {
           "type": "line",
           "line": "三文。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小郭又摸出三文"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭又摸出三文"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
         {
           "type": "line",
           "line": "等我想想啊，刚才经过这儿的有米铺的葛掌柜，还有他的二老婆，还有那个胭脂店的小结巴，和他乡下来的小表妹，当铺的皮二爷，还有娄知县的师爷，还有流云坊的小东瓜小西瓜。"
@@ -317,11 +324,17 @@
         {
           "type": "line",
           "line": "最关键的是我们有可能被盯上了。目标太大，现在出去的话，容易打草惊蛇。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "手指小米"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "手指小米"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "我再次重申一遍，这不是玩笑。"

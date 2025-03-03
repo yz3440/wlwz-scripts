@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -14,7 +15,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "小时候啊，我喜欢我家邻村一姑娘，有一天一大早我就整了束花我去看她去，结果连面都没见着，人家隔门给我来了句：\"癞蛤蟆想吃天鹅肉\"。"
+          "line": "小时候啊，我喜欢我家邻村一姑娘，有一天一大早我就整了束花我去看她去，结果连面都没见着，人家隔门给我来了句'癞蛤蟆想吃天鹅肉'。"
         }
       ]
     },
@@ -38,7 +39,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "感觉咋样"
+          "line": "感觉咋样？"
         }
       ]
     },
@@ -47,8 +48,8 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "感觉良好啊。"
+          "type": "line",
+          "line": "感觉良好啊。"
         },
         {
           "type": "speaker-action",
@@ -56,7 +57,7 @@
         },
         {
           "type": "line",
-          "line": "我是门里边那位，不好意思啊。"
+          "line": " 我是门里边那位，不好意思啊。"
         }
       ]
     },
@@ -211,22 +212,34 @@
         {
           "type": "line",
           "line": "千万不要乱来啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小郭掐秀才"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭掐秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "试试是可以，就是不能太过火了，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小郭继续掐"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭继续掐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
-          "line": "否则老白跟他1120急。"
+          "line": "否则老白跟他急。"
         }
       ]
     },
@@ -280,11 +293,11 @@
         },
         {
           "type": "speaker-action",
-          "description": "W"
+          "description": "停顿"
         },
         {
           "type": "line",
-          "line": "——还有我那床被子。我要是输了，我亲手抱你屋去。"
+          "line": "还有我那床被子。我要是输了，我亲手抱你屋去。"
         }
       ]
     },

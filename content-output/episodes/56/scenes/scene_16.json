@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -16,7 +17,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -56,7 +57,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -116,7 +117,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -273,11 +274,17 @@
         {
           "type": "line",
           "line": "还需要这个，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "从怀里掏出小葫芦"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "从怀里掏出小葫芦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
         {
           "type": "line",
           "line": "这里面是显影粉，拿去往水里面一泡，再往这个纸上一涂，字就出来了。"
@@ -331,7 +338,8 @@
           "line": "白少侠，我和小十六……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "白展堂瞪眼"
         },
         {

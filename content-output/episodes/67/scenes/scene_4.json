@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -227,7 +228,8 @@
           "line": "对，我每次挨先生手板呢，都在考虑对策，经过无数次的斗争之后呢，才想出了这条妙计。呐，你先把铁砂涂呢在手上，然后放到炉子里去烤"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才吓一跳"
         },
         {

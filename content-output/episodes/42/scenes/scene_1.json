@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -34,11 +35,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "呀！"
-        },
-        {
-          "type": "line",
-          "line": "你到底会不会剪啊！"
+          "line": "呀！！你到底会不会剪啊！"
         }
       ]
     },
@@ -89,11 +86,17 @@
         {
           "type": "line",
           "line": "你就是没有用，啥都不要说了。——那个手。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "大嘴伸手要卖身契"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴伸手要卖身契"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "哎呀，等一会嘛，没有见我正忙着呢。剪完他就轮到你。听话啊！"

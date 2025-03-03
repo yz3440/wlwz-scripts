@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -19,13 +20,13 @@
       ]
     },
     {
+      "type": "action",
+      "description": "小贝跑回来"
+    },
+    {
       "type": "dialog",
       "speaker": "小米",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "小贝跑回来"
-        },
         {
           "type": "line",
           "line": "又惹你嫂子生气了？"
@@ -59,11 +60,17 @@
         {
           "type": "line",
           "line": "懒得给你废话了，我先撤了，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "刚要走，转身对小米"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "刚要走，转身对小米"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "line",
           "line": "千万别跟我嫂子说你见过我啊。"
@@ -153,7 +160,8 @@
           "line": "哦行，你看啊，第一级呢，应该是开始唠叨嘴里；第二级呢，满屋乱转；第三级呢，这个脑门血管都要爆出来了，而且能清楚听见，咬牙的声音；第四级，呆坐着不动，阴沉着脸，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小米",
           "description": "小米叹气"
         },
         {
@@ -179,12 +187,12 @@
         {
           "type": "line",
           "line": "就是哪种冷笑，像我这样你看啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "冷笑"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "冷笑"
     },
     {
       "type": "dialog",
@@ -223,7 +231,8 @@
           "line": "行，你先去吧。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小贝",
           "description": "小贝起身准备走"
         },
         {
@@ -271,12 +280,12 @@
         {
           "type": "line",
           "line": "千万别把咱俩这次对话告诉别人。否则我有权拒付余款喔。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "奔回客栈"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "奔回客栈"
     },
     {
       "type": "dialog",

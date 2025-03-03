@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -164,27 +165,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "去！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "！"
+          "line": "去！！！"
         }
       ]
     },

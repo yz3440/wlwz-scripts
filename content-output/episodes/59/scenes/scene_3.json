@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -91,7 +92,13 @@
         {
           "type": "line",
           "line": "在楼上睡着呢。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "咋了，我又说错话啦？"
@@ -428,7 +435,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "老白，我其实„我去看看掌柜的，这总行了吧。"
+          "line": "老白，我其实…我去看看掌柜的，这总行了吧。"
         }
       ]
     },

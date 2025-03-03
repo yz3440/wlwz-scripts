@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -85,11 +86,17 @@
         {
           "type": "line",
           "line": "我杀了我自己。——就是它了。掌柜的，下辈子再见吧。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "准备自杀，掌柜笑着看"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "准备自杀，掌柜笑着看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "你怎么不过来拉我呀？"

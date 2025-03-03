@@ -115,11 +115,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "等一下，这个送给你。"
+          "line": "等一下，这个"
         },
         {
           "type": "speaker-action",
           "description": "糖人"
+        },
+        {
+          "type": "line",
+          "line": "送给你。"
         }
       ]
     }

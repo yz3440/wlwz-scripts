@@ -3,7 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -102,12 +102,12 @@
         {
           "type": "line",
           "line": "咩咩撒撒~太好了！湘玉！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扑上去要拥抱，湘玉推开"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "扑上去要拥抱，湘玉推开"
     },
     {
       "type": "dialog",
@@ -189,7 +189,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "那我就留下来陪着你，从今往后——（唱）你耕田来你织布，你挑水来你浇园。"
+          "line": "那我就留下来陪着你，从今往后——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "你耕田来你织布，你挑水来你浇园。"
         }
       ]
     },

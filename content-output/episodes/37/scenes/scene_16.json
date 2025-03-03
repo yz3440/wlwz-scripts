@@ -20,12 +20,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "掌柜感动拥抱"
-    },
-    {
-      "type": "action",
-      "description": "鸟牌皂角粉，洗出一代好掌门！"
+      "type": "dialog",
+      "speaker": "掌柜感动拥抱",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鸟牌皂角粉，洗出一代好掌门！"
+        }
+      ]
     }
   ]
 }

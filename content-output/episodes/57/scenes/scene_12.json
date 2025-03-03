@@ -3,7 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -214,7 +214,8 @@
           "line": "嗬，嗬，嗬……这还是她吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白同样一脸疑惑"
         }
       ]

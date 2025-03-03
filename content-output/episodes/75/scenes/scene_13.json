@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -100,15 +101,15 @@
       "performances": [
         {
           "type": "speaker-action",
-          "description": "对小郭"
+          "description": "对郭"
         },
         {
           "type": "line",
-          "line": "拿钱换的。"
+          "line": "拿钱换的，"
         },
         {
           "type": "speaker-action",
-          "description": "对大嘴"
+          "description": "对白"
         },
         {
           "type": "line",
@@ -223,12 +224,12 @@
         {
           "type": "line",
           "line": "哎呀，就这么简单的道理啊，我已经想了好几天了，你知道吧，想得我脑瓜仁都疼了，后来我拿了胭脂水粉我就去找了趟无双，我想先问明白了，我再决定最后送还是不送。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回忆镜头"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "回忆镜头"
     }
   ]
 }

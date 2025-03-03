@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -63,16 +64,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "大人说话小孩别插嘴。"
-        },
-        {
           "type": "speaker-action",
           "description": "对李"
         },
         {
           "type": "line",
-          "line": "哪方面感情？"
+          "line": "大人说话小孩别插嘴，哪方面感情？"
         }
       ]
     },
@@ -143,12 +140,13 @@
         {
           "type": "line",
           "line": "癞蛤蟆想吃天鹅肉？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉、祝无双",
+          "description": "小郭无双得意地击掌"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭无双得意地击掌"
     },
     {
       "type": "action",
@@ -160,7 +158,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "行了行了，人衣服也脱了，罪也认了，That's all了，stop吧。"
+          "line": "行了行了行了，人衣服也脱了，罪也认了，that's all, stop 吧。"
         }
       ]
     },
@@ -269,12 +267,13 @@
         {
           "type": "line",
           "line": "没有没有"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉、白展堂",
+          "description": "小郭，老白欲走近大嘴"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭，老白欲走近大嘴"
     },
     {
       "type": "dialog",
@@ -282,13 +281,26 @@
       "performances": [
         {
           "type": "line",
-          "line": "坐下，坐下！开玩笑？脱衣服给我脱了，被褥给我拿走了，枕头给我送人了。我冻得一身起鸡皮疙瘩，你说跟我开玩笑？行，不开玩笑嘛，那我把脱衣服脱了给你们开啊。"
+          "line": "坐下，坐下！开玩笑？脱衣服给我脱了，被褥给我拿走了，枕头给我送人了。我冻得一身起鸡皮疙瘩，你说跟我开玩笑？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "行，不开玩笑嘛，那我把脱衣服脱了给你们开啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "脱衣服"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂、吕秀才",
+          "description": "白吕赶紧劝阻"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "脱衣服，白吕赶紧劝阻"
     },
     {
       "type": "dialog",
@@ -312,17 +324,18 @@
     },
     {
       "type": "dialog",
-      "speaker": "吕、白",
+      "speaker": "吕秀才、白展堂",
       "performances": [
         {
           "type": "line",
           "line": "大嘴大嘴"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人出"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人出"
     }
   ]
 }

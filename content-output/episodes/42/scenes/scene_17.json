@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -21,12 +22,12 @@
         {
           "type": "line",
           "line": "你——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给老白一个耳光"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "给老白一个耳光"
     },
     {
       "type": "dialog",

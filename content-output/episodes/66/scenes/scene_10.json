@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -95,12 +96,12 @@
         {
           "type": "line",
           "line": "没那么夸张，掌柜的，呆会下去我就跟她解释清楚，你先吃点啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "给掌柜的夹菜"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "给掌柜的夹菜"
     },
     {
       "type": "dialog",
@@ -137,12 +138,18 @@
         {
           "type": "line",
           "line": "你还敢跟我耍态度了你？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭吓一跳"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴进"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭吓一跳，大嘴进"
     },
     {
       "type": "dialog",

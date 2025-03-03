@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -94,8 +95,12 @@
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰进",
+      "speaker": "杨蕙兰",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "进门"
+        },
         {
           "type": "line",
           "line": "铁头功不是这么练的。"
@@ -117,14 +122,30 @@
         {
           "type": "line",
           "line": "蕙兰，来坐"
-        },
-        {
-          "type": "speaker-action",
-          "description": "杨拿出三根针"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "蕙兰拿出三根针"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
-          "line": "哎，有话好好说，千万别动手啊，这是三根金针，代表三个愿意，来送给你。"
+          "line": "哎，有话好好说，千万别动手啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是三根金针，代表三个愿望，来送给你。"
         }
       ]
     },
@@ -165,6 +186,10 @@
         {
           "type": "line",
           "line": "啊，以后尽管提啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出门"
         }
       ]
     },

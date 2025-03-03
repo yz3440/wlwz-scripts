@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -61,12 +62,13 @@
           "line": "出来个人。"
         },
         {
-          "type": "speaker-action",
-          "description": "大嘴走上前去，边走边说，欢迎欢迎"
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴走上前去，边走边说，欢迎欢迎。"
         },
         {
           "type": "line",
-          "line": "趴哪儿去吧。"
+          "line": "趴那儿去吧。"
         }
       ]
     },

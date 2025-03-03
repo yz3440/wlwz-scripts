@@ -1,0 +1,273 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葛掌柜，花生来了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了，小郭，给郑公子沏壶茉莉花，认清楚人啊！秀才，赶紧把饭桌收拾一下！展堂，帮曹先生把昨天的帐结一下——还楞着干啥嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你让我负责结帐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你让我帮他沏茶？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让我收拾桌子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厄，你们随便吧，自己忙去吧！快快快……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢，嗓子咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃鱼翅上火，本捕头正式宣布，西街郝掌柜的三公子郝小虎，在平谷县举办的少年琴赛上，得了第二名，鼓掌"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人鼓掌"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "！——虽然只有三个人比赛，而且第三名还是个聋子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了庆祝这个乐坛盛事，郝掌柜请诸位到飞龙谷吃野味"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "王公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么时候？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "王公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那赶紧走啊，走走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没给钱呢，不要走，喂喂喂……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你在这儿免费吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又是一文钱都没有挣到。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别难受了，你也去吃野味吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额不去，野味吃多了容易得病！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得病？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "经科学研究证明，野生动物得营养元素与家畜家禽病没有什么区别，而且野生动物大都没有经过卫生的检疫，食客在大饱口福的同时，很有可能被感染上疾病。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "病就病呗，咱有牛黄解毒片，清热解毒消淤化痰，一般人我不告诉他~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老邢老邢……不就是玩音乐吗，谁不会呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也会呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额不会，但是你会呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他会吹箫。"
+        }
+      ]
+    }
+  ]
+}

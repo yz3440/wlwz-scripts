@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -275,7 +276,13 @@
         {
           "type": "line",
           "line": "去吧去吧，给秀才一个惊喜，让他知道，谁才是最疼他的人儿！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "去吧，可人儿！"

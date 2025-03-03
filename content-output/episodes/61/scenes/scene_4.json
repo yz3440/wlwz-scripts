@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -156,6 +157,10 @@
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
         {
           "type": "line",
           "line": "送你送到小镇外，有句话儿要交代，虽然已经是百花开，啷咯哩咯哩咯楞啷咯哩咯楞……"

@@ -3,6 +3,7 @@
   "rawDescription": "【屋顶，夜】",
   "location": "屋顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -169,12 +170,12 @@
       "speaker": "祝、郭",
       "performances": [
         {
-          "type": "line",
-          "line": "嗯。"
-        },
-        {
           "type": "speaker-action",
           "description": "心虚"
+        },
+        {
+          "type": "line",
+          "line": "嗯。"
         }
       ]
     },

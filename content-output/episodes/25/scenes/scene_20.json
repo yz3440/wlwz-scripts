@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -170,15 +171,20 @@
       "performances": [
         {
           "type": "line",
-          "line": "胡说，我那镖局啥都缺，就是不缺镖师，你留下，有啥事跟额女婿商量着啊，可不敢胡撂蹶子，你要是撂蹶子他就把你往死了抽，对了，你去帮额收拾行李，额就亲自喂马去"
+          "line": "胡说，额那镖局啥都缺，就是不缺镖师，你留下，有啥事跟额女婿商量着啊，可不敢胡撂蹶子，"
         },
         {
           "type": "speaker-action",
+          "description": "你要是撂蹶子他就把你往死了抽，对了，你去帮额收拾行李，额就亲自喂马去"
+        },
+        {
+          "type": "reaction",
+          "reactor": "秀才",
           "description": "对秀才"
         },
         {
           "type": "line",
-          "line": "你慢慢吃着，我走了啊！"
+          "line": "你慢慢吃着，额走了啊！"
         }
       ]
     }

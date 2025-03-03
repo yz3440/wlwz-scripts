@@ -1,0 +1,1050 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人围看一张通缉告示"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是展堂？就这两下子，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "随手比画"
+        },
+        {
+          "type": "line",
+          "line": "怎么可能是传说中的盗圣白玉汤呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知人知面不知心呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱们赶紧报官吧。再晚恐怕就来不及了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "此时老白正吃着苹果从门外走入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么来不及了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的连忙讲告示收起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，衣服挺漂亮的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "发型也挺帅~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你藏什么呢，给我看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，生日快乐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对，福如东海。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "寿比南山。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去，今儿不是我生日。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，但是为了迎接这个光荣的日子。我们提前给你准备了礼物，就是想给你一个惊喜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太客气了，真的，我都不知道说啥好了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "伸手欲抢告示，被大嘴拉住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就啥都不要说了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟我们到衙门去说吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厄，秀才的意思是说，我们把衙门给你包下来了。庆贺生日……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵，包那干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让你过一过当官的瘾嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，行了，别装了。白玉汤！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "言毕，吓得老白手中苹果掉落桌上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们是怎么知道的——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，你太让我失望了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听我解释~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我啥都不听了，把他给我抓起来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼~~~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼就对了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "醒醒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊醒"
+        },
+        {
+          "type": "line",
+          "line": "我再也不敢了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，做个噩梦，吓了我一身汗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "仔细认认，是他么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "米店伙计",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是他，那人比他稍微胖一点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老刑啊，你这是抓谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白玉汤，你知道这个人吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不知道，从来都没听说过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白玉汤你都不知道啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "传说中的盗圣啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖名声直逼当年的楚留香啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有那么厉害吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你懂啥。老白又出来活动了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，刚把西街的米铺给偷了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那米铺有啥可偷的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一缸小米，两捆大葱，三桶豆油，还有五十斤棒子面。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，这是盗圣还是驴啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转向刑捕头"
+        },
+        {
+          "type": "line",
+          "line": "你凭啥说是他偷的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家现场留下字条了，你看"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "众人看罢"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，这盗圣的文化水平也不怎么高嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这根本就不是他写的字。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人以疑惑的眼光看着老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的意思是，他故意写成这样的害怕别人认出他的笔迹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "众人：噢"
+        },
+        {
+          "type": "line",
+          "line": "你分析得很有道理，早些年我和他打过交道，他本人字是比这漂亮多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你在哪儿跟他打过交道啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这你就别管了，哎，你们都记住了啊，这个白玉汤可不是个善茬儿。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人附和：知道知道"
+        },
+        {
+          "type": "line",
+          "line": "你们不知道，白玉汤除了盗窃成瘾，而且还喜欢杀人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "杀……杀人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他每次杀人之前，都给对方留下个字条，今晚我要取你首级。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，盗亦有道，他绝不可能杀人。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人又疑惑看着老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家是盗圣啊，盗啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你分析的也有道理。不跟你们罗嗦了，我们到下一家认人去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指着米铺伙计"
+        },
+        {
+          "type": "line",
+          "line": "等等，你的裤子够肥的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看看去啊，哎老邢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "刑，嘴，伙计三人出门口，恰巧一女子进入店中"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "客官打尖还是住店啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大姐，我想讨口水喝就走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有没有，出去没水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，喝口水怕啥的，小气劲的，小郭去倒一口水来啊，不要放茶叶啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对慕容嫣"
+        },
+        {
+          "type": "line",
+          "line": "客官坐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢啊。展大哥，喝口水都舍不得，那么抠。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁告诉你我姓展的。我姓白，叫白玉……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白玉什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白玉展堂。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "慕容嫣嘀咕着白玉展堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "水来了水来了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一不小心水壶脱手，老白一个箭步赶上前去，接住水壶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "摔坏了你赔啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭慕容嫣面面相觑，慕容嫣转身翻包，拿出一本书，看了一看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，我要住店。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，带客官上楼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，楼上请。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人上楼至客房"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来姑娘请进，哎呀，我帮你收拾收拾屋子啊。你看这屋子脏的，来，我把被子给你叠了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "慕容嫣从包中拿出手铐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我帮你把被铺是啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "慕容嫣铐住老白一只手，将另一头铐在自己手上，老白惊呼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真是踏破铁鞋无觅处，得来全不费功夫，坐这儿慢慢摆。白玉汤，我找你好久啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁是白玉汤啊？凭什么说我是白玉汤啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就凭你刚才那身轻功。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪有什么轻功啊我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你刚才扶那个人的时候，我看得清清楚楚的，你骗不到我，我跟你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也不能证明我就是白玉汤啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你等一下——"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说罢，拖着老白，去柜子上翻包"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妈呀，妈呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看了又看《缉盗指南》"
+        },
+        {
+          "type": "line",
+          "line": "反正你就是白玉汤，你逃不脱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我认了。我就是白玉汤，你打算把我怎么处置吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你等一下啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身继续看《缉盗指南》"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "四十七页，将贼擒获以后，应尽快送到附近衙门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容嫣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？你看过这本书了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话！这本《缉盗指南》是我写的。"
+        }
+      ]
+    }
+  ]
+}

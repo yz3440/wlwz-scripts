@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -92,7 +93,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "嗯？。"
+          "line": "嗯？"
         }
       ]
     },
@@ -136,7 +137,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你你关门干吗？。"
+          "line": "你你关门干吗？"
         }
       ]
     },
@@ -179,8 +180,12 @@
       "speaker": "燕小六",
       "performances": [
         {
+          "type": "line",
+          "line": "等等等…"
+        },
+        {
           "type": "speaker-action",
-          "description": "等等等„（小六拍拍自己的头理了理思绪）"
+          "description": "小六拍拍自己的头理了理思绪"
         },
         {
           "type": "line",

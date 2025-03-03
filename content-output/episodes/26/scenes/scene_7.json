@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -180,7 +181,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "是„放鞭炮？这个点儿了，不让放炮。"
+          "line": "是…放鞭炮？这个点儿了，不让放炮。"
         }
       ]
     },
@@ -200,7 +201,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "放完炮以后„"
+          "line": "放完炮以后…"
         }
       ]
     },
@@ -220,7 +221,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "侯，侯哥„"
+          "line": "侯，侯哥…"
         }
       ]
     },
@@ -240,7 +241,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎，别„"
+          "line": "哎，别…"
         }
       ]
     },

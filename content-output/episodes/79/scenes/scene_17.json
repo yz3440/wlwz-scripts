@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -58,7 +59,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "请问……1192"
+          "line": "请问……"
         }
       ]
     },
@@ -266,7 +267,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "排山倒海（力弹回来）我的手，我的手……"
+          "line": "排山倒海"
+        },
+        {
+          "type": "speaker-action",
+          "description": "力弹回来"
+        },
+        {
+          "type": "line",
+          "line": "我的手，我的手……"
         }
       ]
     },
@@ -277,12 +286,12 @@
         {
           "type": "line",
           "line": "孩子，这是脱臼，你要是再跟我来劲，我就真不客气了。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "给小郭接上胳膊"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "给小郭接上胳膊"
     },
     {
       "type": "dialog",

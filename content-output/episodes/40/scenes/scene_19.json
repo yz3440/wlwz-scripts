@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -96,17 +97,7 @@
     },
     {
       "type": "action",
-      "description": "莫小宝亮剑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "这是我的名帖，有空欢迎过来捧场。"
-        }
-      ]
+      "description": "莫小宝亮剑——这是我的名帖，有空欢迎过来捧场。"
     },
     {
       "type": "dialog",

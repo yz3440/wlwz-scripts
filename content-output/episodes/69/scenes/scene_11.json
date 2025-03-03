@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -223,12 +224,13 @@
         {
           "type": "line",
           "line": "哎呦哎呦，轻点儿，轻点儿，行行行我自己会捋啊。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "韩娟",
+          "description": "韩娟把头发藏进怀里"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "韩娟把头发藏进怀里"
     },
     {
       "type": "dialog",
@@ -275,12 +277,12 @@
         {
           "type": "line",
           "line": "好了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "韩娟把指甲收了起来"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "韩娟把指甲收了起来"
     },
     {
       "type": "dialog",
@@ -321,18 +323,19 @@
           "line": "哎呀，那多不卫生啊。你就甭管了，明天呐交给我就行了。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "湘玉",
           "description": "湘玉打哈欠"
         },
         {
           "type": "line",
           "line": "你困啦？那我就不打扰了，明天见啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "韩娟推门出去了"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "韩娟推门出去了"
     },
     {
       "type": "dialog",

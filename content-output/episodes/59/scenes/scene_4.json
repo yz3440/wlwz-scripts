@@ -3,18 +3,19 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "line",
-          "line": "一见钟情，一见那个钟情。"
-        },
-        {
           "type": "speaker-action",
           "description": "自言自语"
+        },
+        {
+          "type": "line",
+          "line": "一见钟情，一见那个钟情。"
         }
       ]
     },
@@ -77,12 +78,12 @@
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "line",
-          "line": "那就行了。"
-        },
-        {
           "type": "speaker-action",
           "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "那就行了。"
         }
       ]
     },
@@ -149,12 +150,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "掌柜的……"
-        },
-        {
           "type": "speaker-action",
           "description": "作痛哭状"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的……"
         }
       ]
     },
@@ -463,7 +464,8 @@
           "line": "掌柜的？掌柜的？掌柜的你没事吧？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "掌柜软绵绵地倒下"
         },
         {

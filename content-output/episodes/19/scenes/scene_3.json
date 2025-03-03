@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -292,10 +293,6 @@
       "type": "dialog",
       "speaker": "众人",
       "performances": [
-        {
-          "type": "line",
-          "line": ""
-        },
         {
           "type": "speaker-action",
           "description": "指小郭"

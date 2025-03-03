@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -25,11 +26,17 @@
         {
           "type": "line",
           "line": "嘘！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "把酒端给客人，又回来"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "把酒端给客人，又回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "以后叫我老白，或者白大哥都行。"
@@ -187,7 +194,8 @@
           "line": "纯属胡扯！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "客人",
           "description": "客人吓一跳"
         },
         {

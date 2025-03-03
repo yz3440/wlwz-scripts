@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -66,15 +67,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "性别……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "又觉不对"
-        },
-        {
-          "type": "line",
-          "line": "她姓什么叫什么？"
+          "line": "性别……（又觉不对）她姓什么叫什么？"
         }
       ]
     },
@@ -87,7 +80,8 @@
           "line": "我娘姓白，人称白三娘，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "谢步东",
           "description": "谢一脸认识的表情"
         },
         {
@@ -289,7 +283,8 @@
           "line": "那嫂子要出嫁，小姑子不同意，有些人为了追求自己的幸福，所以绑架他人下了毒手，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白气愤的不得了，走去炕边坐，谢跟上来，托起老白的下巴"
         },
         {

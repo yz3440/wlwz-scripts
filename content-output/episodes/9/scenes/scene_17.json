@@ -1,0 +1,267 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝拎行李摔跤"
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "轻点儿！摔坏了东西把你卖了都赔不起！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心一点儿啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那有笤帚，把这屋归置归置，找出一根头发丝，你就别想要小费！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快去快去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "达令……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要碰我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟哟，又怎么啦？吃枪药啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道人家跟你在一起，要承受多大的压力呀~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么压力呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每个人都说我傍大款！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "傍大款怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那传出去名声有多不好听的呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这怕什么，哟哟哟，可人儿，回北京给你换台新车，迷你宝马…"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不许你乱花钱，你随便买一辆奔驰小跑就行了呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就喜欢你节约！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对了，你是不是看上那个小演员了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "That's impossible，不可能的，她那个长相，那个气质，长得跟个笑星似的，笑星晓得吧，喜剧演员啊，我怎么会看上她呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摆酷"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇，酷！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么是笑星啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大人说话小孩别插嘴，一边儿去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小妹妹，快过来，给姐姐做碗汤圆好不好，要豆沙馅儿的，多放芝麻少放糖，姐姐怕胖。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不快去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姚 晨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要太凶吗。"
+        }
+      ]
+    }
+  ]
+}

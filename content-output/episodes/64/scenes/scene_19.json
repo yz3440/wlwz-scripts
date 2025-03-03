@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -28,7 +29,7 @@
         },
         {
           "type": "line",
-          "line": "是呀，我一直都在一步都没有离开过。973"
+          "line": "是呀，我一直都在一步都没有离开过。"
         }
       ]
     },
@@ -114,7 +115,15 @@
         },
         {
           "type": "line",
-          "line": "不会（笑）我们家世代都是读书人。"
+          "line": "不会"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "我们家世代都是读书人。"
         }
       ]
     },
@@ -224,7 +233,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "1234（双手抱头左右弯腰）"
+          "line": "1234"
+        },
+        {
+          "type": "speaker-action",
+          "description": "双手抱头左右弯腰"
         }
       ]
     },
@@ -234,7 +247,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "1234（照做）"
+          "line": "1234"
+        },
+        {
+          "type": "speaker-action",
+          "description": "照做"
         }
       ]
     },
@@ -244,7 +261,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "用点劲，5678（双手抱头前弯腰，后仰身）"
+          "line": "用点劲，5678"
+        },
+        {
+          "type": "speaker-action",
+          "description": "双手抱头前弯腰，后仰身"
         }
       ]
     },
@@ -258,7 +279,11 @@
         },
         {
           "type": "line",
-          "line": "用点劲，567„（后脑勺磕在墙上，昏过去了）"
+          "line": "用点劲，567…"
+        },
+        {
+          "type": "speaker-action",
+          "description": "后脑勺磕在墙上，昏过去了"
         }
       ]
     },
@@ -268,7 +293,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "这就对了，你先进屋躺一会儿啊，哪儿都不许去啊，我给你找大夫去（把老白推进小郭房间，锁上）哼，跟我斗。"
+          "line": "这就对了，你先进屋躺一会儿啊，哪儿都不许去啊，我给你找大夫去"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把老白推进小郭房间，锁上"
+        },
+        {
+          "type": "line",
+          "line": "哼，跟我斗。"
         }
       ]
     },
@@ -286,7 +319,7 @@
         },
         {
           "type": "line",
-          "line": "开门，开门，开门„快开开门……"
+          "line": "开门，开门，开门…快开开门……"
         }
       ]
     },
@@ -314,7 +347,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "闪开（飞一般的跑走）"
+          "line": "闪开"
+        },
+        {
+          "type": "speaker-action",
+          "description": "飞一般的跑走"
         }
       ]
     }

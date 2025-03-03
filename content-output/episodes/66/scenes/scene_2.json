@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -151,8 +152,18 @@
       ]
     },
     {
-      "type": "action",
-      "description": "门外传来嗓门极大的歌声：\"大山的子孙哟，爱太阳喽，太阳那个爱着哟，山里的人哟……\""
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从门外传来嗓门极大的歌声"
+        },
+        {
+          "type": "line",
+          "line": "\"大山的子孙哟，爱太阳喽，太阳那个爱着哟，山里的人哟……\""
+        }
+      ]
     },
     {
       "type": "action",
@@ -317,17 +328,11 @@
         {
           "type": "line",
           "line": "哇噻，我终于见到你啦，久仰久仰！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小小郭向秀才伸手，秀才过去握手，小小郭忽然出招"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭蔷薇",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "小小郭向秀才伸手，秀才过去握手，小小郭忽然出招"
+        },
         {
           "type": "line",
           "line": "分筋错骨手！"
@@ -447,12 +452,13 @@
         {
           "type": "line",
           "line": "葵花点穴手……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小郭",
+          "description": "小郭又跑回来"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭又跑回来"
     },
     {
       "type": "dialog",
@@ -481,17 +487,12 @@
         {
           "type": "line",
           "line": "姐，你回来了？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭干笑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭蔷薇",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "小郭",
+          "description": "小郭干笑"
+        },
         {
           "type": "line",
           "line": "我叫郭蔷薇，初次见面，请多关照！"

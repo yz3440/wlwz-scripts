@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -140,11 +141,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "慢慢慢，黑虎掏心。"
+          "line": "慢慢慢，黑虎掏心"
         },
         {
           "type": "speaker-action",
-          "description": "接着练"
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "接着练。"
         }
       ]
     },

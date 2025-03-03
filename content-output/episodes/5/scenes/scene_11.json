@@ -1,0 +1,109 @@
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就真那么想抓我吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩，你还有什么话要说吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也许我就不该回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在说这个，晚了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不晚。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "言毕以迅雷不及掩耳之势如破竹将展红绫点住"
+        },
+        {
+          "type": "line",
+          "line": "我会点穴，自然也会解穴，你好好保重。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "解开展红绫穴道后迅速逃跑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也要好好保重，以后可别再让我碰上你了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "翻了翻书，发现书中夹有一页纸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展红绫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我想偷走你的心\n——白玉汤顿首。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "纸条没有拿稳，飘落到客栈小道，恰巧巡夜的老刑路过，拾起纸条，看后惊呼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好啦，白玉汤要吃人啦……"
+        }
+      ]
+    }
+  ]
+}

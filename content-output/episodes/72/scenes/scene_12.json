@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -49,16 +50,12 @@
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "line",
-          "line": "我发誓绝不翻脸，否则头发掉光……"
-        },
-        {
           "type": "speaker-action",
           "description": "撒娇"
         },
         {
           "type": "line",
-          "line": "你说吗你会选谁啊？"
+          "line": "我发誓绝不翻脸，否则头发掉光……你说吗你会选谁啊？"
         }
       ]
     },
@@ -87,16 +84,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "我会选展红绫"
-        },
-        {
           "type": "speaker-action",
           "description": "继续拿着佟的手"
         },
         {
           "type": "line",
-          "line": "——这你不能怪我，是个男的都得这么选。"
+          "line": "我会选展红绫——这你不能怪我，是个男的都得这么选。"
         }
       ]
     },

@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -49,17 +50,12 @@
         {
           "type": "line",
           "line": "行行，别又跟我来这一套。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "吕郭示意大嘴不信"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才,郭芙蓉",
+          "description": "吕郭示意大嘴不信"
+        },
         {
           "type": "line",
           "line": "她不就会点武功嘛，那还是三脚猫的功夫。她怎么当上捕快的，那是一二三它干不了她才当的。也不嫌寒碜。"
@@ -71,17 +67,12 @@
         {
           "type": "line",
           "line": "哎，你坐，我跟你说。她不就做几手好菜了，那能咋的啦，动不动就放着我来放着我来，显摆啥呀，不就显摆她贤惠吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "吕郭二人痛苦"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才,郭芙蓉",
+          "description": "吕郭二人痛苦"
+        },
         {
           "type": "line",
           "line": "她要真贤惠现在还能嫁不出去！"
@@ -251,6 +242,10 @@
       "speaker": "李大嘴",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "对吕、郭"
+        },
+        {
           "type": "line",
           "line": "你俩就套我话吧，套你接着套吧！"
         },
@@ -286,7 +281,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "事已至此，只好出杀手锏了。"
+          "line": "事已至此，只好使出杀手锏了。"
         }
       ]
     },
@@ -316,7 +311,7 @@
     },
     {
       "type": "action",
-      "description": "吕郭出"
+      "description": "二人出"
     }
   ]
 }

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -215,12 +216,12 @@
         {
           "type": "line",
           "line": "那就无需再忍，老谢这次可全靠你了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "一拳打在谢身上，谢倒地"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "一拳打在谢身上，谢倒地"
     },
     {
       "type": "dialog",

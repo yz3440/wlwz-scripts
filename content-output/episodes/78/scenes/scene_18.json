@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -151,17 +152,11 @@
         {
           "type": "line",
           "line": "后院呆着去"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "燕小六喝水"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "燕小六喝水"
+        },
         {
           "type": "line",
           "line": "别出声。"
@@ -452,7 +447,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你这个姓很好啊，很吉利啊，古代的时候有一个国家叫燕国，有一位英雄好汉叫燕青，有一种鸟类叫燕子，有一首歌唱得好啊：\"小燕子，穿花衣，年年春天来这里……\""
+          "line": "你这个姓很好啊，很吉利啊，古代的时候有一个国家叫燕国，有一位英雄好汉叫燕青，有一种鸟类叫燕子，有一首歌唱得好啊'小燕子，穿花衣，年年春天来这里……'"
         }
       ]
     },
@@ -547,7 +542,8 @@
           "line": "呀，秀才在吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "祝无双",
           "description": "无双示意不在"
         },
         {

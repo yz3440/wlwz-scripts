@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -25,19 +26,31 @@
         {
           "type": "line",
           "line": "$%&*#@#%……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "嘴堵着，小郭把小六嘴里的布扯掉"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "嘴堵着，小郭把小六嘴里的布扯掉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "刀呢，我的刀！谁看见我刀了，刀……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小小郭进来"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "啊？你……你还有胆子过来你？"
@@ -251,11 +264,17 @@
         {
           "type": "line",
           "line": "你想抓我你就抓吧，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小郭拦着"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭拦着"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
         {
           "type": "line",
           "line": "让传说中的燕捕头为我的江湖行划上一个圆满的句点，我死也值了。"

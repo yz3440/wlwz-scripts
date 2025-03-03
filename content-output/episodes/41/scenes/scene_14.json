@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -229,11 +230,17 @@
         {
           "type": "line",
           "line": "哎呀妈呀，蕙兰呀！——都出去，出去！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对小贝"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "对小贝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "——还有你，还矫情，我看你就够矫情了，蕙兰——"

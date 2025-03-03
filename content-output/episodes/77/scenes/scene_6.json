@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -136,7 +137,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉",
+      "speaker": "谢步东",
       "performances": [
         {
           "type": "line",
@@ -402,7 +403,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "报复谁呀？小贝呀？这怎么可能呢？"
+          "line": "报复谁呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "小贝呀？这怎么可能呢？"
         },
         {
           "type": "speaker-action",
@@ -559,7 +568,8 @@
           "line": "住口，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才咬手指头"
         },
         {
@@ -567,7 +577,8 @@
           "line": "我怎么办案还得你教我啊？出去，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才刚走两步"
         },
         {
@@ -575,7 +586,8 @@
           "line": "回来"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "迅速回来坐下"
         },
         {
@@ -975,7 +987,8 @@
           "line": "你自己叫去，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "谢步东",
           "description": "谢拿出刀放在桌上，大嘴堆笑"
         },
         {

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -49,17 +50,12 @@
         {
           "type": "line",
           "line": "掌柜的你找我有事啊？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "佟湘玉惊"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "湘玉惊"
+        },
         {
           "type": "line",
           "line": "我刚才从外面回来，你这个店不是要卖掉吗？我就提前出去看一看，喔哟，现在的工作真是好难找啊，普普通通的一个杂役，排了好长好长的队，现在的世道真是很艰辛哦。"
@@ -86,7 +82,7 @@
         },
         {
           "type": "line",
-          "line": "那我就提前谢谢你喽，就算以后我不在这里干了，我的心还是和大家在一起的啊。972"
+          "line": "那我就提前谢谢你喽，就算以后我不在这里干了，我的心还是和大家在一起的啊。"
         }
       ]
     },

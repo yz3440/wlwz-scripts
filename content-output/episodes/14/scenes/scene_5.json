@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -155,13 +156,7 @@
         {
           "type": "speaker-action",
           "description": "对小六"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
+        },
         {
           "type": "line",
           "line": "快结案了。"
@@ -394,7 +389,7 @@
     },
     {
       "type": "action",
-      "description": "老邢叫\"啊\""
+      "description": "老邢叫'啊'"
     },
     {
       "type": "dialog",

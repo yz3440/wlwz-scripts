@@ -3,6 +3,7 @@
   "rawDescription": "【房顶，夜】",
   "location": "房顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -121,17 +122,12 @@
         {
           "type": "line",
           "line": "你想啊，如果她喜欢你，你求了她，她一同意，那不皆大欢喜？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "秀才点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才点头"
+        },
         {
           "type": "line",
           "line": "她要是不喜欢你，你求了，大不了你就挨顿骂，你又能损失什么呀？"

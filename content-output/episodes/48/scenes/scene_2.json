@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -263,12 +264,12 @@
         {
           "type": "line",
           "line": "一定要乖啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "撞墙上了，湘玉笑"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "撞墙上了，湘玉笑"
     }
   ]
 }

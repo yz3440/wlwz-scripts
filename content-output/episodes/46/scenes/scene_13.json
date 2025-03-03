@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -95,7 +96,13 @@
         {
           "type": "line",
           "line": "哦——和少女。莫掌门这份豪气不让乃兄，大吉大利。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "外面乌鸦叫，岳松涛抛筷子把乌鸦扎了下来"

@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -109,11 +110,17 @@
         {
           "type": "line",
           "line": "吃完饭再说。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老白要点"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白要点"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "吃完饭我保证说。"
@@ -209,7 +216,13 @@
         {
           "type": "line",
           "line": "唉呀，那你为什么还"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "干什么呀？"
@@ -223,7 +236,13 @@
         {
           "type": "line",
           "line": "坐、坐。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "我当时装晕，是想把南宫吓跑。后来再装晕。是因为展堂，我才躺了一天，他就说了好多甜言蜜语，比我这辈子听到的都要多。"
@@ -307,7 +326,13 @@
         {
           "type": "line",
           "line": "我说的，那我先去睡了啊。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "外面就交给你了啊，两个月，月薪照发，啊！"
@@ -321,17 +346,12 @@
         {
           "type": "line",
           "line": "喂喂喂，不会吧？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "佟湘玉躺倒"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "佟湘玉躺倒"
+        },
         {
           "type": "line",
           "line": "摊上你这么个掌柜的，不知道是福还是祸？"

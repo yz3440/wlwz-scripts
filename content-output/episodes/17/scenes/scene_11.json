@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -147,7 +148,8 @@
           "line": "我还就不信了，排山倒……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "周敦儒,祝小芸",
           "description": "二人拔剑"
         },
         {

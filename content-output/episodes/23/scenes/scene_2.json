@@ -3,6 +3,7 @@
   "rawDescription": "【厨房，昼】",
   "location": "厨房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -79,8 +80,12 @@
       "speaker": "李大嘴",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "嘘"
+        },
+        {
           "type": "line",
-          "line": "嘘——其时也不能算是私盐，那是他自个儿挖的，他家上面有背景。"
+          "line": "其时也不能算是私盐，那是他自个儿挖的，他家上面有背景。"
         }
       ]
     },

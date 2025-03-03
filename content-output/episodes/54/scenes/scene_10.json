@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -36,7 +37,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -56,7 +57,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -76,7 +77,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -136,7 +137,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -156,7 +157,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -171,17 +172,11 @@
         {
           "type": "line",
           "line": "还愣着干吗，赶紧追呀！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人不动"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人不动"
+        },
         {
           "type": "line",
           "line": "怎么的，我说话不好使啊？"
@@ -190,7 +185,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -210,7 +205,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -230,7 +225,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -250,7 +245,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -399,12 +394,12 @@
         {
           "type": "line",
           "line": "对，化个女妆。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "疯狂抹粉"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "疯狂抹粉"
     },
     {
       "type": "dialog",
@@ -422,7 +417,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "不浓不行啊，他们有巡犬，能闻出来，一定要多喷点粉，否则123一闻就打喷嚏啊。"
+          "line": "不浓不行啊，他们有巡犬，能闻出来，一定要多喷点粉，否则 123 一闻就打喷嚏啊。"
         }
       ]
     },
@@ -452,7 +447,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "123是谁？"
+          "line": "123 是谁？"
         }
       ]
     },
@@ -462,7 +457,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "123就是……我说123你就闭嘴，否则我打掉你的牙！把眼睛也闭上。化个女妆啊，一会把我的衣服穿上，帽子……"
+          "line": "123 就是……我说 123 你就闭嘴，否则我打掉你的牙！把眼睛也闭上。化个女妆啊，一会把我的衣服穿上，帽子……"
         }
       ]
     }

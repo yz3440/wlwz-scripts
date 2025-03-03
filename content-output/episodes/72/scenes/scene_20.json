@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -209,7 +210,8 @@
           "line": "你说了实话啊？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "白点头"
         },
         {

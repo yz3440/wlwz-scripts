@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -20,9 +21,13 @@
       "performances": [
         {
           "type": "line",
-          "line": "老钱。来了。"
+          "line": "老钱。"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "来了。"
     },
     {
       "type": "dialog",

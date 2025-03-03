@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -125,7 +126,8 @@
           "line": "有地契，还有几十两银子"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭无奈"
         },
         {

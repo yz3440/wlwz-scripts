@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -101,11 +102,17 @@
         {
           "type": "line",
           "line": "是啊，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "谢捕头进来了"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢捕头进来了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "又要开始了。"
@@ -119,27 +126,45 @@
         {
           "type": "line",
           "line": "两位，好消息，我已经仔细的打探过了，这个案子，一定是西凉河上的河盗干的，我们已经安排了卧底，不出三个月，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老白推他出门，关门"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白推他出门，关门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
         {
           "type": "line",
           "line": "不出三个月，肯定能水落石出的，没说完呢。我跟你们说，那个钱准备得怎么样了？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老白上门板"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白上门板"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
         {
           "type": "line",
           "line": "钱准备怎么样了？我给你们打听了，那个衡阳最低的那个高利贷才两分利，不设上限，不收抵押，真的，我可以担保，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "掌柜的帮老白铺被"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的帮老白铺被"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
         {
           "type": "line",
           "line": "钱柜的那些老板我都熟，领班我也认识，就是不让自带酒水，歌随便点不收服务费，酒水不让带，但是可以提我啊，提我可以打折的，把门开开，咱们好好商量，买卖不成仁义在……"

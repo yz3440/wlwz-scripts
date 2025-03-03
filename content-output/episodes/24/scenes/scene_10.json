@@ -3,6 +3,7 @@
   "rawDescription": "【街口，昼】",
   "location": "街口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -170,7 +171,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "不掌柜的救命！"
+          "line": "掌柜的救命！"
         }
       ]
     },

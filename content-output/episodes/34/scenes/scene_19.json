@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -10,8 +11,14 @@
       "performances": [
         {
           "type": "line",
-          "line": "排山倒海„！排山倒海„！"
-        },
+          "line": "排山倒海…！排山倒海…！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "吓到食客"
@@ -28,7 +35,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "小郭姐姐？小郭姐姐！你什么时候回来的？我想„我可想死你啦！"
+          "line": "小郭姐姐？小郭姐姐！你什么时候回来的？我想…我可想死你啦！"
         }
       ]
     },
@@ -102,7 +109,7 @@
         },
         {
           "type": "line",
-          "line": "你„你„你„？"
+          "line": "你…你…你…？"
         }
       ]
     },
@@ -212,7 +219,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "对„对„对不起……芙妹——无双！无双„无双„你听我解释……！"
+          "line": "对…对…对不起……芙妹——无双！无双…无双…你听我解释……！"
         }
       ]
     },
@@ -242,7 +249,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "这„这跟我有什么关系？"
+          "line": "这…这跟我有什么关系？"
         }
       ]
     },

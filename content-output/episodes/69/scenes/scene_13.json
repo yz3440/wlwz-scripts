@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -83,11 +84,17 @@
         {
           "type": "line",
           "line": "把筷子放下，碗也放下。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对小郭"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "对小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "我帮你盛，省得你把肉都挑光了。"
@@ -135,11 +142,17 @@
         {
           "type": "line",
           "line": "再给你一个。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "大家一抬头看到无双"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家一抬头看到无双"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "无双。"
@@ -163,11 +176,17 @@
         {
           "type": "line",
           "line": "都等你吃饭呢。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "看了看手上的碗"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "看了看手上的碗"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "这个碗是小郭的。"
@@ -181,11 +200,17 @@
         {
           "type": "line",
           "line": "这个碗是掌柜的自己的，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拿起一个碗"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿起一个碗"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "我的碗在这里呀。"
@@ -203,11 +228,17 @@
         {
           "type": "line",
           "line": "郭芙蓉，我回头再跟你算帐。无双你坐啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "到柜台那儿"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "到柜台那儿"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "专门给你准备了蛋饺。"
@@ -325,12 +356,12 @@
         {
           "type": "line",
           "line": "是啊，不过很可惜，不是第一个。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "起身走向后院"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "起身走向后院"
     },
     {
       "type": "dialog",

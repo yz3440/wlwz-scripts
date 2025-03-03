@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -120,7 +121,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "就凭你那句，\"哎呀，就这一点银子，留着以后娶媳妇啦\"。"
+          "line": "就凭你那句，\n'哎呀，就这一点银子，留着以后娶媳妇啦'\n。"
         }
       ]
     },

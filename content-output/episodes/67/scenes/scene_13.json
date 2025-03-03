@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -149,7 +150,8 @@
           "line": "即使他不允许咱们俩在一起？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才语塞"
         },
         {
@@ -255,7 +257,8 @@
           "line": "爹……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才晕过去，小郭和展堂迅速拽起来"
         },
         {
@@ -269,8 +272,8 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "冲秀才小声说"
+          "type": "speaker-action",
+          "description": "冲秀才小声说"
         },
         {
           "type": "line",
@@ -509,7 +512,8 @@
           "line": "她都说我什么啊？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭在后面摆手"
         }
       ]
@@ -557,7 +561,8 @@
           "line": "没人教自学成材……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人咳"
         },
         {
@@ -565,7 +570,8 @@
           "line": "子曾经曰过……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人继续咳"
         },
         {
@@ -661,7 +667,8 @@
           "line": "烂"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才倒在桌子上~"
         }
       ]

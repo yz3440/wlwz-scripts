@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -75,7 +76,13 @@
         {
           "type": "line",
           "line": "哎呀，湘玉嘛，你听我说嘛，回头到了京城，我给你再开一家比这个大十倍，大一百倍的店子嘛！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
         {
           "type": "line",
           "line": "烧，我要烧掉它，"
@@ -97,17 +104,12 @@
         {
           "type": "line",
           "line": "呵呵呵~没有油你怎么能点，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "佟湘玉掐老邢"
-    },
-    {
-      "type": "dialog",
-      "speaker": "邢育森",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "佟湘玉掐老邢"
+        },
         {
           "type": "line",
           "line": "啊！哎哎哎~。"
@@ -161,21 +163,22 @@
         {
           "type": "line",
           "line": "嘿嘿，直接用酒嘛，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "湘玉倒"
+        },
+        {
+          "type": "line",
+          "line": "比油快多了，哎快，你也拿一坛酒，拿那边，那边，到处把它烧光，"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉倒"
     },
     {
       "type": "dialog",
       "speaker": "包大仁",
       "performances": [
-        {
-          "type": "line",
-          "line": "比油快多了，哎快，你也拿一坛酒，拿那边，那边，到处把它烧光，"
-        },
         {
           "type": "line",
           "line": "嘿嘿。"
@@ -189,7 +192,13 @@
         {
           "type": "line",
           "line": "住手！你要是敢点，我就咬死你！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "！"
@@ -243,21 +252,22 @@
         {
           "type": "line",
           "line": "哎呀，没所谓的啦，我身上还装着曹公公往来的书信呢，怕个鬼呀？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉和老邢",
+          "description": "佟湘玉和老邢大笑"
+        },
+        {
+          "type": "line",
+          "line": "你笑什么？怎么回事啊？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "佟湘玉和老邢大笑"
     },
     {
       "type": "dialog",
       "speaker": "包大仁",
       "performances": [
-        {
-          "type": "line",
-          "line": "你笑什么？怎么回事啊？"
-        },
         {
           "type": "line",
           "line": "你们俩都笑个鬼呀？"
@@ -271,17 +281,12 @@
         {
           "type": "line",
           "line": "出来吧！快点儿出来吧！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人楼上出"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人楼上出"
+        },
         {
           "type": "line",
           "line": "我不用去京城啦！我们有新的物证啦！耶！"
@@ -314,7 +319,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你竟然骗我！你骗„"
+          "line": "你竟然骗我！你骗…"
         }
       ]
     },

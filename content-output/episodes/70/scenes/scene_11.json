@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -497,17 +498,12 @@
         {
           "type": "line",
           "line": "我是反对。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭拿过碗给老白一些"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭拿过碗给老白一些"
+        },
         {
           "type": "line",
           "line": "我主要怕她耍心眼！江湖险恶，不得不防啊！"

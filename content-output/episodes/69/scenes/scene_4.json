@@ -3,6 +3,7 @@
   "rawDescription": "【厨房，昼】",
   "location": "厨房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -161,12 +162,12 @@
         {
           "type": "line",
           "line": "李大嘴！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把信往他腰带里塞，老白进，掌柜的把信藏在身后"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "把信往他腰带里塞，老白进，掌柜的把信藏在身后"
     },
     {
       "type": "dialog",
@@ -189,12 +190,13 @@
         {
           "type": "line",
           "line": "哎，老白你来的正好，这封信你帮我念念"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白伸手去拿"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "老白伸手去拿"
     },
     {
       "type": "dialog",
@@ -217,12 +219,13 @@
         {
           "type": "line",
           "line": "谁掺和了，信里写啥呀？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "湘玉拍了他手一下"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉拍了他手一下"
     },
     {
       "type": "dialog",
@@ -267,10 +270,6 @@
           "line": "不跟你俩废话咧。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1040"
     },
     {
       "type": "dialog",
@@ -357,17 +356,12 @@
         {
           "type": "line",
           "line": "大嘴，大嘴，麻烦你帮帮忙，帮我拿一下。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大嘴接过盆，还在不停的唠叨"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴接过盆，还在不停的唠叨"
+        },
         {
           "type": "line",
           "line": "点穴手！"

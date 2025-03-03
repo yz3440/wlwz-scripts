@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -191,12 +192,12 @@
         {
           "type": "line",
           "line": "这我早找好了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍手"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "拍手"
     },
     {
       "type": "dialog",
@@ -219,17 +220,11 @@
         {
           "type": "line",
           "line": "邱小冬……三年二班邱小冬……请来我处领取绝版教科一套。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "邱小冬探出头被小贝拎出来"
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "邱小冬探出头被小贝拎出来"
+        },
         {
           "type": "line",
           "line": "给我过去。"

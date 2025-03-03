@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -335,7 +336,13 @@
         {
           "type": "line",
           "line": "这跟我有什么关系啊？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "指吴"
@@ -462,11 +469,16 @@
       "performances": [
         {
           "type": "line",
-          "line": "干啥呢？喝吧。"
+          "line": "干啥呢？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吴守义",
           "description": "吴拿银子"
+        },
+        {
+          "type": "line",
+          "line": "喝吧。"
         }
       ]
     },

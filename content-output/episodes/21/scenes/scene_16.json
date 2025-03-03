@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -142,11 +143,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "怎么不是店里的人呐？人家天天在你店里吃饭不是店里人？小安！小李！小柳！小邓！小齐！大帅！小郭！还有老马！小马！又换衣服又调座位，生怕让人看出是熟脸，容易吗？这哥几个！"
+          "line": "怎么不是店里的人呐？人家天天在你店里吃饭不是店里人？"
         },
         {
           "type": "speaker-action",
           "description": "站起来指着食客"
+        },
+        {
+          "type": "line",
+          "line": "小安！小李！小柳！小邓！小齐！大帅！小郭！还有老马！小马！又换衣服又调座位，生怕让人看出是熟脸，容易吗？这哥几个！"
         }
       ]
     },
@@ -671,12 +676,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "走！"
-        },
-        {
           "type": "speaker-action",
           "description": "拉起莫"
+        },
+        {
+          "type": "line",
+          "line": "走！"
         }
       ]
     },
@@ -685,12 +690,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "走！"
-        },
-        {
           "type": "speaker-action",
           "description": "拉起燕"
+        },
+        {
+          "type": "line",
+          "line": "走！"
         }
       ]
     },

@@ -3,7 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -99,7 +99,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我说的是薪酬\"面\"谈！"
+          "line": "我说的是薪酬'面'谈！"
         }
       ]
     },
@@ -109,7 +109,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我写的就是\"免谈\"啊？"
+          "line": "我写的就是'免谈'啊？"
         }
       ]
     },
@@ -119,7 +119,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我说的\"面谈\"就是当面谈嘛！"
+          "line": "我说的'面谈'就是当面谈嘛！"
         }
       ]
     },

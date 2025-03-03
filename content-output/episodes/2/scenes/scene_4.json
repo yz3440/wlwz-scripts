@@ -1,0 +1,1295 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就来啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！这怎么办？小贝小贝，你就说我病了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么病？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "中风？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "扶头，作难受状"
+        },
+        {
+          "type": "line",
+          "line": "中风中风，我中风——（突然）中风什么症状？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鼻歪眼斜"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "接下来，小郭按小贝描述的做"
+        },
+        {
+          "type": "line",
+          "line": "，半身不遂，大小便失禁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这怎么装吗！不行不行，前两项还可以，后一项太难了，你换一个轻点儿的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "轻点儿的，那就伤风好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "伤风好，伤风……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "咳嗽"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这也太假了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开门开门，再不开我可踹了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好！知道啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "解小贝腰带"
+        },
+        {
+          "type": "line",
+          "line": "小贝，小贝，来来来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干吗呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这样逼真一点"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把腰带系头上"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开门，开门，我真踹了啊！我数三个数，一，二，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭，拍打自己的脸"
+        },
+        {
+          "type": "line",
+          "line": "二点五，二点八，三！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭躺下，老白掌柜推门而入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋还睡着呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐伤风了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，姐姐没事儿，就是有点发烧而已"
+        },
+        {
+          "type": "reaction",
+          "reactor": "莫小贝",
+          "description": "小贝摸小郭额头"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "发烧就发烧还而已？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不信你摸啊"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "掌柜摸小郭额头"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，还真是有点儿烫。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看看，这家伙脸都烧红了，头晕不晕啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还好吧，就是觉得有点耳鸣，有时候还想吐"
+        },
+        {
+          "type": "speaker-action",
+          "description": "要吐"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把掌柜拉到一边"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，不是有了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说啥呢！人家是黄花大闺女"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到小郭面前"
+        },
+        {
+          "type": "line",
+          "line": "。小郭——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就是想多睡一会儿，可不可以啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可以，都烧成这样，脸都烧红了，要不看医生还不活活烧成个傻子了。来，走走走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，不用了，不用了吧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妹子，你放心，医药费我全包了，花多少算多少我绝不含糊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这我倒是不担心，其实，我这个病是老毛病了，平时不能受累，一受累吧就得犯病。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你咋不早说嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也不是什么大病，多休息两天，弄点好吃好喝的，也就恢复过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你确定不需要看大夫了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定！你放心吧，我能挺得住的"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头看老白，老白眉头紧缩"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你好好休息啊，想吃啥，就跟姐说啊，再贵的东西我都让他们给你买去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用不用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身走了，对老白"
+        },
+        {
+          "type": "line",
+          "line": "，走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，要是有刚出炉的新鲜瓜子，就给我买两斤吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两斤？你吃了不怕上火呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就叫以毒攻毒，以火灭火，你快去啊"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白转身就走"
+        },
+        {
+          "type": "line",
+          "line": "，哎哎哎，必须是太原的薄皮瓜子，炒之前多放点儿大料，还有福州的桂皮和成都的花椒"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "掌柜盯着小郭看"
+        },
+        {
+          "type": "speaker-action",
+          "description": "咳咳咳"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的帮着小郭拍背"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对小贝"
+        },
+        {
+          "type": "line",
+          "line": "去把壶拿来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是夜壶不是茶壶。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭吐了一地的瓜子皮，小贝进来，小郭立刻装病"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没关系，我挺得主挺得住！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别装啦，是我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "恢复常态"
+        },
+        {
+          "type": "line",
+          "line": "拜托你下次进来之前先敲门行不行！哎呀，赶紧关门！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝去关门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐，你想躺到多久啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个嘛，看情况吧。初步定在八九月份。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "磕瓜子"
+        },
+        {
+          "type": "line",
+          "line": "八九月份？现在才二月份！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我现在必须要休息，你就再容我歇两天嘛，看我成天被他们呼来喝去的，从早忙到晚，连晚饭都不给吃，我容易么我！去，给倒杯热茶去啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己不会倒啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是个病人嘛"
+        },
+        {
+          "type": "reaction",
+          "reactor": "莫小贝",
+          "description": "小贝生气得看小郭"
+        },
+        {
+          "type": "line",
+          "line": "！不倒算啦，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭起床"
+        },
+        {
+          "type": "line",
+          "line": "自己动手，吃喝管饱。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭下床喝茶，掌柜进门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭被吓的呛到"
+        },
+        {
+          "type": "line",
+          "line": "！咋起来了，躺下躺下躺下，你也是的，有啥事儿就喊一声吗，让他们帮你做嘛！还非要自己动手，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "端着茶碗和馒头走过来"
+        },
+        {
+          "type": "line",
+          "line": "还有你"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小贝"
+        },
+        {
+          "type": "line",
+          "line": "，这么大的人了，连一点眼力见都没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你不要怪小贝，她还是个孩子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "孩子也不行，过来"
+        },
+        {
+          "type": "speaker-action",
+          "description": "招呼小贝"
+        },
+        {
+          "type": "line",
+          "line": "，你明明知道小郭姐姐身子虚，下不了地。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的，刚才不是下得挺好的吗"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭咳"
+        },
+        {
+          "type": "line",
+          "line": "！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝，嫂子平时怎么教你的？对待病人，要像什么啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "嘴里的瓜子不停"
+        },
+        {
+          "type": "line",
+          "line": "对待病人要像春天一样温暖啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可她不是病人"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭继续咳嗽"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看，看到了吧，本来没有咳嗽，也活活被你气出咳嗽了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到小郭身边"
+        },
+        {
+          "type": "line",
+          "line": "你不要紧吧？来来来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然如此，就别怪我不客气啦，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "往小郭那边走"
+        },
+        {
+          "type": "line",
+          "line": "嫂子，小郭姐姐的病……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抢到小贝前面说"
+        },
+        {
+          "type": "line",
+          "line": "已经好了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要担心，你的活他们已经帮你干了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，那就好，那就好，咳咳……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "安心养病啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好什么好啊，她的病——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的好了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿掌柜的手"
+        },
+        {
+          "type": "line",
+          "line": "！不信你摸……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝没好气地看着小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好像不烧了，还咳嗽个啥嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我瓜子吃多了，齁着了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就不要吃了嘛，你先再休息一下啊，我去通知一下他们，让他们不要干活了把活给你留着啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "往外走"
+        },
+        {
+          "type": "line",
+          "line": "两斤的瓜子磕出八斤的皮，你是咋磕的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "面露痛苦"
+        },
+        {
+          "type": "line",
+          "line": "给我留着？以为这样就能拿住我了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "经典的八字手势"
+        },
+        {
+          "type": "line",
+          "line": "？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你想干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再找点症状喽，我警告你啊你要再敢出卖我，小心我"
+        },
+        {
+          "type": "speaker-action",
+          "description": "装出要拍小贝"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝吼叫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘嘘嘘，行了行了，你就再容我歇两天嘛就两天啊，后天一早准时上岗。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝在一边吃瓜子，小郭拿针扎破自己的手，小贝做出怪异的表情"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟我斗~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不就偷个懒吗，你至于这样吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把血涂到手绢上"
+        },
+        {
+          "type": "line",
+          "line": "敢情不是你受累呀！那么大地方都一个人扫，那么多桌子都是你一个人擦，还有锅碗瓢盆，床单被褥"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "外面有人敲门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳咳，请进……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的叫你把桌椅板凳重新归置一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一边咳嗽一边下床"
+        },
+        {
+          "type": "line",
+          "line": "好的，我知道了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的病不是好了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，好了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "捂着使劲地一咳，把有血的部分露出来给秀才看"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你咳出来的？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿我能挺得住，我能……咳咳……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你确定吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定，咳咳咳"
+        },
+        {
+          "type": "speaker-action",
+          "description": "越咳越厉害"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你等会儿，我这就帮你叫人去啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑出去"
+        },
+        {
+          "type": "line",
+          "line": "……人呢，人都到哪去啦"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭观察变化"
+        },
+        {
+          "type": "line",
+          "line": "？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也不怕咳死。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳死总比累死强。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呆会儿大夫来了，我看你咋办。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭冲着小贝咳，小贝拿瓜子扔她"
+    }
+  ]
+}

@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -65,16 +66,28 @@
       "description": "佟走到梳妆台，拿出首饰"
     },
     {
-      "type": "action",
-      "description": "找胭脂呢"
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找胭脂呢"
+        }
+      ]
     },
     {
       "type": "action",
       "description": "掌柜的又拿出胭脂"
     },
     {
-      "type": "action",
-      "description": "找古董花瓶——找啥都忘了。"
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找古董花瓶——找啥都忘了。"
+        }
+      ]
     },
     {
       "type": "action",

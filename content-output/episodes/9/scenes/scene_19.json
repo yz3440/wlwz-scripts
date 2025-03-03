@@ -1,0 +1,182 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝洗衣服"
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Good night welcome，Good night 谢谢，Good night sorry！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，你姑奶不早入土了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么呢你，干活去！Good night！欢迎光临平谷飞龙影视基地……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，什么是影视基地呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就就是拍电视剧的地儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么是电视剧啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "电视剧你不知道啊？——去，装什么傻啊，干你的活！哎，你干嘛呢你，你还不赶快把灶火给扇旺点儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有扇子没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没扇子你不会用嘴吹啊？没脑子！哎哎哎，先把衣服给我拧干了，再敢丢三拉四的我炒了你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃人是犯法的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么乱七八糟的，干……干活"
+        },
+        {
+          "type": "reaction",
+          "reactor": "莫小贝",
+          "description": "小贝哭"
+        },
+        {
+          "type": "line",
+          "line": "！Good night sorry，刚才的话说重了啊，别哭别哭，Good night welcome……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "喻恩泰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂，说你呢，叫碗汤圆怎么半天都不上来啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起啊，我给忘了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "重下一碗知道吧，喂郭小姐吃下去！少吃一个你晚上甭吃饭了，快去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姜 超",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么脑子啊，Good night sorry，Good night welcome……welcome 平谷飞龙影视基地……"
+        }
+      ]
+    }
+  ]
+}

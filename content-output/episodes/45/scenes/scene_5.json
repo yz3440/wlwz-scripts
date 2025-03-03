@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -249,18 +250,19 @@
           "line": "好，乖，回去睡吧啊！好好……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉满意地走了，白展堂掏出牌子"
         },
         {
           "type": "line",
           "line": "别生气啊，我对她呀，是逢场作戏，对你才是真心的。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "亲牌子"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "亲牌子"
     }
   ]
 }

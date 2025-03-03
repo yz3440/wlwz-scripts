@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -11,6 +12,10 @@
         {
           "type": "line",
           "line": "老刑？咋了这是？——老白，过来。老刑说啥呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白听"
         }
       ]
     },
@@ -18,10 +23,6 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "凑近老邢听"
-        },
         {
           "type": "line",
           "line": "这不是清汤面，这不是清汤面。"

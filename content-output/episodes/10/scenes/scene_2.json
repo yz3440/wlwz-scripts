@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -79,16 +80,12 @@
       "speaker": "邢育森",
       "performances": [
         {
-          "type": "line",
-          "line": "过来，过来"
-        },
-        {
           "type": "speaker-action",
           "description": "抽出小六腰间锁呐"
         },
         {
           "type": "line",
-          "line": "！这是什么？啊？你是捕快，还是送亲的？你要那么爱吹，你干脆回老家，好好吹去，好好吹去，啊？让你一次吹个够，吹个够！"
+          "line": "过来，过来！这是什么？啊？你是捕快，还是送亲的？你要那么爱吹，你干脆回老家，好好吹去，好好吹去，啊？让你一次吹个够，吹个够！"
         }
       ]
     },
@@ -141,7 +138,8 @@
           "line": "想办案？好啊，扎个马步我看看，扎个，看看"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "小六扎了个姿式奇特的马步"
         },
         {

@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -524,7 +525,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -544,7 +545,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -569,11 +570,17 @@
         {
           "type": "line",
           "line": "反正都差不多嘛！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拉展堂"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拉展堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
         {
           "type": "line",
           "line": "先坐先坐。你呀，就先别急着走，等他伤痊愈了再说。多住两天嘛。"
@@ -582,7 +589,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -149,17 +150,12 @@
         {
           "type": "line",
           "line": "有区别吗？你知道为嘛把他们全放走，把你单独留下？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "秀才摇头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才摇头"
+        },
         {
           "type": "line",
           "line": "是因为你作案的嫌疑最大！"
@@ -187,20 +183,26 @@
         {
           "type": "line",
           "line": "站住，别逼我拔刀！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "秀才急忙又回来"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才急忙又回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "我跟你说，老老实实的把犯罪嫌疑全都讲清楚，你爱去哪去哪，没人管你。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "倒着嘬烟袋"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "倒着嘬烟袋"
     },
     {
       "type": "dialog",
@@ -299,12 +301,12 @@
         {
           "type": "line",
           "line": "我可怜的大嘴呀！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "趴磨盘上哭"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "趴磨盘上哭"
     },
     {
       "type": "dialog",

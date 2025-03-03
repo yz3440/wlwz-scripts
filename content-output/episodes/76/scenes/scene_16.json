@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -17,7 +18,8 @@
           "line": "来了来了。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "祝无双",
           "description": "无双上前"
         },
         {
@@ -77,7 +79,8 @@
           "line": "咱俩一比呀，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "李大嘴",
           "description": "大嘴倒水"
         },
         {
@@ -109,8 +112,9 @@
           "line": "没有啊，自家姐妹，"
         },
         {
-          "type": "speaker-action",
-          "description": "众人附和"
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "附和"
         },
         {
           "type": "line",
@@ -141,7 +145,8 @@
       "speaker": "祝无双",
       "performances": [
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭拉无双"
         },
         {

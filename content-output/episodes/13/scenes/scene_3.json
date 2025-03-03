@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -16,7 +17,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "",
       "performances": [
         {
           "type": "speaker-action",

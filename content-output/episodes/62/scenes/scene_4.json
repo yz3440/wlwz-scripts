@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -13,12 +14,28 @@
       "speaker": "佟、白",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "同时"
+        },
+        {
           "type": "line",
-          "line": "你还没睡？——你不也没睡？——你冷么？你饿了么？"
+          "line": "你还没睡？——你不也没睡？——"
         },
         {
           "type": "speaker-action",
-          "description": "同时"
+          "description": "白"
+        },
+        {
+          "type": "line",
+          "line": "你冷么？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "佟"
+        },
+        {
+          "type": "line",
+          "line": "你饿了么？"
         }
       ]
     },

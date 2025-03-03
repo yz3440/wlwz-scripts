@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -283,16 +284,12 @@
       "speaker": "吕秀才",
       "performances": [
         {
-          "type": "line",
-          "line": "那你就……呆着呗，闲着没事儿你就唱两句。"
-        },
-        {
           "type": "speaker-action",
           "description": "唱"
         },
         {
           "type": "line",
-          "line": "原来你，什么都不想要……唱着唱着，真的。"
+          "line": "那你就……呆着呗，闲着没事儿你就唱两句。原来你，什么都不想要……唱着唱着，真的。"
         }
       ]
     },

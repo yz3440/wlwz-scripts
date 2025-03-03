@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -217,17 +218,12 @@
         {
           "type": "line",
           "line": "厄，呵呵，是男的，呵呵，翻至第四页，啊，找到了找到了，你喜欢已婚的还是未婚的呢？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "无双皱眉"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "祝无双",
+          "description": "无双皱眉"
+        },
         {
           "type": "line",
           "line": "当然应该是未婚的吧，厄，翻至第八页，啊哈哈，找到了找到了，你喜欢文的还是武的还是文武双全的呢？"
@@ -270,7 +266,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "厄，这个\"夫\"字就是个感叹此而已，没有什么实际意义呀，选夫选夫，就是选呗选呗！"
+          "line": "厄，这个'夫'字就是个感叹此而已，没有什么实际意义呀，选夫选夫，就是选呗选呗！"
         }
       ]
     },

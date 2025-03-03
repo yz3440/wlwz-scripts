@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -267,7 +268,8 @@
           "line": "小六现在行了，可以用成语啦"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "小六转身一瞪"
         },
         {
@@ -283,17 +285,12 @@
         {
           "type": "line",
           "line": "时间地点都说了吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "无双点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "祝无双",
+          "description": "无双点头"
+        },
         {
           "type": "line",
           "line": "下面该说嘛了？"
@@ -435,17 +432,12 @@
         {
           "type": "line",
           "line": "这个问题嘛——"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人做准备打架状"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人做准备打架状"
+        },
         {
           "type": "line",
           "line": "呃……那个，看在往日的交情上就先不用捆了，本捕头法外开恩，可不要外传哟。"

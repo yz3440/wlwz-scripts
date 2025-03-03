@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -240,11 +241,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我药吃了，不信你闻。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "哈~"
+          "line": "我药吃了，不信你闻。哈~"
         }
       ]
     },

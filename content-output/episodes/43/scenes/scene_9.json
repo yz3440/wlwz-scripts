@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -141,12 +142,12 @@
         {
           "type": "line",
           "line": "我来，我来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掰馒头"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "掰馒头"
     },
     {
       "type": "dialog",
@@ -239,12 +240,12 @@
         {
           "type": "line",
           "line": "噢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉涂口红"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉涂口红"
     },
     {
       "type": "dialog",

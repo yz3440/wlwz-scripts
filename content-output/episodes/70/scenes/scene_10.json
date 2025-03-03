@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,10 +16,6 @@
         {
           "type": "line",
           "line": "哼哼，想帮她赎身啊，先给我个理由啊！"
-        },
-        {
-          "type": "line",
-          "line": "1061"
         }
       ]
     },

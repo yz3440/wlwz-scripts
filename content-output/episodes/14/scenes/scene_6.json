@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -239,7 +240,17 @@
         {
           "type": "line",
           "line": "亲娘咧，你还有作风问题啊？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白从门口进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
         {
           "type": "line",
           "line": "什么声音？"
@@ -250,10 +261,6 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "老白从门口进"
-        },
         {
           "type": "line",
           "line": "是我，嗓子坏啦，慢慢聊啊。"

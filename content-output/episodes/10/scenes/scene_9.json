@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，夜】",
   "location": "客栈外",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -10,7 +11,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "拿过来！"
+          "line": "拿过来 ！"
         }
       ]
     },
@@ -183,7 +184,13 @@
         {
           "type": "line",
           "line": "这么说，那套醉拳？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
         {
           "type": "line",
           "line": "亲娘咧，我以为奇迹会出现，哪有那么多的好事啊，武功是假的啊！"
@@ -350,7 +357,7 @@
         },
         {
           "type": "line",
-          "line": "不许你们说我师父！"
+          "line": "……不许你们说我师父！"
         }
       ]
     }

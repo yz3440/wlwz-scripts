@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -71,7 +72,13 @@
         {
           "type": "line",
           "line": "啊？为啥呀？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "哦，该！"
@@ -195,17 +202,11 @@
         {
           "type": "line",
           "line": "哎呀，你怕啥？有哥在。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "敲门声"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "敲门声"
+        },
         {
           "type": "line",
           "line": "你自己看着办啊。"

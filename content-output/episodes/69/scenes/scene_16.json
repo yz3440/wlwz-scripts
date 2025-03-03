@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，夜】",
   "location": "客栈门口",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -39,17 +40,12 @@
         {
           "type": "line",
           "line": "那封信，其确实不是我发的，是我让丫环发的，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉要发火"
-    },
-    {
-      "type": "dialog",
-      "speaker": "韩娟",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "湘玉",
+          "description": "湘玉要发火"
+        },
         {
           "type": "line",
           "line": "哎，你说好不生气的。"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -135,24 +136,25 @@
         {
           "type": "line",
           "line": "还敢吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "柳月云",
+          "description": "柳月云忙示弱"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "柳月云忙示弱"
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "从怀中掏出小包"
-        },
-        {
           "type": "line",
           "line": "你姐在下药之前，展堂早已把迷魂散掉了一个包，真正的迷魂散在这儿呢"
+        },
+        {
+          "type": "speaker-action",
+          "description": "从怀中掏出小包"
         }
       ]
     },
@@ -240,7 +242,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "她说：\"老郭啊，见着我儿子啦\""
+          "line": "她说'老郭啊，见着我儿子啦'"
         }
       ]
     },
@@ -268,7 +270,7 @@
         },
         {
           "type": "line",
-          "line": "你娘又说了：\"你闺女还是不肯回家呀\"。"
+          "line": "你娘又说了'你闺女还是不肯回家呀'。"
         }
       ]
     },
@@ -282,7 +284,7 @@
         },
         {
           "type": "line",
-          "line": "\"不回就不回吧，她的宝贝在那儿呢\"。"
+          "line": "'不回就不回吧，她的宝贝在那儿呢'。"
         }
       ]
     },
@@ -296,7 +298,7 @@
         },
         {
           "type": "line",
-          "line": "你娘又说了：\"我儿子的宝贝，也在那旮旯呢！\""
+          "line": "你娘又说了'我儿子的宝贝，也在那旮旯呢！'"
         }
       ]
     },
@@ -321,17 +323,16 @@
         {
           "type": "line",
           "line": "知道我的宝贝在哪儿吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "二柳惊，走到湘玉身边，搂住她"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "柳月云、柳星雨",
+          "description": "二柳惊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到湘玉身边，搂住她"
+        },
         {
           "type": "line",
           "line": "就是她，你偷得走吗？"

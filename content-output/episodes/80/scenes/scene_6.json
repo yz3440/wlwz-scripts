@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -73,31 +74,20 @@
         {
           "type": "line",
           "line": "十二岁啊，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人无语"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人无语"
+        },
         {
           "type": "line",
           "line": "十四岁。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人沉默"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "action",
+          "description": "众人沉默"
+        },
         {
           "type": "line",
           "line": "也有可能十六岁，我记不太清楚了。"
@@ -159,16 +149,18 @@
           "line": "还没有来得及喊非礼呀，嘴就被那个人堵上了。"
         },
         {
-          "type": "speaker-action",
-          "description": "掌柜的的嘴被老白堵住"
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白用手堵住掌柜的的嘴"
         },
         {
           "type": "line",
           "line": "我挣扎了两下，"
         },
         {
-          "type": "speaker-action",
-          "description": "掌柜的的喉咙被老白锁住"
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白锁住掌柜的的喉"
         },
         {
           "type": "line",
@@ -221,17 +213,12 @@
         {
           "type": "line",
           "line": "想许呀，人家倒是肯要啊。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白将抹布摔在桌上"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白将抹布摔在桌上"
+        },
         {
           "type": "line",
           "line": "要也不给，平生最讨厌捕快。"

@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -369,7 +370,8 @@
           "line": "不……六六六六……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "小六拔刀"
         },
         {

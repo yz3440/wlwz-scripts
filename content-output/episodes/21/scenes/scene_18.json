@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -180,9 +181,13 @@
       "performances": [
         {
           "type": "line",
-          "line": "\"葵花点穴手！\" 嗒嗒嗒~"
+          "line": "葵花点穴手！"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "嗒嗒嗒~"
     },
     {
       "type": "dialog",

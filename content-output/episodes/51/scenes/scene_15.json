@@ -3,6 +3,7 @@
   "rawDescription": "【街头，夜】",
   "location": "街头",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -488,7 +489,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "反正不管啥事，就一句话：\"放着我来\""
+          "line": "反正不管啥事，就一句话\"放着我来\""
         }
       ]
     },
@@ -496,10 +497,6 @@
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
-        {
-          "type": "line",
-          "line": ""
-        },
         {
           "type": "speaker-action",
           "description": "笑"

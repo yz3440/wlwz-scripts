@@ -1,0 +1,399 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "姬无命要把秀才扔进井里，老白前来制止"
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说你穷书生，你还挺沉，走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我扔井里。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这人还有气呢，咱不说好了不杀人嘛?"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这人见过我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "见过你的人多了，我还见过呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没说不让你动手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不就得了吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来人呐，杀人啦，来人啦"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂！你不想活了你啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姬呀！哥受累问你一句，咱是干啥的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "贼呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "贼，只管偷东西，杀人这事儿，是咱干的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他以后认出我咋办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打死也不承认。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大不了咱躲几年，反正干完这票以后，咱能歇几年。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行吧行吧，就按你说的办，走走走，搭把手，抬厨房去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人将秀才抬到厨房"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有人在吗？掌柜的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干这种事儿你怎么能放人进来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她特有钱，你看"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出郭芙蓉给的两锭银子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有人在吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了，这儿呢，进来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦，在这儿呢，有没有吃的呀？饿了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃的，吃的我这儿——"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白从后面点住了小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你去做饭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，交给我。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "姬无命扛起小郭进了厨房"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姬。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有蒙汗药吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别的没有，蒙汗药管饱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许杀人啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走吧走吧，没完没了你还！"
+        }
+      ]
+    }
+  ]
+}

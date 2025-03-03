@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -111,8 +112,13 @@
           "line": "祝无双，注意素质，我看好你哟！"
         },
         {
+          "type": "reaction",
+          "reactor": "祝无双",
+          "description": "无双翻白眼"
+        },
+        {
           "type": "speaker-action",
-          "description": "无双翻白眼，小六恢复天津调"
+          "description": "恢复天津调"
         },
         {
           "type": "line",
@@ -157,12 +163,13 @@
         {
           "type": "line",
           "line": "怎么样怎么样怎么样……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人的语气都有点急"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大伙的语气都有点急"
     },
     {
       "type": "dialog",

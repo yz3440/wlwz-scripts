@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -85,11 +86,17 @@
         {
           "type": "line",
           "line": "你问他呀！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "指老白"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "指老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
         {
           "type": "line",
           "line": "啥意思？"
@@ -151,11 +158,17 @@
         {
           "type": "line",
           "line": "这不是真的。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "掌柜瞪眼"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜瞪眼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "嘿嘿，你信吗？"
@@ -247,12 +260,12 @@
         {
           "type": "line",
           "line": "给我等着你！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "进门"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "进门"
     },
     {
       "type": "dialog",

@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -34,7 +35,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哦，秀才也睡了。啊，他没睡„不是，到底你睡没睡呀？"
+          "line": "哦，秀才也睡了。啊，他没睡…不是，到底你睡没睡呀？"
         }
       ]
     },
@@ -74,7 +75,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我数到三，你不吃我就倒了。一，二„我真的会倒的！"
+          "line": "我数到三，你不吃我就倒了。一，二…我真的会倒的！"
         }
       ]
     },
@@ -114,7 +115,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你过来吃了吃了„"
+          "line": "你过来吃了吃了…"
         }
       ]
     },
@@ -134,7 +135,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "既然如此„就罚你一个月不许吃饭！"
+          "line": "既然如此…就罚你一个月不许吃饭！"
         }
       ]
     },
@@ -294,7 +295,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "干嘛呀„"
+          "line": "干嘛呀…"
         }
       ]
     },
@@ -324,7 +325,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我，真的，不哭不哭不哭„我，我身体没事的，没关系，不哭啊。"
+          "line": "我，真的，不哭不哭不哭…我，我身体没事的，没关系，不哭啊。"
         }
       ]
     },
@@ -355,17 +356,11 @@
         {
           "type": "line",
           "line": "到底难不难受？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "二人点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "二人点头"
+        },
         {
           "type": "line",
           "line": "哎，这就对了。"
@@ -389,17 +384,11 @@
         {
           "type": "line",
           "line": "那刚才就算重新开始，怎么样啊？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "二人牵手"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "二人牵手"
+        },
         {
           "type": "line",
           "line": "哎哟，总算办完了一件事。哎哟，吃饭吃饭，我饿得受不了了。"
@@ -422,7 +411,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "讨厌„"
+          "line": "讨厌…"
         }
       ]
     }

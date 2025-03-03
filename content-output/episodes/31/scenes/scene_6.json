@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -109,45 +110,30 @@
         {
           "type": "line",
           "line": "呔，我来问你，困不困？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "秀才点头后又摇头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才点头后又摇头"
+        },
         {
           "type": "line",
           "line": "我要听实话。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "秀才点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才点头"
+        },
         {
           "type": "line",
           "line": "困就对了。说明你已经准备好了，下面咱们开始回忆。你初次见到小郭时的情景，想好就点头。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "秀才点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才点头"
+        },
         {
           "type": "line",
           "line": "直接选中！"

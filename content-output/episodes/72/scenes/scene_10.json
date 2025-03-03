@@ -3,17 +3,8 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
-    {
-      "type": "dialog",
-      "speaker": "Scene Number",
-      "performances": [
-        {
-          "type": "line",
-          "line": "1089"
-        }
-      ]
-    },
     {
       "type": "action",
       "description": "老白正准备睡觉，佟从楼主下来，拿着一床被子"
@@ -99,11 +90,17 @@
         {
           "type": "line",
           "line": "聊会儿。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "佟笑着坐到床上，老白抱过佟"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟笑着坐到床上，老白抱过佟"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "湘玉啊，你说我哪儿修来的福气啊，摊上你一个这么好的媳妇？"

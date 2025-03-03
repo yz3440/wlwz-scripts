@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -31,18 +32,20 @@
           "line": "小翠！"
         },
         {
+          "type": "reaction",
+          "reactor": "小翠",
+          "description": "小翠吓了一跳"
+        },
+        {
           "type": "line",
           "line": "小翠，口渴了。给我倒杯茶去！"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小翠",
+          "description": "小翠安下心来"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小翠吓了一跳"
-    },
-    {
-      "type": "action",
-      "description": "小翠安下心来"
     },
     {
       "type": "dialog",
@@ -195,11 +198,17 @@
         {
           "type": "line",
           "line": "对不起，我不卖了！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "转身走到床前"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "转身走到床前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
         {
           "type": "line",
           "line": "小翠，你好好休息，明天一早，跟本夫人一起上路啊！"

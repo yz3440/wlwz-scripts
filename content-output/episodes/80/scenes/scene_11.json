@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -141,17 +142,11 @@
         {
           "type": "line",
           "line": "你过来。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜的起身，走到桌前坐下，老白也坐下"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜的起身，走到桌前坐下，老白也坐下"
+        },
         {
           "type": "line",
           "line": "十年前你被一个黑衣大汉劫持过，对吧？"

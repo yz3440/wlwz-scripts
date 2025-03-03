@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -26,7 +27,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -60,7 +61,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -80,7 +81,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -104,7 +105,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -124,7 +125,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -204,7 +205,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -258,7 +259,7 @@
       "performances": [
         {
           "type": "speaker-action",
-          "description": "啪啪（扇老白）"
+          "description": "扇老白"
         },
         {
           "type": "speaker-action",
@@ -266,7 +267,11 @@
         },
         {
           "type": "line",
-          "line": "你是好样儿的。对不起了，老白，百姓的利益当然高于一切。"
+          "line": "你是好样儿的。"
+        },
+        {
+          "type": "line",
+          "line": "对不起了，老白，百姓的利益当然高于一切。"
         }
       ]
     },
@@ -276,7 +281,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "大嘴啊，全靠你了。"
+          "line": "大嘴呀，全靠你了。"
         }
       ]
     },
@@ -312,7 +317,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -346,17 +351,13 @@
       "performances": [
         {
           "type": "line",
-          "line": "还有谁？没人儿了，我不同意！"
+          "line": "还有谁？没人儿了，我不同意！！"
         }
       ]
     },
     {
-      "type": "action",
-      "description": "！"
-    },
-    {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

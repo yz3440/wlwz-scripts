@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -58,7 +59,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "关二爷不行，看人小六多厉害，关二爷那三个人对一个都打不过人吕布，换成小六，一个对三个。"
+          "line": "关二爷不行，看人小六多厉害，关二爷那三个人对一个都打不过人吕布，换成小六，一个对三个"
         }
       ]
     },
@@ -233,17 +234,12 @@
         {
           "type": "line",
           "line": "师父，虽说小六脑子不好使，但是还不是白痴，刚才那几项测试我一项都没通过，您知道为了嘛吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老邢点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "邢育森",
+          "description": "老邢点头"
+        },
         {
           "type": "line",
           "line": "师父，小六如果自己行的话，绝对不会留您的，师父！"

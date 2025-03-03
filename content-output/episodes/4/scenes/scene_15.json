@@ -1,0 +1,291 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭给大嘴娘捶背"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老太太，千万不要动气啊，为了这点事儿，就气坏了身子，多不值当呀！这么晚了，要不先回屋休息吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "对秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，扶老太太上楼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪也不去，你们先睡吧，我跟我儿有话说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们先回屋休息吧，我陪老太太坐一会儿。去吧去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，老太太先喝口茶啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白、大嘴回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没事儿，十三太保金钟罩。咱练的就是屁股。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "坐下，立刻跳起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "极其痛苦"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，咋的啦？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "给大嘴一个巴掌，把大嘴打的坐到了楼梯上，惨叫声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我都已经挨过打啦，娘！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是朝廷打的，这是为娘打的！你给我过来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，我再也不敢啦，娘，我再也不敢啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过来！以前娘跟你说的什么，说的什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打死也不能赌博——可娘，这回不是我想，是老白逼的，老白你说是不是你逼的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，是我逼的！咱这说是赌，其实也就是个玩儿。小赌怡情，大赌伤身，咱不就图一乐吗？是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "能不能让老身也跟着乐乐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的，大娘也有兴趣？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我儿子欠你那么多东西，总得有个交待吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别说了，你们一般都玩什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就是叶子，牌九，麻将啥的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大嘴娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就麻将好了，佟掌柜，能陪我们玩两局吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，我们店里严禁赌博。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱又不玩钱！小赌怡情，大赌才伤身呢！咱陪老人家玩玩，图个开心有啥的"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        },
+        {
+          "type": "line",
+          "line": "！哎哟……您说是不是？"
+        }
+      ]
+    }
+  ]
+}

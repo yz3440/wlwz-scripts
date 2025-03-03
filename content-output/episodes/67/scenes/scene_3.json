@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -64,7 +65,7 @@
         },
         {
           "type": "speaker-action",
-          "description": "学"
+          "description": "学糙话"
         },
         {
           "type": "line",
@@ -72,11 +73,12 @@
         },
         {
           "type": "speaker-action",
-          "description": "喝酒，小贝傻笑"
+          "description": "喝酒"
         },
         {
-          "type": "line",
-          "line": "噼噼~"
+          "type": "reaction",
+          "reactor": "莫小贝",
+          "description": "小贝傻笑"
         },
         {
           "type": "speaker-action",
@@ -283,17 +285,12 @@
         {
           "type": "line",
           "line": "姬无病的那个百花软筋散我这还剩了一点儿，你爹来了之后你就一喷，反正大家都没有力气呀，察觉不出来，然后我们再……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人瞪着她"
-    },
-    {
-      "type": "dialog",
-      "speaker": "祝无双",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人瞪着她"
+        },
         {
           "type": "line",
           "line": "我都说不说了嘛。"

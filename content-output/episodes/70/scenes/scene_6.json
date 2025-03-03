@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -119,7 +120,13 @@
         {
           "type": "line",
           "line": "麻的好啊，麻的透气而且手感相当不错的！这里面一定搀了丝我一摸就摸出来！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "那你头上插的这是什么？"
@@ -219,7 +226,8 @@
           "line": "哇塞，哇塞哇塞哇塞，你眼睛在泛光唉！该不会是戴了传说中的隐形眼睛吧？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "赛貂禅",
           "description": "赛的眼睛开始湿润"
         },
         {

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -364,7 +365,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "食 客",
+      "speaker": "食客",
       "performances": [
         {
           "type": "line",
@@ -595,7 +596,8 @@
           "line": "不好意思啊，我再练练加深印象。咳咳，干咳就是随声附和……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小六",
           "description": "小六呛到咳嗽"
         },
         {
@@ -814,7 +816,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -834,7 +836,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -884,7 +886,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -918,7 +920,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

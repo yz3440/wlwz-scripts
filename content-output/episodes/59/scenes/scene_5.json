@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -63,16 +64,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "老白，我能不能跟掌柜的单独待会啊？"
-        },
-        {
           "type": "speaker-action",
           "description": "哭状"
         },
         {
           "type": "line",
-          "line": "自从她睡过去以后，我一句话都没跟她说过。作为她的好姐妹，这心里头……"
+          "line": "老白，我能不能跟掌柜的单独待会啊？自从她睡过去以后，我一句话都没跟她说过。作为她的好姐妹，这心里头……"
         },
         {
           "type": "speaker-action",

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -205,17 +206,11 @@
         {
           "type": "line",
           "line": "你现在就去把你那帮弟兄喊过来，去呀！但凡有一个应声的，我就把我脑袋切下来给你当球踢。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老谢跑出门"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "老谢跑出门"
+        },
         {
           "type": "line",
           "line": "我跟你一块去！"

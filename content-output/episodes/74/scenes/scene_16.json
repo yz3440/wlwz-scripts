@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -179,7 +180,8 @@
           "line": "伸舌头也算客气？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "祝哭笑不得"
         }
       ]

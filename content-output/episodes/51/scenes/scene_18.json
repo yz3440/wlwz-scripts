@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -148,10 +149,6 @@
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        {
-          "type": "line",
-          "line": ""
-        },
         {
           "type": "speaker-action",
           "description": "吓得趴在地上"

@@ -3,6 +3,7 @@
   "rawDescription": "【街头，夜】",
   "location": "街头",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,12 +16,12 @@
         {
           "type": "line",
           "line": "同福客栈，大家伙儿保重！——好强的杀气！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "躲在街角"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "躲在街角"
     },
     {
       "type": "dialog",
@@ -287,12 +288,12 @@
         {
           "type": "line",
           "line": "你倒是打还是不打！要打我舍命陪着！不打进屋换一个去打！你呀，任意挑一个！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "恭长老欲进屋"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "恭长老欲进屋"
     },
     {
       "type": "dialog",

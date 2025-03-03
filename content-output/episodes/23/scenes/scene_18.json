@@ -3,6 +3,7 @@
   "rawDescription": "【屋顶，夜】",
   "location": "屋顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -235,12 +236,12 @@
         {
           "type": "line",
           "line": "我等这一天已经很久了，我——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "楼下：别动！"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "楼下：别动！"
     },
     {
       "type": "dialog",

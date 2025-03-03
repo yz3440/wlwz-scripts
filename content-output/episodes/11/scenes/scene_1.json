@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -35,12 +36,12 @@
         {
           "type": "line",
           "line": "那都算了一天了，那得赔多少钱啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜回店"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜回店"
     },
     {
       "type": "dialog",
@@ -167,12 +168,13 @@
         {
           "type": "line",
           "line": "尤其是你。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭傻笑附和，好好好"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭傻笑附和，好好好"
     },
     {
       "type": "dialog",

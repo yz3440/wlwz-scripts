@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -370,7 +371,34 @@
       "performances": [
         {
           "type": "line",
-          "line": "你帅吗？（大嘴摇头）有钱吗？（继续摇头）有前途吗？（很肯定地摇头）那凭什么说想我呀？"
+          "line": "你帅吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴摇头"
+        },
+        {
+          "type": "line",
+          "line": "有钱吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "继续摇头"
+        },
+        {
+          "type": "line",
+          "line": "有前途吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "很肯定地摇头"
+        },
+        {
+          "type": "line",
+          "line": "那凭什么说想我呀？"
         }
       ]
     },

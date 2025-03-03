@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -303,16 +304,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "干什么干什么，"
-        },
-        {
           "type": "speaker-action",
           "description": "二人架起小郭"
         },
         {
           "type": "line",
-          "line": "——哎，我自己能走。轻点儿，轻点儿。莫小贝，你给我等着。"
+          "line": "干什么干什么，——哎，我自己能走。轻点儿，轻点儿。莫小贝，你给我等着。"
         }
       ]
     },
@@ -352,7 +349,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "目前，对于咱们衡山派来说最重要的就是，最重要的就是„赶快给我弄串糖葫芦回来。"
+          "line": "目前，对于咱们衡山派来说最重要的就是，最重要的就是…赶快给我弄串糖葫芦回来。"
         }
       ]
     },

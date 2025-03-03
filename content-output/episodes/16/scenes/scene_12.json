@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -151,12 +152,12 @@
         {
           "type": "line",
           "line": "来来来来来，喝杯茶啊。好好写。我一定会好好陪你的啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扇扇子"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "扇扇子"
     },
     {
       "type": "dialog",

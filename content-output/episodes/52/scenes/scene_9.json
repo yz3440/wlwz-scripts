@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -480,7 +481,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "它可不是神啊，它叫123，是上边特批给我的巡犬。"
+          "line": "它可不是神啊，它叫 123，是上边特批给我的巡犬。"
         }
       ]
     },
@@ -514,7 +515,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "没事，你别害怕，娄知县当时一看见它，吓坏了，说你赶紧给我牵走，他说123，这狗蹭就跑了，所以就叫他123。"
+          "line": "没事，你别害怕，娄知县当时一看见它，吓坏了，说你赶紧给我牵走，他说 123，这狗蹭就跑了，所以就叫他 123。"
         }
       ]
     },
@@ -530,7 +531,7 @@
     },
     {
       "type": "action",
-      "description": "123叫"
+      "description": "123 叫"
     },
     {
       "type": "dialog",
@@ -548,7 +549,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "没事儿这狗听话极了，来来来123，来，握个手，手抬起来你看看，多听话。没事啊。就栓你们客栈门口，给你们客栈保保平安啊。"
+          "line": "没事儿这狗听话极了，来来来 123，来，握个手，手抬起来你看看，多听话。没事啊。就栓你们客栈门口，给你们客栈保保平安啊。"
         }
       ]
     },
@@ -599,62 +600,174 @@
         {
           "type": "line",
           "line": "我管西街，"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
         {
           "type": "speaker-action",
-          "description": "众人相声口吻：啊？"
+          "description": "相声捧哏口吻"
         },
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "它管东街，"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
         {
           "type": "speaker-action",
-          "description": "众人：哦。"
+          "description": "相声捧哏口吻"
         },
+        {
+          "type": "line",
+          "line": "哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "你们听好了，"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
         {
           "type": "speaker-action",
-          "description": "众人：嗯？"
+          "description": "相声捧哏口吻"
         },
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "以后见了狗，"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
         {
           "type": "speaker-action",
-          "description": "众人：嗯？"
+          "description": "相声捧哏口吻"
         },
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "如同见了我。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
         {
           "type": "speaker-action",
-          "description": "众人：好！"
+          "description": "相声捧哏口吻"
         },
+        {
+          "type": "line",
+          "line": "好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "见了我，"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
         {
           "type": "speaker-action",
-          "description": "众人：嗯？"
+          "description": "相声捧哏口吻"
         },
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "那还如同见了我。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
         {
           "type": "speaker-action",
-          "description": "众人：嗨！我呀？"
+          "description": "相声捧哏口吻"
         },
         {
           "type": "line",
-          "line": "——什么乱七八糟的！你们先忙吧，我得去巡街去了，有嘛事儿，直接向123反映啊。"
+          "line": "嗨！我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——什么乱七八糟的！你们先忙吧，我得去巡街去了，有嘛事儿，直接向 123 反映啊。"
         }
       ]
     },
@@ -690,7 +803,7 @@
     },
     {
       "type": "action",
-      "description": "众人追出，123大叫，众人吓得跑回来"
+      "description": "众人追出，123 大叫，众人吓得跑回来"
     },
     {
       "type": "dialog",
@@ -962,7 +1075,7 @@
     },
     {
       "type": "action",
-      "description": "大嘴喂123吃骨头"
+      "description": "大嘴喂 123 吃骨头"
     },
     {
       "type": "dialog",
@@ -974,7 +1087,7 @@
         },
         {
           "type": "speaker-action",
-          "description": "被123吼回来"
+          "description": "被 123 吼回来"
         },
         {
           "type": "line",
@@ -1018,7 +1131,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "老虎不发威，你当我是Hello Kitty啊？"
+          "line": "老虎不发威，你当我是 Hello Kitty 啊？"
         }
       ]
     },
@@ -1049,7 +1162,13 @@
         {
           "type": "line",
           "line": "咬吧，只要你愿意活吃了我都行。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "嘿嘿！明白了。"
@@ -1135,10 +1254,6 @@
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "柔"
-        },
-        {
           "type": "line",
           "line": "我是女流之辈，手不能提肩不能挑，我还不会武功。"
         },
@@ -1218,7 +1333,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "还用说吗，姬无命都不在乎，更何况123乎？"
+          "line": "还用说吗，姬无命都不在乎，更何况 123 乎？"
         }
       ]
     },
@@ -1369,11 +1484,17 @@
         {
           "type": "line",
           "line": "所以说呢，我是没有敌意的别乱来别乱来！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "123叫"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "123 叫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "Good dog，good，sit sit，嗨！Sweety！"
@@ -1412,7 +1533,7 @@
     },
     {
       "type": "action",
-      "description": "123暴怒，咬破秀才的衣服"
+      "description": "123 暴怒，咬破秀才的衣服"
     },
     {
       "type": "dialog",

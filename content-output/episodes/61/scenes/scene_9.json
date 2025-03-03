@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -179,7 +180,8 @@
           "line": "你不肯去那我自己去！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白拦"
         },
         {
@@ -295,7 +297,8 @@
           "line": "排！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才躲，又欲抢"
         },
         {
@@ -303,7 +306,8 @@
           "line": "山！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才又躲"
         },
         {

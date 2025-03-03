@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -171,12 +172,12 @@
         {
           "type": "line",
           "line": "第三，大嘴又恋爱了，呵呵呵"
-        },
-        {
-          "type": "speaker-action",
-          "description": "二人恍然大悟"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "二人恍然大悟"
     }
   ]
 }

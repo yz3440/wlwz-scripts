@@ -3,7 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -232,7 +232,13 @@
         {
           "type": "line",
           "line": "既然这样，举手表决，少数服从多数，同意的举手。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "一、二、三……不同意的举手。——咋少一票吗？"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -213,12 +214,12 @@
         {
           "type": "line",
           "line": "呃……对不起啊，我说错了，不对。压根就没有那算命的"
-        },
-        {
-          "type": "speaker-action",
-          "description": "郭巨侠看看小郭"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "郭巨侠看看小郭"
     },
     {
       "type": "dialog",

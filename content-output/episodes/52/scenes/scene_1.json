@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,11 +16,17 @@
         {
           "type": "line",
           "line": "别楞着了，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "摊开被褥"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "摊开被褥"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "移驾过来吧。"

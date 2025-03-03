@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -223,11 +224,17 @@
         {
           "type": "line",
           "line": "疯了？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "大嘴踱步沉思，自言自语"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴踱步沉思，自言自语"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "我咋摊不上这好事呢？——我咋摊不上这好事呢？！不就是疯吗？装疯谁不会呀！哎呀，那我装疯他们也得信啊！"

@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -201,7 +202,8 @@
           "line": "你掐我干啥呀？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭瞪眼"
         },
         {

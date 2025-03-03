@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -27,10 +28,6 @@
     {
       "type": "action",
       "description": "老白说完转身从后门走"
-    },
-    {
-      "type": "action",
-      "description": "971"
     },
     {
       "type": "dialog",

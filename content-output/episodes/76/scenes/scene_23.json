@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，傍晚】",
   "location": "佟寝",
   "timeOfDay": "傍晚",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -25,11 +26,17 @@
         {
           "type": "line",
           "line": "你先别着急，听我慢慢跟你解释。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "示意无双出去，无双出门"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "示意无双出去，无双出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "来，你放心，小贝迟早回回来的。"

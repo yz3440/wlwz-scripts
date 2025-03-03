@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -71,7 +72,8 @@
           "line": "你这什么态度啊，又不是我酒后失德了？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭作势打他"
         },
         {
@@ -129,8 +131,14 @@
           "line": "大嘴怎么啦，萝卜青菜各有所爱，连你都有人要"
         },
         {
-          "type": "speaker-action",
-          "description": "佟干咳，老白气得一拍桌子"
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "佟干咳"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白气得一拍桌子"
         },
         {
           "type": "line",
@@ -181,7 +189,8 @@
           "line": "可柳姑娘真的很可怜呢，我还有师兄罩着，她连师兄都没有，被人骗了，也不知道找谁哭诉去"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "吕威胁状"
         },
         {

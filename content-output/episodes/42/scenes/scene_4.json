@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -51,20 +52,15 @@
         {
           "type": "line",
           "line": "关中四十六个县，为啥最后一个偷这儿？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白啃手指"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白啃手指"
+        },
         {
           "type": "line",
-          "line": "不要再啃咧，好不容易修的，啃坏了，不好看。"
+          "line": "——不要再啃咧，好不容易修的，啃坏了，不好看。"
         }
       ]
     },
@@ -195,12 +191,12 @@
         {
           "type": "line",
           "line": "我咋想啊，我叫是叫盗圣，可说白了，我就是个小偷，总共也没偷几样东西。还都还了，你说就我这脾气，我能得罪谁呢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大堂传来尖叫"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大堂传来尖叫"
     }
   ]
 }

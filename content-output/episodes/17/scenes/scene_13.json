@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -359,12 +360,12 @@
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "line",
-          "line": "千年老参呢？"
-        },
-        {
           "type": "speaker-action",
           "description": "打开一看，五跟须子"
+        },
+        {
+          "type": "line",
+          "line": "千年老参呢？"
         }
       ]
     },

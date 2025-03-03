@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -19,16 +20,16 @@
       ]
     },
     {
-      "type": "action",
-      "description": "佟湘玉跪下"
-    },
-    {
       "type": "dialog",
       "speaker": "岳松涛",
       "performances": [
         {
           "type": "speaker-action",
-          "description": "哎哎哎，你这是干吗？来来来，快起来。"
+          "description": "佟湘玉跪下"
+        },
+        {
+          "type": "line",
+          "line": "哎呀呀你这是干吗？来来来，快起来。"
         }
       ]
     },
@@ -36,10 +37,6 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "跪下"
-        },
         {
           "type": "line",
           "line": "请岳掌门高抬贵手，放过小贝吧。"

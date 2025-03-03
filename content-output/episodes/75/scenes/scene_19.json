@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，夜】",
   "location": "客栈门口",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -144,7 +145,7 @@
         },
         {
           "type": "line",
-          "line": "我就见过他一面，不过，他是我见过的最侠义最豪迈最有男子气概的男子汉！"
+          "line": "我就见过他一面，不过，他是我见过的最侠义"
         }
       ]
     },
@@ -154,7 +155,15 @@
     },
     {
       "type": "action",
+      "description": "最豪迈"
+    },
+    {
+      "type": "action",
       "description": "画面切到石头作假能喝酒"
+    },
+    {
+      "type": "action",
+      "description": "最有男子气概的男子汉！"
     },
     {
       "type": "action",

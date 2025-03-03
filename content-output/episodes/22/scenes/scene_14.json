@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -11,7 +12,13 @@
         {
           "type": "line",
           "line": "在这等着啊。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "推老白"

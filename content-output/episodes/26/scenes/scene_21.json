@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -190,7 +191,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我问你，知不知道错现在？知道了„"
+          "line": "我问你，知不知道错现在？知道了…"
         }
       ]
     },
@@ -200,7 +201,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "事情不是你想象的那样„"
+          "line": "事情不是你想象的那样…"
         }
       ]
     },
@@ -289,12 +290,12 @@
       "speaker": "白展堂，李大嘴",
       "performances": [
         {
-          "type": "line",
-          "line": "瞧你这张贱嘴！"
-        },
-        {
           "type": "speaker-action",
           "description": "互指对方，齐声"
+        },
+        {
+          "type": "line",
+          "line": "瞧你这张贱嘴！"
         }
       ]
     },
@@ -313,12 +314,12 @@
       "speaker": "吕秀才",
       "performances": [
         {
-          "type": "line",
-          "line": "想握着你那双温暖小手，想牵着你四处停停走走，天热了睡凉席，天冷了加件衣，So let's party……"
-        },
-        {
           "type": "speaker-action",
           "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "想握着你那双温暖小手，想牵着你四处停停走走，天热了睡凉席，天冷了加件衣，So let's party……"
         }
       ]
     }

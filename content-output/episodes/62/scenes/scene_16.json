@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -345,14 +346,15 @@
           "line": "死神也望而却步，幸福之花处处开遍，啊~"
         },
         {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人吓跑"
+        },
+        {
           "type": "line",
           "line": "只要——咋了？他们，咋走了？他们咋不吃了？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人吓跑"
     },
     {
       "type": "dialog",

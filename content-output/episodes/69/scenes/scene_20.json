@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -179,12 +180,12 @@
         {
           "type": "line",
           "line": "这我就不太清楚了。不过我听说啊，只有我一个人有，也许这就叫做好姐妹吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿着信跑了出去。小郭坐下不悦"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "拿着信跑了出去。小郭坐下不悦"
     },
     {
       "type": "dialog",

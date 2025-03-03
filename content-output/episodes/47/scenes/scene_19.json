@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -273,16 +274,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "相亲？"
-        },
-        {
           "type": "speaker-action",
           "description": "怒"
         },
         {
           "type": "line",
-          "line": "——佟湘玉，你现在学会吃着锅里的望着盆里的，是吧？"
+          "line": "相亲？——佟湘玉，你现在学会吃着锅里的望着盆里的，是吧？"
         }
       ]
     },

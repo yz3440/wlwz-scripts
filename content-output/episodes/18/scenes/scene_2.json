@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -265,11 +266,17 @@
         {
           "type": "line",
           "line": "我今天来啊，就要打个招呼，各位，我不在的时候，还请各位多关照点儿。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "走到老白跟前，轻声道"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "走到老白跟前，轻声道"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
         {
           "type": "line",
           "line": "这小子是个杠头，又不会来事儿，千万别让他胡来，最重要的是，别让他喝酒。"
@@ -293,12 +300,12 @@
         {
           "type": "line",
           "line": "不知道啥时候回来，留的念想啊。六儿。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "耳语"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "耳语"
     },
     {
       "type": "dialog",

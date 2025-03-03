@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -191,25 +192,25 @@
         {
           "type": "line",
           "line": "秀才，秀才！小郭！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "扑在展堂怀里"
-        },
-        {
-          "type": "line",
-          "line": "展堂，"
         }
       ]
     },
     {
       "type": "action",
-      "description": "老白吐血"
+      "description": "扑在展堂怀里"
     },
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
+        {
+          "type": "line",
+          "line": "展堂，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白吐血"
+        },
         {
           "type": "line",
           "line": "展堂！——呜——"

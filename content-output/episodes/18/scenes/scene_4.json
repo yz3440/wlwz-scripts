@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -193,11 +194,17 @@
         {
           "type": "line",
           "line": "大哥，大姐，大嘴，大秀才。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "个个转身，冲小贝"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "个个转身，冲小贝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "大妹子。"
@@ -760,7 +767,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我不放。"
+          "line": "我不放。——"
         },
         {
           "type": "speaker-action",

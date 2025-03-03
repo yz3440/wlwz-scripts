@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -11,7 +12,13 @@
         {
           "type": "line",
           "line": "哟，客官，来来来，里边请。您有日子没来了呵？来来，坐坐坐。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "对小贝"
@@ -28,7 +35,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "白大哥，我有几篇功课没做好，先生他让我找家长签字，我不敢找我嫂子签„"
+          "line": "白大哥，我有几篇功课没做好，先生他让我找家长签字，我不敢找我嫂子签…"
         }
       ]
     },

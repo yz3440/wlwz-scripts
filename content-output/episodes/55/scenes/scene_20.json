@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -46,7 +47,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -86,11 +87,11 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
-          "line": "那，我告诉你啊，我们刚接到的公函，新任的礼部侍郎„"
+          "line": "那，我告诉你啊，我们刚接到的公函，新任的礼部侍郎…"
         }
       ]
     },
@@ -170,7 +171,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "假的？这„"
+          "line": "假的？这…"
         }
       ]
     },
@@ -256,7 +257,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

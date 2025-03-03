@@ -3,18 +3,19 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "哭着"
-        },
-        {
           "type": "line",
           "line": "叫你耍，叫你翻跟斗，你是人还是猴呀，那么爱耍你咋不去卖艺呢，明明知道人家会伤心会难过，还做这种事情，你心里到底还有没有我啊，你把我当成什么人了呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭着"
         }
       ]
     },
@@ -44,15 +45,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "你善变吗，我善变吗？还有无双？"
+          "line": "你善变吗，我善变吗？还有无双？厄，无双好像是挺善变的哦……"
         },
         {
           "type": "speaker-action",
           "description": "思索"
-        },
-        {
-          "type": "line",
-          "line": "厄，无双好像是挺善变的哦……"
         }
       ]
     },
@@ -111,12 +108,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "着急"
-        },
-        {
           "type": "line",
           "line": "喂喂喂，说什么说什么呢，凭什么他就情有可原？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "着急"
         }
       ]
     },
@@ -152,16 +149,6 @@
     },
     {
       "type": "dialog",
-      "speaker": "1073",
-      "performances": [
-        {
-          "type": "line",
-          "line": ""
-        }
-      ]
-    },
-    {
-      "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
         {
@@ -179,12 +166,12 @@
       "speaker": "李大嘴",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "急"
-        },
-        {
           "type": "line",
           "line": "说啥呢，我实在是听不下去了，他俩犯错那是他俩的事，你不能一棍子呼死一船人呐！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "急"
         }
       ]
     },
@@ -233,12 +220,12 @@
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "带哭腔"
-        },
-        {
           "type": "line",
           "line": "大嘴~~~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "带哭腔"
         }
       ]
     },

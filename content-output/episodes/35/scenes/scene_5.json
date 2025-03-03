@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，昼】",
   "location": "客栈外",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -289,11 +290,17 @@
         {
           "type": "line",
           "line": "啊啊，你等着啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拉过小冬"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拉过小冬"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "小孩，过来过来，不听话你。你哪个书院的？几年级了？姓什么叫什么？啊？家庭住址在哪，说说说。"

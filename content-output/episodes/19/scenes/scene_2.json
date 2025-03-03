@@ -3,10 +3,11 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
-      "description": "众人摆好pose"
+      "description": "众人摆好 pose"
     },
     {
       "type": "dialog",
@@ -163,14 +164,8 @@
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "回身，手中拿着一个萝卜"
-        }
-      ]
+      "type": "action",
+      "description": "回身，手中拿着一个萝卜"
     },
     {
       "type": "dialog",

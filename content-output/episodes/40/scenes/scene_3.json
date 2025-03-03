@@ -3,6 +3,7 @@
   "rawDescription": "【街头，昼】",
   "location": "街头",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -482,7 +483,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "免贵姓白。这是我的名帖。，有空记得常来捧场。没空就算了。"
+          "line": "免贵姓白。这是我的名帖。"
+        },
+        {
+          "type": "line",
+          "line": "，有空记得常来捧场。没空就算了。"
         }
       ]
     },

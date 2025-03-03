@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -114,10 +115,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "这大家要实在是吃不下去„"
+          "line": "这大家要实在是吃不下去…"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人期待的表情"
         },
         {

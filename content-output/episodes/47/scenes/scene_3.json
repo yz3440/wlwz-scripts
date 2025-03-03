@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -269,19 +270,9 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": ""
-        },
-        {
           "type": "speaker-action",
           "description": "怒"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
         {
           "type": "line",
           "line": "你就作吧！"

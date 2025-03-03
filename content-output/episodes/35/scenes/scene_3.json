@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -357,17 +358,11 @@
         {
           "type": "line",
           "line": "给我看看怕啥。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "两人一抢，剑谱掉到井里了"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "两人一抢，剑谱掉到井里了"
+        },
         {
           "type": "line",
           "line": "我不是有意的。"

@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -10,15 +11,16 @@
       "performances": [
         {
           "type": "line",
-          "line": "为了增强你的体质，加快"
+          "line": "为了增强你的体质，加快——"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "钱掌柜",
           "description": "老钱晃"
         },
         {
           "type": "line",
-          "line": "——你这怎么了钱老板？"
+          "line": "你这怎么了钱老板？"
         }
       ]
     },

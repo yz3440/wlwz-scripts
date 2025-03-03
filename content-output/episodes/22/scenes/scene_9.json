@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -259,12 +260,12 @@
       "speaker": "吕秀才",
       "performances": [
         {
-          "type": "line",
-          "line": "那你敢不敢……"
-        },
-        {
           "type": "speaker-action",
           "description": "耳语"
+        },
+        {
+          "type": "line",
+          "line": "那你敢不敢……"
         }
       ]
     },

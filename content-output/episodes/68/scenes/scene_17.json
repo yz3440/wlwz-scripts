@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -23,12 +24,8 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "倒水"
-        },
-        {
           "type": "line",
-          "line": "这事啊，他真藏到地底下去了，我在他家翻了个底朝天，硬是没找着啊。"
+          "line": "倒水。这事啊，他真藏到地底下去了，我在他家翻了个底朝天，硬是没找着啊。"
         }
       ]
     },
@@ -371,12 +368,12 @@
         {
           "type": "line",
           "line": "先别急着谢，我仔细想过了，这个事情应该还有解决的余地。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摆造型"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "摆造型"
     },
     {
       "type": "action",

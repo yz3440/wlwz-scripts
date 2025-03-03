@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -40,11 +41,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "不是，掌柜的，你看，这就不应该了是吧。你说，我不在的这两天吧，大家对付对付也就算了。"
-        },
-        {
-          "type": "line",
-          "line": "那我都回来了，还能让大家吃苦？"
+          "line": "不是，掌柜的，你看，这就不应该了是吧。你说，我不在的这两天吧，大家对付对付也就算了。那我都回来了，还能让大家吃苦？"
         }
       ]
     },
@@ -210,7 +207,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "清风",
+      "speaker": "清 风",
       "performances": [
         {
           "type": "line",

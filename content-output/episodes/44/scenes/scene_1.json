@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -136,11 +137,11 @@
         },
         {
           "type": "speaker-action",
-          "description": "凌空点穴"
+          "description": "噼噼（凌空点穴）"
         },
         {
           "type": "line",
-          "line": "小东西敢跟我斗。"
+          "line": "——小东西敢跟我斗。"
         }
       ]
     }

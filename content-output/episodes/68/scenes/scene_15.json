@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -195,12 +196,12 @@
         {
           "type": "line",
           "line": "葵花点穴手！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住无双"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "点住无双"
     },
     {
       "type": "dialog",
@@ -241,12 +242,12 @@
         {
           "type": "line",
           "line": "无双你给我老实点啊，要不然我还点你，葵花解穴手！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "解开无双"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "解开无双"
     },
     {
       "type": "dialog",

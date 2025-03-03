@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -47,7 +48,8 @@
           "line": "这里很难客观的去想的嘛，反正有些事情必须得跳出来才能想清楚，你明白吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才点头"
         }
       ]
@@ -64,7 +66,7 @@
     },
     {
       "type": "action",
-      "description": "小六和无双进，抱着123，也眼泪吧嗒的"
+      "description": "小六和无双进，抱着 123，也眼泪吧嗒的"
     },
     {
       "type": "dialog",
@@ -102,7 +104,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "123走了，我怎么想怎么得给它办一个象样的告别仪式，不用太隆重，心意到了就行。"
+          "line": "123 走了，我怎么想怎么得给它办一个象样的告别仪式，不用太隆重，心意到了就行。"
         }
       ]
     },
@@ -171,12 +173,12 @@
       "speaker": "燕小六",
       "performances": [
         {
-          "type": "line",
-          "line": "123生前最爱啃骨头了，这也是我能为它做的最后一件事情了，123……"
-        },
-        {
           "type": "speaker-action",
           "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "123 生前最爱啃骨头了，这也是我能为它做的最后一件事情了，123……"
         }
       ]
     },
@@ -252,7 +254,7 @@
     },
     {
       "type": "action",
-      "description": "骨头准备好了，123的皮放在桌子上，小六还在抽搭"
+      "description": "骨头准备好了，123 的皮放在桌子上，小六还在抽搭"
     },
     {
       "type": "dialog",
@@ -331,7 +333,8 @@
           "line": "小郭？你明白了没有？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭点头"
         }
       ]
@@ -373,20 +376,14 @@
         {
           "type": "line",
           "line": "玻璃珠子不是必需品，时间一长，就会慢慢忘记的。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "字幕：您对本集中郭氏说书有何评价，请发邮件至www.武林外传@同福网站.com"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "字幕：您对本集中郭氏说书有何评价，请发邮件至 www.武林外传@同福网站.com"
+        },
         {
           "type": "line",
-          "line": "而有些人对我来说，更像123眼中的骨头，有了他，就有了快乐，而这种快乐是可以持续一辈子的。我第一次来这的时候，就是知道我自己到底要什么，而我第二次回来，就是想把这种我要变成我有。"
+          "line": "而有些人对我来说，更像 123 眼中的骨头，有了他，就有了快乐，而这种快乐是可以持续一辈子的。我第一次来这的时候，就是知道我自己到底要什么，而我第二次回来，就是想把这种我要变成我有。"
         }
       ]
     },
@@ -429,7 +426,8 @@
           "line": "芙妹，那你还走吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭摇头，大伙一阵欢呼"
         }
       ]
@@ -463,7 +461,8 @@
           "line": "一二三，来世我们还是好兄弟……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "其他人",
           "description": "大家鞠躬"
         }
       ]

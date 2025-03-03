@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -167,17 +168,12 @@
         {
           "type": "line",
           "line": "——特别有安全感"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭笑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭笑"
+        },
         {
           "type": "line",
           "line": "笑啥？"

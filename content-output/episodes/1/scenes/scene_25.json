@@ -1,0 +1,792 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，清晨】",
+  "location": "大堂",
+  "timeOfDay": "清晨",
+  "performances": [
+    {
+      "type": "action",
+      "description": "第二天早上，小青敲门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从楼上跑下"
+        },
+        {
+          "type": "line",
+          "line": "来啦来啦……不要敲了，我这是榆木门，敲坏了你赔呀。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜开门，小青上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们家小姐呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁是你家小姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说了你也不知道。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小青要往后院跑，秀才挡住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好狗不挡道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "此言差矣。子曾经曰过……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小青要拍秀才，秀才躲过"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "威武不能屈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，你来告诉我，昨天晚上是不是有人投宿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可他是个男的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就对了。我家小姐就这样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们家小姐到底是男是女啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "非男非女，时男时女。她人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她没有来过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从后院来"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，昨晚那小子已经半死不活了。给不给喂点水?"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的拍柱子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的了?"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "果然是个黑店!"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍桌子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想干啥？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才抬手示意等一等"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "跑到小青那里"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青、吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "小青拔剑，秀才拔剑状"
+        },
+        {
+          "type": "line",
+          "line": "替天行道！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "！"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "跑回去"
+        },
+        {
+          "type": "line",
+          "line": "知道她是谁了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "雌雄双煞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "雌的来了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小青掀翻桌椅，拔剑摆到掌柜面前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "擒贼先擒王！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂救我――"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉长音"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，我来了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "跑向小青，被一掌排出去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊――"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把楼梯撞坏"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的百年老楼梯……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白把剑架在小郭脖子上，走出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小青！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姐你没事吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉你没事吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一时半会儿还死不了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "已经吓得半死了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放过她！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开她！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先放！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先放！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我们家小姐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我们家掌柜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我们家芙蓉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我们家湘玉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我们家如花似玉的郭芙蓉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开我们家风情万种的佟湘玉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才帮大嘴擦药"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，别叫板了。先把我们掌柜的放了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭什么我先放？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "女士优先嘛。子曾经曰过……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不这样，我数到三大家一起放人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "同意。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三、二、一……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一定不能放，她们是雌雄双煞呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在已经是双雌了对吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放了她们，她们祸害镇上的百姓怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁祸害镇上百姓啦？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米从大门上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是十八里铺的肥乞丐吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "苍天呐，这真是老天爷开眼呐！雌雄双煞落网了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他这人怎么这样呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不都是你们害的，要不然他的风湿病早就好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他的病跟我们有什么关系啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家火罐拔得好好的，你跳出来把薛神医毒打一顿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道那是拔火罐呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有左家庄的赵姑娘，好不容易嫁出去了，现在让你搁在了家里。西凉河的葛三叔，白石桥的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了，这么说我救的那些人都反过来怪我吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "岂止是怪，简直就是恨之入骨。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在正筹银子准备缉拿二位呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么会这样呢，小青？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小青摇头，小青、老白把剑收回"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小青",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姐你去哪？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "心里很乱想一个人静一会儿。"
+        }
+      ]
+    }
+  ]
+}

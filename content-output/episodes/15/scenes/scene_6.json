@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -25,11 +26,23 @@
         {
           "type": "line",
           "line": "这件事要是让展堂知道了，我可咋向他交代啊。展堂，我一不小心，把你最宝贵的东西给弄丢了。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "展堂，你不要走，不要走！不行，我一定要把这件事情给遮过去。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "这个不行。"
@@ -75,7 +88,13 @@
         {
           "type": "line",
           "line": "啊……这咋有这么大的一个洞？——有贼！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "来人呐，有贼！来人呐！"
@@ -461,7 +480,13 @@
         {
           "type": "line",
           "line": "这就不用你管，我们龙门镖局的名声，不是靠讨饭讨回来的！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "我换衣服，你来干啥？"

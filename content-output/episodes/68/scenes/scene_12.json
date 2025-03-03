@@ -3,6 +3,7 @@
   "rawDescription": "【房顶，夜】",
   "location": "房顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -294,18 +295,12 @@
       "performances": [
         {
           "type": "line",
-          "line": "这句就是……你吃了吗？在国外很多朋友见了面之后，都会对你说，I love you，然后我就会对他说，I love you too，就是吃了吗"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "无双表示理解"
-    },
-    {
-      "type": "dialog",
-      "speaker": "辛普森",
-      "performances": [
+          "line": "这句就是……你吃了吗？在国外很多朋友见了面之后，都会对你说，I love you，然后我就会对他说，I love you too，就是吃了吗，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "无双表示理解"
+        },
         {
           "type": "line",
           "line": "来说一遍。"

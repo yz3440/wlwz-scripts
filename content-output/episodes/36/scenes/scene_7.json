@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -31,12 +32,13 @@
         {
           "type": "line",
           "line": "狗养？——咋上来就骂人呢？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "阿福",
+          "description": "阿福特写"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "阿福特写"
     },
     {
       "type": "dialog",
@@ -321,6 +323,10 @@
       "speaker": "白展堂",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
           "type": "line",
           "line": "眼泪呀，止不住地流，止不住地往下流，二尺八地牌子我脖子上挂呀，大街小巷把我游，手捧着窝窝头，菜里没有一滴油——这咋地了，都睡着了？我还没被吓死呢，你们先给膈应死了，既然你们都去了，我也去……追风大人，我这就和你回六扇门……"
         }
@@ -483,20 +489,14 @@
         {
           "type": "line",
           "line": "哎呀妈呀！同道中人啊！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "追风铐上老白"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "追风铐上老白"
+        },
         {
           "type": "line",
-          "line": "掌柜的，干啥涅？"
+          "line": "——掌柜的，干啥涅？"
         }
       ]
     },

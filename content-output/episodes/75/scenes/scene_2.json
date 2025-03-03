@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -28,7 +29,7 @@
         },
         {
           "type": "speaker-action",
-          "description": "W"
+          "description": "停顿"
         },
         {
           "type": "line",
@@ -218,7 +219,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "此时不该我们当班。1127"
+          "line": "此时不该我们当班。"
         }
       ]
     },

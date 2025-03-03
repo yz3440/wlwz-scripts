@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -247,32 +248,12 @@
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "郭蔷薇",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "门外传来"
-        },
-        {
-          "type": "line",
-          "line": "惊涛骇浪！"
-        }
-      ]
+      "type": "action",
+      "description": "门外 \"惊涛骇浪！\" \"啊！\" \"葵花点穴手！\""
     },
     {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "speaker-action",
-          "description": "门外传来"
-        },
-        {
-          "type": "line",
-          "line": "葵花点穴手！"
-        }
-      ]
+      "type": "action",
+      "description": "切回"
     }
   ]
 }

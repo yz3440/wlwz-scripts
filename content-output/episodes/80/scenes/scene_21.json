@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -89,11 +90,17 @@
         {
           "type": "line",
           "line": "不错，所以我才把我的腿砍伤，咋？还不明白？我告诉你，这不是什么爽肤水，这是一瓶强效的辣椒油。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "说罢，将辣椒油到在伤口上，一声惨叫"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说罢，将辣椒油到在伤口上，一声惨叫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
         {
           "type": "line",
           "line": "剧痛可以使我清醒，这是唯一的解决办法。"

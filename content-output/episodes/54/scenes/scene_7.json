@@ -199,7 +199,8 @@
           "line": "哎哟，咋了咋了？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "老包",
           "description": "老包头上磕了一个大包"
         },
         {

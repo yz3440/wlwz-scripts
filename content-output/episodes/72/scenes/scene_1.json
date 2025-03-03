@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -185,17 +186,12 @@
         {
           "type": "line",
           "line": "湘玉姐，请您注意您的称呼好吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人不解"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人不解"
+        },
         {
           "type": "line",
           "line": "——我主要是害怕引起误会。"
@@ -329,17 +325,12 @@
         {
           "type": "line",
           "line": "湘玉姐说了……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人咳嗽"
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人咳嗽"
+        },
         {
           "type": "line",
           "line": "——金小姐说了，说你是个好人。"
@@ -431,10 +422,6 @@
           "description": "上楼"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1083"
     },
     {
       "type": "dialog",
@@ -580,26 +567,21 @@
       "performances": [
         {
           "type": "line",
-          "line": "等等等等，要有凉皮也给我来两盘，最好有"
+          "line": "等等等等，要有凉皮也给我来两盘。"
         },
         {
           "type": "speaker-action",
-          "description": "相声，贯口"
+          "description": "相声贯口"
         },
         {
           "type": "line",
-          "line": "蒸羊羔、蒸熊掌、蒸鹿尾、烧花鸭、烧雏鸡、烧子鸽、卤猪、卤鸭、酱鸡、腊肉、松花、小肚、晾肉、香肠"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜变色"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+          "line": "最好有蒸羊羔、蒸熊掌、蒸鹿尾、烧花鸭、烧雏鸡、烧子鸽、卤猪、卤鸭、酱鸡、腊肉、松花、小肚、晾肉、香肠。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "掌柜变色"
+        },
         {
           "type": "line",
           "line": "……这些就算了，先把咸菜花生给我上来吧……"
@@ -669,17 +651,11 @@
         {
           "type": "line",
           "line": "小六，以后要是有啥对我不满你尽管提啊。千万不要客气啊！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小六吃完饭后"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "小六吃完饭后"
+        },
         {
           "type": "line",
           "line": "小六慢走啊，路上小心啊。不要磕了，磕着也没有关系，过来找我，我这儿有药，统统免费。"
@@ -745,16 +721,21 @@
       ]
     },
     {
-      "type": "action",
-      "description": "吕跑开,大嘴想叫住吕"
-    },
-    {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
         {
           "type": "line",
-          "line": "掌柜的，你别听他胡说，我觉得你挺好的，真的。"
+          "line": "哎哎"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "吕跑开"
+        },
+        {
+          "type": "line",
+          "line": "，掌柜的，你别听他胡说，我觉得你挺好的，真的。"
         }
       ]
     },
@@ -895,12 +876,12 @@
         {
           "type": "line",
           "line": "别别别，涨涨涨，一文就一文呗。那也比没有强啊，不过你这么改，跟不改有啥区别啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴出"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大嘴出"
     },
     {
       "type": "dialog",

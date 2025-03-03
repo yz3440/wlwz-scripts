@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -44,6 +45,10 @@
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
+        {
+          "type": "line",
+          "line": ""
+        },
         {
           "type": "speaker-action",
           "description": "对小郭"
@@ -227,7 +232,8 @@
           "line": "好了！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂、莫小贝",
           "description": "老白和小贝又蹿回来"
         },
         {
@@ -235,7 +241,8 @@
           "line": "你可以留下。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂、莫小贝",
           "description": "老白和小贝眉开眼笑"
         },
         {
@@ -335,7 +342,8 @@
           "line": "嘿，好的呀，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "掌柜的脸有些阴转晴"
         },
         {
@@ -343,7 +351,8 @@
           "line": "但是我有一个要求，我每天只工作八个小时，如果超出的部分薪水要另算啊，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭冷笑"
         },
         {

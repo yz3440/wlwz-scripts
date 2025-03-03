@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -71,11 +72,17 @@
         {
           "type": "line",
           "line": "知道我也不说。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "唱"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "唱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "女孩的心思男孩你别猜，你猜来猜去肯定要坏菜。"

@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -109,11 +110,17 @@
         {
           "type": "line",
           "line": "这是你说的！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "解穴"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "解穴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "葵花解穴手。"

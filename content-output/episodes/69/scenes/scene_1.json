@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -118,11 +119,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "可我不想欠你人情嘛……戴上！"
+          "line": "可我不想欠你人情嘛……"
         },
         {
           "type": "speaker-action",
           "description": "突然厉声"
+        },
+        {
+          "type": "line",
+          "line": "戴上！"
         }
       ]
     },
@@ -136,7 +141,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "厄，吃好喝好啊！呵呵……"
+          "line": "——厄，吃好喝好啊！呵呵……"
         }
       ]
     },
@@ -430,7 +435,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "三日内请将此信转发七封，括号，必须是最亲近的人，括号，否则你将倾家荡产家破人亡，最爱之人死于非命，韩娟。——哎？不会是上次来跟你攀比那个韩娟吧？1038"
+          "line": "三日内请将此信转发七封，括号，必须是最亲近的人，括号，否则你将倾家荡产家破人亡，最爱之人死于非命，韩娟。——哎？不会是上次来跟你攀比那个韩娟吧？"
         }
       ]
     },

@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -151,17 +152,11 @@
         {
           "type": "line",
           "line": "因为，如果一个人他让我感激，额愿意把命都交给他；如果一个人让额感动，那额就愿意把自己都交给他，明白吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭摇头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭摇头"
+        },
         {
           "type": "line",
           "line": "总有一天你会明白的。"

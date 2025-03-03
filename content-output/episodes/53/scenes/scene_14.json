@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -120,7 +121,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -177,7 +178,8 @@
           "line": "那把你们知县叫来，我找他要钱！还愣着干吗，去呀！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "无双",
           "description": "无双拔刀"
         },
         {
@@ -213,16 +215,16 @@
         {
           "type": "line",
           "line": "大师兄，照顾好自己，无双先走一步！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "举刀欲自尽"
         }
       ]
     },
     {
-      "type": "action",
-      "description": "举刀欲自尽"
-    },
-    {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -242,7 +244,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -262,17 +264,17 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
           "line": "我是为了救她，随便说说的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "来白拉无双出"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "来白拉无双出"
     },
     {
       "type": "dialog",
@@ -286,7 +288,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -306,7 +308,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

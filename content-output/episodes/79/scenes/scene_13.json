@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -135,12 +136,12 @@
         {
           "type": "line",
           "line": "这不行，起来起来起来，为了蕙兰我跟他拼了我。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "搬着凳子出"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "搬着凳子出"
     },
     {
       "type": "dialog",

@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -60,7 +61,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "帮你做功课„有什么好处呀？"
+          "line": "帮你做功课…有什么好处呀？"
         }
       ]
     },
@@ -80,7 +81,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我想„让你帮我个忙。"
+          "line": "我想…让你帮我个忙。"
         }
       ]
     },

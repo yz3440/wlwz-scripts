@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -119,8 +120,12 @@
       "speaker": "白展堂",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "呵呵呵呵"
+        },
+        {
           "type": "line",
-          "line": "呵呵呵呵，接着说。"
+          "line": "接着说。"
         }
       ]
     },
@@ -169,7 +174,13 @@
         {
           "type": "line",
           "line": "无双，这就是吃了吐。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "向小六老邢"
@@ -313,8 +324,12 @@
       "speaker": "燕小六",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "当当当当"
+        },
+        {
           "type": "line",
-          "line": "当当当当，怎么样？"
+          "line": "怎么样？"
         }
       ]
     },

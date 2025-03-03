@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -135,17 +136,11 @@
         {
           "type": "line",
           "line": "你帮我把她照顾好，我就谢谢你啦……你们好自为之，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭走过去"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭巨侠",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭走过去"
+        },
         {
           "type": "line",
           "line": "不送！"
@@ -223,12 +218,13 @@
         {
           "type": "line",
           "line": "不是我，是他非逼我说的，还答应我去六扇门总部呢，让我……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人冷笑"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人冷笑"
     },
     {
       "type": "dialog",

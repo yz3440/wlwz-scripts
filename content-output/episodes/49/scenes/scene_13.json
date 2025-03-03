@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -69,8 +70,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "咳"
+        },
+        {
           "type": "line",
-          "line": "咳……那个，他虽然风流，但是不下流！"
+          "line": "那个，他虽然风流，但是不下流！"
         }
       ]
     },

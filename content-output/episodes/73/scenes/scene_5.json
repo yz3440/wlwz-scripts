@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -111,11 +112,17 @@
         {
           "type": "line",
           "line": "哎，哎，哎，醒醒，醒醒。醒醒，醒醒！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "秀才迷迷糊糊起"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才迷迷糊糊起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "哎，你看看，那女的是谁，你认识吗？"
@@ -205,7 +212,8 @@
           "line": "妹、妹、妹子，妹子，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才起身偷眼观看"
         },
         {
@@ -309,7 +317,8 @@
           "line": "没想起来"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "女 子",
           "description": "女子生气"
         },
         {
@@ -327,10 +336,6 @@
           "line": "李大嘴，你真的假的呀？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1099"
     },
     {
       "type": "dialog",
@@ -395,7 +400,8 @@
           "line": "昨天晚上，月光，美酒？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "李大嘴",
           "description": "李摇头"
         },
         {
@@ -403,7 +409,8 @@
           "line": "，缘分？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "李大嘴",
           "description": "李继续摇头"
         },
         {

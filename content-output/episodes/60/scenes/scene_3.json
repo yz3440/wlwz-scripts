@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -35,20 +36,26 @@
         {
           "type": "line",
           "line": "好好好，坐啊！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "祝进来，佟迎上去"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "祝进来，佟迎上去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "你可算来了，赶紧下厨房给我炒个木须肉！少放点盐啊，快去！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "推祝"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "推祝"
     },
     {
       "type": "dialog",
@@ -444,7 +451,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "感„感觉到什么？"
+          "line": "感…感觉到什么？"
         }
       ]
     },

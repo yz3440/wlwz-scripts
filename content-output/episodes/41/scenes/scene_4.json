@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -154,11 +155,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "那赶紧上当铺抵了去！"
-        },
-        {
-          "type": "line",
-          "line": "就怕日后赎不回来。"
+          "line": "那赶紧上当铺抵了去！——就怕日后赎不回来。"
         }
       ]
     },
@@ -268,11 +265,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "世界如此美妙，我却如此暴躁，这样不好，不好！"
-        },
-        {
-          "type": "line",
-          "line": "没关系，继续骂吧！"
+          "line": "世界如此美妙，我却如此暴躁，这样不好，不好！——没关系，继续骂吧！"
         }
       ]
     },

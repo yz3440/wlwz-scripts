@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -117,12 +118,13 @@
         {
           "type": "line",
           "line": "你见哪个疯子说话像我这个有逻辑呀？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭吓得躲到掌柜后边"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭吓得躲到掌柜后边"
     },
     {
       "type": "dialog",

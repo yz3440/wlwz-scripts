@@ -3,6 +3,7 @@
   "rawDescription": "【街口，昼】",
   "location": "街口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -139,8 +140,12 @@
       "speaker": "白展堂",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "嘘"
+        },
+        {
           "type": "line",
-          "line": "嘘，——自己封的。"
+          "line": "——自己封的。"
         }
       ]
     }

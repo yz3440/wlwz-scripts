@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -277,17 +278,11 @@
         {
           "type": "line",
           "line": "行，我去要去啊。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "W"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
         {
           "type": "line",
           "line": "那个要饭的小米？"
@@ -321,10 +316,6 @@
     {
       "type": "action",
       "description": "众人大笑"
-    },
-    {
-      "type": "action",
-      "description": "1126"
     }
   ]
 }

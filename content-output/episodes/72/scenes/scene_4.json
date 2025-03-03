@@ -3,7 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -16,11 +16,17 @@
         {
           "type": "line",
           "line": "哎呀，小贝真乖啊，拿着，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小贝正准备拿"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝正准备拿"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "做完功课再吃啊。"
@@ -302,7 +308,8 @@
           "line": "五根，满了，嫂子你对我太好了。哈哈"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "佟正色望着她"
         },
         {

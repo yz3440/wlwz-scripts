@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -145,17 +146,12 @@
         {
           "type": "line",
           "line": "铁观音都中，这两天呐吃的油水太大，想刮一刮，哎，佟掌柜啊，我都盘算好了，以后啊，住就住在这儿，吃饭去那边，两边不得罪"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉拿茶一泼"
-    },
-    {
-      "type": "dialog",
-      "speaker": "小米",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "湘玉",
+          "description": "湘玉拿茶一泼"
+        },
         {
           "type": "line",
           "line": "你是干嘛呢，你想……"
@@ -189,17 +185,11 @@
         {
           "type": "line",
           "line": "虎落平阳被犬欺，连小米都敢这么对我，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "对小郭"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小郭"
+        },
         {
           "type": "line",
           "line": "快去快去。哎，等一下，换身男装再去，不要让他们发现了。"

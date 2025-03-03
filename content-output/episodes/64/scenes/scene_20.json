@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -51,7 +52,8 @@
           "line": "没没事儿，刚才你突然进门，我受了点儿惊吓磕了一下"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "湘玉摸摸老白头"
         },
         {
@@ -121,12 +123,12 @@
         {
           "type": "line",
           "line": "你给我消停一会行不行！——不是，我的意思是，咱俩都这么久没见面了，我想好好看看你，来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白把湘玉带到床边，深情对望"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "老白把湘玉带到床边，深情对望"
     },
     {
       "type": "dialog",
@@ -137,10 +139,6 @@
           "line": "不一样就是不一样，这种眼神，谁学的会呀？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "974"
     },
     {
       "type": "dialog",

@@ -3,6 +3,7 @@
   "rawDescription": "【西街，夜】",
   "location": "西街",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -25,7 +26,13 @@
         {
           "type": "line",
           "line": "哇噻！有没有搞错，喂，喂？都不能动了！这么多人，打一个都没有打过，无双姐，你真是我的SuperStar！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "对老谢"
@@ -93,13 +100,13 @@
       ]
     },
     {
-      "type": "action",
-      "description": "老谢吓得一哆嗦"
-    },
-    {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老谢吓得一哆嗦"
+        },
         {
           "type": "line",
           "line": "这刀把，怕嘛呢？怎么样，还有嘛问题吗？"
@@ -205,7 +212,13 @@
         {
           "type": "line",
           "line": "我哪知道去，头先我一回衙门，"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "掏出张纸条"

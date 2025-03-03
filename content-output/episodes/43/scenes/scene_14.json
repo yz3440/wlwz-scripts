@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -332,11 +333,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "那样不太好吧？我还是试试吧。让我洗衣服吧，没有问题，我洗完马上就叫她穿上，冻不死她！"
-        },
-        {
-          "type": "line",
-          "line": "哈哈哈，爽！"
+          "line": "那样不太好吧？我还是试试吧。让我洗衣服吧，没有问题，我洗完马上就叫她穿上，冻不死她！哈哈哈，爽！"
         }
       ]
     },

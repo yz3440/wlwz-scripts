@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -40,7 +41,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "白展堂",
+      "speaker": "",
       "performances": [
         {
           "type": "line",
@@ -77,7 +78,8 @@
           "line": "呵，这我跟你差不多。我也是浑身上下穷的叮当响。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "",
           "description": "厨房声音"
         },
         {
@@ -143,11 +145,17 @@
         {
           "type": "line",
           "line": "哎呀妈呀吓死我了，你能不能一次性地把话说完了，吓得我这一身冷汗。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "厨房声音"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "厨房声音"
+    },
+    {
+      "type": "dialog",
+      "speaker": "",
+      "performances": [
         {
           "type": "line",
           "line": "这响个没完没了了？"

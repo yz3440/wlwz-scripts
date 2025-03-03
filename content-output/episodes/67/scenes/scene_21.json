@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -109,12 +110,13 @@
         {
           "type": "line",
           "line": "我心里早就有人了。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "掌柜",
+          "description": "掌柜往前凑，得意的指指自己"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜往前凑，得意的指指自己"
     },
     {
       "type": "dialog",
@@ -173,12 +175,13 @@
         {
           "type": "line",
           "line": "不是"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小郭",
+          "description": "小郭对老白做 V 字型手势"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭对老白做 V 字型手势"
     },
     {
       "type": "dialog",
@@ -191,17 +194,12 @@
         {
           "type": "line",
           "line": "我有权没收免罪金牌哟……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白吓得摔倒"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭巨侠",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "老白",
+          "description": "老白吓得摔倒"
+        },
         {
           "type": "line",
           "line": "我再问一遍，是或者不是。"
@@ -301,10 +299,6 @@
       ]
     },
     {
-      "type": "action",
-      "description": "1019"
-    },
-    {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
@@ -351,17 +345,12 @@
         {
           "type": "line",
           "line": "在本案结案之前，我还有最后一个问题，你们想好了再回答。当你们走到一起之后，你们有没有一个共同的、切实可行的长远计划，只回答有或者没有"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭、秀才对视不语"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭巨侠",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "小郭、秀才",
+          "description": "小郭、秀才对视不语"
+        },
         {
           "type": "line",
           "line": "好，我做结案陈词。老实说，我对两个人的感情从没怀疑过，因为我也年轻过，年轻人内心深处那叫什么动来着？"
@@ -575,17 +564,12 @@
         {
           "type": "line",
           "line": "好，你们走到一起之后，有没有为对方想过，只回答有或者没有。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "吕、郭摇头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭巨侠",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕、郭",
+          "description": "吕、郭摇头"
+        },
         {
           "type": "line",
           "line": "综上所述，他们的结合只是一时冲动，请问两位还有什么疑问吗？"
@@ -735,10 +719,6 @@
           "line": "等我把话说完。——不光是他们俩，其实每一份真挚爱情的开始，都是由于一时的冲动。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1020"
     },
     {
       "type": "dialog",

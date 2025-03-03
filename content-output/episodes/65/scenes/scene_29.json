@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -265,7 +266,8 @@
           "line": "你知道你问题在哪儿吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "展红绫",
           "description": "展摇头"
         },
         {

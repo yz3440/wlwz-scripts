@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -197,7 +198,8 @@
           "line": "啥事啊？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "祝无双",
           "description": "无双欲言又止"
         },
         {
@@ -351,7 +353,8 @@
           "line": "怕的倒不是打，而是不打，啥都不说，闷在肚子里最后就是内伤。治都治不好"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "白点头"
         }
       ]
@@ -415,7 +418,8 @@
           "line": "那肯定是大嘴啊，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "郭同意"
         },
         {
@@ -501,12 +505,13 @@
         {
           "type": "line",
           "line": "说就说，你急什么呐"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才、佟湘玉",
+          "description": "吕、佟劝架"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "吕、佟劝架"
     },
     {
       "type": "dialog",

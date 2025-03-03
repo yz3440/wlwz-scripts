@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -274,7 +275,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "呃„不瞒您说，我这个胡子都是假的，是一根儿一根儿粘上去的。"
+          "line": "呃…不瞒您说，我这个胡子都是假的，是一根儿一根儿粘上去的。"
         }
       ]
     },
@@ -397,12 +398,16 @@
       "description": "众人躺在门口地上装死"
     },
     {
+      "type": "action",
+      "description": "啊！啊啊~"
+    },
+    {
       "type": "dialog",
       "speaker": "邢育森",
       "performances": [
         {
           "type": "line",
-          "line": "啊！啊啊~怎么了？快走啊，不然我连你一起――"
+          "line": "怎么了？快走啊，不然我连你一起――"
         }
       ]
     }

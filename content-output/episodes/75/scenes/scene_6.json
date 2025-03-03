@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -87,10 +88,6 @@
           "line": "来来来！"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1130"
     },
     {
       "type": "action",
@@ -231,7 +228,13 @@
         {
           "type": "line",
           "line": "葵花解穴手！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
         {
           "type": "line",
           "line": "掌柜的……"
@@ -374,7 +377,7 @@
         },
         {
           "type": "speaker-action",
-          "description": "W"
+          "description": "停顿"
         },
         {
           "type": "line",
@@ -402,7 +405,7 @@
         },
         {
           "type": "speaker-action",
-          "description": "W"
+          "description": "停顿"
         },
         {
           "type": "line",

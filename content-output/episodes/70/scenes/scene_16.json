@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -573,11 +574,17 @@
         {
           "type": "line",
           "line": "有没有搞错啊，开个玩笑也不行啊！来人呐！救命呐！展堂，你在哪儿呀！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "几个客人吃好饭跑了出去"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "几个客人吃好饭跑了出去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "还没有结帐呢！展堂，快把他们截住！"

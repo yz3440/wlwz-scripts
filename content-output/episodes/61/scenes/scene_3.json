@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -119,8 +120,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "坐下！"
+        },
+        {
           "type": "line",
-          "line": "坐下！——老白说，哪怕你被打瘫了，他都养你一辈子！"
+          "line": "——老白说，哪怕你被打瘫了，他都养你一辈子！"
         }
       ]
     },

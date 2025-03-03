@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -121,7 +122,13 @@
         {
           "type": "line",
           "line": "来，坐这儿歇会儿，我给你打点水去，乖啊。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "哎哟！双啊，无双！二胖儿！"

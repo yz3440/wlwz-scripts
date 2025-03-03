@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -143,12 +144,12 @@
       "speaker": "李大嘴",
       "performances": [
         {
-          "type": "line",
-          "line": "银子给你，帮我寻摸一个好姑娘。呀！啊！"
-        },
-        {
           "type": "speaker-action",
           "description": "对佟"
+        },
+        {
+          "type": "line",
+          "line": "银子给你，帮我寻摸一个好姑娘。呀！啊！"
         },
         {
           "type": "speaker-action",

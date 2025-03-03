@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -343,17 +344,12 @@
         {
           "type": "line",
           "line": "找到意中人了？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "韩娟",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "湘玉点头"
+        },
         {
           "type": "line",
           "line": "他是干什么的？"

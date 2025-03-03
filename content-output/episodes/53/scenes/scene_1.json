@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -16,7 +17,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -36,7 +37,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -56,7 +57,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -86,7 +87,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -145,17 +146,23 @@
       ]
     },
     {
+      "type": "action",
+      "description": "展堂把剑架在小米脖子上"
+    },
+    {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "包大人",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "展堂把剑架在小米脖子上"
-        },
         {
           "type": "line",
           "line": "小心我的尚方宝剑！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
         {
           "type": "line",
           "line": "还不快滚！"
@@ -174,7 +181,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -194,7 +201,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -214,7 +221,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -234,7 +241,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -254,7 +261,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -273,13 +280,13 @@
       ]
     },
     {
+      "type": "action",
+      "description": "展堂不动"
+    },
+    {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "包大人",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "展堂不动"
-        },
         {
           "type": "line",
           "line": "提拔提拔啦！"

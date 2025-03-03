@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -47,7 +48,8 @@
           "line": "可她要真是卧底的话，为什么要把真实身份告诉你呢？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白摇头"
         },
         {
@@ -85,7 +87,8 @@
           "line": "大嘴啊，麻烦你找个镜子照照自己"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人讪笑"
         },
         {

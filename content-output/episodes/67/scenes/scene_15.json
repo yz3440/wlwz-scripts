@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -157,12 +158,12 @@
       "speaker": "吕秀才",
       "performances": [
         {
-          "type": "line",
-          "line": "那就休怪小侄无礼了，葵花点穴手"
-        },
-        {
           "type": "speaker-action",
           "description": "点住小郭"
+        },
+        {
+          "type": "line",
+          "line": "那就休怪小侄无礼了，葵花点穴手"
         }
       ]
     },
@@ -270,7 +271,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "呵呵~（冷笑）"
+          "line": "呵呵~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冷笑"
         }
       ]
     }

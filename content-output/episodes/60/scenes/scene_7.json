@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -41,17 +42,24 @@
           "line": "有人说……记一下，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "秀才",
           "description": "秀才记"
         },
         {
           "type": "line",
           "line": "有人说孤独的人是可耻的，但眼前这个人明明不孤独，但他可耻，这是为什么？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "没人搭茬"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "没人搭茬"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "答出来有奖。"
@@ -237,7 +245,8 @@
           "line": "给你，统统给你。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小贝",
           "description": "小贝迫不及待地接牛肉干"
         },
         {
@@ -245,7 +254,8 @@
           "line": "李秀莲大嘴先生，你能落到今天这个下场，你有何感想？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "大嘴",
           "description": "大嘴冷笑"
         },
         {
@@ -379,7 +389,8 @@
           "line": "可以，散了吧。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人跑"
         },
         {
@@ -527,7 +538,8 @@
           "line": "坐下，坐下，你不要忘了这可是你自己提出来的，你有思想有主张，谁能比你更有说服力呀？不要再推了，闲着也是闲着，还是帮我做点事情啊，你不要忘了，你给我们带来了多大的麻烦哪？这可是你将功赎罪的好机会呀。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "南宫",
           "description": "南宫一脸茫然"
         }
       ]

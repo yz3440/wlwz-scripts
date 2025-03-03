@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -233,13 +234,7 @@
         {
           "type": "speaker-action",
           "description": "出门无声大吼"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
         {
           "type": "line",
           "line": "没事了，刚才说哪儿啦？"
@@ -265,15 +260,10 @@
           "line": "嫁妆，嫁妆，肯定是！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "杨蕙兰",
           "description": "蕙兰拿菜刀"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+        },
         {
           "type": "line",
           "line": "哎哎哎，——没嫁妆无所谓啊。"

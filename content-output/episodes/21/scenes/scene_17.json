@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -363,17 +364,11 @@
         {
           "type": "line",
           "line": "笑什么笑，练你的！别抖，别紧张，放松啊。再放松，再放松。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "燕倒"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "燕倒"
+        },
         {
           "type": "line",
           "line": "哎哎哎~"

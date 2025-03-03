@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -158,7 +159,7 @@
         },
         {
           "type": "line",
-          "line": "够不够啊？"
+          "line": "——够不够啊？"
         }
       ]
     }

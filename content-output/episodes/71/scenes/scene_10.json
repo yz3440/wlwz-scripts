@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -77,12 +78,12 @@
         {
           "type": "line",
           "line": "既然这样，我就跟他们拼了，我就不信她能男女通吃！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "起身要出门"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "起身要出门"
     },
     {
       "type": "dialog",

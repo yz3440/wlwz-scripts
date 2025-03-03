@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -39,17 +40,12 @@
         {
           "type": "line",
           "line": "下次再也不许这样，听到没有？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "无双很知趣地站起"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "祝无双",
+          "description": "无双很知趣地站起"
+        },
         {
           "type": "line",
           "line": "我不是叫你先忍着点，等我回来再处理吗。"

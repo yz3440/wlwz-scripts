@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -135,7 +136,8 @@
           "line": "后来我又喜欢上秀才，下场又是什么？好不容易喜欢上你弟，又是什么结果。还有那个姓展的锦衣卫……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "掌柜笑"
         },
         {

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -10,7 +11,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "金鸡„"
+          "line": "金鸡…"
         }
       ]
     },
@@ -378,11 +379,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "谁说没关系啊，让人看见还不笑话我！放心吧，大不了重写。哟，福字没有贴，怪不得觉得别扭。"
-        },
-        {
-          "type": "line",
-          "line": "感觉怎么样？"
+          "line": "谁说没关系啊，让人看见还不笑话我！放心吧，大不了重写。哟，福字没有贴，怪不得觉得别扭。感觉怎么样？"
         }
       ]
     },

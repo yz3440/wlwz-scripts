@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -211,8 +212,13 @@
           "line": "哎，秀才……"
         },
         {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "吕跑出去"
+        },
+        {
           "type": "speaker-action",
-          "description": "吕跑出去，大嘴趴在门缝"
+          "description": "趴在门缝"
         },
         {
           "type": "line",

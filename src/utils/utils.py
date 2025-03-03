@@ -36,9 +36,7 @@ class Scene:
 def find_all_scenes() -> List[Scene]:
     all_scenes: List[Scene] = []
     for episode_number in range(1, TOTAL_EPISODES + 1):
-        episode_output_path = os.path.join(
-            EPISODES_OUTPUT_PATH, f"{episode_number:02d}"
-        )
+        episode_output_path = os.path.join(EPISODES_OUTPUT_PATH, f"{episode_number}")
         scene_folder_path = os.path.join(episode_output_path, "scenes")
         scene_files = os.listdir(scene_folder_path)
 

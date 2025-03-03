@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -99,21 +100,21 @@
         {
           "type": "line",
           "line": "啊！还给你！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扔鸡蛋，大嘴没接住，鸡蛋掉地上碎了"
+        },
+        {
+          "type": "line",
+          "line": "呃……你砸死我吧……"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "扔鸡蛋，大嘴没接住，鸡蛋掉地上碎了"
     },
     {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        {
-          "type": "line",
-          "line": "呃……你砸死我吧……"
-        },
         {
           "type": "line",
           "line": "我——"

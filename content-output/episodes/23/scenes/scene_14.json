@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -30,7 +31,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我也没办法，这不正洗着吗"
+          "line": "我也没办法，这不正洗着吗。"
         }
       ]
     },
@@ -70,7 +71,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "小六！"
+          "line": "小六！——"
         },
         {
           "type": "speaker-action",
@@ -98,7 +99,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "人家都不在！你还冤枉人家"
+          "line": "人家都不在！你还冤枉人家。"
         }
       ]
     },

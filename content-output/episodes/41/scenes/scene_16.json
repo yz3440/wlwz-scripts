@@ -3,6 +3,7 @@
   "rawDescription": "【屋顶，夜】",
   "location": "屋顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -110,11 +111,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎，你不要忘了，在你之前，她可卖出去小三百把啦，三两银子，对一般人来说得攒多长时间？"
-        },
-        {
-          "type": "line",
-          "line": "你算过没有？"
+          "line": "哎，你不要忘了，在你之前，她可卖出去小三百把啦，三两银子，对一般人来说得攒多长时间？你算过没有？"
         }
       ]
     },

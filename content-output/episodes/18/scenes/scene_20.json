@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -330,7 +331,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "在你们店里找，那就是老白。"
+          "line": "在你们店里找，那就是…老白。"
         }
       ]
     },

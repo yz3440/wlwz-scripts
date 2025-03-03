@@ -1,14 +1,10 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，昼】",
+  "rawDescription": "【大堂，昼】\n（回忆）",
   "location": "大堂",
   "timeOfDay": "昼",
-  "context": "",
+  "context": "回忆",
   "performances": [
-    {
-      "type": "action",
-      "description": "回忆"
-    },
     {
       "type": "dialog",
       "speaker": "陆一鸣",

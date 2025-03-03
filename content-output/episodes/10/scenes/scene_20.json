@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -105,10 +106,16 @@
         {
           "type": "speaker-action",
           "description": "小米进来"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
-          "line": "！快点，坐下来，把这些饭菜吃了。"
+          "line": "快点，坐下来，把这些饭菜吃了。"
         }
       ]
     },
@@ -341,18 +348,20 @@
         {
           "type": "speaker-action",
           "description": "小米不动"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
-          "line": "！怎么回事？葵花解穴手"
+          "line": "怎么回事？葵花解穴手"
         },
         {
           "type": "speaker-action",
           "description": "小米一震，流下一行泪水"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -425,7 +434,8 @@
           "line": "不知道啥呀？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小米",
           "description": "小米头一歪，倒在了桌上"
         }
       ]
@@ -439,12 +449,9 @@
           "line": "小米，小米，你快醒醒。你们快想办法呀"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "老白",
           "description": "老白将小米一拎"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -559,7 +566,8 @@
           "line": "齁死的，不是撑死的！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "秀才",
           "description": "秀才爬过来拿桌上仅剩的一个馒头"
         }
       ]
@@ -660,7 +668,7 @@
         },
         {
           "type": "line",
-          "line": "，这怎么回事？"
+          "line": "这怎么回事？"
         }
       ]
     },
@@ -745,10 +753,16 @@
         {
           "type": "speaker-action",
           "description": "将大嘴定住"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
-          "line": "！叫你跟老板娘叫板。"
+          "line": "叫你跟老板娘叫板。"
         }
       ]
     },
@@ -821,7 +835,8 @@
           "line": "没啥，真的没啥！——就是一个翡翠的屏风"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "湘玉",
           "description": "湘玉倒抽一口气"
         },
         {
@@ -829,7 +844,8 @@
           "line": "两个琉璃灯罩，五个古董花瓶，哦对了，还有十来个青瓷碗碟。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "老白",
           "description": "老白的面色也越来越沉重"
         },
         {
@@ -837,17 +853,25 @@
           "line": "看那个意思吧，好象是官窑烧出来的"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "湘玉老白",
           "description": "湘玉老白已经面色如土"
         },
         {
           "type": "line",
-          "line": "，噢，具体价钱，掌柜的，等您赔的时候再慢慢商量吧。"
+          "line": "噢，具体价钱，掌柜的，等您赔的时候再慢慢商量吧。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "湘玉",
           "description": "湘玉终于支持不住晕了过去"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "哎，秀才怎么回事啊？"
@@ -875,10 +899,6 @@
         {
           "type": "speaker-action",
           "description": "指小米"
-        },
-        {
-          "type": "line",
-          "line": "？"
         }
       ]
     },
@@ -891,12 +911,9 @@
           "line": "他是活齁死的"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "大嘴",
           "description": "大嘴强撑着回了句撑死的"
-        },
-        {
-          "type": "line",
-          "line": "。"
         }
       ]
     },

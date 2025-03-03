@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -115,12 +116,12 @@
         {
           "type": "line",
           "line": "不过什么？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大伙从厨房出来"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大伙从厨房出来"
     },
     {
       "type": "dialog",
@@ -159,17 +160,11 @@
         {
           "type": "line",
           "line": "这样一来，礼单就变成了如下内容，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大舌头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "大舌头"
+        },
         {
           "type": "line",
           "line": "波斯国的蓝宝石 1.00 颗也就是一颗。"
@@ -319,12 +314,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "不要走嘛！这是我从西街的王媒婆那借过来的，这次的问题很有意思啊，你喜欢吃蒜的男人还是不吃蒜的男人，反正秀才是不吃蒜的……"
-        },
-        {
           "type": "speaker-action",
           "description": "追"
+        },
+        {
+          "type": "line",
+          "line": "不要走嘛！这是我从西街的王媒婆那借过来的，这次的问题很有意思啊，你喜欢吃蒜的男人还是不吃蒜的男人，反正秀才是不吃蒜的……"
         }
       ]
     }

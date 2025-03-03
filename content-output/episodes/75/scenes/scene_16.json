@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -45,13 +46,7 @@
         {
           "type": "line",
           "line": "我不好意思当跑堂，我都想死来着。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
         {
           "type": "speaker-action",
           "description": "燕小六不屑"
@@ -133,7 +128,8 @@
           "line": "也不知道谁教这孩子点穴啊，没啥事儿她点我玩，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "燕小六捡起了胭脂"
         },
         {

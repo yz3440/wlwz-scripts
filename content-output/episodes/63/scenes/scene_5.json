@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -51,7 +52,8 @@
           "line": "掌柜的？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "莫小贝",
           "description": "吓得小贝转头去看，小郭溜回屋"
         }
       ]
@@ -76,7 +78,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎哎哎。"
+          "line": "哎哎哎，"
         },
         {
           "type": "speaker-action",
@@ -239,17 +241,12 @@
         {
           "type": "line",
           "line": "答对了，小妹妹，我们全家都是山贼，我这次出来，就是踩点来了。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小贝不屑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "谢仲达",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "莫小贝",
+          "description": "小贝不屑"
+        },
         {
           "type": "line",
           "line": "点啊踩得差不多了，回头把你们这洗劫一空，把你卖到山里当童养媳。"

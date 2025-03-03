@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -116,7 +117,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "不许罚抄写，不许叫早床，不许揪小辫，不许没收零食„.."
+          "line": "不许罚抄写，不许叫早床，不许揪小辫，不许没收零食….."
         }
       ]
     },
@@ -326,7 +327,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "这里的山路十八弯„"
+          "line": "这里的山路十八弯…"
         }
       ]
     },

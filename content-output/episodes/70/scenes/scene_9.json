@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -177,12 +178,12 @@
         {
           "type": "line",
           "line": "没有那么严重吧，快起来！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扶起赛"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "扶起赛"
     },
     {
       "type": "dialog",
@@ -195,16 +196,22 @@
         {
           "type": "speaker-action",
           "description": "赛撩起裙子，腿上全是伤，大家都不忍心看了"
-        },
-        {
-          "type": "line",
-          "line": "有抽的，拧的，掐的。脚上，腿上，胳臂上，还有身上。不信我脱了你看！"
         }
       ]
     },
     {
-      "type": "action",
-      "description": "赛说完要解腰带，无双，湘玉上去拦，小郭急忙挡住大嘴和老白的视线"
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有抽的，拧的，掐的。脚上，腿上，胳臂上，还有身上。不信我脱了你看！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "赛说完要解腰带，无双，湘玉上去拦，小郭急忙挡住大嘴和老白的视线"
+        }
+      ]
     },
     {
       "type": "dialog",

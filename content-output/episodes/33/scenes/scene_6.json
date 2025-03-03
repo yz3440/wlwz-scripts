@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -436,7 +437,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "招呼客人。——哎呦，小六（W）——燕捕头，今天有空过来喝茶了啊？"
+          "line": "招呼客人。——哎呦，小六——？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "燕捕头，今天有空过来喝茶了啊"
         }
       ]
     },
@@ -456,7 +465,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "出大事儿啦（W）——燕捕头指示，我负责传达，这儿人多，楼上说"
+          "line": "出大事啦！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "燕捕头指示，我负责传达，这儿人多，楼上说"
         }
       ]
     }

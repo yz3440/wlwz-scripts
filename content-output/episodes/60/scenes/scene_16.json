@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，傍晚】",
   "location": "客栈外",
   "timeOfDay": "傍晚",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -151,12 +152,12 @@
         {
           "type": "line",
           "line": "我去可可西里，听说那里有许多藏羚羊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "走"
     },
     {
       "type": "dialog",

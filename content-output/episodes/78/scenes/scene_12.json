@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -471,12 +472,12 @@
         {
           "type": "line",
           "line": "没事，我就觉得这么漂亮的花应该配你这么漂亮的人，我给你插上啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "两人拥抱，悄声"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "两人拥抱，悄声"
     },
     {
       "type": "dialog",

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -70,11 +71,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "\"蹭\"的一下，是突然间消失，"
-        },
-        {
-          "type": "line",
-          "line": "\"揉\"的一下是慢慢变透明然后消失。"
+          "line": "\"蹭\"的一下，是突然间消失，\"揉\"的一下是慢慢变透明然后消失。"
         }
       ]
     },
@@ -94,11 +91,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "\"蹭\"的一下，"
-        },
-        {
-          "type": "line",
-          "line": "\"蹭\"的一下。"
+          "line": "\"蹭\"的一下，\"蹭\"的一下。"
         }
       ]
     },

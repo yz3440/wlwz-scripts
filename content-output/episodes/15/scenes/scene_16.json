@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -85,15 +86,27 @@
         {
           "type": "line",
           "line": "大嘴！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对小郭"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "对小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "还有啥好说的？牌子呢？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "这是个啥嘛？"
@@ -154,7 +167,7 @@
         },
         {
           "type": "line",
-          "line": "没事儿，吃饭吃饭"
+          "line": "——没事儿，吃饭吃饭——"
         },
         {
           "type": "speaker-action",

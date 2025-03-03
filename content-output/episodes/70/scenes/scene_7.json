@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，傍晚】",
   "location": "大堂",
   "timeOfDay": "傍晚",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -291,11 +292,17 @@
         {
           "type": "line",
           "line": "我会……我会选她！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "说着指向赛"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说着指向赛"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "就是她，我前世修来的好姐妹！"

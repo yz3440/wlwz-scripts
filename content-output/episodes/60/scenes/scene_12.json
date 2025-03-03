@@ -3,6 +3,7 @@
   "rawDescription": "【厨房，昼】",
   "location": "厨房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -38,7 +39,7 @@
         },
         {
           "type": "line",
-          "line": "大家等着你呢"
+          "line": "大家等着你呢。"
         }
       ]
     },
@@ -205,12 +206,12 @@
         {
           "type": "line",
           "line": "还没完呢，小孟，小齐，不要着急嘛，哎呀……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人都走光了"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人都走光了"
     },
     {
       "type": "dialog",

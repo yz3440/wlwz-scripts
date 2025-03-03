@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -61,12 +62,13 @@
         {
           "type": "line",
           "line": "能是谁呢？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭敲门"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭敲门"
     },
     {
       "type": "dialog",

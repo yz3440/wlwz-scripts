@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -31,10 +32,6 @@
           "line": "行了行了。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1018"
     },
     {
       "type": "dialog",

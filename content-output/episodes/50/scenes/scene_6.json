@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -577,17 +578,12 @@
         {
           "type": "line",
           "line": "试问，谁能破坏的这么干净这么纯粹，这说明什么？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小六摇头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "燕小六",
+          "description": "小六摇头"
+        },
         {
           "type": "line",
           "line": "说明你破坏力极强啊，到时候你一高兴直冲进匪巢，叮咣五四一顿乱砸，试问，贼往哪跑，贼往哪跑？"

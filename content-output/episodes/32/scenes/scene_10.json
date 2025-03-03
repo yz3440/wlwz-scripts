@@ -3,6 +3,7 @@
   "rawDescription": "【菜市场，昼】",
   "location": "菜市场",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -15,7 +16,13 @@
         {
           "type": "speaker-action",
           "description": "对卖萝卜者"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "这萝卜咋卖的？"

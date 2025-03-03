@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -241,12 +242,13 @@
         {
           "type": "line",
           "line": "好好，慢点，来来来……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "后边偷听的人",
+          "description": "后边偷听的人立刻隐蔽"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "后边偷听的人立刻隐蔽"
     },
     {
       "type": "dialog",

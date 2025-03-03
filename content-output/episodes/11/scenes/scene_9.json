@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -21,7 +22,13 @@
         {
           "type": "line",
           "line": "我本来没有想拿，但是我这个人一见银子脑子就糊涂了，等我反应过来，你们已经把我包围了。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "你们说我是见钱眼开的人吗？"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -85,17 +86,11 @@
         {
           "type": "line",
           "line": "您抱归抱，那蹄子能消停点吗？你看咱这是砖地又不是大理石唉，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白一只腿在不停抖动"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白一只腿在不停抖动"
+        },
         {
           "type": "line",
           "line": "只听说过老牛刨地，没想到人也有这出。"
@@ -122,7 +117,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "嗯，如果刚才洞房里发生了什么事情的话，你„"
+          "line": "嗯，如果刚才洞房里发生了什么事情的话，你…"
         }
       ]
     },
@@ -187,7 +182,13 @@
         {
           "type": "line",
           "line": "拜托~"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "悄悄话节目都是凌晨两三点才播出哎，现在是大白天哎，注意点影响好不好？"

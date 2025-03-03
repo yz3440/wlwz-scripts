@@ -3,6 +3,7 @@
   "rawDescription": "【厨房，夜】",
   "location": "厨房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -194,7 +195,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "吕秀才",
+      "speaker": "秀 才",
       "performances": [
         {
           "type": "line",
@@ -352,7 +353,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "呸，少来了——不行我得去冷敷一下。"
+          "line": "呸，少来了——不行我得去冷敷一下"
         },
         {
           "type": "speaker-action",
@@ -370,7 +371,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我也得出去转转，看拿~点药回来。"
+          "line": "我也得出去转转，看拿~点药回来"
         },
         {
           "type": "speaker-action",
@@ -384,7 +385,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "行了。"
+          "line": "行了"
         },
         {
           "type": "speaker-action",

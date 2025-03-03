@@ -3,6 +3,7 @@
   "rawDescription": "【牢房，昼】",
   "location": "牢房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -100,7 +101,21 @@
       "performances": [
         {
           "type": "line",
-          "line": "吾搞侬刚故弗要刚上海艾乌法！（我和你说过不要讲上海话吧！）你„是不是心疼我啊？"
+          "line": "吾搞侬刚故弗要刚上海艾乌法！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "我和你说过不要讲上海话吧！"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你…是不是心疼我啊？"
         }
       ]
     },
@@ -123,7 +138,8 @@
           "line": "是就说是。点头 yes 摇头 no，来是 come 去是 go"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "吕秀才",
           "description": "秀才点头"
         },
         {
@@ -168,7 +184,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "那你就报（抱）吧。"
+          "line": "那你就报"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抱"
+        },
+        {
+          "type": "line",
+          "line": "吧。"
         }
       ]
     },
@@ -332,7 +356,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "啊，——啊呀！你真是真是„真是„"
+          "line": "啊，——啊呀！你真是真是…真是…"
         }
       ]
     },

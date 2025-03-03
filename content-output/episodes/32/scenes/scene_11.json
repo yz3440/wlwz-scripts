@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -56,7 +57,11 @@
     },
     {
       "type": "action",
-      "description": "。\n。"
+      "description": "。"
+    },
+    {
+      "type": "action",
+      "description": "。"
     },
     {
       "type": "dialog",
@@ -214,7 +219,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "正因为有这份自信。先皇跟我说了，说任何厨子啊，都能炒出好菜，关键是，有没有这份自信。\n我呀，走南闯北这么多地方，啊，见过这么多厨子。哎，就这小子，有这份自信。"
+          "line": "正因为有这份自信。先皇跟我说了，说任何厨子啊，都能炒出好菜，关键是，有没有这份自信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我呀，走南闯北这么多地方，啊，见过这么多厨子。哎，就这小子，有这份自信。"
         }
       ]
     },

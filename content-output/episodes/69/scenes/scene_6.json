@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -35,7 +36,13 @@
         {
           "type": "line",
           "line": "本来也不是给你的。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "不是，老白，多少吃点。你说，要不掌柜的生气拿我撒气咋办呐？"
@@ -119,17 +126,11 @@
         {
           "type": "line",
           "line": "早知道这样，我当时就应该跟展红绫好好聊聊，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉，小郭进"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉，小郭进"
+        },
         {
           "type": "line",
           "line": "说不定聊好了现在手拉手去唱歌去。"
@@ -343,17 +344,12 @@
         {
           "type": "line",
           "line": "掌柜的今天早晨收到一封信，叫她三天之内转发七封，而且必须得是最亲近的人，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉欲阻拦"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "湘玉",
+          "description": "湘玉欲阻拦"
+        },
         {
           "type": "line",
           "line": "否则就会家破人亡倾家荡产，最亲近的人死于非命。"

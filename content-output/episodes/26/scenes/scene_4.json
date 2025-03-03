@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -110,7 +111,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "好，揉肩„"
+          "line": "好，揉肩…"
         }
       ]
     },
@@ -130,7 +131,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎，捶捶背„"
+          "line": "哎，捶捶背…"
         }
       ]
     },
@@ -230,7 +231,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "好吧，你不想签就算了„不好意思，麻烦你了。"
+          "line": "好吧，你不想签就算了…不好意思，麻烦你了。"
         }
       ]
     },
@@ -360,7 +361,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "去！先生咋出手这么狠，把手都打肿了„"
+          "line": "去！先生咋出手这么狠，把手都打肿了…"
         }
       ]
     },

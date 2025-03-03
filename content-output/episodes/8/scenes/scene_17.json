@@ -1,0 +1,23 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "后院烟雾散去，姬无命被炸的焦黑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姬～我的兄弟，葵花解穴手！小姬～～"
+        }
+      ]
+    }
+  ]
+}

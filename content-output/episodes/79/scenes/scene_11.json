@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -33,7 +34,8 @@
           "line": "第一个愿望，你能再给我三十个愿望吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "杨蕙兰",
           "description": "杨无语"
         },
         {

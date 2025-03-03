@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -392,7 +393,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "众人",
+      "speaker": "吕秀才",
       "performances": [
         {
           "type": "line",

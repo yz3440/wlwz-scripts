@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -341,11 +342,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "噗——咳咳咳"
+          "type": "speaker-action",
+          "description": "噗——咳咳咳"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "无双",
           "description": "无双在后边拍"
         },
         {
@@ -459,7 +461,8 @@
           "line": "也顺便帮我说一声，我也想死他了。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "众人",
           "description": "众人鄙视"
         },
         {
@@ -557,7 +560,8 @@
           "line": "师兄啊，你以前耳朵不挺好使的吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "无双",
           "description": "被无双瞪了一眼"
         },
         {
@@ -585,7 +589,8 @@
           "line": "我呀！"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "无双",
           "description": "又被无双瞪了一眼"
         },
         {
@@ -703,12 +708,13 @@
         {
           "type": "line",
           "line": "你要老是这样的话呢，我还有两手，三手，十手，百手，一千手，一万手等着你呢。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "两人",
+          "description": "两人怒目而视"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "两人怒目而视"
     },
     {
       "type": "dialog",
@@ -753,7 +759,8 @@
           "line": "我明白了，终于明白了。你们搞错人啦！所以你们刚才说的什么话我都听不明白。我长得很像你那个师兄是吧？他姓什么，叫什么，多大年纪了，以前干什么的，现在在哪？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "无双",
           "description": "无双甩手走人"
         },
         {

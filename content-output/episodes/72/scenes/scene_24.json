@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -359,10 +360,6 @@
           "line": "秀才！秀才……"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1098"
     }
   ]
 }

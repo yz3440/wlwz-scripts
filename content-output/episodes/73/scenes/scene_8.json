@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -157,12 +158,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "大嘴啊，我这儿还有一瓶老白干，你拿去喝去吧，光吃花生米多没劲呐，小酒一喝，小花生米一吃，小风一吹多舒服啊，走走走。爽~去吧去吧。"
-        },
-        {
           "type": "speaker-action",
           "description": "走向李"
+        },
+        {
+          "type": "line",
+          "line": "大嘴啊，我这儿还有一瓶老白干，你拿去喝去吧，光吃花生米多没劲呐，小酒一喝，小花生米一吃，小风一吹多舒服啊，走走走。爽~去吧去吧。"
         }
       ]
     },

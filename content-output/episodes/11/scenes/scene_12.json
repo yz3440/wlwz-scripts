@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -51,11 +52,17 @@
         {
           "type": "line",
           "line": "梅兰芳，斯坦尼，布莱西特，我懂。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "见小贝入，哭道"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "见小贝入，哭道"
+    },
+    {
+      "type": "dialog",
+      "speaker": "扈十娘",
+      "performances": [
         {
           "type": "line",
           "line": "老板娘，我求求你啦，你就可怜可怜我吧，可怜可怜我吧。你给我一点盘缠回家。"

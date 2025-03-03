@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -85,20 +86,26 @@
         {
           "type": "line",
           "line": "左青龙，右白虎，左青龙，右白虎，呀！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "割到手指头"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "割到手指头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "啊，血！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "大嘴晕倒"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴晕倒"
     },
     {
       "type": "dialog",
@@ -199,10 +206,20 @@
         {
           "type": "speaker-action",
           "description": "面对观众甩头发，走向后院"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "唱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
-          "line": "（唱）他说风雨中，这点痛算什么，擦干泪……啊啊啊啊！"
+          "line": "他说风雨中，这点痛算什么，擦干泪……啊啊啊啊！"
         }
       ]
     }

@@ -3,6 +3,7 @@
   "rawDescription": "【钱夫人房间，夜】",
   "location": "钱夫人房间",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -189,12 +190,12 @@
         {
           "type": "line",
           "line": "幸好还剩点，上好的蒙汗药啊。喝多少都不上头。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拿手指搅搅杯子"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "拿手指搅搅杯子"
     },
     {
       "type": "dialog",
@@ -361,7 +362,8 @@
           "line": "慢，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "钱夫人",
           "description": "钱夫人停手"
         },
         {

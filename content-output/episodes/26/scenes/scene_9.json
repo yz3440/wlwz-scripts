@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -10,7 +11,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "小郭姐姐„小郭姐姐？白大嫂！这，这些都是你教我说的，也不能全怪我嘛„"
+          "line": "小郭姐姐…小郭姐姐？白大嫂！这，这些都是你教我说的，也不能全怪我嘛…"
         }
       ]
     },
@@ -50,7 +51,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "煮熟的鸭子怎么会飞呢？翅膀也没了„"
+          "line": "煮熟的鸭子怎么会飞呢？翅膀也没了…"
         }
       ]
     },
@@ -61,16 +62,16 @@
         {
           "type": "line",
           "line": "莫小贝！"
-        },
-        {
-          "type": "line",
-          "line": "！"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "！"
+    },
+    {
+      "type": "action",
+      "description": "！"
     },
     {
       "type": "dialog",
@@ -78,7 +79,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "啊，飞了，飞了飞了„."
+          "line": "啊，飞了，飞了飞了…."
         }
       ]
     },
@@ -98,7 +99,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哦，回来回来回来„."
+          "line": "哦，回来回来回来…."
         }
       ]
     },
@@ -118,7 +119,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哦，走走走„小郭姐姐，你到底想怎么样嘛？"
+          "line": "哦，走走走…小郭姐姐，你到底想怎么样嘛？"
         }
       ]
     },
@@ -128,7 +129,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我要谢谢你„."
+          "line": "我要谢谢你…."
         }
       ]
     },
@@ -158,7 +159,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "自由？自由了呵，自由了自由了„你这是哭还是笑啊？"
+          "line": "自由？自由了呵，自由了自由了…你这是哭还是笑啊？"
         }
       ]
     },
@@ -168,7 +169,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "是笑！发自内心的笑„"
+          "line": "是笑！发自内心的笑…"
         }
       ]
     },

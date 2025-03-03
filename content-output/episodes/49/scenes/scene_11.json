@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -25,7 +26,13 @@
         {
           "type": "line",
           "line": "不要了，谢谢你啊"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
         {
           "type": "line",
           "line": "哎哎哎，你在这儿干了多久了？"

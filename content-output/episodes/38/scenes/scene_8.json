@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -11,11 +12,17 @@
         {
           "type": "line",
           "line": "哎哎哎小贝小贝！哎呀。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "看到地上的包袱"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "看到地上的包袱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "这个包袱在哪见过呢？"

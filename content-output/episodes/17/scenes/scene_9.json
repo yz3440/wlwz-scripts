@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，傍晚】",
   "location": "大堂",
   "timeOfDay": "傍晚",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -120,12 +121,18 @@
     },
     {
       "type": "dialog",
-      "speaker": "陆一鸣",
+      "speaker": "",
       "performances": [
         {
           "type": "line",
           "line": "干啥呀，都是自己人。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
         {
           "type": "line",
           "line": "再对我们掌门不客气，休怪我无礼。"

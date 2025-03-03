@@ -1,0 +1,703 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭在油灯下坐在桌边缝书包，秀才在桌边看书抄写，老白在桌边对着地图比比划划"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呔！敢问路在何方，路在脚下！呀～啾啾啾啾啾啾啾……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我那粉蒸肉呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了来了！客官有啥吩咐呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个粉蒸肉，等了半个多时辰，杀猪呢吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的鱼香肉丝呢？还等着钓鱼呐？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "麻烦说普通话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的鱼香肉丝呢？还等着钓鱼呐？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀鱼香肉丝里哪有鱼嘛——我这就让他们给你钓去……厄，给你催去！呵呵。展堂！哎呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧的——不上别上了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上上上！！马上上！你快去催去啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没功夫，正给大小姐研究地形呢！从这到书院要经过两座小桥三个巷子五个坟包七个茅厕……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说什么呢？！吃着饭呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起啊！不要再说了，一边呆着去！不好意思啊……哎呀小郭……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭手中线，小贝身上包，临行密密缝，盼她得分高。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再缝了！秀才——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我正忙着为大小姐准备功课呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀……你又不是先生，你背的啥课嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "作为一个职业书童要有职业道德呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你去给我把大嘴叫过来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他来不了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "正忙着为大小姐练二头肌呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么鸡——？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二头肌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二头鸡，二个脑袋的鸡，鸡精——妖怪！！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二头肌，不是这里，不是这里，就是这里！练结实了抬起轿子来不晃嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊～他啥时候不能练嘛，客人都等着上菜呢，真是的！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转向顾客"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起啊，实在是对不起，今天恐怕是上不了菜了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不早说呢！这不耽误事儿呢嘛！走，换家吃去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思啊，对不起……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走走！咱们也走！以后再不来这儿吃了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "下次再来啊！实在是对不起啊！慢走啊！下次再来啊！哎呀～终于要开学啦！哎呀……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "累的坐门槛上，老邢出现"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你咋坐这儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，不好意思，我们已经打烊了，送客——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我就喝口茶，你看你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀～～！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么人？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵……我，老邢"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭、吕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "hi～"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "hi～……哈哈，你们咋这样打扮呀？！哈哈哈哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝要上学了，他们都是跟班。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上就上呗！他们……是不是怕小贝受欺负啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝受欺负……我咋早没有想到呢？……来来来，把活都放下！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又怎么啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝万一要是被同学欺负了咋办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有他俩护着，小贝不欺负别的同学算不错啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可未必。许她带保镖就不许别的同学带吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳！你以外都跟你似的？咳！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行不行！看来我得亲自送她上学接她放学。她要是渴了想喝水咋办，要是饿了想吃饭咋办？她那个书院在同福夹道，她要是在同福路口上挡了人家的车，人家要她让，她蛮不讲理死活不肯让，人家下来抽她耳光咋办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "该！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对邢"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这件事呀，经常在同福夹道路口发生，打得那些学生是魂飞胆丧，哎呀……这件事情要是不解决，看来我以后就没有办法睡好了……邢捕头～来来来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有话说话啊，咱别拉拉扯扯的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这一转眼～咱们已经认识两年了啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵～那个，有话直说，咱不拐弯抹角的好不好？不拐弯抹角。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你能不能……送小贝上学？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥呢这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要是有人欺负她，你就直接把那个人带回衙门！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "莫拉佟的手，佟甩开，朝莫"
+        },
+        {
+          "type": "line",
+          "line": "等会再说！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝老邢"
+        },
+        {
+          "type": "line",
+          "line": "咱可以按次数计费，也可以按月交钱，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "莫再拉佟手，佟怒"
+        },
+        {
+          "type": "line",
+          "line": "哎呀！让你等会再说嘛！！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就说一句！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额不想上学咧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "……为啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上学不好玩，从今往后，我再也不上学了，永远都不上了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝你给我站住，你给我站住！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父！——"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家从门帘入天井"
+    }
+  ]
+}

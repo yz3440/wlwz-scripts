@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -151,7 +152,13 @@
         {
           "type": "line",
           "line": "对呀对呀，就要赢了。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "line",
           "line": "哇塞！"
@@ -217,10 +224,6 @@
           "line": "哇塞！"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "！"
     },
     {
       "type": "dialog",
@@ -499,12 +502,12 @@
         {
           "type": "line",
           "line": "我不要听，我真的没有想到你原来是这种人啊，我以前简直就是——瞎了眼了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "切镜头"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "切镜头"
     },
     {
       "type": "dialog",
@@ -513,12 +516,12 @@
         {
           "type": "line",
           "line": "555……！"
-        },
-        {
-          "type": "line",
-          "line": "•￥#%！#￥……"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "•￥#%！#￥……"
     },
     {
       "type": "dialog",
@@ -661,7 +664,13 @@
         {
           "type": "line",
           "line": "那是粉丝~"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "line",
           "line": "小米，这些钱，还给你。以后那些坑蒙拐骗的事儿，我再也不干啦！"
@@ -715,7 +724,13 @@
         {
           "type": "line",
           "line": "只要你能想明白，这三天掌柜就算你没有白当。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "哎哎哎哎哎！小米你干啥呀？"
@@ -833,10 +848,16 @@
         {
           "type": "speaker-action",
           "description": "指掌柜"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
         {
           "type": "line",
-          "line": "你，去给我，弄壶好茶！哎你你"
+          "line": "你，去给我，弄壶好茶！哎你你。"
         },
         {
           "type": "speaker-action",
@@ -844,7 +865,7 @@
         },
         {
           "type": "line",
-          "line": "去给我弄盘瓜籽儿。大嘴，去给我熬锅小米粥哎，"
+          "line": "去给我弄盘瓜籽儿。大嘴，去给我熬锅小米粥哎。"
         },
         {
           "type": "speaker-action",
@@ -861,12 +882,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "•￥%•！￥%"
+          "type": "speaker-action",
+          "description": "哽咽"
         },
         {
-          "type": "speaker-action",
-          "description": "没看人家在哭嘛"
+          "type": "line",
+          "line": "没看人家在哭吗。"
         }
       ]
     },
@@ -886,7 +907,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "没看人家在哭嘛~"
+          "line": "没看人家在哭吗~"
         }
       ]
     },

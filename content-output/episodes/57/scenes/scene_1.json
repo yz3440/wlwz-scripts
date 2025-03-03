@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -293,12 +294,13 @@
         {
           "type": "line",
           "line": "怎么回事怎么回事，出嘛事了？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "大家停止喊叫"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大家停止喊叫"
     },
     {
       "type": "dialog",
@@ -499,17 +501,12 @@
         {
           "type": "line",
           "line": "不要再说了！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小六喝水吓一跳"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "燕小六",
+          "description": "小六喝水吓一跳"
+        },
         {
           "type": "line",
           "line": "想请假，除非等我死了。"
@@ -661,17 +658,12 @@
         {
           "type": "line",
           "line": "行行行，等你先有了下一代再说啊。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大嘴往外跑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴往外跑"
+        },
         {
           "type": "line",
           "line": "你上哪去？"

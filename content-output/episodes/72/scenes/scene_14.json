@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,11 +16,17 @@
         {
           "type": "line",
           "line": "来吃饭了吃饭了，小贝过来，过来"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小贝蹦蹦跳跳过来"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝蹦蹦跳跳过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "你还学会跑堂呢。展堂！"
@@ -53,12 +60,12 @@
         {
           "type": "line",
           "line": "噢，来了"
-        },
-        {
-          "type": "speaker-action",
-          "description": "一瘸一拐的进大堂"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "一瘸一拐的进大堂"
     },
     {
       "type": "dialog",
@@ -87,11 +94,17 @@
         {
           "type": "line",
           "line": "哎哟，我忘了告诉你了，这双靴子有点缩水"
-        },
-        {
-          "type": "speaker-action",
-          "description": "白吃惊"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白吃惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "汗出得越多，靴子就越小，所有你千万要注意啊，不要让你的脚丫子出汗，啊。"

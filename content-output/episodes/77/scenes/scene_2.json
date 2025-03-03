@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -37,8 +38,14 @@
       "description": "秀才来抢"
     },
     {
-      "type": "action",
-      "description": "你看不懂。"
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看不懂。"
+        }
+      ]
     },
     {
       "type": "action",
@@ -91,7 +98,8 @@
           "line": "那是我师傅，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "谢步东",
           "description": "谢瞪小六，小六走出数步"
         },
         {
@@ -141,17 +149,12 @@
         {
           "type": "line",
           "line": "废话嘛，谢捕头！专办绑架案子，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "谢喝水"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "谢步东",
+          "description": "谢喝水"
+        },
         {
           "type": "line",
           "line": "衡阳那宗绑架案子，就是他一手干的？"
@@ -223,17 +226,12 @@
         {
           "type": "line",
           "line": "不是你们请我来的吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人面面相觑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "谢步东",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人面面相觑"
+        },
         {
           "type": "line",
           "line": "飞鸽传书啊，"
@@ -407,17 +405,12 @@
         {
           "type": "line",
           "line": "听听人家谢捕头说的，谢捕头怎么说你们就怎么……"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜的拉小六"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "掌柜的",
+          "description": "掌柜的拉小六"
+        },
         {
           "type": "line",
           "line": "我还没说完呢，你们拽我干嘛？"
@@ -439,13 +432,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "谢喝水"
-    },
-    {
       "type": "dialog",
       "speaker": "燕小六",
       "performances": [
+        {
+          "type": "reaction",
+          "reactor": "谢步东",
+          "description": "谢喝水"
+        },
         {
           "type": "line",
           "line": "开嘛玩笑，关中总捕头……的候选人，专破绑架案子，还信不过？"
@@ -499,12 +493,12 @@
         {
           "type": "line",
           "line": "用不用我们提供点现成的线索？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "递给谢"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "递给谢"
     },
     {
       "type": "dialog",

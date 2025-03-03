@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -191,10 +192,6 @@
           "line": "哇塞，你们都有伴儿！——小米哥哥，跳支舞……"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1195"
     }
   ]
 }

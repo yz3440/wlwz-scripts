@@ -3,7 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -152,12 +152,12 @@
         {
           "type": "line",
           "line": "是的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "甩出石子，打倒远处一个葫芦"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "甩出石子，打倒远处一个葫芦"
     },
     {
       "type": "dialog",

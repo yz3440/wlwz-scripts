@@ -3,14 +3,11 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
       "description": "无双在教小贝练功，大嘴进"
-    },
-    {
-      "type": "action",
-      "description": "1136"
     },
     {
       "type": "dialog",
@@ -461,10 +458,6 @@
       ]
     },
     {
-      "type": "action",
-      "description": "1137"
-    },
-    {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
@@ -541,7 +534,8 @@
           "line": "你知道自己刚才说了些什么吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "李大嘴",
           "description": "大嘴摇头"
         },
         {
@@ -685,17 +679,12 @@
         {
           "type": "line",
           "line": "大嘴啊，您不是挺狂的吗？啊，嘻嘻嘻。服不服啊？你如果服的话呢，你就眨巴眨巴眼，不服的话呢，那你就在这儿呆着吧。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大嘴拼命眨眼"
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴拼命眨眼"
+        },
         {
           "type": "line",
           "line": "这不差不多，葵花解穴手！"
@@ -709,12 +698,12 @@
         {
           "type": "line",
           "line": "莫小贝我逮着整死你！你站住，别跑，站住！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "追小贝出"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "追小贝出"
     },
     {
       "type": "action",

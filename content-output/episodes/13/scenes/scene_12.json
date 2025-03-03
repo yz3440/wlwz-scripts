@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -91,17 +92,12 @@
         {
           "type": "line",
           "line": "你是掌柜的，你这儿要鸡吗？十文钱一只。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人：十文？！"
-    },
-    {
-      "type": "dialog",
-      "speaker": "老 罗",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "十文？！"
+        },
         {
           "type": "line",
           "line": "——啊不，八文也行，你们要要得多的话，价钱咱们还可以再商量。你们要多少，俺们有多少。"

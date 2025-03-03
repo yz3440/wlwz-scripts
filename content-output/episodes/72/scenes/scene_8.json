@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -212,13 +213,18 @@
       "performances": [
         {
           "type": "line",
-          "line": "她有她的长处，你有你的短处吗——你也有长处。"
+          "line": "她有她的长处，你有你的短处吗"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人嗔怪"
+        },
+        {
+          "type": "line",
+          "line": "——你也有长处。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人嗔怪"
     },
     {
       "type": "dialog",

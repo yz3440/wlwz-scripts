@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -21,17 +22,12 @@
         {
           "type": "line",
           "line": "干啥呢，小贝？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小贝以头撞柜"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "莫小贝",
+          "description": "小贝以头撞柜"
+        },
         {
           "type": "line",
           "line": "哎哟哟哟，没事儿吧啊？没事儿吧啊？"

@@ -2,16 +2,22 @@
   "type": "normal",
   "rawDescription": "【白布景】",
   "location": "白布景",
-  "timeOfDay": null,
-  "context": null,
+  "timeOfDay": "",
+  "context": "",
   "performances": [
     {
       "type": "action",
       "description": "白色背景，众人轮流对着镜头侃侃而谈，面部特写"
     },
     {
-      "type": "action",
-      "description": "字幕：她是个什么样的人？"
+      "type": "dialog",
+      "speaker": "字 幕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是个什么样的人？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -24,8 +30,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "字幕：她是个值得信赖的人吗？"
+      "type": "dialog",
+      "speaker": "字 幕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是个值得信赖的人吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -38,8 +50,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "字幕：她是个合格的领导者吗？"
+      "type": "dialog",
+      "speaker": "字 幕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是个合格的领导者吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -52,8 +70,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "字幕：她是个知书达理的人吗？"
+      "type": "dialog",
+      "speaker": "字 幕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是个知书达理的人吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -66,8 +90,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "字幕：她是个占有欲很强的人吗？"
+      "type": "dialog",
+      "speaker": "字 幕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是个占有欲很强的人吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -80,8 +110,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "字幕：你觉得以上的评价客观吗？"
+      "type": "dialog",
+      "speaker": "字 幕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你觉得以上的评价客观吗？"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -94,8 +130,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "字幕：我觉得……似乎……大概……也许……不靠谱！"
+      "type": "dialog",
+      "speaker": "字 幕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得……似乎……大概……也许……不靠谱！"
+        }
+      ]
     },
     {
       "type": "dialog",

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -210,7 +211,7 @@
         },
         {
           "type": "line",
-          "line": "我们之间有感情？"
+          "line": "我们之间有感情？。"
         }
       ]
     },
@@ -440,7 +441,7 @@
         },
         {
           "type": "line",
-          "line": "我好后悔呀，我从一开始就不应该嫁过来„"
+          "line": "我好后悔呀，我从一开始就不应该嫁过来…"
         }
       ]
     }

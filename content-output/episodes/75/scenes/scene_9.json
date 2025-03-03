@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -13,10 +14,6 @@
           "line": "人家是近水楼台先得月，每天一起巡街，再没感情，也日久生情了呀。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1132"
     },
     {
       "type": "dialog",
@@ -173,10 +170,6 @@
       "speaker": "李大嘴",
       "performances": [
         {
-          "type": "line",
-          "line": ""
-        },
-        {
           "type": "speaker-action",
           "description": "不屑"
         },
@@ -305,10 +298,6 @@
       "speaker": "吕秀才",
       "performances": [
         {
-          "type": "line",
-          "line": ""
-        },
-        {
           "type": "speaker-action",
           "description": "自言自语"
         },
@@ -319,13 +308,13 @@
       ]
     },
     {
+      "type": "action",
+      "description": "小郭一把掐住他耳朵"
+    },
+    {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "一把掐住他耳朵"
-        },
         {
           "type": "line",
           "line": "说啥呢，说啥呢？"
@@ -339,12 +328,12 @@
         {
           "type": "line",
           "line": "那都是过去时了。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "猛亲小郭的手"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "猛亲小郭的手"
     },
     {
       "type": "dialog",
@@ -415,10 +404,6 @@
           "line": "不知道啊，老在一块感觉不到，要不分开两天就知道了。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1133"
     },
     {
       "type": "dialog",

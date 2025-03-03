@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -272,7 +273,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "掌柜的……„"
+          "line": "掌柜的………"
         }
       ]
     },
@@ -323,12 +324,12 @@
         {
           "type": "line",
           "line": "这又不是我的主意。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "示意祝无双"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "示意祝无双"
     },
     {
       "type": "dialog",

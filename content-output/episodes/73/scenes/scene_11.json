@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -135,10 +136,6 @@
           "line": "不哭不哭啊，有我在，一定会给你主持公道的啊"
         },
         {
-          "type": "speaker-action",
-          "description": "对李"
-        },
-        {
           "type": "line",
           "line": "看什么看，低下头去！"
         }
@@ -159,11 +156,17 @@
         {
           "type": "line",
           "line": "跪好了！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "李吃惊地望着她"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李吃惊地望着她"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "哎，直起腰，装可怜对我们没用啊。"

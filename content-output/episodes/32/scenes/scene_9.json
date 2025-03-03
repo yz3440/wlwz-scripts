@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -189,12 +190,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "这不能说，打死也不能说。"
-        },
-        {
           "type": "speaker-action",
           "description": "用眼睛瞄湘玉"
+        },
+        {
+          "type": "line",
+          "line": "这不能说，打死也不能说。"
         }
       ]
     },
@@ -303,12 +304,12 @@
       "speaker": "佟、祝",
       "performances": [
         {
-          "type": "line",
-          "line": "是女人，是女人中的女人，回头率百分之三百。"
-        },
-        {
           "type": "speaker-action",
           "description": "对观众"
+        },
+        {
+          "type": "line",
+          "line": "是女人，是女人中的女人，回头率百分之三百。"
         }
       ]
     },

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -119,12 +120,12 @@
         {
           "type": "line",
           "line": "谢谢……那嘛，你们先忙吧，我就不跟着掺和了。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "欲出"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "欲出"
     },
     {
       "type": "dialog",
@@ -147,12 +148,12 @@
         {
           "type": "line",
           "line": "鸡来了！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "提鸡到门口"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "提鸡到门口"
     }
   ]
 }

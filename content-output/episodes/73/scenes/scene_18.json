@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -77,12 +78,12 @@
         {
           "type": "line",
           "line": "你不用说了，他不肯就算了，当我从来没有认识过他，后会有期。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿起行李准备走，二人急忙拦住"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "拿起行李准备走，二人急忙拦住"
     },
     {
       "type": "dialog",

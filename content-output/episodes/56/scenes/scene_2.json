@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -24,7 +25,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -334,7 +335,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -377,18 +378,18 @@
       "speaker": "众人",
       "performances": [
         {
-          "type": "line",
-          "line": "帮我照顾好我七舅老爷/葵花点穴手……"
-        },
-        {
           "type": "speaker-action",
           "description": "恨得牙痒痒"
+        },
+        {
+          "type": "line",
+          "line": "帮我照顾好我七舅老爷/葵花点穴手……"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -408,7 +409,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",

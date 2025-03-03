@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -88,7 +89,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哼，又不是生离死别至于么你们？"
+          "line": "哼，又不是生离死别至于么你们？——"
         },
         {
           "type": "speaker-action",
@@ -122,7 +123,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
@@ -166,7 +167,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "好，我给你蒙上无论发生什么事儿，我„"
+          "line": "好，我给你蒙上无论发生什么事儿，我…"
         }
       ]
     },

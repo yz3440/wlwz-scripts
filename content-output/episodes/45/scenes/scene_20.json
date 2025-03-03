@@ -3,6 +3,7 @@
   "rawDescription": "【大牢，昼】",
   "location": "大牢",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -183,13 +184,13 @@
       ]
     },
     {
-      "type": "action",
-      "description": "老洪要跑，白展堂给点住"
-    },
-    {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老洪要跑，白展堂给点住"
+        },
         {
           "type": "line",
           "line": "葵花点穴手！老邢，有人要逃狱，老邢，老邢，门儿你还没给我开呢。"
@@ -197,13 +198,13 @@
       ]
     },
     {
-      "type": "action",
-      "description": "老白直接从栏杆出"
-    },
-    {
       "type": "dialog",
       "speaker": "白展堂",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老白直接从栏杆出"
+        },
         {
           "type": "line",
           "line": "老邢，老邢你给我开门啊，老邢，你给我开，门还没给我开呢。"

@@ -3,18 +3,19 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "line",
-          "line": "你也是的，好好的跟无双说这些干嘛。"
-        },
-        {
           "type": "speaker-action",
           "description": "对小郭"
+        },
+        {
+          "type": "line",
+          "line": "你也是的，好好的跟无双说这些干嘛。"
         }
       ]
     },
@@ -125,14 +126,14 @@
           "line": "你还有脸说？去去去，都出去。"
         },
         {
+          "type": "speaker-action",
+          "description": "大家都往外走"
+        },
+        {
           "type": "line",
           "line": "等等，都回来，把无双给我叫过来，我要跟她好好谈一谈。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大家都往外走"
     },
     {
       "type": "action",
@@ -235,12 +236,13 @@
         {
           "type": "line",
           "line": "不跟你废话咧，韩娟人呢？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "展堂摊开双手"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "展堂摊开双手"
     },
     {
       "type": "dialog",

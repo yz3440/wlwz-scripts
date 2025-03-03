@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -88,11 +89,11 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
-          "line": "她只是想让你„"
+          "line": "她只是想让你…"
         }
       ]
     },
@@ -103,12 +104,12 @@
         {
           "type": "line",
           "line": "葵花点穴手！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住展侍卫"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "点住展侍卫"
     },
     {
       "type": "dialog",
@@ -122,11 +123,11 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
-          "line": "哎呦„"
+          "line": "哎呦…"
         }
       ]
     },
@@ -152,11 +153,11 @@
     },
     {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "展 堂",
       "performances": [
         {
           "type": "line",
-          "line": "哎呦„"
+          "line": "哎呦…"
         }
       ]
     },
@@ -176,7 +177,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "葵花„"
+          "line": "葵花…"
         }
       ]
     },
@@ -236,7 +237,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我就轻轻点他一下，你就这样？枉我还是你师兄呢，啊？你信不信„"
+          "line": "我就轻轻点他一下，你就这样？枉我还是你师兄呢，啊？你信不信…"
         }
       ]
     },
@@ -250,7 +251,7 @@
         },
         {
           "type": "line",
-          "line": "帮我照顾好„我七舅老爷的外甥女的大姨妈哇呀呀。"
+          "line": "帮我照顾好…我七舅老爷的外甥女的大姨妈哇呀呀。"
         }
       ]
     },
@@ -291,7 +292,13 @@
         {
           "type": "line",
           "line": "哼，刚接到上边儿的公函，本案有重大转折！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "先把他解开。"
@@ -305,12 +312,12 @@
         {
           "type": "line",
           "line": "哦哦，葵花解穴手！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "解开展侍卫"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "解开展侍卫"
     },
     {
       "type": "dialog",

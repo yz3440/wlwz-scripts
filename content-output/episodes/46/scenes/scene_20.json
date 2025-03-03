@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -13,7 +14,8 @@
           "line": "大嘴，这么丰盛啊？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小米",
           "description": "小米进"
         },
         {
@@ -303,17 +305,11 @@
         {
           "type": "line",
           "line": "那好吧，既然是丐帮请客，那我就借酒献佛啦！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "把酒一泼"
-    },
-    {
-      "type": "dialog",
-      "speaker": "岳松涛",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "把酒一泼"
+        },
         {
           "type": "line",
           "line": "见笑见笑，诸位请。"
@@ -327,20 +323,15 @@
         {
           "type": "line",
           "line": "这就完啦？唬弄谁呢你，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "白展堂拉小贝"
-    },
-    {
-      "type": "dialog",
-      "speaker": "莫小贝",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "白展堂拉小贝"
+        },
         {
           "type": "line",
-          "line": "干吗？"
+          "line": "——干吗？"
         }
       ]
     },

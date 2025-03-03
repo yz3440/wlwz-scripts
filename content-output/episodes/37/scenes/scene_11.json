@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -83,16 +84,12 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
-          "type": "line",
-          "line": "就凭公理二字！"
-        },
-        {
           "type": "speaker-action",
           "description": "冲无双"
         },
         {
           "type": "line",
-          "line": "是我的就是我的，不是我的白给我也不要，如果你不拿出你的真本事，好好跟我比一场，明天我就回京城。"
+          "line": "就凭公理二字！是我的就是我的，不是我的白给我也不要，如果你不拿出你的真本事，好好跟我比一场，明天我就回京城。"
         }
       ]
     },

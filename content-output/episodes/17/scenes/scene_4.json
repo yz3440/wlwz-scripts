@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -88,7 +89,17 @@
       "performances": [
         {
           "type": "line",
-          "line": "你是不知道啊，在一路让她给我弄的——后院什么声音？"
+          "line": "你是不知道啊，在一路让她给我弄的——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后院什么声音？"
         }
       ]
     },

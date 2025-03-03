@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,12 +16,12 @@
         {
           "type": "line",
           "line": "小郭，来来来，赶紧帮我把这洗了吧。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "脱下绿色披肩给小郭"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "脱下绿色披肩给小郭"
     },
     {
       "type": "dialog",
@@ -113,11 +114,17 @@
         {
           "type": "line",
           "line": "我跟你们说啊，这柳……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "柳星雨掀开门帘，走了进来，小郭与湘玉赶忙给老白使眼色"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳星雨掀开门帘，走了进来，小郭与湘玉赶忙给老白使眼色"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "干啥呢，你们俩，我知道你们俩不爱听，不爱听我也说，大嘴的幸福是其次，大家的安全才是第一啊，你们发现没有，"

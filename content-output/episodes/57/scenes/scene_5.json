@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -157,7 +158,8 @@
           "line": "我非常郑重的送你一个字：滚！我告诉你，再这样我就把这破蛋给你摔了"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "李大嘴",
           "description": "大嘴咬老白手指头"
         }
       ]

@@ -3,6 +3,7 @@
   "rawDescription": "【客房，夜】",
   "location": "客房",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -31,7 +32,8 @@
           "line": "是你啊，放那吧"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "大嘴",
           "description": "大嘴支支吾吾的不走"
         },
         {
@@ -201,13 +203,13 @@
       ]
     },
     {
+      "type": "action",
+      "description": "大嘴出门对偷听的众人"
+    },
+    {
       "type": "dialog",
       "speaker": "李大嘴",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "大嘴出门对偷听的众人"
-        },
         {
           "type": "line",
           "line": "你们先回去，先回去吧，啊。"

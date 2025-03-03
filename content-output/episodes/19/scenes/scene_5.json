@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -135,6 +136,10 @@
         {
           "type": "line",
           "line": "奉掌柜之命，我跟踪李大嘴到了一趟翠微山，你们猜我发现什么了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "双手比划"
         }
       ]
     },
@@ -154,15 +159,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "比这还可怕一百二十倍"
-        },
-        {
-          "type": "speaker-action",
-          "description": "双手比划"
-        },
-        {
-          "type": "line",
-          "line": "——这么粗的一棵大树，一掌被拦腰打断。"
+          "line": "比这还可怕一百二十倍——这么粗的一棵大树，一掌被拦腰打断。"
         }
       ]
     },

@@ -3,6 +3,7 @@
   "rawDescription": "【厨房，昼】",
   "location": "厨房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -82,7 +83,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "李大嘴",
+      "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",

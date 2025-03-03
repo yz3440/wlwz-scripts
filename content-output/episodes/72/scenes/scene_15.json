@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -27,7 +28,8 @@
           "line": "刚刚吃的全吐了"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "佟朝他走去"
         },
         {
@@ -65,7 +67,8 @@
           "line": "想脱就脱吧"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "展堂欲脱靴"
         },
         {
@@ -129,12 +132,12 @@
         {
           "type": "line",
           "line": "哎呀你的品味还真够怪的，我这个正常人确实不能够理解。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "走到柜台前，记帐"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "走到柜台前，记帐"
     },
     {
       "type": "dialog",

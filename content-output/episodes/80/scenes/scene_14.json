@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -27,7 +28,8 @@
           "line": "用不着，我自己有手。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "凌腾云",
           "description": "凌伸手想帮忙"
         },
         {
@@ -325,17 +327,12 @@
         {
           "type": "line",
           "line": "郭姑娘我把酒给你放好了，还有啥吩咐没有？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭飞奔到后院"
-    },
-    {
-      "type": "dialog",
-      "speaker": "凌腾云",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭飞奔到后院"
+        },
         {
           "type": "line",
           "line": "你不要走啊。恐怕是我长的太帅了吧。"
@@ -429,12 +426,13 @@
         {
           "type": "line",
           "line": "见过凌捕头。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "燕小六",
+          "description": "小六坐下"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小六坐下"
     },
     {
       "type": "dialog",
@@ -547,17 +545,12 @@
         {
           "type": "line",
           "line": "哎，小郭。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小郭扭头就跑"
-    },
-    {
-      "type": "dialog",
-      "speaker": "凌腾云",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭扭头就跑"
+        },
         {
           "type": "line",
           "line": "燕捕头，你怎么还没走啊？你不是等我吧？"
@@ -629,17 +622,12 @@
         {
           "type": "line",
           "line": "没事，我就喜欢女孩子对我没有好脸。你刚才、你刚才说啥来着？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "小六递过官刀"
-    },
-    {
-      "type": "dialog",
-      "speaker": "凌腾云",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "燕小六",
+          "description": "小六递过官刀"
+        },
         {
           "type": "line",
           "line": "练刀，练刀。"

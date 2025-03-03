@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -590,7 +591,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "那你继续\"可忙\"吧，我们 Come on，comeon！"
+          "line": "那你继续\"可忙\"吧，我们 Come on，come on！"
         }
       ]
     }

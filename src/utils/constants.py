@@ -23,7 +23,7 @@ TOTAL_EPISODES = 80
 
 
 def get_output_episode_path(episode_number: int) -> str:
-    return os.path.join(EPISODES_OUTPUT_PATH, f"{episode_number:02d}")
+    return os.path.join(EPISODES_OUTPUT_PATH, f"{episode_number}")
 
 
 ################################################################################

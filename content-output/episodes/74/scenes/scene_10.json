@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,12 +16,12 @@
         {
           "type": "line",
           "line": "下次我带你去那个地方，挺好玩的。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "看见大嘴"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "看见大嘴"
     },
     {
       "type": "dialog",
@@ -248,15 +249,37 @@
       "performances": [
         {
           "type": "line",
-          "line": "比如芙妹爱练武功，我爱写武功啊。"
+          "line": "比如芙妹爱练武功，我——"
         },
         {
           "type": "speaker-action",
-          "description": "小郭点头同意"
+          "description": "停顿"
         },
         {
           "type": "line",
-          "line": "芙妹爱动手我也爱动手……写字啊。"
+          "line": "爱写武功啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭点头同意"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹爱动手。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "我也爱动手……写字啊。"
         }
       ]
     },
@@ -267,11 +290,17 @@
         {
           "type": "line",
           "line": "那我还爱动手做饭呢！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "大嘴继续坐到井边看井底的月亮"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴继续坐到井边看井底的月亮"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "唉，这水里的月亮啊，漂亮是漂亮，"

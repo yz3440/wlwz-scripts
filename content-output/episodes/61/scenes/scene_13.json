@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -443,11 +444,17 @@
         {
           "type": "line",
           "line": "吃啊！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小米继续吃"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米继续吃"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "二位还有事儿吗？没事儿闪开点别挡着兄弟晒太阳。"
@@ -595,7 +602,8 @@
           "line": "那好我再问你个问题，假如说佟掌柜哭着喊着要嫁给你，你娶不娶？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "佟欲怒"
         },
         {

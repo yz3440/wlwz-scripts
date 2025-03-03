@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -87,11 +88,17 @@
         {
           "type": "line",
           "line": "我只想把他换回来"
-        },
-        {
-          "type": "speaker-action",
-          "description": "秀才拉"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才拉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "怎么样！换不换？"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -165,17 +166,11 @@
         {
           "type": "line",
           "line": "死胖子，抱都抱了，还想怎么着？难道真的是我魅力不行，事到如今，只好用绝招了，老娘就不信，搞不定你这个！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "大嘴一直摊开两手，怔在那"
-    },
-    {
-      "type": "dialog",
-      "speaker": "柳星雨",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴一直摊开两手，怔在那"
+        },
         {
           "type": "line",
           "line": "嘴哥，天凉了，记得多盖点被子，你要是病了，我会心疼的。"
@@ -192,21 +187,16 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎，等等，等等。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "柳高兴地转回身"
-    },
-    {
-      "type": "dialog",
-      "speaker": "李大嘴",
-      "performances": [
+          "line": "哎，等等，等等"
+        },
+        {
+          "type": "reaction",
+          "reactor": "柳星雨",
+          "description": "柳高兴地转回身"
+        },
         {
           "type": "line",
-          "line": "你干粮忘拿了。"
+          "line": "——你干粮忘拿了。"
         }
       ]
     },
@@ -246,10 +236,11 @@
         },
         {
           "type": "line",
-          "line": "你说这是不是桃花劫，啊？"
+          "line": "——你说这是不是桃花劫，啊？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "无双",
           "description": "无双不理他，对秀才"
         },
         {
@@ -257,7 +248,8 @@
           "line": "你说这是不是叫桃花劫？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "秀才",
           "description": "秀才不理他，对小郭"
         },
         {
@@ -265,12 +257,13 @@
           "line": "十八文呐，你说这得攒多长时间"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "小郭",
           "description": "小郭做势甩他一耳光，对白"
         },
         {
           "type": "line",
-          "line": "老白，你说我攒得多不容易啊，一下子就全都没有了，啥事儿啊！"
+          "line": "老白你说我攒得多不容易啊，一下子就全都没有了，啥事儿啊！"
         }
       ]
     }

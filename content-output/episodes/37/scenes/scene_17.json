@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,11 +16,17 @@
         {
           "type": "line",
           "line": "欢迎收看全国收视率第一的古装综艺节目——我洗我洗我洗洗洗！好，在比赛结果揭晓之前呢，先让我们采访一下两位参赛选手。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对小郭"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "对小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "这位参赛选手，怎么样，有信心赢得本场比赛吗？"
@@ -227,11 +234,17 @@
         {
           "type": "line",
           "line": "说得太好了，掌声鼓励！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "对小郭"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "对小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "这位姑娘，作为连输两场比赛的参赛选手，你有什么感想吗？"

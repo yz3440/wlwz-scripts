@@ -3,6 +3,7 @@
   "rawDescription": "【屋顶，夜】",
   "location": "屋顶",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -109,8 +110,12 @@
       "speaker": "白展堂",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "啧"
+        },
+        {
           "type": "line",
-          "line": "啧„你想啊，上次你爹那事儿，她不是也想去汉中吗？可结果咋样儿？"
+          "line": "你想啊，上次你爹那事儿，她不是也想去汉中吗？可结果咋样儿？"
         }
       ]
     },

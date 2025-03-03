@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -199,16 +200,12 @@
       "speaker": "吕秀才",
       "performances": [
         {
-          "type": "line",
-          "line": "芙妹……"
-        },
-        {
           "type": "speaker-action",
           "description": "沮丧"
         },
         {
           "type": "line",
-          "line": "我知道了。祝你幸福。"
+          "line": "芙妹……我知道了。祝你幸福。"
         }
       ]
     },

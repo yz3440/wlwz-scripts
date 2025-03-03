@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -207,10 +208,6 @@
           "line": "你接着说。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1173"
     },
     {
       "type": "dialog",

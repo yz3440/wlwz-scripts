@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -96,7 +97,7 @@
         },
         {
           "type": "speaker-action",
-          "description": "W"
+          "description": "停顿"
         },
         {
           "type": "line",
@@ -171,12 +172,12 @@
         {
           "type": "line",
           "line": "嘘，有动静"
-        },
-        {
-          "type": "speaker-action",
-          "description": "白跑回桌子边，众人继续装昏"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "白跑回桌子边，众人继续装昏"
     },
     {
       "type": "action",

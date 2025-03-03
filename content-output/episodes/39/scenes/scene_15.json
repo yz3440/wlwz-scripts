@@ -3,6 +3,7 @@
   "rawDescription": "【厨房，昼】",
   "location": "厨房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -115,12 +116,12 @@
         {
           "type": "speaker-action",
           "description": "拼命放碱"
-        },
-        {
-          "type": "line",
-          "line": "死秀才，烂秀才！"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "死秀才，烂秀才！"
     }
   ]
 }

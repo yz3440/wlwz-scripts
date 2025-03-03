@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -191,12 +192,12 @@
         {
           "type": "line",
           "line": "哈哈！我知道了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "兴奋地跑出去"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "兴奋地跑出去"
     },
     {
       "type": "dialog",

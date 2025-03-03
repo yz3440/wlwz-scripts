@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -47,7 +48,8 @@
           "line": "帮她想仇人呗。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "韩娟",
           "description": "韩娟从楼上跑下来"
         },
         {
@@ -161,20 +163,14 @@
         {
           "type": "line",
           "line": "你别听她胡说。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
+        },
         {
           "type": "speaker-action",
           "description": "小郭拍了一下桌子"
         },
         {
           "type": "line",
-          "line": "当然她说的有点道理。"
+          "line": "——当然她说的有点道理。"
         }
       ]
     },
@@ -239,12 +235,13 @@
           "line": "这种心情我能够理解。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭转过头瞪他"
         },
         {
           "type": "line",
-          "line": "不是那种理解。"
+          "line": "——不是那种理解。"
         }
       ]
     },
@@ -267,10 +264,6 @@
           "line": "要不要禁止跟她同处一室啊？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1046"
     },
     {
       "type": "dialog",

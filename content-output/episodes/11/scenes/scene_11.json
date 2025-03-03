@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -303,15 +304,9 @@
       "speaker": "十娘",
       "performances": [
         {
-          "type": "line",
-          "line": "白公子"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+          "type": "speaker-action",
+          "description": "白公子"
+        },
         {
           "type": "line",
           "line": "你自己回去吧。"
@@ -359,12 +354,13 @@
         {
           "type": "line",
           "line": "这些钱够不够？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "十娘",
+          "description": "十娘方欲上手，掌柜的赶紧拿开"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "十娘方欲上手，掌柜的赶紧拿开"
     },
     {
       "type": "dialog",
@@ -393,12 +389,13 @@
         {
           "type": "line",
           "line": "什么条件？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "掌柜",
+          "description": "掌柜耳语"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜耳语"
     }
   ]
 }

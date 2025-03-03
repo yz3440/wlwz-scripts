@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，夜】",
   "location": "客栈外",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -61,7 +62,13 @@
         {
           "type": "line",
           "line": "翻书啊！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "这位先生多亏了你，否则我就摔死了。"

@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -83,6 +84,10 @@
           "line": "谁给我买糖葫芦，我就给谁当掌门呗！"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "、"
     },
     {
       "type": "dialog",

@@ -1,8 +1,9 @@
 {
   "type": "normal",
-  "rawDescription": "【大堂，夜】饭桌",
+  "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -15,13 +16,13 @@
       ]
     },
     {
-      "type": "action",
-      "description": "众人盯小郭"
-    },
-    {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "众人盯小郭"
+        },
         {
           "type": "line",
           "line": "怎么了，是不是哪儿脏了？没有啊，到底怎么回事儿？"

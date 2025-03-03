@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -197,17 +198,12 @@
         {
           "type": "line",
           "line": "那是因为我用心看人，不是用眼睛啊。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白都乐开花了"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭蔷薇",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白都乐开花了"
+        },
         {
           "type": "line",
           "line": "盗圣大哥，我一直有一个问题很想当面问你……"
@@ -241,17 +237,12 @@
         {
           "type": "line",
           "line": "那我就问了啊，你被那个天下第一女捕头甩掉之后啊，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "老白的脸呱嗒一下"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭蔷薇",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白的脸呱嗒一下"
+        },
         {
           "type": "line",
           "line": "那么快的时间，你马上就转向了那个佟掌柜，你是因为同情呢，还是因为压抑已久的感情得不到宣泄，从而导致的破罐子破摔呀？"

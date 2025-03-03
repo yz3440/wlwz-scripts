@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，夜】",
   "location": "女寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -85,17 +86,11 @@
         {
           "type": "line",
           "line": "她就招我了，莫名其妙给无双写什么信。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉悄悄走进房间"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉悄悄走进房间"
+        },
         {
           "type": "line",
           "line": "写就写呗，光给她写不给我写，这算什么！"
@@ -341,12 +336,12 @@
         {
           "type": "line",
           "line": "好，我现在就回去给你写，等着啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身离去"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "起身离去"
     },
     {
       "type": "dialog",

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -141,20 +142,15 @@
         {
           "type": "line",
           "line": "啥时候要孩子？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "展红绫变色"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "展红绫",
+          "description": "展红绫变色"
+        },
         {
           "type": "line",
-          "line": "不要也行，反正你们都是江湖中人忙，没时间带，是吧。我跟你说，你是没带过孩子啊，我们这有一个小女孩，五岳盟主，衡山派掌门。那家伙把你烦的，有时候你恨不得……"
+          "line": "——不要也行，反正你们都是江湖中人忙，没时间带，是吧。我跟你说，你是没带过孩子啊，我们这有一个小女孩，五岳盟主，衡山派掌门。那家伙把你烦的，有时候你恨不得……"
         }
       ]
     },

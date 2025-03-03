@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -11,7 +12,13 @@
         {
           "type": "line",
           "line": "我看一下，"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "木板上书：爱七同香玉之木"
@@ -77,12 +84,17 @@
       "speaker": "包大仁",
       "performances": [
         {
-          "type": "speaker-action",
+          "type": "line",
+          "line": "不是，我想把她火葬。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
           "description": "佟湘玉惊"
         },
         {
           "type": "line",
-          "line": "不是，我想把她火葬。我想过了，就这么扔下她对她来说不公平，我要带着她的骨灰进京城，让她跟着我，享受荣华富贵。"
+          "line": "我想过了，就这么扔下她对她来说不公平，我要带着她的骨灰进京城，让她跟着我，享受荣华富贵。"
         }
       ]
     },

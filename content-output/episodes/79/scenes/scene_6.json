@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，昼】",
   "location": "男寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -77,10 +78,6 @@
           "line": "哎，走走走。"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "1186"
     },
     {
       "type": "dialog",

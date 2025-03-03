@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -14,11 +15,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "客官您里边请～！客观您里边请～～！里边宽～～～敞！哎哎！唉！干什吗？去哪里呀？喂喂喂……"
-        },
-        {
-          "type": "line",
-          "line": "搞什么稿？嗤！……"
+          "line": "客官您里边请～！客观您里边请～～！里边宽～～～敞！哎哎！唉！干什吗？去哪里呀？喂喂喂……搞什么稿？嗤！……"
         }
       ]
     },
@@ -341,12 +338,12 @@
         {
           "type": "line",
           "line": "你等会儿。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "吕拿纸笔"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "吕拿纸笔"
     },
     {
       "type": "dialog",

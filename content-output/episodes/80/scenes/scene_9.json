@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -25,11 +26,17 @@
         {
           "type": "line",
           "line": "这儿装修的蛮有特点的啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老白关客房门"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白关客房门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
         {
           "type": "line",
           "line": "看着挺糙的外面，里头还是挺精细的。"
@@ -171,16 +178,12 @@
         {
           "type": "line",
           "line": "我紧张了吗？"
-        },
-        {
-          "type": "speaker-action",
-          "description": "二人大笑"
         }
       ]
     },
     {
       "type": "action",
-      "description": "1200"
+      "description": "二人大笑"
     },
     {
       "type": "dialog",
@@ -275,7 +278,8 @@
           "line": "好，谢谢啊，白大哥，咱可说好了。发财归发财，但是最好不要不义之财。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白挤出一个笑脸"
         },
         {

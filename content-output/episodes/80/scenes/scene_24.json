@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，昼】",
   "location": "客栈门口",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -97,11 +98,17 @@
         {
           "type": "line",
           "line": "你小子终于滚蛋啦。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小六找刀，小米拿出钱"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六找刀，小米拿出钱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
         {
           "type": "line",
           "line": "这两天没干别的，光顾着给你凑盘缠了。六儿，回头到了京城可别动不动就拔刀，人家城里人，脾气大。"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -87,6 +88,10 @@
           "line": "出去！你给我出去！"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "。"
     },
     {
       "type": "dialog",
@@ -339,13 +344,13 @@
       ]
     },
     {
+      "type": "action",
+      "description": "回头看到小郭"
+    },
+    {
       "type": "dialog",
       "speaker": "吕秀才",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "回头看到小郭"
-        },
         {
           "type": "line",
           "line": "看见没？……你们是看不见的，我已经出现幻觉了。"
@@ -503,12 +508,12 @@
         {
           "type": "line",
           "line": "我试试啊。……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才趴在地上滚到后院"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "秀才趴在地上滚到后院"
     }
   ]
 }

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -313,12 +314,12 @@
         {
           "type": "line",
           "line": "善哉呀，善哉！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "凌空点中郭芙蓉"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "凌空点中郭芙蓉"
     },
     {
       "type": "dialog",

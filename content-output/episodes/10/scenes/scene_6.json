@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，夜】",
   "location": "客栈外",
   "timeOfDay": "夜",
+  "context": null,
   "performances": [
     {
       "type": "dialog",
@@ -71,7 +72,13 @@
         {
           "type": "line",
           "line": "看我的！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
         {
           "type": "line",
           "line": "那小子，你为啥要抢他的饭碗？"

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -35,11 +36,17 @@
         {
           "type": "line",
           "line": "先不喝了，先给弄点吃的。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "坐下"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "坐下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
         {
           "type": "line",
           "line": "走了一天，这腿呀，站都站不住了。"
@@ -346,16 +353,6 @@
     },
     {
       "type": "dialog",
-      "speaker": "1041",
-      "performances": [
-        {
-          "type": "line",
-          "line": ""
-        }
-      ]
-    },
-    {
-      "type": "dialog",
       "speaker": "祝无双",
       "performances": [
         {
@@ -603,12 +600,12 @@
         {
           "type": "line",
           "line": "我再回去练一练啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "上楼"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "上楼"
     },
     {
       "type": "dialog",
@@ -655,8 +652,12 @@
           "line": "我的信。"
         },
         {
+          "type": "speaker-action",
+          "description": "对食客"
+        },
+        {
           "type": "line",
-          "line": "对食客——哦，吃好，喝好。"
+          "line": "——哦，吃好，喝好。"
         }
       ]
     }

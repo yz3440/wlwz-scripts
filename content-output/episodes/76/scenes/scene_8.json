@@ -3,6 +3,7 @@
   "rawDescription": "【客栈外，昼】",
   "location": "客栈外",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -56,25 +57,16 @@
         },
         {
           "type": "line",
-          "line": "不是绑架不是绑架不是绑架不是绑架 。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人也念叨着\"不是绑架不是绑架\""
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+          "line": "不是绑架不是绑架不是绑架"
+        },
         {
-          "type": "speaker-action",
-          "description": "如释重负"
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人也念叨着\"不是绑架不是绑架\""
         },
         {
           "type": "line",
-          "line": "耶！"
+          "line": "。耶。"
         }
       ]
     },

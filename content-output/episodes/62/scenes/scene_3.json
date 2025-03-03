@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -205,17 +206,11 @@
         {
           "type": "line",
           "line": "拿下不代表幸福，我最怕的就是她后悔。如果有一天结了婚，有了孩子，她再见到她的真命天子，她心里会犯嘀咕，到那时候我怎么办？我怎么办？我是捆着她还是绑着她还是一手指头戳死她？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "天上打雷"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "天上打雷"
+        },
         {
           "type": "line",
           "line": "吓唬谁呢，别干打雷不下雨有种就劈死我！"

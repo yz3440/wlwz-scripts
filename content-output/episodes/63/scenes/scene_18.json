@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -161,12 +162,12 @@
         {
           "type": "line",
           "line": "我跟他学的，不行啊，不行啊？这个饭我还不吃了！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "扔筷子，坐到门槛上"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "扔筷子，坐到门槛上"
     },
     {
       "type": "dialog",
@@ -405,12 +406,12 @@
         {
           "type": "line",
           "line": "谢谢掌柜啊。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "要坐"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "要坐"
     },
     {
       "type": "dialog",
@@ -509,12 +510,12 @@
         {
           "type": "line",
           "line": "我烧，只要给够加班费，当牛作马无所谓，我烧！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "跑向后院"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "跑向后院"
     },
     {
       "type": "dialog",

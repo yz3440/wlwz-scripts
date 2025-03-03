@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -52,6 +53,10 @@
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "同时"
+        },
         {
           "type": "line",
           "line": "排山倒海！"
@@ -210,18 +215,14 @@
       "performances": [
         {
           "type": "line",
-          "line": "郭芙蓉。"
+          "line": "郭芙蓉，"
         }
       ]
     },
     {
       "type": "dialog",
-      "speaker": "郭蔷薇，郭芙蓉",
+      "speaker": "姐俩同时",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "姐俩同时喊"
-        },
         {
           "type": "line",
           "line": "你变了！"
@@ -234,7 +235,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "就知道你要这么说。是啊是啊，我变了、变了，我变成熟变稳重了，这样不好吗？"
+          "line": "就知道你要这么说。是啊是啊，我变了变了，我变成熟变稳重了，这样不好吗？"
         }
       ]
     },

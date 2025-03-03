@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -147,12 +148,12 @@
         {
           "type": "line",
           "line": "来来来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大家聚拢，燕小六正要说，看见了莫小贝"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大家聚拢，燕小六正要说，看见了莫小贝"
     },
     {
       "type": "dialog",

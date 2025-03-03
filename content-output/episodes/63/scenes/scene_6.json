@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,12 +16,12 @@
         {
           "type": "line",
           "line": "山贼，胳膊上有，胸口上也有，山贼……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "门外老谢正在把纹身擦掉"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "门外老谢正在把纹身擦掉"
     },
     {
       "type": "dialog",
@@ -39,11 +40,17 @@
         {
           "type": "line",
           "line": "新新……新来的那个人……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老谢进"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老谢进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "line",
           "line": "就是他！"
@@ -314,16 +321,18 @@
         },
         {
           "type": "line",
-          "line": "苍天呀，我明明看见的呀！有纹身的，一条乌青乌青的，一条大龙……你们都不相信我！"
-        },
-        {
-          "type": "line",
-          "line": "你等着，我一定不会让你得逞的！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "出门"
-        },
+          "line": "苍天呀，我明明看见的呀！有纹身的，一条乌青乌青的，一条大龙……你们都不相信我！你等着，我一定不会让你得逞的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
         {
           "type": "line",
           "line": "都不相信我……"

@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": null,
   "performances": [
     {
       "type": "action",
@@ -105,7 +106,8 @@
           "line": "不是你还能是谁呀？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "大嘴",
           "description": "大嘴眼看着天，秀才把大嘴推到掌柜的面前"
         }
       ]
@@ -117,12 +119,12 @@
         {
           "type": "line",
           "line": "这事跟我没啥关系，真的我发誓，我就帮她找俩锈铁片子，是她自己一点点儿磨的。不信你问老白，老白！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴拉过老白"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "大嘴拉过老白"
     },
     {
       "type": "dialog",
@@ -131,17 +133,12 @@
         {
           "type": "line",
           "line": "小贝毕竟是个孩子，爱玩是天性，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "掌柜冷冷地看白"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "掌柜冷冷地看白"
+        },
         {
           "type": "line",
           "line": "就怕掉冰窟窿里……"
@@ -154,13 +151,18 @@
       "performances": [
         {
           "type": "line",
-          "line": "我拜托诸位好不好？以后做事情之前，先过过你们的脑子好不好？小贝是个孩子，说说不听、打打不得，本来就很难管教，你们再这么由着她的性子胡来，以后长大了谁还敢娶她过门呀？我准备了那么多的嫁妆，回头送不出去我给大家分了怎么样呀？"
+          "line": "我拜托诸位好不好？以后做事情之前，先过过你们的脑子好不好？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭瞎比画，被老白阻止"
+        },
+        {
+          "type": "line",
+          "line": "小贝是个孩子，说说不听、打打不得，本来就很难管教，你们再这么由着她的性子胡来，以后长大了谁还敢娶她过门呀？我准备了那么多的嫁妆，回头送不出去我给大家分了怎么样呀？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "小郭瞎比画，被老白阻止"
     },
     {
       "type": "dialog",
@@ -173,17 +175,12 @@
         {
           "type": "line",
           "line": "那感情好啊，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人鄙视"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人鄙视"
+        },
         {
           "type": "line",
           "line": "一定要吸取教训，绝不能滋长她这种任意妄为的歪风。"
@@ -215,12 +212,12 @@
       "speaker": "佟湘玉",
       "performances": [
         {
-          "type": "line",
-          "line": "哟，我这头的，她要走你咋不抓住她呢？"
-        },
-        {
           "type": "speaker-action",
           "description": "不屑"
+        },
+        {
+          "type": "line",
+          "line": "哟，我这头的，她要走你咋不抓住她呢？"
         }
       ]
     },
@@ -231,17 +228,12 @@
         {
           "type": "line",
           "line": "人家会点穴，我哪敢抓呀！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "湘玉冷视"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "湘玉冷视"
+        },
         {
           "type": "line",
           "line": "大不了放学以后我到她门口去堵她呗。放学以后直接一顿暴打，打服为止。"
@@ -259,12 +251,17 @@
         {
           "type": "speaker-action",
           "description": "冲小郭"
+        },
+        {
+          "type": "line",
+          "line": "还不快去？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭飞奔出客栈"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "还不快去？小郭飞奔出客栈"
     }
   ]
 }

@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -199,7 +200,8 @@
           "line": "佟掌柜，你也要对盗圣大哥好一点，不要因为他是贼你就嫌弃他呀，他那也是一失足成千古恨啊，你要秉着一颗惩前毖后，治病救人的心，去挽救他这颗肮脏不堪的心灵啊……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "白展堂",
           "description": "老白瞪眼"
         },
         {
@@ -271,7 +273,8 @@
           "line": "你说什么？哎，吕大侠你也吃啊？虽然你武功盖世，天下无双，可是人是铁饭是钢，一顿不吃饿得慌，你要是倒下了，"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "郭芙蓉",
           "description": "小郭在旁边脸色越来越难看"
         },
         {
@@ -323,7 +326,8 @@
           "line": "掌柜的，你听我跟你解释……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "其他人",
           "description": "大伙纷纷离开"
         },
         {

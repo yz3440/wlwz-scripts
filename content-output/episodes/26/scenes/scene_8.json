@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -120,7 +121,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "那倒也不是„"
+          "line": "那倒也不是…"
         }
       ]
     },
@@ -130,7 +131,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "皇天在上，我郭芙蓉要是对白展堂有一点儿好感，就让我死„"
+          "line": "皇天在上，我郭芙蓉要是对白展堂有一点儿好感，就让我死…"
         }
       ]
     },
@@ -240,7 +241,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "是她叫我说的„"
+          "line": "是她叫我说的…"
         }
       ]
     },
@@ -259,10 +260,6 @@
       "speaker": "莫小贝",
       "performances": [
         {
-          "type": "line",
-          "line": ""
-        },
-        {
           "type": "speaker-action",
           "description": "指小郭"
         },
@@ -278,7 +275,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你„"
+          "line": "你…"
         }
       ]
     },
@@ -288,7 +285,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "不是，你听我解释，不是„"
+          "line": "不是，你听我解释，不是…"
         }
       ]
     },
@@ -308,7 +305,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你听我说嘛„"
+          "line": "你听我说嘛…"
         }
       ]
     },

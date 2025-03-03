@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -20,7 +21,17 @@
     },
     {
       "type": "action",
-      "description": "老白看湘玉——还是三两吧！"
+      "description": "老白看湘玉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是三两吧！"
+        }
+      ]
     },
     {
       "type": "dialog",
@@ -67,13 +78,13 @@
       ]
     },
     {
+      "type": "action",
+      "description": "钱夫人闯进来，小郭没拦住"
+    },
+    {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "钱夫人闯进来，小郭没拦住"
-        },
         {
           "type": "line",
           "line": "哎呀，谁让你进来的？"

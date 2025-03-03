@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -39,12 +40,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "我这也是下意识的本能反应。"
-        },
-        {
           "type": "speaker-action",
           "description": "走到凌旁"
+        },
+        {
+          "type": "line",
+          "line": "我这也是下意识的本能反应。"
         }
       ]
     },
@@ -85,12 +86,13 @@
         {
           "type": "line",
           "line": "但是你干掉他就能变回你自己吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人一个个起来"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人一个个起来"
     },
     {
       "type": "dialog",
@@ -107,23 +109,17 @@
       "speaker": "郭芙蓉",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "向凌挥手"
+        },
+        {
           "type": "line",
           "line": "睡了一大觉，早看出你小子心里有鬼了。姑奶奶的警惕性，没你想得那么差。"
         },
         {
           "type": "speaker-action",
-          "description": "向凌挥手"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "与老白击掌"
-    },
-    {
-      "type": "dialog",
-      "speaker": "郭芙蓉",
-      "performances": [
+          "description": "与老白击掌"
+        },
         {
           "type": "line",
           "line": "耶。"
@@ -155,12 +151,12 @@
       "speaker": "凌腾云",
       "performances": [
         {
-          "type": "line",
-          "line": "好，他不是坏人，我是。"
-        },
-        {
           "type": "speaker-action",
           "description": "冷笑"
+        },
+        {
+          "type": "line",
+          "line": "好，他不是坏人，我是。"
         },
         {
           "type": "speaker-action",
@@ -175,12 +171,13 @@
         {
           "type": "line",
           "line": "你放开我嫂子。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "老白",
+          "description": "老白抓住小贝，说了几句悄悄话"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "老白抓住小贝，说了几句悄悄话"
     },
     {
       "type": "dialog",
@@ -199,12 +196,13 @@
         {
           "type": "line",
           "line": "隔空打穴。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "凌",
+          "description": "凌下意识的接住石子"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "凌下意识的接住石子"
     },
     {
       "type": "dialog",
@@ -213,31 +211,20 @@
         {
           "type": "line",
           "line": "葵花点穴手。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "凌被点住"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "凌被点住"
+        },
         {
           "type": "line",
           "line": "刚才的那颗石子，打的还她是左眼，同样的情况，你跟我做了同样的选择，这证明咱们俩之间根本没有差别。你命中注定是个好人，认命吧。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人点头"
+        },
         {
           "type": "line",
           "line": "葵花解穴手。"
@@ -259,12 +246,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "这是我的免罪金牌，刑部颁发的。"
-        },
-        {
           "type": "speaker-action",
           "description": "凌坐下，老白掏出金牌"
+        },
+        {
+          "type": "line",
+          "line": "这是我的免罪金牌，刑部颁发的。"
         }
       ]
     },
@@ -273,12 +260,12 @@
       "speaker": "凌腾云",
       "performances": [
         {
-          "type": "line",
-          "line": "你咋不早说呢？"
-        },
-        {
           "type": "speaker-action",
           "description": "疑惑，接过金牌看了看"
+        },
+        {
+          "type": "line",
+          "line": "你咋不早说呢？"
         }
       ]
     },
@@ -321,18 +308,19 @@
       "speaker": "凌腾云",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "起身，行礼"
+        },
+        {
           "type": "line",
           "line": "凌腾云对不起大家。"
         },
         {
-          "type": "speaker-action",
-          "description": "起身，行礼"
+          "type": "reaction",
+          "reactor": "老白",
+          "description": "老白还礼，大嘴醒了"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "老白还礼，大嘴醒了"
     },
     {
       "type": "dialog",
@@ -341,12 +329,13 @@
         {
           "type": "line",
           "line": "咋的啦？我这落枕了？脖子咋这么疼呢？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人帮他揉揉"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "众人帮他揉揉"
     },
     {
       "type": "action",

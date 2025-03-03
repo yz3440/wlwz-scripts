@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -101,9 +102,16 @@
           "line": "还逃……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "小六拔刀把包大人脚扎伤"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
         {
           "type": "line",
           "line": "啊！"
@@ -151,17 +159,23 @@
       ]
     },
     {
+      "type": "action",
+      "description": "展堂忽然回头"
+    },
+    {
       "type": "dialog",
-      "speaker": "展堂",
+      "speaker": "佟湘玉",
       "performances": [
-        {
-          "type": "speaker-action",
-          "description": "展堂忽然回头"
-        },
         {
           "type": "line",
           "line": "啊，你咋回来了，有啥事？"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
         {
           "type": "line",
           "line": "一句话，对罪犯的同情，就是对百姓的犯罪。这话我想你明白，下不为例。"

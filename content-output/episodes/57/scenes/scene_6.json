@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -131,17 +132,11 @@
         {
           "type": "line",
           "line": "哈哈哈，"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "跑到门口"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑到门口"
+        },
         {
           "type": "line",
           "line": "师父，小六终于等到大案子啦！"
@@ -169,17 +164,11 @@
         {
           "type": "line",
           "line": "那我不管，反正现在是非常时期，所有店内一切事宜，由我安排。店内相关人等，归我调配。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "拔刀"
-    },
-    {
-      "type": "dialog",
-      "speaker": "燕小六",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        },
         {
           "type": "line",
           "line": "帮我照顾好我七舅姥爷！"
@@ -299,7 +288,8 @@
           "line": "这不八个字吗？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "燕小六",
           "description": "小六怒目而视"
         },
         {

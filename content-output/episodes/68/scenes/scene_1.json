@@ -3,6 +3,7 @@
   "rawDescription": "【女寝，昼】",
   "location": "女寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,11 +16,17 @@
         {
           "type": "line",
           "line": "无双你喜欢什么随便挑啊，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "从小贝手里抢首饰"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "从小贝手里抢首饰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "千万不要跟我客气啊。"
@@ -114,7 +121,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "这个不行，这是我十八岁的生日礼物，是有特殊意义的„"
+          "line": "这个不行，这是我十八岁的生日礼物，是有特殊意义的…"
         }
       ]
     },
@@ -255,12 +262,12 @@
         {
           "type": "line",
           "line": "那就算了，算了。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "挥挥手，欲走"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "无双挥挥手，欲走"
     },
     {
       "type": "dialog",

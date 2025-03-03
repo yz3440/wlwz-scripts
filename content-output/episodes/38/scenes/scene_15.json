@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -202,7 +203,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "你都懂，你都会啊，来，你来，来来来，你说，我伺候不了你了，你来来来！"
+          "line": "你都懂，你都会啊，来，你来，我伺候不了你了，你来来来！"
         }
       ]
     },

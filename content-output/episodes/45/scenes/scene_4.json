@@ -3,6 +3,7 @@
   "rawDescription": "【客栈门口，夜】",
   "location": "客栈门口",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -439,6 +440,10 @@
       "speaker": "众人",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
           "type": "line",
           "line": "恭喜你，在每一天里，永远都……"
         }
@@ -661,7 +666,13 @@
         {
           "type": "line",
           "line": "哈哈哈哈，明天一早，衙门口见。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "唱"

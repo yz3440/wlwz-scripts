@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -725,7 +726,8 @@
           "line": "盘亮条儿顺你看我咋样？"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "赛貂禅",
           "description": "赛貂禅不屑"
         },
         {
@@ -843,11 +845,17 @@
         {
           "type": "line",
           "line": "去去！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小翠边说边往里走，老白就一步一步退"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠边说边往里走，老白就一步一步退"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "你这这！"
@@ -881,12 +889,12 @@
         {
           "type": "line",
           "line": "对啊，说梦话喊的都是你的名字！我每天晚上都梦见你！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "又往老白身上凑"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "又往老白身上凑"
     },
     {
       "type": "dialog",
@@ -1021,11 +1029,17 @@
         {
           "type": "line",
           "line": "跟你开个玩笑！展堂哥哥，怡红楼都关门那么久了，我就是想害你，没有条件啊！人往高处走，水往低处流，那些伤天害理的事儿啊，我早都不干了！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小翠走到店门口朝外面喊"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠走到店门口朝外面喊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
         {
           "type": "line",
           "line": "小翠，翠儿！"
@@ -1273,11 +1287,17 @@
         {
           "type": "line",
           "line": "没啥感觉。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "小翠瞪了她一眼"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠瞪了她一眼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
         {
           "type": "line",
           "line": "——呃……有一点儿亲切！"

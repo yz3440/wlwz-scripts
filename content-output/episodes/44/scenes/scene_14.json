@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -145,8 +146,14 @@
       ]
     },
     {
-      "type": "action",
-      "description": "公孙乌龙：喔，吕先生，来来来来来，你快请坐，您说您说！"
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喔，吕先生，来来来来来，你快请坐，您说您说！"
+        }
+      ]
     },
     {
       "type": "dialog",

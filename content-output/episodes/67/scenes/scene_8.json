@@ -3,6 +3,7 @@
   "rawDescription": "【后院，昼】",
   "location": "后院",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -196,11 +197,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "握手是第一关，接下来就是。"
+          "line": "握手是第一关，接下来就是"
         },
         {
           "type": "speaker-action",
-          "description": "模拟郭巨侠"
+          "description": "模拟"
         },
         {
           "type": "line",
@@ -301,12 +302,12 @@
         {
           "type": "line",
           "line": "那实在不行，还是撤好了！三十六计走为上，他要问起来，就说我们俩去旅游好了，谅他也不敢把你们怎么着，收拾东西"
-        },
-        {
-          "type": "speaker-action",
-          "description": "两人各自迅速跑回自己的房间"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "两人各自迅速跑回自己的房间"
     },
     {
       "type": "dialog",
@@ -315,12 +316,12 @@
         {
           "type": "line",
           "line": "上哪旅游？找掌柜的！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "展堂、大嘴、小贝去找掌柜的……"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "展堂、大嘴、小贝去找掌柜的……"
     }
   ]
 }

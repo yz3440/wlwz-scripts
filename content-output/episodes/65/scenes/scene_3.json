@@ -3,6 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -19,7 +20,13 @@
         {
           "type": "line",
           "line": "哎！对对对！其实啊，装病挺好。你看啊，不用干活，还有人伺候，想睡就睡，想吃就吃，想不吃就不吃！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "speaker-action",
           "description": "湘玉在喂老白吃饭，老白转头对湘玉"

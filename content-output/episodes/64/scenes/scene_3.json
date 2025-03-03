@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -50,7 +51,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哦哦哦„你就当场废我武功，无双绝无怨言的。"
+          "line": "哦哦哦…你就当场废我武功，无双绝无怨言的。"
         }
       ]
     },
@@ -78,7 +79,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哎哎哎„你这什么口音啊？师兄啊，你不会就一直这么装下去了吧？"
+          "line": "哎哎哎…你这什么口音啊？师兄啊，你不会就一直这么装下去了吧？"
         }
       ]
     },

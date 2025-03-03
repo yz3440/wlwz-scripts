@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -218,11 +219,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "娘子？她，她就是你的娘子。"
+          "line": "娘子？她"
         },
         {
           "type": "speaker-action",
           "description": "拉过掌柜"
+        },
+        {
+          "type": "line",
+          "line": "，她就是你的娘子。"
         }
       ]
     },
@@ -233,7 +238,13 @@
         {
           "type": "line",
           "line": "娘子~~"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无命",
+      "performances": [
         {
           "type": "line",
           "line": "咱俩有孩子吗？"

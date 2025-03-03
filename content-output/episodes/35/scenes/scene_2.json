@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -151,7 +152,13 @@
         {
           "type": "line",
           "line": "那谢谢你啦。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "拿着。"
@@ -235,7 +242,13 @@
         {
           "type": "line",
           "line": "那有五十文呐。——那是你应得的。劳动光荣，劳动光荣。"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
         {
           "type": "line",
           "line": "还得撑到月底呢。"

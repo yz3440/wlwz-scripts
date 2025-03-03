@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -63,10 +64,6 @@
       ]
     },
     {
-      "type": "action",
-      "description": "1155"
-    },
-    {
       "type": "dialog",
       "speaker": "小米",
       "performances": [
@@ -115,12 +112,12 @@
         {
           "type": "line",
           "line": "哼，还敢狡辩，先跟我回衙门再说，走。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拉小米出门"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "拉小米出门"
     },
     {
       "type": "dialog",
@@ -233,12 +230,12 @@
         {
           "type": "line",
           "line": "我有那心，我……我还是闭嘴吧我。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "蹲下"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "蹲下"
     },
     {
       "type": "dialog",
@@ -271,17 +268,12 @@
         {
           "type": "line",
           "line": "嘘，房顶有人。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "众人惊慌"
-    },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人惊慌"
+        },
         {
           "type": "line",
           "line": "这样，你们接着说话别停，我上去看看。"
@@ -291,14 +283,6 @@
     {
       "type": "action",
       "description": "众人开始大声说话，房顶传来老白的声音\"葵花点穴手\"，众人上屋顶，小米带着铐子跑出客栈"
-    },
-    {
-      "type": "action",
-      "description": "本回完"
-    },
-    {
-      "type": "action",
-      "description": "1156"
     }
   ]
 }

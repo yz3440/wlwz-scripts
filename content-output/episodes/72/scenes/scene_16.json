@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，昼】",
   "location": "大堂",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -415,31 +416,21 @@
         {
           "type": "line",
           "line": "拿来吧。哎呀，想吃吗？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "白点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "白点头"
+        },
         {
           "type": "line",
           "line": "做梦都想吃？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "白不停地点头"
-    },
-    {
-      "type": "dialog",
-      "speaker": "佟湘玉",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "白不停地点头"
+        },
         {
           "type": "line",
           "line": "那就继续做梦吧，啊。"

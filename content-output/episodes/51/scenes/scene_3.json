@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，夜】",
   "location": "佟寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -25,12 +26,12 @@
         {
           "type": "line",
           "line": "哎呀，最近到底是咋了嘛，十八里铺的醉仙楼刚被砸了个稀巴烂，还没消停两天，这采花贼又来了。再这么下去的话。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "伸手摸铃铛"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "伸手摸铃铛"
     },
     {
       "type": "dialog",
@@ -263,11 +264,17 @@
         {
           "type": "line",
           "line": "不要偷换概念！跟我说，站起来！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拿出一摞书，作按着《圣经》发誓状"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿出一摞书，作按着《圣经》发誓状"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
         {
           "type": "line",
           "line": "\"本人郑重发誓……\""

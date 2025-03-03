@@ -3,6 +3,7 @@
   "rawDescription": "【男寝，夜】",
   "location": "男寝",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -69,7 +70,8 @@
           "line": "你说归说呗，吵吵什么呀，哎哎哎……"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "大嘴",
           "description": "大嘴踢"
         },
         {
@@ -104,7 +106,7 @@
         },
         {
           "type": "line",
-          "line": "浇，浇，往这浇"
+          "line": "浇，浇，往这儿浇！"
         },
         {
           "type": "speaker-action",
@@ -112,7 +114,7 @@
         },
         {
           "type": "line",
-          "line": "，浇，浇，浇！"
+          "line": "浇，浇，浇！"
         }
       ]
     },
@@ -139,7 +141,8 @@
           "line": "坐。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "老白",
           "description": "老白坐"
         },
         {
@@ -265,7 +268,8 @@
           "line": "早知道就不给她吃了，让她一直睡着。"
         },
         {
-          "type": "speaker-action",
+          "type": "reaction",
+          "reactor": "老白",
           "description": "老白拍桌子"
         },
         {
@@ -311,12 +315,13 @@
         {
           "type": "line",
           "line": "其实我倒觉得，与其坐以待毙，不如咱主动出击，没贼，咱雇个呗。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "老白",
+          "description": "老白会意地笑了"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "老白会意地笑了"
     }
   ]
 }

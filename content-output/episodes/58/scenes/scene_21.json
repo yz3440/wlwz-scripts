@@ -3,6 +3,7 @@
   "rawDescription": "【佟寝，昼】",
   "location": "佟寝",
   "timeOfDay": "昼",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -183,12 +184,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "出去！"
-        },
-        {
           "type": "speaker-action",
           "description": "怒"
+        },
+        {
+          "type": "line",
+          "line": "出去！"
         }
       ]
     },
@@ -201,12 +202,12 @@
       "speaker": "白展堂",
       "performances": [
         {
-          "type": "line",
-          "line": "湘玉，你不能走啊，咱俩好不容易才走到今天，你不能把我一个人留下。湘玉，你要是能听见，你就吱个声，我不能没你，湘玉，玉……"
-        },
-        {
           "type": "speaker-action",
           "description": "含泪"
+        },
+        {
+          "type": "line",
+          "line": "湘玉，你不能走啊，咱俩好不容易才走到今天，你不能把我一个人留下。湘玉，你要是能听见，你就吱个声，我不能没你，湘玉，玉……"
         }
       ]
     }

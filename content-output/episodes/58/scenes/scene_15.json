@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -31,11 +32,17 @@
         {
           "type": "line",
           "line": "啊！"
-        },
-        {
-          "type": "speaker-action",
-          "description": "大嘴不屑回头，扭到脖子"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴不屑回头，扭到脖子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "啊啊啊。"
@@ -133,11 +140,17 @@
         {
           "type": "line",
           "line": "说来话长啊，"
-        },
-        {
-          "type": "speaker-action",
-          "description": "拿笛子"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿笛子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
         {
           "type": "line",
           "line": "还记得这个吗？"

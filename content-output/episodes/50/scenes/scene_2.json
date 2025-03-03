@@ -3,6 +3,7 @@
   "rawDescription": "【大堂，夜】",
   "location": "大堂",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "action",
@@ -15,11 +16,17 @@
         {
           "type": "line",
           "line": "邢捕头。来，来。"
-        },
-        {
-          "type": "speaker-action",
-          "description": "老邢过来"
-        },
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老邢过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
         {
           "type": "line",
           "line": "给我盛完汤去，多盛点冬瓜还有虾皮。"
@@ -307,12 +314,16 @@
         {
           "type": "line",
           "line": "葵花点穴手"
-        },
-        {
-          "type": "speaker-action",
-          "description": "把老邢点住了"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "把老邢点住了"
+    },
+    {
+      "type": "action",
+      "description": "。"
     },
     {
       "type": "dialog",
@@ -335,7 +346,13 @@
         {
           "type": "line",
           "line": "一！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "嗯啥嗯，我还没打呢。"
@@ -757,6 +774,10 @@
           "description": "往四周看"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "。"
     },
     {
       "type": "dialog",

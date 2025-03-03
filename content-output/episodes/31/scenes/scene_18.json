@@ -3,6 +3,7 @@
   "rawDescription": "【后院，夜】",
   "location": "后院",
   "timeOfDay": "夜",
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -70,7 +71,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "我„不可以的，你的明白？——我其实一直在等她。"
+          "line": "我…不可以的，你的明白？——我其实一直在等她。"
         }
       ]
     },
@@ -109,12 +110,12 @@
       "speaker": "吕秀才",
       "performances": [
         {
-          "type": "line",
-          "line": "你哪能这个样子啊？"
-        },
-        {
           "type": "speaker-action",
           "description": "上海话"
+        },
+        {
+          "type": "line",
+          "line": "你哪能这个样子啊？"
         }
       ]
     },
@@ -123,12 +124,12 @@
       "speaker": "祝无双",
       "performances": [
         {
-          "type": "line",
-          "line": "我跟侬讲过不要讲上海话吧。"
-        },
-        {
           "type": "speaker-action",
           "description": "上海话"
+        },
+        {
+          "type": "line",
+          "line": "我跟侬讲过不要讲上海话吧。"
         }
       ]
     },
@@ -366,7 +367,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哈哈哈哈哈„"
+          "line": "哈哈哈哈哈…"
         }
       ]
     },
@@ -386,7 +387,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "哈哈哈„"
+          "line": "哈哈哈…"
         }
       ]
     }

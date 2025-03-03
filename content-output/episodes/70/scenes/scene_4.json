@@ -3,7 +3,7 @@
   "rawDescription": "【客房，昼】",
   "location": "客房",
   "timeOfDay": "昼",
-  "context": null,
+  "context": "",
   "performances": [
     {
       "type": "dialog",
@@ -108,7 +108,13 @@
         {
           "type": "line",
           "line": "别别别，别的地方自己留着看吧，快坐这儿！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
         {
           "type": "line",
           "line": "你们俩之间到底发生啥事儿了？"
@@ -206,7 +212,13 @@
         {
           "type": "line",
           "line": "可我不能这么倒霉吧！我好几次都想过要逃走，可是、可是我啥也不会呀！这逃出去，还不得活活饿死啊！"
-        },
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
         {
           "type": "line",
           "line": "我就这么熬啊，熬啊"
