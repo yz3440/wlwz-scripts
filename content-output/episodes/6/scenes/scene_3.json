@@ -16,8 +16,12 @@
       ]
     },
     {
+      "type": "action",
+      "description": "字幕：蕙兰父-友情出演-梁振亚，杨蕙兰-友情出演-于娟"
+    },
+    {
       "type": "dialog",
-      "speaker": "老年男子（友情出演：梁振亚）",
+      "speaker": "蕙兰父",
       "performances": [
         {
           "type": "line",
@@ -30,10 +34,6 @@
       "speaker": "杨蕙兰",
       "performances": [
         {
-          "type": "speaker-action",
-          "description": "友情出演：于娟"
-        },
-        {
           "type": "line",
           "line": "全听爹的。"
         }
@@ -41,7 +41,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "蕙兰父",
       "performances": [
         {
           "type": "line",
@@ -65,7 +65,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "蕙兰爹",
+      "speaker": "蕙兰父",
       "performances": [
         {
           "type": "line",
