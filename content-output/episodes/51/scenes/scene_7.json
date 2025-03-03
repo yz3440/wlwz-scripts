@@ -264,12 +264,20 @@
       ]
     },
     {
+      "type": "action",
+      "description": "窗外有人影"
+    },
+    {
       "type": "dialog",
       "speaker": "佟湘玉",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "尖叫"
+        },
+        {
           "type": "line",
-          "line": "啊————！！！"
+          "line": "啊！"
         }
       ]
     },
@@ -333,8 +341,12 @@
     },
     {
       "type": "dialog",
-      "speaker": "人 影",
+      "speaker": "祝无双",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从窗外"
+        },
         {
           "type": "line",
           "line": "恭喜恭喜恭喜你啊……"
@@ -353,7 +365,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "人 影",
+      "speaker": "祝无双",
       "performances": [
         {
           "type": "line",
@@ -383,7 +395,7 @@
     },
     {
       "type": "dialog",
-      "speaker": "人 影",
+      "speaker": "祝无双",
       "performances": [
         {
           "type": "line",
