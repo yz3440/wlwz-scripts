@@ -374,17 +374,11 @@
         {
           "type": "line",
           "line": "呵呵。"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "W"
-    },
-    {
-      "type": "dialog",
-      "speaker": "祝无双",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
         {
           "type": "line",
           "line": "否则还会为了什么呀？"
@@ -408,17 +402,11 @@
         {
           "type": "line",
           "line": "下意识？"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "W"
-    },
-    {
-      "type": "dialog",
-      "speaker": "祝无双",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
         {
           "type": "line",
           "line": "好像没有。"

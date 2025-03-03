@@ -60,7 +60,7 @@ for scene in all_scenes:
     missing_parts = find_missing_parts(parsed_scene_text, scene_text)
     # drop "本回完" and "前八十回完" from missing_parts
     missing_parts = [
-        part for part in missing_parts if part not in ["本回完", "前八十回完", "W", "w"]
+        part for part in missing_parts if part not in ["本回完", "前八十回完"]
     ]
     if len(missing_parts) > 0:
         print(f"Missing parts: {missing_parts}")

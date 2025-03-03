@@ -403,7 +403,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "报复谁呀？（W）小贝呀？这怎么可能呢？"
+          "line": "报复谁呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "小贝呀？这怎么可能呢？"
         },
         {
           "type": "speaker-action",

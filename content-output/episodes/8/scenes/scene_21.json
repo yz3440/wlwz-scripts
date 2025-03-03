@@ -344,26 +344,20 @@
         {
           "type": "line",
           "line": "那好，举手表决！同意同福的举手！"
-        }
-      ]
-    },
-    {
-      "type": "action",
-      "description": "W"
-    },
-    {
-      "type": "dialog",
-      "speaker": "",
-      "performances": [
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
         {
           "type": "line",
           "line": "同意尚儒的举手"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "W"
     },
     {
       "type": "dialog",

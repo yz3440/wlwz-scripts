@@ -249,7 +249,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "比如芙妹爱练武功，我（W）——爱写武功啊。"
+          "line": "比如芙妹爱练武功，我——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "爱写武功啊。"
         }
       ]
     },
@@ -263,10 +271,16 @@
       "performances": [
         {
           "type": "line",
-          "line": "芙妹爱动手（W）我也爱动手……写字啊。"
+          "line": "芙妹爱动手。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "我也爱动手……写字啊。"
         }
-      ]
-    },
     {
       "type": "dialog",
       "speaker": "李大嘴",

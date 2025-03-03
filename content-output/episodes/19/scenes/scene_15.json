@@ -141,7 +141,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "慢慢慢，黑虎掏心接着练。"
+          "line": "慢慢慢，黑虎掏心"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "接着练。"
         }
       ]
     },

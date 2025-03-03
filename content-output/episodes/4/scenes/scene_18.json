@@ -887,7 +887,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "知道我为什么要赌你的衣裳吗？因为砍了手，在送医的时候，方便收拾。"
+          "line": "知道我为什么要赌你的衣裳吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "因为砍了手，在送医的时候，方便收拾。"
         }
       ]
     },

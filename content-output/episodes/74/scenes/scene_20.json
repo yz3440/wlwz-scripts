@@ -278,12 +278,16 @@
         {
           "type": "line",
           "line": "行，我去要去啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "停顿"
+        },
+        {
+          "type": "line",
+          "line": "那个要饭的小米？"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "（W）——那个要饭的小米？"
     },
     {
       "type": "dialog",
