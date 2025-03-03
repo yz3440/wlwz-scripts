@@ -135,11 +135,29 @@
     },
     {
       "type": "dialog",
-      "speaker": "郭芙蓉/吕秀才",
+      "speaker": "郭芙蓉",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "和吕同时"
+        },
+        {
           "type": "line",
-          "line": "没有！/有！"
+          "line": "没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "和郭同时"
+        },
+        {
+          "type": "line",
+          "line": "有！"
         }
       ]
     },

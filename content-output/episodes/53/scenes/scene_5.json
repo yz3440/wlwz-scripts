@@ -381,8 +381,12 @@
     },
     {
       "type": "dialog",
-      "speaker": "包大人展堂和声",
+      "speaker": "包大人、展堂",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "二人同声"
+        },
         {
           "type": "line",
           "line": "当当啷当当！"

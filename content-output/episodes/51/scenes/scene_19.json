@@ -205,11 +205,15 @@
     },
     {
       "type": "dialog",
-      "speaker": "两人同声",
+      "speaker": "佟石头、祝无双",
       "performances": [
         {
+          "type": "speaker-action",
+          "description": "二人同声"
+        },
+        {
           "type": "line",
-          "line": "你说啥？？"
+          "line": "你说什么？"
         }
       ]
     },

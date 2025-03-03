@@ -16,13 +16,12 @@
         {
           "type": "line",
           "line": "嫂子，我能帮你洗衣服拉！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "掌柜感动拥抱",
-      "performances": [
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "掌柜感动拥抱"
+        },
         {
           "type": "line",
           "line": "鸟牌皂角粉，洗出一代好掌门！"

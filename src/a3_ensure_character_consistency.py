@@ -41,6 +41,17 @@ for scene in all_scenes:
             )
 
 
+stats = []
+
 for character_name in all_character_names_map:
-    print(character_name)
-    print(all_character_names_map[character_name])
+    stats.append((character_name, len(all_character_names_map[character_name])))
+
+stats.sort(key=lambda x: x[1], reverse=True)
+
+for stat in stats:
+    print(stat[0], stat[1])
+
+
+# count unique characters
+all_character_names_map_keys = list(all_character_names_map.keys())
+print("Unique characters: ", len(all_character_names_map_keys))

@@ -56,12 +56,12 @@
         {
           "type": "line",
           "line": "湘玉……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "传来敲门声"
         }
       ]
+    },
+    {
+      "type": "action",
+      "description": "传来敲门声"
     },
     {
       "type": "dialog",
@@ -75,8 +75,12 @@
     },
     {
       "type": "dialog",
-      "speaker": "门 外",
+      "speaker": "韩娟",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从门外喊"
+        },
         {
           "type": "line",
           "line": "我。"
@@ -95,8 +99,12 @@
     },
     {
       "type": "dialog",
-      "speaker": "门 外",
+      "speaker": "韩娟",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从门外喊"
+        },
         {
           "type": "line",
           "line": "你这辈子最好的朋友。"

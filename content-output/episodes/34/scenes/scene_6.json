@@ -261,8 +261,12 @@
     },
     {
       "type": "dialog",
-      "speaker": "众人合",
+      "speaker": "众人",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "合唱"
+        },
         {
           "type": "line",
           "line": "走吧～走吧～为自己的心找一个家～也曾伤心流泪～也曾黯然心碎，这是爱的代价～～～～"

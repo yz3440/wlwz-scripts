@@ -221,8 +221,12 @@
     },
     {
       "type": "dialog",
-      "speaker": "姐俩同时",
+      "speaker": "郭蔷薇、郭芙蓉",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "姐俩同时"
+        },
         {
           "type": "line",
           "line": "你变了！"
