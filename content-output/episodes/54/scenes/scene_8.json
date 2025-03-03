@@ -1,0 +1,173 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "展侍卫正闭目沉思，无双拿着峨眉刺和图谱进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展大侠，还没睡呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，这峨眉刺练得怎么样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我正在练啊，有一招我不太明白，你刚才说这个……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展侍卫给无双讲解，小六进，咳嗽，两人不理睬，小六继续咳嗽"
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么晚了还没有睡啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不困！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "桌上有茶你自己倒啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不渴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那要不要我给你下碗汤圆？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不饿！——你这个是峨眉刺吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你会使吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，这有嘛，这有嘛？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "舞动峨嵋刺"
+        },
+        {
+          "type": "line",
+          "line": "别看使得乱，俗话说，无招胜有招！无招是嘛，没法破，没法破！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂一下夺过峨嵋刺"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你拼了我！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六举刀砍向展侍卫，展侍卫用峨嵋刺一架一推，小六一个趔趄，楼上传来掌柜的喊声：\"天哪！\""
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊嘛，我还没死呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包大仁逃走了！"
+        }
+      ]
+    }
+  ]
+}

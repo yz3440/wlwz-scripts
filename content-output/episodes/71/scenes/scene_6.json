@@ -1,0 +1,347 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "郭芙蓉在磨刀，佟湘玉和白展堂看到，上前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "满脸陪笑"
+        },
+        {
+          "type": "line",
+          "line": "小郭……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿着刀比划"
+        },
+        {
+          "type": "line",
+          "line": "干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一会儿我就去十八里铺。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "继续磨"
+        },
+        {
+          "type": "line",
+          "line": "还废什么话，还不快去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去去，我去了之后啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "上前拉住郭芙蓉"
+        },
+        {
+          "type": "line",
+          "line": "你先别磨了，我听着慎的慌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不耐烦"
+        },
+        {
+          "type": "line",
+          "line": "有话快说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是我把秀才带回来以后，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉过佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "还是你说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不能对秀才动手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心，我绝不动手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "动脚也不行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也不能动刀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀枪棍棒十八兵器我一概不动。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "奇怪"
+        },
+        {
+          "type": "line",
+          "line": "那你打算怎么惩罚他呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "放心，我自有分寸。老白呀，快去把秀才叫回来吧，叫他回来的时候，给我带一根簪花和胭脂回来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也要一份，——后天就是我生日，你忘了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "恍然大悟"
+        },
+        {
+          "type": "line",
+          "line": "啊，放心吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小郭"
+        },
+        {
+          "type": "line",
+          "line": "你们俩放心啊，我保证把秀才带回来，他要敢不回来，我就把他拖回来，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身出门"
+        },
+        {
+          "type": "line",
+          "line": "小样的……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭继续磨刀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，你把刀磨得这么快你想干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬牙切齿"
+        },
+        {
+          "type": "line",
+          "line": "我砍死他——那我得偿命！砍他条胳膊下来——那以后谁伺候他呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道就好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这把刀是用来刮胡子的，等他回来以后，我亲自把他的头发眉毛睫毛汗毛，一根根的刮下来，再用簪花沾着胭脂，在他的脑门上刺上四个大字，我是花痴。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "Pose"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊吓状"
+        },
+        {
+          "type": "line",
+          "line": "我的神呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "更绝的还在后头呢，等他回来以后我亲自演示给你看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "跑出后院，昼"
+        },
+        {
+          "type": "line",
+          "line": "不用了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "郭芙蓉笑过后继续磨刀"
+    }
+  ]
+}

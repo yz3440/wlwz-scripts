@@ -1,0 +1,198 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白示意韩娟进去。"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，何夫人，这么晚了，你要上哪儿去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这空气不错，出来走走，散散步什么的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "湘玉拍桌子，小郭拿了一根绳子，韩吓得站起来"
+        },
+        {
+          "type": "line",
+          "line": "说就说呗，你拍桌子干吗，吓唬谁啊，你以为就你男朋友会武功啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "头发，指甲，还有诅咒信到底是怎么回事你说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨！你还是笑起来比较好看，现在这个表情忒狰狞了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不说也没有关系。小郭，去把小六给我找来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得令。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急忙阻拦"
+        },
+        {
+          "type": "line",
+          "line": "哎，谁是小六？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭装出小六超人的造型"
+        },
+        {
+          "type": "line",
+          "line": "不明白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本镇唯一的，也是十村八店最凶残的、最不近人情的捕头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没犯法，你找捕头干吗呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，我可是你从小到大唯一的朋友。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唯一的朋友？某些人不是对我说她人缘特别的好吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要打岔。小娟，我再给你最后一个机会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你这个人啊，怎么死活都不肯相信人呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭往外跑，韩娟追出去"
+    }
+  ]
+}

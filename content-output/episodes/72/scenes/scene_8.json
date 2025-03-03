@@ -1,0 +1,424 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "湘玉忙着擦个不停，众人在帐台全部呆住观望，老白出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，今儿太阳打北边儿出来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你来得正好，我的意见你想出来了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，你最大的问题就是，不爱喝酒。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟抹布一摔，拿起酒坛子仰头灌酒，白赶紧跑过去，抢下酒坛"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉湘玉，你干啥呀你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从今天开始，我每天喝一斤酒，我当然知道一斤不算多，但这已经是我的极限了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉你没事吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对我还有意见没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双与小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，来的正好，你的意见呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没意见啊——哎，怎么啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你对我的意见啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没意见啊……啊，好吧，你最大的问题就是，太在意别人的看法了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白轻拍佟肩"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们想要啥我就给啥这样不好吗？蹭吃蹭喝随便，我也不缺那点吃的。涨工钱涨就涨，我也不缺那点钱；干活没有问题，我反正闲着也是闲着；买书，喜欢就买喽，反正也没有几个钱；不唠叨，更容易，我本来就不想唠叨……谁不想做好人啊，每天吃吃喝喝玩玩闹闹的当然开心了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哽咽"
+        },
+        {
+          "type": "line",
+          "line": "我要不是掌柜的，鬼才懒得管你们！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，你是不是觉得，我们喜欢那个湘玉是因为她纵容我们？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "否则还能因为啥啊，当然我也没有她漂亮，那是因为我没有她会打扮；没有情趣没有品味，不会作诗也不会喝酒，不会炒菜也不会拉二胡，那又怎么样?"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哽咽"
+        },
+        {
+          "type": "line",
+          "line": "我可以学，可以改嘛"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "改了就不是你自己了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不咋的，人跟人不一样，各有各的好，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她有她的长处，你有你的短处吗"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人嗔怪"
+        },
+        {
+          "type": "line",
+          "line": "——你也有长处。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们喜欢她，并不表示我们不喜欢你呀，对不对？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊，她再好，那也不可能是我嫂子，永远不可能的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你对我们来说，是亲人，是整个生活的组成部分。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "而她，充其量不过是朋友，关系再好，那也不可能成为家里人嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你打个比方，她好比是好酒，你是白饭，酒再好，不管饱，饭再淡，一顿都少不了，明白吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我明白了，谢谢大家啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑）没事没事"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然这样，那就拿来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我那七两二钱银子啊，大嘴？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，妈呀，想吃啥我给你，我给你做去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，不好意思，麻烦你把我的菜钱给我结了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，干嘛呢，还不巡街！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，把那些书赶紧退了去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，一笔帐没算清楚，满脑子糊涂帐咋搞的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，把那些糖葫芦交出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐，我做功课了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，那些桌椅板凳你不会擦，你不要跑嘛，我还没有说完呢，你跑啥呢，跑啥呢，我跟你说，这个缝里头还有看不见的地方，你都要好好的擦，你听见没有？我要是不擦我才知道你擦得这么不认真……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "在她们追逐的过程中，老白把佟喝剩的酒一口喝光……"
+    }
+  ]
+}

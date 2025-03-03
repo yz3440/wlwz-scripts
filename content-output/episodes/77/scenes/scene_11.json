@@ -1,0 +1,161 @@
+{
+  "type": "normal",
+  "rawDescription": "【钱夫人房间，昼】",
+  "location": "钱夫人房间",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝焦急的等待着，钱夫人推门进屋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我嫂子咋说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "二人坐在桌旁"
+        },
+        {
+          "type": "line",
+          "line": "你别着急，你嫂子不会不要你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的，那我现在可以回去了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说了，你别着急嘛。她现在正在气头上呢，你说你现在回去那不等于找死？她那个脸色啊，都是绿的，我还听见她跟那老白说啊，说为了让你长点记性，只要你一回家，就是一顿毒打。打完之后呢，再找那个牛皮绳啊，给你吊在那门口，当街示众，供人参观，每张票，三文。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "太毒了吧，都什么时候了。你说她咋还生我气啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐床上"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身，走到床边坐下"
+        },
+        {
+          "type": "line",
+          "line": "小贝呀，你自个儿琢磨琢磨呀，你呢，偷了人家小郭的首饰，还想离家出走，又把那首饰拿到我这儿来当，这一天一宿不回家，你自个儿想想，这是啥罪过呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又不是故意的，再说，是她先拿我冰刀的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这话你跟她说去，我又没怪你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "钱夫人起身，走到桌旁坐下，小贝跟过来"
+        },
+        {
+          "type": "line",
+          "line": "不是，钱夫人你答应过我。要能帮我劝我嫂子，我才留下的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心，只要有我在，没有人敢难为你，你那个嫂子虽说不太喜欢我。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "倒水"
+        },
+        {
+          "type": "line",
+          "line": "可是啊，她总得给我点面子，你说上次啊，要是没有我那千年人参，她现在还昏睡着呢。小贝呐，你呢，就在这儿啊好好的呆着啊，过两天呐，我再去找你嫂子好好谈谈，给你求求情，我想啊，她绝对会给我面子。"
+        }
+      ]
+    }
+  ]
+}

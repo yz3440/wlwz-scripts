@@ -1,0 +1,493 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "雷老五被打负伤，湘玉帮他清理伤口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，轻点！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝点热水吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，姑娘，水喝多了，不好钻洞。我跟你说，你容我准备准备，明天再，再比。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你都被打成这个模样了，你还想比啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这次输啊，是输在没经验上，我平时进的地方，就跟本没人开会——轻点儿，姑娘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，那你还真打算一直干这行啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我都这把年纪了，学啥啥不灵，还改啥行啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我不也改了吗？我说的是改正啊，不是改行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱俩不一样，我要像你就好了，名气也有了，是吧，底也洗干净了，钱又不缺。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说不缺，缺着呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不求别的，我走在街上，有人把我认出来，跟我要个签名什么的，我就知足了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打烊了，打烊了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，不是吃饭，俺就想问你们这旮哒有个姓雷的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你找他干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是个轿夫，左家庄的。这不，俺听说这雷老爷啊，通下水道可是一绝啊，专程来请他来了吗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看我干啥呀，人又不找我。就这个，头破血流的这个雷老爷。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，眼泪哗哗的，雷老爷啊，您方便吧，方便就跟俺去一趟呗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在啊？……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯呐。您不太方便吧？没关系，外头八抬大轿在正门口等您呢，我跟您说雷老爷，俺们村，锣鼓队，鞭炮队，还有开工酒，俺们庄的那老百姓张灯结彩都等着您呐，哎呀，您就去一回吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那，那我就……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧，去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是好事！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为民排忧解难！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行善积德！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "门口候着去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "各位，告辞了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，我那块牌子你不想要了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摇头"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就对了，把那块匾额拿来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好勒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，这不太合适，不合适，不合适……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就拿着吧，这是你该得的，我要是有你这身本事，它还轮不着你呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧去吧，过两天我们去慰劳你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥也不说了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我来我来，这事哪能劳烦雷老爷您呢，是不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "告辞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "村 民",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，雷老爷来了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "终于逃过一劫呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "高兴个啥，他的牌子是拿走了，你的呢，还在衙门的匾额后面呢……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就放那儿吧，放那儿总比放你身上安全。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那可是你最宝贵的东西啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以前是，现在对于我来说，最宝贵的——就是它，以后娶妻生子全靠它了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "收好，不要让别人看见了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你敢跟我玩双重标准，店规二十三条规定，不准私受小费的，为什么老白可以，我就不可以呢？你跟我说清楚了……"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1281 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "二人坐在桌旁，小郭吃着李子，谢捕头抖了几下披风"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您要不要来一个？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没那牙口。请你仔细的描述一下，你和当事人的关系？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟她就是同屋也是姐妹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐妹，有意思，以前一个案子就是姐姐绑架妹妹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是说你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "知道，你随便说啊。我的气量比刚才那个老白大得多。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好吧，那你跟当事人之间就没有点什么事吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么什么事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是有什么冲突没有啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们经常冲突，有时候还吵架，动不动就动手。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小郭比划着，伴着声音"
+        },
+        {
+          "type": "line",
+          "line": "A 型 B 型 AB 型 O 型全都有。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢抱头趴在椅子上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "暴脾气，不要太暴力嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要误会，我绝对没有怀疑你的意思。在这些人里面你的嫌疑是最小的一个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，是这样的，前些日子我见了你的父亲，我亲眼见的，我们还握了手，至今都没舍得洗。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "谄媚状，小郭表示恶心"
+        },
+        {
+          "type": "line",
+          "line": "衡阳那个案子，多亏了你老父亲。如果没有他，那当事人连命都保不住了，短短几天，我学到不少东西，那真是受益匪浅。说起这事儿，真是，还得了不少虚名，惭愧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "羞状"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说这些干什么呀？这跟案子有关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俗话说的好，虎父无犬女啊。我百分之百相信你，绝对不会干出那种事情。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "拜托你啊，这件事情跟我爹有什么关系？我是我，他是他好不好？我做的事情跟他没关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么说，这事跟你有关系了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "我可没这么说啊，你不要胡说八道啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "脱口而出，一般都是心里话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "有些气，忍着"
+        },
+        {
+          "type": "line",
+          "line": "呵，那我的嫌疑还是最小吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，那个，你可以走了，拜托，麻烦通知下一位。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭出屋，秀才进来。谢抖抖披风，秀才咬手指头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你和当事人的同屋是什么关系？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当事人同屋——你是说芙妹啊，我女朋友。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的女朋友，有没有抱怨当事人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抱怨，具体是指？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是发牢骚，背后说她坏话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "每天都说，小贝呀，老是惹芙妹生气，不过这两人转眼就和好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是真的和好还是装出来和好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "应该是真的和好，这两人都是直肠子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们什么肠子，我会判断，你只需要告诉我，你的女朋友和当事人发生冲突以后，她有没有说出要报复之类的话呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "报复谁呀？（W）小贝呀？这怎么可能呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凡事都有可能，你就大胆的说，你的话"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看看门，小声"
+        },
+        {
+          "type": "line",
+          "line": "我会替你保密的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "用不着保密，大家都是自己人。芙妹把小贝当成自己的小妹妹，什么好吃的好喝的给她留着，小贝犯了错帮她担着，对她比对我还好哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "难道这还不说明问题吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么问题呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以前我就办一个案子，姐妹俩为争一个男人大打出手，挠的是头破血流。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Stop，停停，你知道小贝多大吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多大？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十岁，拜托你大胆假设之前先小心调查一下下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拖着下巴"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，难道没有别的什么事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你再好好的仔细的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着回忆，你有这闲功夫啊，自己出去看看，老盘问我们，这有用吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "敲桌子"
+        },
+        {
+          "type": "line",
+          "line": "住口，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才咬手指头"
+        },
+        {
+          "type": "line",
+          "line": "我怎么办案还得你教我啊？出去，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才刚走两步"
+        },
+        {
+          "type": "line",
+          "line": "回来"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "迅速回来坐下"
+        },
+        {
+          "type": "line",
+          "line": "帮我传下一个人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Yes，sir。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "骑马状奔出"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴入，呆呆的看着谢，谢抖抖披风，三次才成功"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要起飞啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你跟当事人关系怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "吃着花生"
+        },
+        {
+          "type": "line",
+          "line": "还行吧，她虽然不听我的，但对我还算客气，咋的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看看大嘴"
+        },
+        {
+          "type": "line",
+          "line": "衣服挺新呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我在厨房工作，只能穿旧的，那新衣服一穿就脏。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看看大嘴，大嘴不敢再吃，放下碗，请谢来吃，谢拒绝"
+        },
+        {
+          "type": "line",
+          "line": "收入怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还行吧，一个人单身过日子还行，娶媳妇就难说了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿回碗"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有人了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有了，但是……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "欲言又止"
+        },
+        {
+          "type": "line",
+          "line": "——这跟本案有啥关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "随便问问，打算什么时候娶亲啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这由不得我了，得看人家的，关键就是没钱呐。咋地也得把房钱先挣出来吧，要不然你娶回来住哪儿啊？一想起这事儿我脑瓜仁都疼，"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但是你这个现状，对你的收入，买房子困难点吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不咋的，现在房价多贵呀，我跟你说，我一个月才二钱银子，我也就只能琢磨琢磨那经济适用房，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "想了想"
+        },
+        {
+          "type": "line",
+          "line": "——不是，你不会怀疑我吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是怀疑，每个人都有嫌疑，只不过你大而已啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "绑架图什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你缺什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱呐！——开啥玩笑啊，我要真赚钱我还需要绑架啊我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你还有别的什么办法吗？说出一条来，立马走人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有手艺是吧，我摆个摊，我卖羊肉串行不行啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你卖多少羊肉串，能赚回两千两，算过吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不跟你说，你爱咋怀疑咋怀疑，小贝没回来，说啥都没用，还审案子，净瞎审还不如老邢呢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身便走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没问完呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉你，我能说的都说了，你爱抓就抓，爱打就打，我还不伺候你了呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出去！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴反而坐下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "横"
+        },
+        {
+          "type": "line",
+          "line": "你是不是还想再找别人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是不是还想再找佟掌柜呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己叫去，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "谢步东",
+          "description": "谢拿出刀放在桌上，大嘴堆笑"
+        },
+        {
+          "type": "line",
+          "line": "——还是我去吧，不麻烦你老人家了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴出屋，掌柜的进屋，谢示意掌柜的坐，掌柜的坐下，谢抖抖披风，一下把自己整个脑袋包住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么天黑了呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "弄好"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "折腾完了没有？问了一个上午了这个案子有啥进展没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有进展，经过我……不对呀，这案子是我审的，经过我的努力，我发现，这个店里每个人都有嫌疑，而且嫌疑最大的就是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是谁并不重要，你也开始相信，这个案子是自己人干的啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我啥时候说我相信了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不相信你为什么要问呢？如果你根本就不相信，你绝对不会问呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你觉得做这种文字游戏有意义吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你是在怀疑我办案的能力了？不用回答，我只做我应该做的事情。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你应该做的就是在这儿胡猜乱问拖时间？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么叫拖时间呐？绑架案都是这么办的。京城的郭巨侠，知道吧？就是这么办的案，先审查后分析，主要是作案动机，衡阳那个案子，那就是家贼所为。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那总不可能每个案子都是家贼所为吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没说一定啊，只是可能啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得那个小员外会少了缕头发。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就是绑匪干的，要不是我的努力啊，换个人，他那条小命就没啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还以为你是专家呢，没有想到，早知道你是这样就不应该请你来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "疑惑"
+        },
+        {
+          "type": "line",
+          "line": "什么，是你请我来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀，我听小六说你是专办绑架案的，就写了封信叫无双飞鸽传书啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你怎么不承认呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六有自尊心呀，展堂又不相信你们这些捕快，剩下那几个就知道跟你一样瞎咋呼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么说话，我辞职我撂挑子我不干了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那太好了，我这就送您出去吧啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身，掏银子"
+        },
+        {
+          "type": "line",
+          "line": "对对对，这是辛苦费，你从哪来的就回哪去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，那你让我来我就来，让我走我就走，你把我当成什么人啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我错了，给你添了很多麻烦，你拿着银子赶紧走人，就当什么事都没发生过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不行，那不行。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才推门而入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了终于来了。第四封信第四封信，你看你看。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "谢刚要看，掌柜的一把拿过来，三人看信。"
+    }
+  ]
+}

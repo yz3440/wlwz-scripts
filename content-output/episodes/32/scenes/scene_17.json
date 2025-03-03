@@ -1,0 +1,879 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心，我从小就是在兵器堆里长大的，是不是玄铁，我一眼就能看出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那它要真是玄铁的呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就跟他走一趟，最差的，还能弄上两把菜刀回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要那么多菜刀干啥啊？师傅起得早啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，你的行李呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都还在那搁着，我还没来得及收拾。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我昨天不跟你说了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师傅你看，这客栈里都是我的好兄弟好姐妹，我忽然就这么走了，我心里还真有点舍不得。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走了又不是不回来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你能不能容他再多住一天？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那哪行啊？人生短暂，有几个一天可以浪费啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都好好听着点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别罗嗦了，赶紧收拾行李。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下！诸葛先生，我听说你还有一把玄铁菜刀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让我看一下嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看它干吗啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，小地方人没见过世面，你让她看一眼，就一眼啊。给她瞧瞧，给她瞧瞧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就看一眼啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿出菜刀晃了一下"
+        },
+        {
+          "type": "line",
+          "line": "行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有看清。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您就让他看清楚，让她再看一眼。再看一……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再看一眼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！——他要干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "……眼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生你看这事儿闹得啊，我也不知道是看刀啊，我不知道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，咱们走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，我行李还没收拾呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要了不要了，路上再买。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有什么事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，你为啥收我啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我为什么收你啊，条件有三：第一，你非常敬业。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋看出来的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他那天不是说了吗，谁不让他炒菜，他跟谁急！一般人敢这么说吗？第二嘛，你非常自信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我、我自信吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自信自信。不自信能专挑那个烂菜买吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "烂菜？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他还说过，要是好厨师，不管是什么材料都能做出好饭来。一般人不敢这么说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，您真是老神仙，慧眼识英啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第三嘛，你按我菜谱做的那个菜，色和香虽然差了一点，但是味道深得我的真传啊，证明你有非凡的领悟力，是个可造之才啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生您先等会儿，他做的那个菜，我们尝过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "尝过了？味道如何？——哎呀，看来我非得露两手了。清风！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿我家伙来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀具在此！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "徒弟，厨房何在？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这边！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "带路！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得令。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "过了一会大嘴从厨房冲出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀我的妈呀，哎呀，哎呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐这慢慢说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你知道人家是咋打鸡蛋的吗？七八个鸡蛋，嚓嚓嚓嚓，往天上轮流这么一扔，看都不带看的，拿碗咔咔咔咔这么一接，你们猜怎么着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鸡蛋熟了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！蛋黄全在这碗里面。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蛋青呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蛋清全跟蛋壳一块魂归垃圾桶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "浪费！敢情不是花他自己的钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不管咋说，这师父我是跟定了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了！金玉满堂结良缘。也就是传说中的蛋炒饭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蛋炒饭？呵呵。我也会做。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁会做啊，你会做你来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师傅，来，您请！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，给您筷子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大伙尝一尝。等我说完再吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您说您说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想当初，给先皇炒菜的时候，先皇就吃我一个人炒的菜，也就是说，除了先皇，没有人吃过我炒的菜。请吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还等啥啊。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人欲抢"
+        },
+        {
+          "type": "line",
+          "line": "葵花点！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样，啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——挺好的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只是挺好的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "味道特别特别的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，师傅您也吃啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得尝一尝。嗯，好！——请问有什么问题吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您就没觉得有点咸？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还咸呐，我才搁了五勺半盐。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人吓倒"
+        },
+        {
+          "type": "line",
+          "line": "怎么了，怎么了？唉哟，至于吗啊？给先皇炒的时候，搁八勺盐呢，有时候搁十勺呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十勺？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我明白了，您跟先皇一样，年龄大了，味觉严重退化！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你错了，我家先生是先天的味觉失灵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么不早告诉我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我一开始也不信，还以为他们是嫉妒您，可我到现在才知道，您是真的味觉失灵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "岂有此理！味觉失灵？失灵？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生？先生？"
+        }
+      ]
+    }
+  ]
+}

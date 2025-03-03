@@ -1,0 +1,27 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "one，two，three，four，康桑阿米达，music！阿里郎，阿里郎，阿里郎，阿里郎……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂、佟湘玉、郭芙蓉、祝无双、杨蕙兰跳朝鲜舞"
+    },
+    {
+      "type": "action",
+      "description": "切回现实"
+    }
+  ]
+}

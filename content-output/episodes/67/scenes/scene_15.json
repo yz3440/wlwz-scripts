@@ -1,0 +1,283 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人门外偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "条件还可以，我看还不错。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还行……比家里是差得远了，但是住久了也就习惯了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衣服被褥自己洗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有，都是别人给我洗的，我每天就吃吃玩玩，走走看看，谁要犯错误，我就负责批评他。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你要犯错误谁批评你呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我一般不犯错误。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，这个逃婚呐，离家呀，这是错吗？这不是错这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爹，你可没意思了！爹，你一路过来肯定很累吧？我去给你安排住处啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，我还有事儿，待会儿马上回京城。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的？那行那行，我现在送你——嗯，还是吃了饭再走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也好，你马上收拾东西，吃完饭和我一起走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才冲进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹是不会跟你走的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我非要带她走呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "点住小郭"
+        },
+        {
+          "type": "line",
+          "line": "那就休怪小侄无礼了，葵花点穴手"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花派，你威胁我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要我还要一口气在，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "从兜里掏出伸缩棍"
+        },
+        {
+          "type": "line",
+          "line": "我是不会让你把她带走的"
+        },
+        {
+          "type": "speaker-action",
+          "description": "耍起伸缩棍来，秀才一使劲"
+        },
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "动了"
+        },
+        {
+          "type": "line",
+          "line": "侯哥，侯哥你没事吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "在屋外玩起伸缩筷"
+        },
+        {
+          "type": "line",
+          "line": "秀才，拿错了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看是这样吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用内力把铁棍插入桌子里"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭巨侠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还有什么招数让我看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冷笑"
+        }
+      ]
+    }
+  ]
+}

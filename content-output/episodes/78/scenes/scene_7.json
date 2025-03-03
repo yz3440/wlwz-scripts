@@ -1,0 +1,185 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "杨蕙兰一个人在喝酒，大嘴进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有事吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有，你刚才不是问我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问过，过了这个村就没那个店了，这个说法你没听说过吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是还有一种说法吗？叫柳暗花明又一村。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，我想你大概忘了，我以前有多凶残。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁都有说错话做错事的时候，你可以打我骂我但你不能不要我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "门外"
+        },
+        {
+          "type": "line",
+          "line": "坏了，这句话就能把她感动成这样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从我第一次见到你，我心里就没别人了，我知道这样挺傻的，可是我乐意，我一想起你，我的心里就暖暖的，干啥都高兴，就这老白还笑话我呢，他说冬天都不用烧炕，想你就行了，还省柴禾了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杨笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别笑了，我说的是真的，只要你跟我在一起……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杨捂住了他的嘴巴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，你是我这辈子见过最好的男人，心里善良，为人又很正直。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要说但是，还有可是，还有然而 but 啥的，我是真心的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，谢谢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是谢谢啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "非常感谢。好吧，如果还有酒，我们可以继续讨论这个话题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "酒，有，你等着，要多少有多少，我给你拿去。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭擦桌子，无双从后院入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉无双"
+        },
+        {
+          "type": "line",
+          "line": "哎，等等等等，无双。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，有事等我回来再说，马上要迟到了，小六要骂人的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，我就说两句。第一，能不能把昨天我给你的镯子还给我呀？就是那个破的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摘镯子"
+        },
+        {
+          "type": "line",
+          "line": "哦，那我还给你。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身欲走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "继续拉"
+        },
+        {
+          "type": "line",
+          "line": "哎哎，你等会儿等会儿，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出个新镯子"
+        },
+        {
+          "type": "line",
+          "line": "这是个新的，我昨天下午淘回来的，你试试，看合不合手？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵——你要干吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "相亲那个事，我给你添那么多麻烦，我心里头就……呵呵……你先戴上嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事的没事的，这事也不是你能控制的，啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我不想欠你人情嘛……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "突然厉声"
+        },
+        {
+          "type": "line",
+          "line": "戴上！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "食客惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——厄，吃好喝好啊！呵呵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "套上镯子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "很好看呐！第二，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉过无双到桌边坐下"
+        },
+        {
+          "type": "line",
+          "line": "过来。以后不要再让我看见你跟秀才眉来眼去、动手动脚，否则我翻脸不认人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我什么时候跟秀才眉来眼去、动手动脚过啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有最好！有则改之，无则加勉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……那我走了啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身欲出"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，等会儿等会儿，厄，我希望你能早日得到幸福。这是真心话啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "厄呵呵，好、好的呀。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出门"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟！你们俩的关系，看来是好不起来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，怎么好不起来？你没有听到我刚才祝她幸福啊？很真心的呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "祝福，又不用花钱，廉价得很，你要喜欢，每天我祝福你一千次。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊好啊，那我每天诅咒你一千次呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓！咱身正不怕影子歪，你就是把我咒死了——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝旁边"
+        },
+        {
+          "type": "line",
+          "line": "呸呸呸呸——大清早的说这干啥。干活去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六急匆匆进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，无双呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？出去了，你没看见啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这无双，还等着她押犯人呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "站在柜台后"
+        },
+        {
+          "type": "line",
+          "line": "哎，押什么犯人呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是那假洋鬼子，已经判下来了，没收所有非法所得，驱逐出境。我先不和你说这个，我去找无双去"
+        },
+        {
+          "type": "speaker-action",
+          "description": "刚要出门，转身"
+        },
+        {
+          "type": "line",
+          "line": "佟掌柜，有您一封信。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出信"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "新鲜，竟然有人给你写信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为谁都跟你一样啊，一个朋友都没有。我从小到大人缘好的很，想我的人多的很"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拆开信，看着看着脸色就变了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "过去看"
+        },
+        {
+          "type": "line",
+          "line": "天黄黄，地黄黄，我家有个夜哭郎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看这一段。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三日内请将此信转发七封，括号，必须是最亲近的人，括号，否则你将倾家荡产家破人亡，最爱之人死于非命，韩娟。——哎？不会是上次来跟你攀比那个韩娟吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么难看的字，除了她还能有谁呀！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "怒，把信揉成一团"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫小贝在玩羊拐，小郭芙蓉来回踱步，掌柜的从门外跑进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋回事情嘛，大嘴也不回来，你说厨子不在咱也开不了张。小郭，你说，大嘴会不会也被扣在那儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，他就是有那心，他也舍不得花那钱啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也是啊，平时连双鞋都舍不得买，还能~~~"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六、无双低着头进门来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭和佟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了，又出啥事了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快说话呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六喝水"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我长话短说，大嘴也沦陷了。据目击者称，他与一名妙龄女子在那儿喝酒划拳，乐的跟招财猫似的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "招财猫？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "莫小贝学着招财猫的样子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当众给人表演厨艺，耍刀功，差点没把手指头给剁下来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "该！掌柜的现在该怎么办呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你问我我问谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "长吁一口气"
+        },
+        {
+          "type": "line",
+          "line": "如此看来，只有本捕头亲自出马了。佟掌柜你放心，我这就和无双杀过去，不把他们几个全带过来，绝不回来见你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抓住燕小六的手"
+        },
+        {
+          "type": "line",
+          "line": "小六啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "放开手"
+        },
+        {
+          "type": "line",
+          "line": "你确定自己能够顶得住诱惑吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及嘛来着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以及肯定。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定。不入虎穴，焉得虎子，再深的虎穴我得咬牙往里进，否则白当捕头了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "再次抓住激动的燕小六的手"
+        },
+        {
+          "type": "line",
+          "line": "小六！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "在燕小六手上使劲一吻"
+        },
+        {
+          "type": "line",
+          "line": "全都靠你了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抓住燕小六的手"
+        },
+        {
+          "type": "line",
+          "line": "六啊，你可一定得回来呀，哪怕救不出他们，你也别把自己搭进去了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "端起碗水"
+        },
+        {
+          "type": "line",
+          "line": "这碗酒……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "接过水"
+        },
+        {
+          "type": "line",
+          "line": "这碗水等我回来再喝，我要是回不来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这碗水酒，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "顺手把水倒了"
+        },
+        {
+          "type": "line",
+          "line": "我们就把它倒了，祭奠你那随风飘散的良知。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好"
+        },
+        {
+          "type": "speaker-action",
+          "description": "整整衣冠"
+        },
+        {
+          "type": "line",
+          "line": "无双，出发！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好"
+        },
+        {
+          "type": "speaker-action",
+          "description": "紧随其后跟上"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "手拿牌子"
+        },
+        {
+          "type": "line",
+          "line": "这是免罪金牌，凌捕头要来纠缠就拿给他看。我不相信他还敢跟朝廷作对？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "这小子肯定知道什么，湘玉你别忘了我们俩交过手。一想到这事，我就一身一身的汗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那都多少年前的事情了，人家连你的长相都忘了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他绝对没忘，要不然他不能说这种话。什么远房表舅，你信吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我信，他要是想抓你刚才为啥不动手？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他在观察，在判断，他看确定没有危险以后再动手。就像豹子捕食一样。别喝了，赶紧走，快点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，不是我不想走，要走随时可以走嘛，我也很想回家看一看。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐床上"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "那你赶紧走啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你听我把话说完嘛。我之所以留下是因为咱俩没有做错事情。就没有必要躲嘛，过去的事情就让它过去。有啥事情咱俩一起面对，绝对不能再躲了，我绝不。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，那我跟你说件事，但你保证听完以后不发脾气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我保证，你说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你过来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掌柜的起身，走到桌前坐下，老白也坐下"
+        },
+        {
+          "type": "line",
+          "line": "十年前你被一个黑衣大汉劫持过，对吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道那人是谁吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我。"
+        }
+      ]
+    }
+  ]
+}

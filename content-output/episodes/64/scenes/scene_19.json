@@ -1,0 +1,359 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白急忙跑进后院"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "王先生，你还没有出去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "是呀，我一直都在一步都没有离开过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了这是，脸咋这么红的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "脸红？哦，我刚刚运动了一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "王先生，刚才店里头来人，你注意了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "没有啊，绝对没有，我什么都没有看到，什么都没有听到。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "此地无银三百两，看来不用点非常手段是不行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个，你会不会武功呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "不会"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "我们家世代都是读书人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想不想学？想学我可以教你，以后可以防身呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "不用啊，我又不闯荡江湖。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来嘛，很简单的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "不不……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一学就会，先热一下身。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "我很笨的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉把老白按到墙上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我做什么你就跟着学，一定要一摸一样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "好的，好的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "1234"
+        },
+        {
+          "type": "speaker-action",
+          "description": "双手抱头左右弯腰"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "1234"
+        },
+        {
+          "type": "speaker-action",
+          "description": "照做"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用点劲，5678"
+        },
+        {
+          "type": "speaker-action",
+          "description": "双手抱头前弯腰，后仰身"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "用点劲，567…"
+        },
+        {
+          "type": "speaker-action",
+          "description": "后脑勺磕在墙上，昏过去了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就对了，你先进屋躺一会儿啊，哪儿都不许去啊，我给你找大夫去"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把老白推进小郭房间，锁上"
+        },
+        {
+          "type": "line",
+          "line": "哼，跟我斗。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜上楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "开门，开门，开门…快开开门……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人出，开门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快点快点，再不开就来不及了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人趁湘玉走了才跑来替老白开门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闪开"
+        },
+        {
+          "type": "speaker-action",
+          "description": "飞一般的跑走"
+        }
+      ]
+    }
+  ]
+}

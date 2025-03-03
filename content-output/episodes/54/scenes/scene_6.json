@@ -1,0 +1,261 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老包躺在床上哼哼，小郭拿着刀剪纱布等东西进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……你想干什么，你想干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿哟，你不要那么害怕嘛，我是来给你包扎伤口的。你看你看，这是剪刀，这是纱布，这是你们云南的白药，这是火油。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "火火火……火油用来干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "消毒啊，手术之前都要把器具消毒一下下，否则容易感染的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还要手术啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要太害怕，我会很小心的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，不用了，我自己可以，我自己来……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭埋头专心准备，老包发现有机可乘，开始 YY 用纱布勒住小郭要挟，白光一闪，回到现实"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿嘿嘿嘿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿嘿嘿嘿，寻思什么呢你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你可不可以把头转过去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我把头转过去干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家伤的是大腿啦，你的大腿可以给我随便看哪？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切……好了好了，你有什么需要帮忙的，说话啊，千万不要客气啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我绝对不会客气的，你可不可以把眼睛闭起来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Please，Please！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "我勒死你……还不如我扎死你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快一点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我迷瞎你的眼"
+        },
+        {
+          "type": "speaker-action",
+          "description": "倒满手云南白药"
+        },
+        {
+          "type": "line",
+          "line": "……嘿嘿嘿嘿嘿嘿，可以啦！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "郭芙蓉突然回头，药喷到包大人脸上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，对了……对不起，我去拿水给你洗啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭往外跑，纱布缠在脚上，另外一头正好勒着老包的脖子，直接把老包从床上拽下来，两个人越挣越紧，老包拼了老命拿剪刀剪了纱布，躺在地上喘气"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，你没事吧？你不要吓我……"
+        }
+      ]
+    }
+  ]
+}

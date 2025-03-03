@@ -1,0 +1,409 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "桌子上摆满饭菜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，这杯酒敬燕捕头，祝你官运亨通啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不喝了，不喝了，一会还有正事呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，一杯酒怕什么嘛，你又不开车。来来来，先干为敬。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝吧，喝吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喝酒，皱眉"
+        },
+        {
+          "type": "line",
+          "line": "咳咳……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不喝了，不喝了！佟掌柜，别以为我不知道你们想要干嘛，想要套考题，门都没有。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜朝小郭使个眼色"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "侯哥，你去帮我煮个鸡蛋呗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在不有炒鸡蛋吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那人家就想吃煮的嘛，行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，我去我去……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "等秀才出门，温柔地坐到小六旁边"
+        },
+        {
+          "type": "line",
+          "line": "六，你想吃什么，你想吃什么就跟人家说喽，人家亲手给你夹喽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "美人计对我没用，你又不是没使过，不长记性？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃吃吃，噎死你算了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜又朝老白使个眼色"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "站起"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，有日子没练功了，这家伙骨头都酥了，走你。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "一指头点灭七八步外油灯，小六目瞪口呆"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇，老白好棒啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，行啊你，几天不见，功力见涨啊你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，这算啥呀，真功夫还没使出来呢。但是我那真功夫干别的没用啊，抓贼跟玩似的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想不想学？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "得意"
+        },
+        {
+          "type": "line",
+          "line": "嘿嘿嘿嘿嘿嘿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也得等做完测试题再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "脸呱嗒一下"
+        },
+        {
+          "type": "line",
+          "line": "你这孩子怎么油盐不进呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就叫觉悟，要不凭嘛当捕头？佟掌柜，有嘛招数尽管使出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿，全军覆没，吃饭吃饭……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白和小郭一顿忙活，又抢馒头又抢菜，啥也没给小六剩下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没吃饱呢，就拿我馒头，够不着了……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一段时间以后，所有的盘子都空了，小郭冷冷地看着小六"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不吃了，撑死我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太好了，总算吃饱了，那我看今天测试题就不用做了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做，怎么不用做了？今日事今日毕，无双扶我起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "扶"
+        },
+        {
+          "type": "line",
+          "line": "小心啊，不要把肚子撑破了呀，来来来，走了走了……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头朝掌柜比画个手势"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉，我们怎么办嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要慌，咱还有一张王牌没有使。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白小郭不解，掌柜却一副成竹在胸的姿态"
+    }
+  ]
+}

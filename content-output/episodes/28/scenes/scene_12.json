@@ -1,0 +1,213 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱掌柜？您忙您的啊，我在外头守着，有啥事叫我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，他是干啥的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给你娘子验尸的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "验尸？我不许任何人碰我娘子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是不会碰你娘子的，我有工具。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "工具？啥呀？这么多？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "工具虽多，样样有用。你看这个凿子，是专为死人开脑壳的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "开，开开开脑壳？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是的，如果被钝器击死就要用它开脑壳。你娘子就不用这个了。用这个刮皮刀就可以了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刮刮……刮皮刀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是的，从她下巴窠划开一个小口，就一直往下划，划，就这样划下去，来，我给她划一划。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我求你千万别动手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的心情我是可以理解的，但是人死了之后是没有感觉的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不信？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "狠掐了一下钱夫人"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咿——！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "焦桐卫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "诈诈……诈尸啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼死我了！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我姓佟，是这个店里的掌柜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，狗（久）仰狗（久）仰。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "狗养？——咋上来就骂人呢？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "阿福",
+          "description": "阿福特写"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他说久仰。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以前听说过我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有，这是一般的客套话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳……客官打哪来啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "高度机密，严禁外泄。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥都没有说，让我咋泄嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这叫防患于未然。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "客官有何公干呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "高度机密。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风、佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "严禁外泄……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "事关朝廷，请恕我不便相告。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦，诸位都在呢，都互相认识了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不认识。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我介绍一下，这位是佟掌柜，这位是六扇门的追风大人，三大神捕之四……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！四大神捕之三！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对观众"
+        },
+        {
+          "type": "line",
+          "line": "亲娘诶，很可能影响仕途！——到咱们七侠镇特地来办案子，很大很大的案子哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你怎么又回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回禀你老人家，我来向您通报一声，十村八店的弟兄都在街口等着您呢，等您训话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这样不太合适吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这有嘛不合适的，您请，您请。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "完了完了，我说是来逮我的吧，赶紧逃吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你回来回来！胡说啥呢，你咋知道是来逮你的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十村八店条子都来了，一般小毛贼有这架势嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看你那个窝囊样子，去吧去吧那你去自首去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧去吧别回来了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "保重，保……重！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白师兄你怎么哭了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "眼泪呀，止不住地流，止不住地往下流，二尺八地牌子我脖子上挂呀，大街小巷把我游，手捧着窝窝头，菜里没有一滴油——这咋地了，都睡着了？我还没被吓死呢，你们先给膈应死了，既然你们都去了，我也去……追风大人，我这就和你回六扇门……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊嘛呢？走走走，回去回去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点您，腿不好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说老白你嘛意思你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋地了，我去六扇门……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你太不够朋友了吧？每年进京就俩名额，我一堂堂捕头都进不去，你堂堂一跑堂……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "堂堂一跑堂？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "区区一跑堂——我跟你说老白，以后你再投机取巧，跟我抢名额，休怪燕捕头翻脸不认人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心吧，不是来逮你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定不是，否则早就动手了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个个的，感情逮的不是你们，站着说话不腰疼。双儿啊，把小米那要饭罐给我拿来，要快啊妹，我必须得走了，自打他来了以后，我这心跳就没下过二百五。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就是个二百五！——算了算了，你要是再心里难受，就出去躲两天，早点回来啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么要走啊？问你话呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，这个，展堂……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手里呀捧着窝窝头，菜里没有一滴油……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "监狱里的生活是多么痛苦呀，一个一步，一个一步窝心头啊，窝心头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀！同道中人啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "追风铐上老白"
+        },
+        {
+          "type": "line",
+          "line": "——掌柜的，干啥涅？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，你为啥要抓他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第一，他会说黑话，而且是高级大盗的黑话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不对，我说的是普通黑话，高级大盗管吐赃叫化霜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！就等你这句话了，第二，他会武功而且不低哦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋看出来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有留意他的两条腿嘛，忽上忽下忽左忽右，这份轻功，绝对不低于楚留香哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拉倒吧！这不让小六砍一刀瘸了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没做坏事，为什么砍你一刀啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的你说两句啊给我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位官爷，我姓佟，佟湘玉的玉……不瞒你说他以前确实犯过错，但是已经改过自新了，求求你放了他吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些话留到上法庭再说了……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "混乱中，追风被点"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "点住了？展堂？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我我铐住了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双！无双呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我点的——谁叫他乱抓人的啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是我妹知道疼哥啊！完蛋玩意，把他给我捆上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说啥呢？不能捆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥不能捆啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是四大神捕，朝廷中的人，你不要命啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就忍心让他把我带走啊，捆不捆？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要捆你自己捆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捆不捆？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不捆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捆不捆？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不捆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "反正是恶心死人不偿命——手里捧着窝窝头，菜……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要唱了！拿绳子来！"
+        }
+      ]
+    }
+  ]
+}

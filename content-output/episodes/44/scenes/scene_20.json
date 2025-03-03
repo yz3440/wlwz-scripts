@@ -1,0 +1,457 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，好了好了，别躲了，那后边是墙，这么多人呢，我得排个顺序啊杀你们。你先来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那什么，你给他们一次机会，就是给你自己一个机会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我已经给你们机会了。但是你们都不珍惜啊，不珍惜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我很珍惜，就是您的恩情我们还没来得及报呐，看剑！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "被公孙擒住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看看，你看看，哎呀！我真舍不得杀你，你又年轻又漂亮，还挺有气质。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第一次有人说我有气质唉？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "郭芙蓉被点"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹——"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂被点"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹，你没事儿吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她不会死的，我有一习惯，就是点完之后，我得慢慢折磨她死。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我跟你拼了！排山倒海！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "被公孙点中"
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你让我默数三下，你默数了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我、我数了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么数的，是不是说我必须得死啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是你死就是我死！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "善哉善哉！谢谢你呀，谢谢你给我找一个杀你的理由。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "点中秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，秀才！小郭！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "扑在展堂怀里"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白吐血"
+        },
+        {
+          "type": "line",
+          "line": "展堂！——呜——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有什么话赶紧说，看在你娘的份上，再给你们三分钟啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，我真的挺喜欢你的，以前我不说，是因为我这条件——要光是穷也就算了，我又是个逃犯，再怎么喜欢你也不能连累你呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "呜——展堂，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭中带笑"
+        },
+        {
+          "type": "line",
+          "line": "这句话我已经等的太久了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就好，你能再说一遍吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我喜欢你，贼喜欢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "光说喜欢，不要说贼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个贼是特别的意思……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，但是我听着还是有点儿别扭。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "呵呵呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，行了行了，别罗嗦了，时间到了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢你啊，成全了我们，动手吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "动手吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "善哉呀善哉，我老夫杀了这么多人了，还第一次看见笑着等死的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这都是爱情的力量。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们也有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，老夫送你们一程啊，祝你们下一辈子还在一起。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "准备运功杀人"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这一兴奋呐，不好意思给忘了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "打走秀才"
+        },
+        {
+          "type": "line",
+          "line": "这一呢，是不是来寻仇的，肯定是！这二呢——"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "公孙被点住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，娘！是你把他点住的？娘，他不说他练过龟壳神功点不住他吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁让他现在分心来着。"
+        }
+      ]
+    }
+  ]
+}

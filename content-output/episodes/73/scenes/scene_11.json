@@ -1,0 +1,325 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴可怜兮兮地坐在门口，众人叹气"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴！出息了啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "低声"
+        },
+        {
+          "type": "line",
+          "line": "还学会酒后乱来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "无辜"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，我没有，我真没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "他的确没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对柳作揖"
+        },
+        {
+          "type": "line",
+          "line": "谢谢谢谢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "但是他比乱来更加严重！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴，早知道你是这样的人，我是绝对不会跟你搭讪的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是你主动跟他搭讪的啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这叫一失足成千古恨啊，我以为，我以为他……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "号啕大哭，众人安慰"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不哭不哭啊，有我在，一定会给你主持公道的啊"
+        },
+        {
+          "type": "line",
+          "line": "看什么看，低下头去！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李低下头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冲李"
+        },
+        {
+          "type": "line",
+          "line": "跪好了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李吃惊地望着她"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，直起腰，装可怜对我们没用啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位姑娘，我是本镇唯一的捕快祝无双，你心里要有什么委屈尽管说出来，天理公道自在人心，我们绝不会因为跟他很熟就徇私枉法。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哭"
+        },
+        {
+          "type": "line",
+          "line": "李大嘴，他是、他是世上最卑鄙、最无耻的"
+        },
+        {
+          "type": "speaker-action",
+          "description": "泣不成声"
+        },
+        {
+          "type": "line",
+          "line": "衣冠禽兽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍椅子"
+        },
+        {
+          "type": "line",
+          "line": "连禽兽都不如，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大嘴急，老白看了他一眼"
+        },
+        {
+          "type": "line",
+          "line": "——那叫两栖动物，比如蛇和蜥蜴啥的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对吕"
+        },
+        {
+          "type": "line",
+          "line": "住嘴，不允许你这么说我嘴哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘴哥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在我的心里，他的嘴并不大，所以我叫他嘴哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听着怎么这么别扭啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对李，怪声"
+        },
+        {
+          "type": "line",
+          "line": "嘴哥……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我一个人的专利，只有我一个人能叫他嘴哥，在我的心里，他曾经是一个顶天立地的男子汉，但是铁一般的事实证明，那都是假象，他是一条披着狼皮的羊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "众人不解"
+        },
+        {
+          "type": "line",
+          "line": "噢噢，披着羊皮的狼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，姑娘，别光人身攻击了，说点儿具体的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "昨天晚上，我一个人在路上走得好好的……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "回忆昨夜发生的事"
+    }
+  ]
+}

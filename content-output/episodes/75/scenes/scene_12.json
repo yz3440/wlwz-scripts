@@ -1,0 +1,508 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "无双在晾衣服，大嘴出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，无双，来，我帮你晾。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用不用，你帮这拧干吧。先洗洗手啊，这有清水。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴抢着帮无双干活"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "谢谢你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实应该我谢谢你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你谢我什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就那男人不坏女人不爱那事儿，你要不跟我说清楚了，我这辈子都得糊涂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你现在感觉有没有好点儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也没好太多，反正心里还是乱，还是忘不了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "忘不了，你忘不了蕙兰还是柳姑娘啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳姑娘倒好，她一走了吧，我就忘她长啥样了。主要是蕙兰，这心里面老想着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这也很正常啊，喜欢一个人，不是那么容易就忘掉的。那个时候我也忘不了秀才，离开这儿一个多月以后，我每天晚上都在梦里哭醒。后来实在熬不下去了，我就想了一个狠招，没过多久就解脱了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的，那啥狠招你也教教我呗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个，你确定你要忘掉蕙兰吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定，要不然我这辈子就完了，我家九代差单传就指我传宗接代了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，你把我想象成蕙兰。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就是我说的狠招啊。找一个你讨厌的人，然后尽量把她想象成你喜欢的那个人，你就会越看越不顺眼，越看越不顺眼，对她的好感就会慢慢地消失了。这招真的很灵的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这行吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双准备晾衣服，大嘴制止了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那行，咱现在赶紧试试，来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，你必须先把眼睛眯起来，注视着我的眼睛，然后一点点聚集……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打断"
+        },
+        {
+          "type": "line",
+          "line": "等等，啥叫聚集啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是你注视着我的眼睛，其它东西都尽量让它模糊掉，哎，我以前学过几天的催眠，这个是最快的入门办法了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是不行，我又不讨厌你这咋整啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你尽管想嘛，其它的都交给我。我会让你想办法讨厌她的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴眼睛一点点聚集，眼前出现了蕙兰，大嘴激动得与她跳恰恰舞，二人唱：自我在同福客栈见到你，就像那春风吹进心窝里，我要轻轻地告诉你，不要把我忘记，恰恰恰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "激动"
+        },
+        {
+          "type": "line",
+          "line": "蕙兰，真的是你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "幻象中的蕙兰"
+        },
+        {
+          "type": "line",
+          "line": "你知道我是谁吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰啊，你可算回来了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "祝甩了大嘴一个耳光"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "高兴"
+        },
+        {
+          "type": "line",
+          "line": "蕙兰，这可是你第一次亲手扇我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你难道不想问这是为什么吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要让我问我就问，为啥扇我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以后啊，别老口口声声说我想我。你不配，当情圣还得有点本钱呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥本钱啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你帅吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴摇头"
+        },
+        {
+          "type": "line",
+          "line": "有钱吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "继续摇头"
+        },
+        {
+          "type": "line",
+          "line": "有前途吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "很肯定地摇头"
+        },
+        {
+          "type": "line",
+          "line": "那凭什么说想我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭我这颗真心啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，拜托啊，这种虚招子，骗骗那十七八岁的小姑娘还差不多。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你想要啥，想要啥我给你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有钱吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "立即从身上掏出钱"
+        },
+        {
+          "type": "line",
+          "line": "虽然只有八文，但这八文钱可是我的全部身家了。我跟你讲，以后等我赚了钱我都给你啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，没有钱。首饰？哎，你说咱俩认识这么久了，一件首饰都没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要你肯嫁，你要啥首饰我都买给你，只要我买得起。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，没有首饰，胭脂水粉总得有一盒吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "激动"
+        },
+        {
+          "type": "line",
+          "line": "胭脂水粉有，我明天上街给你买去。我没钱我借钱给你买行不？要不，我现在我找秀才借钱去啊。我找秀才借钱去，你等着我啊……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "回到现实"
+    }
+  ]
+}

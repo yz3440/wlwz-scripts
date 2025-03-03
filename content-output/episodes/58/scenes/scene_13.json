@@ -1,0 +1,57 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，这这大水冲了龙王庙，那行，你先坐着，我把鸡杀了再来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫残花",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手！今天只要有我在这儿，你们就休想对它下毒手，把鸡给我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥，不给。你干啥，不给！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住南宫"
+        },
+        {
+          "type": "line",
+          "line": "没完没了了你还！"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "郭芙蓉向观众"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俗话说人不可貌相，海水不可斗量。这李大嘴啊，就是这么个人。有一天，大家忽然发现他不见了，而厨房的门还紧锁着，这后边的事就更蹊跷了，您往下看。"
+        }
+      ]
+    }
+  ]
+}

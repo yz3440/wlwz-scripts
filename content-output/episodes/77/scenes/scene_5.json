@@ -1,0 +1,241 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白急匆匆走进大堂，欲出门，小六拦阻"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住站住，你干嘛去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拇指指身后的谢"
+        },
+        {
+          "type": "line",
+          "line": "他说我是绑匪，我潜逃总行吧？以前你师傅再怎么胡闹也有个限度啊，这位呢？看看这位。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢捕头，搞错了，老白，自己人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是不是自己人我清楚，我让你看大门，犯人要跑了，你负得了责任吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "负不了，您看，谢捕头，你说老白是绑匪，有嘛证据吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "原先没有现在有了，你都听见了，他要不是绑匪他为什么要潜逃啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老白拉开小六刚要爆发，小郭走过来"
+        },
+        {
+          "type": "line",
+          "line": "喂，我说你是来办案的还是来添乱的？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "撸袖子"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位姑娘，你在怀疑我办案的能力吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你翻来覆去就这么一句话，你能不能说点别的？我告诉你，不光我怀疑你我们大家都怀疑你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看看众人"
+        },
+        {
+          "type": "line",
+          "line": "燕捕头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您喝水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝你个头！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是您看，我倒不怀疑您的办案能力，但是您说老白是绑匪，总得讲点证据吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一脚踩在凳子上"
+        },
+        {
+          "type": "line",
+          "line": "不好意思，讲证据不是我的风格。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那您的风格是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大胆假设，小心论证。现在是假设阶段。稍后就有详细的论证了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "那您能不能快着点？时间不等人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那接下来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，审我吧，快点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给您看门。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人走去后院"
+    }
+  ]
+}

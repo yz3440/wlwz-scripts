@@ -1,0 +1,431 @@
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "饿了吧，来，吃点东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别过来，否则……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跳下去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真的会跳的喔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，你跳啊，跳下去摔断了腿之后，还是我来照顾你，日夜照顾你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你能不能放我一马？别再纠缠我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，大哥，昨天是你先抱住我的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还是跳下去算了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你别动！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放手，放手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再动我点你了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐过来点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再过来点！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "向观众"
+        },
+        {
+          "type": "line",
+          "line": "怎么女人都这个样子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你——真的喜欢她啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不知道——什么意思啊你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要是，你这份心意她不知道，那你的等待还有意义吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "需要意义吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不需要吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还是先吃饭吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，放着我来！啊，不，你自己来，自己来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是你做的菜啊？挺香的"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这，这好像不是饭菜的香味道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，有点像兰花的味道，还有点像——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "麝香。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对对对，麝香！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿嘿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姬无命！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是我哥，我叫姬无病。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无病呻吟的病？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "丧心病狂的病，嘿嘿——关中大侠，我找得你好苦啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别过来别过来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别怕别怕，你别怕，有我，葵、葵、葵……我怎么了？秀才？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个嘛，是我家独门秘制的百花软筋散。百花，出自北宋晏几道的《鹧鸪天》，原句是：十里楼台倚翠微，百花深处杜鹃啼。嘿嘿嘿嘿。哎，知道下一句怎么念吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还真是有病啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有病？光荣，肯定是忙工作忙的，您得备一盒。——广告，胃药厂广告，嘿，再来再来！还有问题吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才无双摇头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "姬无病",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就走吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "黑屏"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么，你想干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别过来！别过来！"
+        }
+      ]
+    }
+  ]
+}

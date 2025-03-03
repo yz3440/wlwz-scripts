@@ -1,0 +1,297 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，看来此地的地方官环保意识不强喔！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包大人何处此言呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你说过多少遍了，在外面不要叫我包大人，做人贵在低调。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂知错了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个人，偶尔犯错不可耻，哎——记下来，可耻的是明明知错还一错再错……第几条了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "七百六十五条了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，凑够一千条，我就出一本包侍郎醒世恒言！走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎等等！你俩白跟我这儿站半天呐？一点表示都没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放肆！你知道他是什么人吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "低调低调。嘿嘿嘿！来来来，银子拿去花"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿！还真是银子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那当然了！不够还有！不好意思，这次没有了，下次下次！嘿嘿"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！你别下次呀！你这一走我上哪找你去？都给我吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂把剑架在小米脖子上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心我的尚方宝剑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不快滚！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀展堂啊！我这把尚方宝剑，七品一下的官员可以先斩后奏啊！你倒是好，拿来斩乞丐！就这么一点点觉悟，你以后叫本大人怎么提拔你嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇塞！哎你提拨我？你有没有搞错啊大佬！你凭什么提拨我？你是礼部我是六扇门，提拨我，见鬼啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀鬼啊！哪里有鬼？哪里有鬼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胆小鬼啊。要不是上头下死命令，鬼才保护你啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你讲什么呢？你以后在本大人面前不许胡言乱语！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "下次不敢了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎等一下，你刚才说那个提拔是什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "提，——提就是把腿提起来，拔就是走路，提拔，提腿走路的意思。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！都走了几十里了还要走啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就找个客栈歇歇啦。哎，这边。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，不行不行，你看这家客栈坐南朝北，身靠树阴，又在丁字路口，这就是典型的板钉煞，要招鬼的。走走走，换家安全的。走走走。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂不动"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "提拔提拔啦！"
+        }
+      ]
+    }
+  ]
+}

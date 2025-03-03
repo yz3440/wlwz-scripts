@@ -1,0 +1,227 @@
+{
+  "type": "normal",
+  "rawDescription": "【大牢，昼】",
+  "location": "大牢",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄来来，这边请"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指着牢房"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就是你说的不给大家添麻烦是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把老白推进牢房"
+        },
+        {
+          "type": "line",
+          "line": "保证最后一次了，只要闯过这一关，后面就没事了，呆会她要来，你该说什么就说什么啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，那她死活要是不肯回去呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就由不得她了，时间一到，我就和小六把她架出去，剩下的事情就看你的了，忘掉白展堂，爱上王豆豆，一个身躯，两个灵魂。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六跑进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了，老白我跟你说你可快着点啊，擅进大牢，让人发现了可不得了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小六，过来，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "待小六走近，老白拍小六的脑袋"
+        },
+        {
+          "type": "line",
+          "line": "这是大牢，不是总统套房，你以为我愿意在这儿呆啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉进来了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄啊，你多保重啊，我们有空再来看你啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都回去吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双小六下去，湘玉上前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你来啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这算是二进宫了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，让你费心了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不费心，随便看看，看完就走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就回去吧，我出门也不太方便，就不送了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用送了，这篮子吃的，就当是给你送行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都是自己人，你客气啥呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白伸过手，被湘玉掐了一下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，妈呀，你干啥呀你！妈呀，真疼！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉抽泣着走出大牢，老白望着湘玉的背影，又看看被掐的手，明白了湘玉的心思，笑了"
+    }
+  ]
+}

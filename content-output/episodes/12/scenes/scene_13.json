@@ -12,16 +12,11 @@
         {
           "type": "line",
           "line": "客官请留步，首先请接受我诚挚的祝福。"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "老刑",
-      "performances": [
+        },
         {
-          "type": "speaker-action",
-          "description": "从小道跑来"
+          "type": "reaction",
+          "reactor": "邢育森",
+          "description": "老刑从小道跑来"
         },
         {
           "type": "line",

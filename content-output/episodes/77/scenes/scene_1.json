@@ -1,0 +1,413 @@
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白与一个蒙面的捕头打扮的人对峙着，众人爬上来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别过来，别过来此人武功了得，中了我的葵花点穴手还能活动自如。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "蒙面人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的武功也不错呀？中了我的武当绵掌还能继续说话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是武当派的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "蒙面人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么知道？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己说的！武当绵掌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "蒙面人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，你们想单打还是独斗？放马过来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们不想伤害你，只要你肯把小贝交出来。我可以放你一马。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把小贝还给我！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "欲冲上来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "点住湘玉，蒙面人惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花解穴手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "解开湘玉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拖一边去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人拉回掌柜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小伙子，你的点穴手跟谁学的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话少说，钱我们一个子儿都不会少你的，人你什么时候交？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "蒙面人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是被你绑走的那小女孩，你以为装傻就能逃过一劫？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把小六拨到一边"
+        },
+        {
+          "type": "line",
+          "line": "只要你肯交人，我可以保证让你全身而退。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "蒙面人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你保证？私下谈判那是违法的，连这点法律常识都不知道吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "趾高气昂"
+        },
+        {
+          "type": "line",
+          "line": "这个案子谁是负责人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、燕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "蒙面人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到底是谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、燕",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "上前一步"
+        },
+        {
+          "type": "line",
+          "line": "我是本镇的唯一捕头燕小六！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拔刀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "蒙面人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把证件拿出来我看看？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摸证件，忽然回过神来，收刀"
+        },
+        {
+          "type": "line",
+          "line": "少废话，你凭嘛看我证件？老白！给我拿下！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白不动"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，上啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上啥呀？你不是负责人吗？自己上！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "推小六"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，你姓嘛，叫嘛从哪儿来，到哪儿去，家里几口人，人均几亩地，地里几头牛，说说说……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "蒙面人掏出捕快牌在小六面前晃几晃"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是？我还没看清楚呢我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "谢步东",
+      "performances": [
+        {
+          "type": "line",
+          "line": "甭看了，鄙人免贵姓谢，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摘面罩"
+        },
+        {
+          "type": "line",
+          "line": "衡阳谢步东。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "兴奋，抱拳行礼"
+        },
+        {
+          "type": "line",
+          "line": "关中总捕头……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回头，连着指谢捕头"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——的候选人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "候选人也是人呐。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摆正帽子"
+        },
+        {
+          "type": "line",
+          "line": "候选人这边请，慢点走，慢点走。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人下屋顶"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咪咪，啧啧啧，咪咪啊，哦，乖啊，我是无双姐姐，哦，认得我，是不是啊？咦？长胖了啊，嘿嘿还是猫咪好啊，哎，你有没有意中人啊？如果有的话，可别让他走掉了啊，不然就再也找不回来喽……就算我找到他我跟他说什么呢……呵，总不能像你一样老是喵……喵……的吧啊……？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "传来街上燕小六喊声：淫贼！往哪里跑！站住……"
+    }
+  ]
+}

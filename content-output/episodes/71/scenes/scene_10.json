@@ -1,0 +1,305 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫小贝在桌上抱着水壶睡着了，小郭和掌柜的坐在门槛上，无双走进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "无双……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双找水喝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人呢，小六是不是也……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "点头"
+        },
+        {
+          "type": "line",
+          "line": "对不起，我尽力了，可对手实在太凶悍了。我和小六到了十八里铺之后，他让我在门外等，以便接应他，可我足足等了一个多时辰他还不出来，我一着急就冲了进去，结果……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "结果怎么样，你说……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他正在里面拉二胡呢，乐的跟朵仙人掌似的，脸上的粉刺都乐出来了，一见我进去，还拉着要我唱歌，师兄还在一边起哄，我一着急，连谁是谁都没看清楚，好不容易才逃得出来，你千万不要怪我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "既然这样，我就跟他们拼了，我就不信她能男女通吃！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "起身要出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，你一个人势单力薄，嘴又笨，去了也是白去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不去怎么知道是不是白去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有没有想过呀，万一对方既温柔又美貌，谈吐得体，落落大方，气质高雅，蕙质兰心，咱俩往那儿一戳，是自惭形秽、无地自容，很有可能当场撞墙而死。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，少废话，要么闭嘴，要么跟我去你自己选吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "我跟你去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "感激"
+        },
+        {
+          "type": "line",
+          "line": "小贝……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "敢在太岁头上抢老公，我看她们是不想活了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爽快，姐平时没有白疼你，走着。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "如果你连这点自信都没有，那你还有什么，面子和爱情哪个重要，你不会不知道吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍桌子起身"
+        },
+        {
+          "type": "line",
+          "line": "我跟她拼了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉正要出门，莫小贝气喘吁吁跑进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不不用去了，他们已经回来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "高兴"
+        },
+        {
+          "type": "line",
+          "line": "真的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才，白大哥，还有大嘴，小六，不过后面跟了个女的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "女的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "长相我没看清楚，但是穿着特漂亮，跟一仙女似的，你自己看去吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉跑到门口张望"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，先带小贝回屋躲一下，万一小郭打起来，避免误伤。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "输人不输阵，回屋补个妆先，走着。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉跑上楼，祝无双和莫小贝回后院，昼"
+    }
+  ]
+}

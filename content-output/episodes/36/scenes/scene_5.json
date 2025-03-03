@@ -1,0 +1,247 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你谁啊？哪来的？怎么进来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走进来的，难道还要爬进来吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "藏什么呢，给我交出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我什么都没藏，我藏什么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抓你个现行你还敢嘴硬！啊？要么赶紧给我撸扣，否则就死路一条。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么叫撸扣？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看来是位新朋友啊，那哥就免费交你两句。撸扣，就是吐赃，把你刚才偷的东西给我交出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放肆！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不给你点颜色看看你是——燕捕头，燕捕头，燕捕头，有人闯空门！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在哪呢，在哪呢？谁？谁闯空门？谁，谁，老白，怎么地了？腿怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先别管我，他，我估计武功了得！你要多加小心啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，包我身上了！老白——你干嘛去老白？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我上医馆包扎一下去，你好好干。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要转了，头都晕了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还差最后一圈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那最后一圈，打清一色还是碰碰胡啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "七小对…………你道你搓麻来了，哇呀呀，看刀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "砍哪你到是……就砍我的能耐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就是传说中的追风大人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么大人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "追风！四大神捕，六扇门的，他排老三"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白倒地"
+        },
+        {
+          "type": "line",
+          "line": "大人，大人不记小人过，宰相肚里能撑船。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快先去救人啦~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，替我说说，老白，咱们镇的治安情况，老白，老白！"
+        }
+      ]
+    }
+  ]
+}

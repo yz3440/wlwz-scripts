@@ -1,0 +1,183 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "烦死人了，展堂咋还不回来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你啊，老白才刚出门好不好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "让他找个演员又不是找婆家，弄个差不多的来就行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请问莫小贝在吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找小贝有事情啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "华山派岳松涛特来拜会衡山派莫掌门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "演员来了！展堂说快就是快啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放松放松啊！一会小贝来了你再演，这个衣服是你自己的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这胡子真的假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小伙子挺有个性的，以前演过戏吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起！我是来找莫掌门的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你额头上那条龙很酷，一闪一散的，这把剑真的假的？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "岳松涛拔剑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "剑下留人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们太不懂礼貌了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不会是真的岳掌门吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "岳松涛",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是——难道你是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的神呀，我们都干了些什么呀！——岳掌门呀，什么风把你给吹来了？你快请坐啊，我给你找小贝去啊，倒茶，请坐。请坐。"
+        }
+      ]
+    }
+  ]
+}

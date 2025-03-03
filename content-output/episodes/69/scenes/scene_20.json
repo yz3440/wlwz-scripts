@@ -1,0 +1,229 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "韩娟和湘玉从楼上下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，你别送了。等到了家我给你写信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "报平安的信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧好吧。一路平安啊。再见啊娟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，她就这么走了，你也不送送她？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多少年的朋友了，用不着臭讲究。无双，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出封信"
+        },
+        {
+          "type": "line",
+          "line": "这封信给你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是号称好久没有收到过信吗？这是第一封。放心吧，这回说的全是心里话。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把信放到她手里"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿到信正反面看"
+        },
+        {
+          "type": "line",
+          "line": "除了我，你还给谁写过啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就你一个。就这一封我已经快累残了。行了行了，快点看吧。我到后院去转转啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉去后院。无双坐下看信，小郭端菜从厨房出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "站在无双后面念"
+        },
+        {
+          "type": "line",
+          "line": "作为你最好的姐妹，我感到……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么？这是掌柜的专门写给我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她没事给你写什么信啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这我就不太清楚了。不过我听说啊，只有我一个人有，也许这就叫做好姐妹吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿着信跑了出去。小郭坐下不悦"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿着扫把从后院进来"
+        },
+        {
+          "type": "line",
+          "line": "小郭，去把后院扫一扫去。咋了？你脸色咋这么难看呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用手摸她头。小郭躲开"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知人知面不知心啊！没想到你是这种人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了小郭？我招你惹你了？小郭，快说嘛，咋回事情呀？有啥话就跟姐说嘛。你是我最好的姐妹啊。小郭，给我说一说嘛，你不说我心里怪难受的。喂喂喂，小郭……"
+        }
+      ]
+    }
+  ]
+}

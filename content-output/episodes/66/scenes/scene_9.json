@@ -1,0 +1,135 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "仨大老爷们坐在屋里生闷气，小郭试探着进门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一脸的谄笑"
+        },
+        {
+          "type": "line",
+          "line": "都在呢？晚饭就吃那么点，后半夜能顶得住吗？要不我亲自下厨，给你们做点吃的，啊，老白，想吃点啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万别，离我这颗肮脏不堪的心灵远点，别把纯洁无暇的您给玷污了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，那话真的不是我说的，那是她自己的理解，我郭芙蓉对天发誓……基本上没说过你什么坏话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，算了，咱都破罐子破摔了还有啥好说的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "捏着嗓子"
+        },
+        {
+          "type": "line",
+          "line": "怕啥呀，有神功盖世的吕大侠在那戳着呢，能让你堕落到罪恶的深渊吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你说话咋这个调调呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不娘娘腔吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "神功盖世又不是我说的，芙妹说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂，喂，喂……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有什么事先别跟我讲，先把掌柜的哄好再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "苦笑"
+        },
+        {
+          "type": "line",
+          "line": "我哪辈子修来的福，摊上这么个好妹妹呀……"
+        }
+      ]
+    }
+  ]
+}

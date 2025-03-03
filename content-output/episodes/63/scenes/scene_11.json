@@ -1,0 +1,341 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜、无双和小六围着柜台站着，小六正在大吹，掌柜的大眼瞪小眼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "山贼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "幸亏我及时赶到，否则后果不堪设想。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂喂……应该说是白大哥及时通报。要不然，有你什么事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "发觉自己失态"
+        },
+        {
+          "type": "line",
+          "line": "他啥时候通报的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事跟你有关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋没有关系？不管怎么说我也是受害人呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那行，呆会你跟我衙门走一趟，做做笔录，顺便再看看那谁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你新招的跑堂啊，看他是不是犯罪嫌疑人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看完之后呢，顺便再看看那谁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别的犯罪嫌疑人啊，否则还能有谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你俩说话能不能不要大喘气呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不喘气我们要憋死的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，经过这件事以后，你可得长点记性，以后再招跑堂的，把底细查清楚了，下次再出现这种事，我可来不及救你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有数了，谢谢你们啊，大不了我以后不招跑堂的了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喜"
+        },
+        {
+          "type": "line",
+          "line": "这可是你说的啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我说的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝乐，老白探进头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一口浙江音"
+        },
+        {
+          "type": "line",
+          "line": "请问您这里要跑堂的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思啊，我们……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "认出是老白"
+        },
+        {
+          "type": "line",
+          "line": "哈哈哈哈，我们正招哪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喜"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，您自己来看一下嘛，快点，快点！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜一抬头，愣住了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到底要不要跑堂啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜直愣愣地冲过来，把小六推一跟头，小郭在旁边不断地傻笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位就是掌柜的呀？喔哟，你这个气势不得了啊。哦，忘了自我介绍了，我姓王，草头王……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "草头是姓黄啦，大哥。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拽着老白胳膊"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "南方人。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "推开小郭的手"
+        },
+        {
+          "type": "line",
+          "line": "注意一下，注意一下。南方人，黄王不分，这个黄啊，是黄豆豆都的黄，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "一边说一边往里走"
+        },
+        {
+          "type": "line",
+          "line": "豆呢，是黄豆豆的豆，我的名字连起来就是黄豆豆。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭抱着小贝笑成一团"
+    },
+    {
+      "type": "action",
+      "description": "老白拿起碗要喝水，忽然意识到自己现在不能这么干，又放下，掌柜的看着老白，一脸怪异"
+    }
+  ]
+}

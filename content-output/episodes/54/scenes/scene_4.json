@@ -1,0 +1,379 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "展侍卫洗衣服，无双从里屋出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放着我来，放着我来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，我自己洗，自己洗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "远来就是客，这点小事，哪劳您亲自动手，我来洗，我来洗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你当捕快多久了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到今天为止，正好三天，你呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不多不少，整十年哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十年？那您可真是我的老前辈了。以后我还跟着你学习啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你平时喜欢用什么兵器？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀。但是我不太会使，也就拿出来吓唬吓唬人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你用这个好了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出一对兵器"
+        },
+        {
+          "type": "line",
+          "line": "这叫峨眉刺，这是我妹妹用的，轻巧灵便，可以说威力也不小，很适合女孩子用，送给你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么好意思啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有关系呀，因为平时我也喜欢用刀，所以呢，这把峨眉刺我也用不上。对了，还有一本图谱，你照着它练就可以了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展前辈，我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要叫我前辈，叫我展堂好啦。你叫？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我叫无双……无双，展堂，还挺压韵的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫二胖岂不更压韵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "二胖？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她的外号。此人小时候重达一百五十多斤。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……咳，你就照着图谱练，如果有什么不明白随时问我好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我晓得了，您先回吧，这衣裳留着我来洗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一等，他自己的衣裳他自己不会洗啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我主动要替他洗的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么不主动帮我洗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有衣裳吗，你除了这身官服，你还有其他衣裳吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么没有，内衣都是我自己的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好啊，你脱下来我给你洗。你脱啊，现在脱……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "祝无双！你是个捕快！你的任务是抓贼，不是打杂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪里有贼让我抓啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么没有，楼上那不是贼吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个不是已经抓住了嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抓住了……你不会看着他点，别让他跑了。以后再让我看见你吊儿郎当正事不干，小心我批评你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又不是什么好话，跟着学……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说嘛呢？还不快去！找我批评你呢吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展侍卫自己坐下洗衣服，小六虎视耽耽地看了一会，回屋去了"
+    }
+  ]
+}

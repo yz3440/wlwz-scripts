@@ -1,0 +1,866 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白，小六推无双入，无双端点心"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉你记住了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦！哎？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白小六藏进男寝，掌柜带展堂入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "祝无双，来了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对展堂"
+        },
+        {
+          "type": "line",
+          "line": "她找你有点事，你俩慢慢聊啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你找我啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，对对对，我做了点小点心给你垫垫肚子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，我吃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你慢点吃啊，别噎着。哎——对了，我听他们说，你在刺客耳边随便说了句什么，他就招了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "审犯人嘛，要对症下药。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是是是，你到底说的是什么哩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吃，这比外头卖的好吃多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那当然啦，我呢是用桂花和豆沙和的陷，这皮呀是用荞麦，所以……你先告诉我你到底说了句什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "绝了，太绝了这个。哎呀，我从来就没有吃过这么好吃的点心啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要爱吃，我以后可以常做，你先告诉我到底对他说了什么？你不说我是不会让你走的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是个坏人，你知道这个就足够了，谢谢，借过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？走了，喂。他不说的啊，不管我的事。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "殷十三从女寝出，挟持住无双"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，救命啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白小六掌柜出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开她，否则对你不客气了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别过来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是怎么解开的绳索？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不很了解东厂吗？不知道有种武功叫作缩骨大法？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别动！我已经杀了不少人了，不在乎这一个两个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放开她，我来做人质。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对你没兴趣！我要的是老包！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，我这就把他带过来！——去，把老包带过来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老白"
+        },
+        {
+          "type": "line",
+          "line": "赶紧去呀你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去去！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切场，老白、掌柜带老包入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点慢点，来了来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀呵呵，咋个说，又在演什么鬼戏啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "狸猫换太子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是拿你换无双。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！还有没有点新鲜招数啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这样，我数三下，咱们一块儿松手。一，二……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "停！不行啊，老包是我唯一的人证。我不能拿他冒险的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太仗义了！接着演！就按周润发那个套路演。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姓展的！无双可是衙门的人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对小六"
+        },
+        {
+          "type": "line",
+          "line": "你没演出那种狠劲来呀！说话要狠一点吗！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对展侍卫"
+        },
+        {
+          "type": "line",
+          "line": "姓展的！无双可是衙门的人！——要注意逻辑重音，衙门！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双啊！这个案子牵扯的人实在太多了。如果半途而废的话，后果不堪设想啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，不够痛心疾首啊！你要像这样，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "学"
+        },
+        {
+          "type": "line",
+          "line": "后果不堪设想！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展大哥，我理解你的决定，也尊重你的决定，如果还有来生的话……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "眼泪呀！眼泪都没有啊？诀别时刻这么冷静啊？你怎么演的吗？你要像这样。——展大哥，如果还有来生的话，来生的话——此时应该有眼泪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭嘴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀？咋个说？戏不好还不许别人说呀？什么态度吗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "态度？你全家都被灭门了，还讲什么态度？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈！我们全家都被灭门了？对了，我们株连九族了！你知道我们家几口人呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "七十三口。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "错！十六口。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指掌柜"
+        },
+        {
+          "type": "line",
+          "line": "如果加上她的话就是十七口。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是说，你的丫鬟仆人还有两只虎皮鹦鹉和后院的那只小京巴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "恐惧"
+        },
+        {
+          "type": "line",
+          "line": "你怎么知道我家养狗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道你十五个老婆，哪个最爱你吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "包大仁",
+          "description": "包大仁摇头"
+        },
+        {
+          "type": "line",
+          "line": "鼻尖上有痔的那个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老九？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她临死的时候浑身抽抽，嘴里还喊着，老爷，老爷！呸！还有双下巴那个，还有大小眼那个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小五？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有眉毛连成一片的那个！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小七？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我杀她的时候，她就躲在床底下，被我一刀拿下！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬牙"
+        },
+        {
+          "type": "line",
+          "line": "干得漂亮！谢谢啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不客气！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢——我今天我跟你拼了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来吧，我等的就是你这手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住殷十三"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我掐死你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行啦！他只是一个杀人工具啊！真正的幕后凶手是曹公公！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能！曹公公凭什么要害我没有理由的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为你买官！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "买官？我给了钱的！十万两银子我一个子儿都没往下还呐！还有那个尚方宝剑呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假的！就为了你的银子！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人面面相觑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "曹公公用这种方法骗了很多人，你不是唯一的受害者。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "却是最后的活口。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大一大二大三大四，小五小六小七，你们不该死啊！老八老九老十，是我害了你们呐，我对不起你们呐！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对殷十三"
+        },
+        {
+          "type": "line",
+          "line": "你这个畜生，我咬死你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "点住老包"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是先把他带下去，确保他的安全。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指殷十三"
+        },
+        {
+          "type": "line",
+          "line": "把他捆起来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "祝无双、佟湘玉走近殷十三，愣了愣，拿绳子捆人"
+    }
+  ]
+}

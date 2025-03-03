@@ -1,0 +1,560 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大堂里，大家坐在桌旁"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "金小姐多大呀，看着好年轻啊，如果我没有猜错的话，应该没到五十岁呢吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我暂时还没到，不过早晚也会到的，人生短暂如白驹过隙。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从生到死，往往就是一眨眼的工夫，庄子说得好，与其相濡以沫……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、金",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不如相忘于江湖"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家高兴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "暗示郭芙蓉"
+        },
+        {
+          "type": "line",
+          "line": "有没有搞错呀，当着你的面敢跟人家眉来眼去的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊，我觉得挺正常的，拜托，不要把人家想得太坏了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬牙"
+        },
+        {
+          "type": "line",
+          "line": "我拜托你，长没有长眼睛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的你也太敏感了，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对金湘玉"
+        },
+        {
+          "type": "line",
+          "line": "我们掌柜的平时就这样，你不要跟她一般见识啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对郭芙蓉"
+        },
+        {
+          "type": "line",
+          "line": "回头再跟你算帐！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对金湘玉"
+        },
+        {
+          "type": "line",
+          "line": "金小姐，平时很注意保养吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还好，就跟所有的女孩子都一样的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "孩子多大了呀，男孩还是女孩，上学了没有啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没孩子，还没结婚呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "金小姐贵姓呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我免贵姓金，你就叫我湘玉好了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘、湘玉？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打圆场"
+        },
+        {
+          "type": "line",
+          "line": "你们俩同名，就姓不一样，一个金，一个铜。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "哎呀妈呀，你掐我干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "金小姐远道而来，舍下真是蓬荜生辉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的还会用成语了……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "佟湘玉瞪"
+        },
+        {
+          "type": "line",
+          "line": "一直都会，老用。那啥，掌柜的，我给金小姐做饭去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都愣着干啥呀，秀才给金小姐倒茶，大嘴赶紧去做晚饭，金小姐坐啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉掌柜，我这次可是专程来看你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "荣幸之至，有朋自远方来，不亦乐乎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个字念 yue，表示内心的喜悦，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "——掌柜的，随便念。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我听说金小姐在吉庆街开了家青楼，生意可好啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一般一般，比起你们这儿的生意那可是差远了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对佟湘玉"
+        },
+        {
+          "type": "line",
+          "line": "我跟你说啊，咱们一直误会了，人家那个清楼的清是三点水清静的清。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是一个普普通通干干净净的酒楼，连个唱小曲的都没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但生意极好，挂满了字画，那叫一高雅啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "原来是这么回事儿，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉住秀才"
+        },
+        {
+          "type": "line",
+          "line": "误会你了，候哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我听说某位仁兄在青楼翻跟头，把自己当猴耍，也算很高雅吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然高雅了，我那是一时兴起，给大家助兴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "说书的口气"
+        },
+        {
+          "type": "line",
+          "line": "玩得高兴，还当众翻了几个空心跟斗。我师父说了，人那是纳税大户，模范酒楼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对白展堂"
+        },
+        {
+          "type": "line",
+          "line": "现在高兴吗？给我翻一个我还从来没有看见过呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不翻不翻。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对白展堂撒娇"
+        },
+        {
+          "type": "line",
+          "line": "翻一个，翻一个嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "翻一个！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，忽然不想看了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老白"
+        },
+        {
+          "type": "line",
+          "line": "你该干啥干啥，不要在我面前晃悠。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又不给你翻的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了好了，你呀就听佟掌柜的吧，去吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂点头，转身走近后院，昼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉掌柜，我呀真是羡慕你，能有这么好的伙计。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额也很佩服你呀，能把我的伙计一个个都变成你的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉转身上楼，众人招呼金湘玉"
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "百分之二十五。"
+        }
+      ]
+    }
+  ]
+}

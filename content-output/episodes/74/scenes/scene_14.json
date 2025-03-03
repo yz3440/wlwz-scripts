@@ -1,0 +1,279 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "李大嘴上菜，小六路过门口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，六儿六儿六儿，巡街呢？进去喝碗茶去吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没巡完街呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝口茶吧，休息休息。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，最近挺辛苦的是吧，累瘦了都。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "倒水"
+        },
+        {
+          "type": "line",
+          "line": "哎，六儿啊，无双最近咋样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你指哪方面？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "工作、学习各方各面。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "赞许"
+        },
+        {
+          "type": "line",
+          "line": "要说这工作啊……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "突然醒悟"
+        },
+        {
+          "type": "line",
+          "line": "——你问这干吗？我凭嘛告诉你啊，你想干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，我随便聊聊。哎六，你这双靴子是无双做的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，怎么的了？下级给长官送礼，不到规定限额，不能算行贿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你急啥啊，我又没说行贿那事，咱接着说这靴子啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去去，我把它脱了靴子省得你说闲话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，你别脱，你一脱了客人都得跑了。六儿了，我是说，你能不能让她也给我做一双？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你自个儿不能管她要啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是抹不开面嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那行，你等着。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对着街一顿猛喊"
+        },
+        {
+          "type": "line",
+          "line": "祝无双，祝无双"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双进，小郭也进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴管你要靴子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁管她要靴子了，我有靴子我干啥管人家要啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你刚刚不是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你听错了，我说的送是歌颂的颂不是赠送的送。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不解"
+        },
+        {
+          "type": "line",
+          "line": "歌颂？靴子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "歌颂靴子？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出黄牌"
+        },
+        {
+          "type": "line",
+          "line": "大嘴，你看我多大方，总共就三张，又送你一张。只剩最后一次机会了，要好好珍惜啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴拿着黄牌尴尬地笑，小郭出，小六和无双疑惑不解"
+    }
+  ]
+}

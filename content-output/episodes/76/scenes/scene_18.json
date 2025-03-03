@@ -1,0 +1,327 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大家放心吧，银子我拿到了，这样我先去，你们等我消息啊。在我回来之前千万千万不能轻举妄动。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白飞奔出客栈，掌柜的下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "腼腆"
+        },
+        {
+          "type": "line",
+          "line": "我们……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们也都知道啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的，你也知道了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐"
+        },
+        {
+          "type": "line",
+          "line": "废话，否则我会把银票给他吗？哎呀……那件事情还确实挺麻烦的喔。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不咋地，早知道这样……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭打断大嘴说话"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你觉得那件事情，它麻烦在哪儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你觉得呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "傻笑"
+        },
+        {
+          "type": "line",
+          "line": "我问你呢，你问我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不说算了，大嘴你头先说你犯了个错误？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别问我，我啥也不知道。阿巴阿巴阿巴巴……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "秀才你送给我的那首风华正茂的诗呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "阿巴阿巴，阿里巴巴和爸爸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你可是这个屋里唯一不会骗人的人，我相信你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有权保持沉默，对不起啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒酒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "进客栈"
+        },
+        {
+          "type": "line",
+          "line": "你们都在呢？佟掌柜，小贝找着没有？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人示意\"嘘\""
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘴，嘴怎么的了？食指，吹口哨？这也吹不响啊这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，我说实话吧掌柜的，小贝在学校闯了点小祸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，先生他留堂不让小贝回家。说是要做一宿作业，晚饭就在书院吃了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人附和"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "这死小米，非说小贝被人绑架了，瞧我急着一身汗呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "啥？你刚才说小贝被绑架了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我说的，是小米说的，还说那绑架信被飞刀钉在柱子上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的……没这事儿。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的跑出客栈"
+    }
+  ]
+}

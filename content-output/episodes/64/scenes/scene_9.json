@@ -1,0 +1,257 @@
+{
+  "type": "normal",
+  "rawDescription": "【屋顶，夜】",
+  "location": "屋顶",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喵~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就知道你们俩要来，今天谢谢你们了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢我们什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不是你们拦着，我就该干傻事情了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦这应该的，这应该的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是是是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果我师兄可能回来，你打算怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在说这种话，还有什么意义啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先别管有没有意义嘛，你就告诉我们，你会不会原谅他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我从来都没有怪过他，自从他走的那一刻起，我的心，就像是被几千把刀子同时割着，割一刀，疼一下，好不容易结了疤，又是一刀，我每天都在祈祷，忘了他吧，忘了就好了，忘了就解脱了，忘了就不疼了。可还是忘不了，醒着满脑子都是他，好不容易睡着了，梦里头还是他，怎么办？怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "忘不了就忘不了呗，留个念想嘛，以后说不定还有机会呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都这样了，还有什么机会呀，我活到现在连个安慰奖都没有中过，还怎么可能有什么奇迹出现啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "万一有奇迹出现呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我愿意付出一切代价！——还是你们两个人好，在我最需要关怀的时候，对我不离不弃的，从来没有骗过我，也没有伤害过我，我想亲生姐妹也不过如此吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心虚"
+        },
+        {
+          "type": "line",
+          "line": "嗯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩是不是有什么话要对我说啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我已经想好了，既然他回不来，那我就去好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去哪里啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明天我就把店卖了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟他去趟京城，想办法通通路子，该上刀山上刀山，该滚钉板滚钉板，实在捞不出来，我就跟他一起死，也算是对他尽心了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人欲言又止，互相推打"
+    }
+  ]
+}

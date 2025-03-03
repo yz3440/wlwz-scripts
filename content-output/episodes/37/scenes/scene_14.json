@@ -1,0 +1,57 @@
+{
+  "type": "normal",
+  "rawDescription": "【广告，白布景】",
+  "location": "白布景",
+  "timeOfDay": "",
+  "context": "广告",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴炒菜糊锅了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，又糊锅了，以后这工作还怎么做呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还在用还在用铁锅炒菜吗？早就该换了。——唐门不沾锅，采用四川最近的唐门度铜技术受热面积大，传热均匀，加热迅速，如果放少许的油即可烹饪出美味佳肴。而且易清洗还不易沾锅。现在购买还可送唐门独家密制暗器一套，先来先得，送完为止，各大客栈及兵器店均有销售，欢迎洽询。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用唐门不沾锅炒菜，你好——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也好！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "广告结束"
+    }
+  ]
+}

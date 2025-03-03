@@ -1,0 +1,263 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，委屈你了，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，你弟嘛，他啥时候走啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思嘛，人家刚来你就让人家走，你是不是不喜欢他呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不是，就是我觉得你弟有点像暴发户子弟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，他以前也不这样，估计是叫我娘给惯坏了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那人家小郭也是娇生惯养，你看人干起活来一点都不含糊，哪像你弟呀，动不动还挑食。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂、佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说呢，刚才还听你说话呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是夫妻夜话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "私房话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "夫妻夜话，那我要听，我进去了啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们都脱啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一丝不挂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，还是汉中凉快呀，睡觉从来不脱衣服。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就早点睡吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你们睡着了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡着了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡着了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡着还说话呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂，佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "梦话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟石头",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，还是汉中的床睡得香啊，睡觉从来就不说梦话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思嘛？"
+        }
+      ]
+    }
+  ]
+}

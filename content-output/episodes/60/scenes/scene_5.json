@@ -1,0 +1,380 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白劈柴，无双从厨房出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄，你怎么不在跑堂啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跑什么堂啊，那人正在大堂激情燃烧呢，我躲还躲不及呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就忍忍吧，过两天就好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，可是我心里就是不舒服，自打她醒了以后，我们俩连句悄悄话都没说过。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她现在这个状态，就是说了你也不爱听啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说老天为什么这样呢，甭管你怎么努力，不管你怎么祈求，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "就算求得再虔诚，它也不让你过上好日子。人生要是这样的话，活着还有啥意思啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你错了，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白吓一跳"
+        },
+        {
+          "type": "line",
+          "line": "人生意义正在这里……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，你们俩慢聊啊，我菜已经做好了，现在我要去巡街了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去吧，大胆地干吧，我看好你哟！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……湘玉啊，我去跑堂了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "溜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真得去啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你刚才说的话我都听到了，咱们俩确实好久都没有说过悄悄话了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "悄悄话指的是内容，不是音量。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，我这两天稍微有点反常。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有点？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，但是我很喜欢这种变化，感觉自己从里往外的焕然一新，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "俩人绕着磨盘转圈"
+        },
+        {
+          "type": "line",
+          "line": "从里往外的充满干劲，说实话，我这种状态你喜欢吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还行……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "挺喜欢的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "特喜欢……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爱的就是你，现在就是不大习惯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Oh，Yeah……那就赶紧习惯起来吧，反扒工作你打算什么时候开始？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我特想给本镇居民作点贡献，可是有人无双和小六呢，要我干啥呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是专家呀，贼的事情谁有你懂啊？今天你抓了十个小偷，明天就是十个强盗，后天就是十个江洋盗，大后天也许……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就统一黑白两道！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那正是我想看到的结果，给自己一个机会，也给江湖一个机会，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "激动"
+        },
+        {
+          "type": "line",
+          "line": "让你的热血跟我一起沸腾，用你的青春点燃人生的路灯，前途漫漫，是个人就会迷惘，跌倒了没有关系，拍拍土站起来！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "我说风雨中这点痛算什么，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白躲，掌柜的追着唱"
+        },
+        {
+          "type": "line",
+          "line": "擦赶泪，不要怕，至少我们还有梦，我说风雨中这点痛算什么，擦干泪，不要问为什么……"
+        }
+      ]
+    }
+  ]
+}

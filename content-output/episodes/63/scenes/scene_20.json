@@ -1,0 +1,292 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "继续刚才的场景，老白往外跑，掌柜的在后边追"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗨，这么晚你干啥去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指掌柜"
+        },
+        {
+          "type": "line",
+          "line": "她疯啦，我没招她没惹她，她要掐死我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看我这胳膊，让她掐成什么样？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又被掌柜掐了一下"
+        },
+        {
+          "type": "line",
+          "line": "你还掐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "该，这是你自找的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大伙站成一排，更显得老白孤立"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道孤军奋战的滋味了吧？呼呼哈哈呼呼哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥……不对不对，草头大哥，你就认命吧，胳膊是拧不过大腿的喽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拧不过我就不拧了，这个破地方我不呆了，今天这一天我算白干，你们不合起伙来欺负弱势群体吗，是吧，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "怒"
+        },
+        {
+          "type": "line",
+          "line": "你们迟早会遭报应的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还来劲了是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放手，放手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白开门要走，大伙上去阻拦，混乱中老白脑袋撞上门框，瘫在地上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你才来劲了呢！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扶老白"
+        },
+        {
+          "type": "line",
+          "line": "展堂，展堂，快起来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "推开掌柜的手"
+        },
+        {
+          "type": "line",
+          "line": "喔唷，男女授受不亲啊，你刚才管我叫什么？我说过多少回了，我姓黄，草头黄，黄是黄豆豆的黄，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人无奈"
+        },
+        {
+          "type": "line",
+          "line": "豆是黄豆豆的豆，连起来就是……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六和无双推门进来，表情沉重"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们来干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我师父叫我跟你说一声，马上去趟十八里铺。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有空，回去跟你师父说，他要想喝酒让他自己来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是邢捕头，是我师兄想见你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想见就见呗，见吧。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把脸凑到老白面前"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "沉默片刻，大家意识到事情有点不对劲"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把老白拽到一边"
+        },
+        {
+          "type": "line",
+          "line": "你师兄？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，老白入室行窃，在十八里铺落网啦，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "\"黄豆豆\"",
+          "description": "一脸惊讶"
+        },
+        {
+          "type": "line",
+          "line": "听我师父说，马上重铐押送回京城……"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "掌柜的昏倒"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的……"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "比赛现场"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了，欢迎收看全球收视率第一的古装综艺节目：我拖我拖我拖拖拖，耶！——好了，大家请看啊，站在我左边的是史上手脚最笨的郭芙蓉！站在我右边的呢，是两届冠军祝无双和她精心打造的梦幻田园！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "首先我要感谢桃花牌地板蜡……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "差不多行了啊，还没到广告时间呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了，光从表面上看呢，我们看不出哪块地砖更干净，下面有请我们以眼神凌厉著称的资深捕头燕小六，燕先生！让他来告诉我们谁才是真正的赢家。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "燕蹲在地上，手作望远镜之势，起身，把答案告诉白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还得巡街去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了，诸位观众，现在我宣布。获胜者是——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢着！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在揭晓之前呢，我有话要说，地砖是让人来踩的。无双这块很干净，而且还打了蜡，但是我敢保证，没人可以在上面走上三步。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的，我现在我就走给你看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吧唧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白滑倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这没留神没走好，我再来一遍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吧唧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "再次滑倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还就不信了我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吧唧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白四脚朝天"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看看，连老白这么高的轻功都摔成这样，那其他人呢。到时候，恐怕连医药费就要赔死人的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "经过评委会讨论一致决定本场比赛的获胜者是——郭芙蓉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶，哈哈哈哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了，诸位观众，现在的比分是二比一无双遥遥领先，给无双掌声鼓励！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我赢，不是她赢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥玩意儿呢？就赢一局，你看你那样，人无双赢两局，人家说啥了，啥叫虚怀若谷啊，啥才叫德才兼备啊，再次给无双掌声鼓励！好了，我们进行下一个环节。第四个环节：我拉我拉我拉拉拉！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "拉拉拉拉拉拉，我是拉客的小行家。我们第四个环节呢，就是谁在最短的时间内，拉到最多的客人，就算赢。二位请注意，各就各位，康桑阿米达 Music！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "加油加油！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那么好，谁才是真正的赢家呢，是偶尔获胜苟延残喘的她，还是胜不骄败不馁的她？不要走开，广告之后告诉你……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人用筷子扔白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥玩意啊，造反啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个小时的比赛，半个小时的广告。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你糊弄谁呢？太不像话了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那么好应各位观众需求，我们现在取消了广告时间，改成现场直销——不是，现场点击！现在有请我们的真情特派员——莫小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "OK！"
+        }
+      ]
+    }
+  ]
+}

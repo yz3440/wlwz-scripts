@@ -1,0 +1,257 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大堂布置得像地府一样，老包被绑在椅子上，旁边摆个油锅。老白扮判官，掌柜和小郭扮牛头马面，大嘴扮无常，大家审讯老包"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋个说，炸不炸？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这小胖子，胆子还不小。本官念你初来乍到不懂规矩，再给你一次机会！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，曹公公不到，小人是无法认罪的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿！休怪本官心狠手毒了！牛头马面！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得令！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们滥用私刑，草管人命！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是草菅！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们才奸呢！小人做鬼也不会放过你们的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你已经是鬼了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我就做人！十八年之后又是一条好汉，下辈子见吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没下辈子了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就呆会见行不行啊？来啊，炸啊，别拦着我，炸啊！记得翻面，不翻面老子变锅贴，炸呀……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "有人喊声\"阎王爷驾到！\"秀才阎王装扮进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来了来了来了，烦死了。谁啊，谁啊，啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抽耳光状"
+        },
+        {
+          "type": "line",
+          "line": "噼噼！何方妖孽，啊？竟敢咆哮阴间？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不敢，不敢，小……小人包大仁，参见阎王老爷。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本王听见你高声喊冤，什么事情啊？你快点说啊！我很忙的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "启秉阎王老爷，小人冤枉啊，小人无知，受人蛊惑，一时兴起买了个官做，主谋是东厂的曹公公啊，为何只抓我不抓他？小人咽不下这口气呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一起抓，本王依你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "阎王爷英明啊，阎王爷万岁万岁万万岁！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少说废话，赶紧画押。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜和小郭按着老包画押，展侍卫冷笑着出现在门口，等老包画完押，众人一起大笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧收拾收拾，明天还要营业呢。快快快，灭火器。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干吗每次开工都这么晚呐。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "剧务，工作人员齐上，收拾现场"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这家伙熏死我了，我跟你说。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "镜头转了一整圈，整个剧组一起忙活，最后给尚导来了个特写"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "小贩甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大人，这刀真是我换来的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "几跟关东糖，就换了这么一把削铁如泥的宝刀，你当小爷没做过生意，啊？说，从哪儿来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "夺过小贝手中的关东糖，扔在地上踩"
+        },
+        {
+          "type": "line",
+          "line": "莫小贝，额让你吃。还吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己说的我东西都由我自己处置的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "额让你处置。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走走。我再问你最后一遍，说不说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "卖糖人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大人，我冤枉啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道嘛叫好捕快吗？绝不让好人受一点儿委屈，也不让坏人尝一点儿甜头。说不说，跟我走。呦\n呵，你还敢拒捕。好啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔刀"
+        },
+        {
+          "type": "line",
+          "line": "帮我照顾好我十八姨太她未来的婆婆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "——你妈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，看刀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀下留人。"
+        }
+      ]
+    }
+  ]
+}

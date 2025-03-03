@@ -1,0 +1,393 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，夜】",
+  "location": "客栈门口",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白先生，先别收，救救孩子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这是怎么了这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "糖葫芦吃多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，吃了多少啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "四五十串吧，就今儿下午，上午吃多少我就不记得了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你可真没少吃啊，不愧是武林中人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "承让，承让。你赶紧开药吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快开药吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再吐两次，我就成驼背了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这两件事儿有什么关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话！你吐的时候直着腰板呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，这孩子，看这情形呀，病得不轻啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那还用得着你说吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的意思是，赶紧送医馆呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不就是医生吗？——你不会是假的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么可能呢？我确实是学了几天医术，可前后加起来不到一个月。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就敢开医馆啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这也是摸着石头过河呀，可没想到，河水这么深，摸好几年，一步也没走动。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赶紧送医馆呐！来来来，我背。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢白先生。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "怡红楼推了个人出去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂蝉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "出去，出去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你再宽限两天，回头他们就把银子送来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂蝉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这是怡红楼，又不是救济院。准备好银子再来吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个人看着很眼熟嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "能不眼熟么？这是我哥。哥，这儿呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你们怎么来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们……来看看你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，谢谢啊。哎，你身上带钱了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这次走得匆忙，没有带多少钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有多少算多少，来来来，没事的，没事的。我先回去玩两天啊，你们先回家，回头我看你们去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哥……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小宝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝乖啊，听嫂子话啊。春兰，秋香。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你摊上这哥真够受罪的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是我哥，不是她哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是我的夫君……小贝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来，我来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走错了，那是怡红楼，去医馆。"
+        }
+      ]
+    }
+  ]
+}

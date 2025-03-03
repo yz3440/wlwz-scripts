@@ -1,0 +1,43 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "与莫小贝握手"
+        },
+        {
+          "type": "line",
+          "line": "请帮我跟你嫂子说声对不起，我失约了。见到金湘玉之后我才知道，什么叫做真正的好姐妹。我知道我这么说有点夸张，我也不想这么早就缴枪投降，但是实在没有办法，她身上那种感染力让人难以抗拒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好笑死了，太好笑了，你说这话，也不怕我嫂子伤心？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再伤心我也要说，能交上这么一个朋友，就算我一辈子不嫁人都无所谓。"
+        }
+      ]
+    }
+  ]
+}

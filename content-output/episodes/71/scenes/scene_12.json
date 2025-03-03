@@ -1,0 +1,43 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟湘玉花枝招展，在镜子打扮"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "美人美人告诉我，他们到底要什么。当然是你了，这还用问吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对镜头"
+        },
+        {
+          "type": "line",
+          "line": "但是我的心里为啥老是毛毛的？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转回镜子"
+        },
+        {
+          "type": "line",
+          "line": "不要慌不要怕，自信的女人最美丽，我需要你把所有的自信都调动起来，大声地告诉全世界，你才是最美的！"
+        }
+      ]
+    }
+  ]
+}

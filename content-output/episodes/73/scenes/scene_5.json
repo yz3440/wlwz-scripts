@@ -1,0 +1,437 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴正在睡觉，一妙龄女子倚在床边小寐，大嘴无意中睁开眼睛，看到她惊醒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你终于醒了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "讨厌，一点正经都没有。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掀过大嘴的被子"
+        },
+        {
+          "type": "line",
+          "line": "起来，我要叠被！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，我还没穿……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摸身上发现衣服没有脱"
+        },
+        {
+          "type": "line",
+          "line": "哎，我啥时穿上衣服的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你昨天晚上根本就没有脱衣服，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "害羞"
+        },
+        {
+          "type": "line",
+          "line": "还是我给你盖的被子呢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "用力铺被子"
+        },
+        {
+          "type": "line",
+          "line": "闪开！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴不解地起开，推秀才"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，哎，哎，醒醒，醒醒。醒醒，醒醒！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才迷迷糊糊起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你看看，那女的是谁，你认识吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是无双啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，无双我还不知道啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是无双我怎么认识呢？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "翻身继续睡"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你醒醒，你别……那个，那谁，那谁家那谁，你别忙了你歇会儿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拧毛巾，对李"
+        },
+        {
+          "type": "line",
+          "line": "被子都已经叠好了，哎，赶紧去洗个脸。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身"
+        },
+        {
+          "type": "line",
+          "line": "我去跟你煎鸡蛋，你是要单面的还是双面的？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看大嘴的腰"
+        },
+        {
+          "type": "line",
+          "line": "哎哟！我看你还是吃水煮的鸡蛋吧！你这个肚子呀，以后不能再吃油了。以后你的饮食起居啊，都由我来安排。还晓得啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妹、妹、妹子，妹子，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "秀才起身偷眼观看"
+        },
+        {
+          "type": "line",
+          "line": "不是特别晓得……你是谁啊，我认识你吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你真讨厌，这种玩笑开一次就够了，老开有什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁跟你开玩笑了，真的我认识你吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才躺在床上装睡，睁一只眼睛眯大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你想不想来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "女子坐到桌前，用手指着自己的脸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你仔细看看？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那，那我就仔细看看了啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "仔细看"
+        },
+        {
+          "type": "line",
+          "line": "——哎呀妈呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想起来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没想起来"
+        },
+        {
+          "type": "reaction",
+          "reactor": "女 子",
+          "description": "女子生气"
+        },
+        {
+          "type": "line",
+          "line": "——你先别着急啊，我这人脑子不大好使，要不你稍微给我个提示？要不然我真记不起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴，你真的假的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊异"
+        },
+        {
+          "type": "line",
+          "line": "你咋还知道我叫啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你知道我叫什么吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你叫啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "女 子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳星雨啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳星……没印象。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "昨天晚上，月光，美酒？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "李摇头"
+        },
+        {
+          "type": "line",
+          "line": "，缘分？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "李继续摇头"
+        },
+        {
+          "type": "line",
+          "line": "，你怎么一点都想不起来呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先别急，昨天晚上是吧，我想想，昨天晚上……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴回忆头天夜晚"
+    }
+  ]
+}

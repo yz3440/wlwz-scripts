@@ -96,6 +96,7 @@ special_rules = [
 def build_prompt(scene_text: str) -> str:
     return (
         context_prompt
+        # + "\n".join(special_rules)
         + "\n\nHere's the script:\n\n"
         + scene_text
         + "\n\n"
@@ -151,7 +152,7 @@ def find_missing_parts(parsed_text: str, original_text: str):
     for line in original_text_lines:
         import re
 
-        parts = re.split(r"[（）—().,!?;:，。！？；：、…~【】…‘’“”]", line)
+        parts = re.split(r"[（）—().,!?;:，。！？；：、…~【】…‘’“”\"]", line)
         for part in parts:
             part = part.strip()
             if part != "" and part != None:
@@ -315,3 +316,27 @@ def validate_scene_script_json(json_data: Union[dict, str]) -> bool:
         f"Normal scene error: {normal_error.message}\n"
         f"Cutscene error: {cutscene_error.message}"
     )
+
+
+def extract_character_names(scene_text: str) -> list[str]:
+    speaker_names = extract_speaker_names(scene_text)
+    reactor_names = extract_reactor_names(scene_text)
+    return list(set(speaker_names + reactor_names))
+
+
+def extract_speaker_names(scene_text: str) -> list[str]:
+    # match "speaker": "Character name"
+    import re
+
+    character_names = re.findall(r'"speaker": "([^"]+)"', scene_text)
+    character_names = list(set(character_names))
+    return character_names
+
+
+def extract_reactor_names(scene_text: str) -> list[str]:
+    # match "reactor": "Character name"
+    import re
+
+    character_names = re.findall(r'"reactor": "([^"]+)"', scene_text)
+    character_names = list(set(character_names))
+    return character_names

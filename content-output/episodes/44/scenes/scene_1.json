@@ -1,0 +1,149 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "白、佟在客房发楞"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别愣神了，赶紧想想一会儿怎么跟她谈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是正想着呢吗，咱们这么做是不是不太好呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁叫她半夜出门早上回来？问她干啥去了，她非说咱眼花她压根就没出过门。我今儿要不把她堵在镇门口，我这儿子就算白搭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "话也不能这么说，总得给她老人家留点儿隐私嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "留啥隐私啊？让她满世界偷去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那也不一定是偷吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是偷，为啥半夜出去，有啥事儿大白天不能干呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐——"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "房门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘，好像回来了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "吹灭蜡烛，藏在屏风后"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好黑啊，我怕。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别出声。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白三娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好像有人？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "噼噼（凌空点穴）"
+        },
+        {
+          "type": "line",
+          "line": "——小东西敢跟我斗。"
+        }
+      ]
+    }
+  ]
+}

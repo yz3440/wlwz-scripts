@@ -1,0 +1,253 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道，知道了，赶紧把她解开吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花解穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一可以动立刻出手"
+        },
+        {
+          "type": "line",
+          "line": "惊涛骇浪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "同时"
+        },
+        {
+          "type": "line",
+          "line": "排山倒海！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "四掌相对，郭蔷薇运了两下气，没推过去，忿忿地把手放下。"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不满"
+        },
+        {
+          "type": "line",
+          "line": "姐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别折腾了好不好，你打不过他的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你姐明白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不我们俩一起上，反正他胳膊受伤了，他点了你防不住我，点了我防不住你，到时候，你攻左，我攻右，到之后第二回合的时候我们再换一个边……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，你该干嘛去干嘛去好不好？我的事情不用你来操心行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托，她先亲的他，姐！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭狠狠地指了指秀才和无双"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，你先跟我回屋，晚上我再跟你解释。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不行，今日事，今日毕，你跟我说过的，在哪里跌倒就要从哪里爬起来嘛，先干掉他，再干掉他们俩，看招……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，住手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们回屋吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大伙散"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这孩子怎么这样，说不听了还？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是孩子了，我已经十八岁了，姐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭蔷薇，你不要挑战我的耐心好不好？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭芙蓉，"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "姐俩同时",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你变了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就知道你要这么说。是啊是啊，我变了变了，我变成熟变稳重了，这样不好吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果成熟就是畏首畏尾，胆小怕事的话，我宁愿一辈子都不要长大！告辞！"
+        }
+      ]
+    }
+  ]
+}

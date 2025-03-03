@@ -1,0 +1,267 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，夜】",
+  "location": "客房",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "白给雷倒洗澡水"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "水正好热乎的，洗吧，有事儿叫我啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你等会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们这儿没有搓背业务。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁让你搓背啊，我是想跟你打听点事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打听啥事啊，不能洗完了再说啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "雷老五拿出银子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这啥意思啊，哪弄得？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们掌柜的是哪人啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "陕西，汉中。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "平时跑多少路？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跑路？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "练轻功的不跑路怎么行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁告诉你她会轻功啊，就她那两下子，我还不知道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我明白了，看来，你并不知道她的底细啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥底细？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你呀，还是不知道的好，否则有杀身之祸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就觉得她有点不太对劲，她不会是六扇门的人吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会吧？我得赶紧走。咳，你瞧我这脑子，再厉害的老鼠，它也变不成猫啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵呵，对对对，我再给您弄点热水去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一会，最后一个问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这，不是黑店吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这哪儿都亮堂堂的，灯火辉煌的，咋能是黑店呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，那你去吧。哎，把门给我关上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，对对，关上。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "雷老五",
+      "performances": [
+        {
+          "type": "line",
+          "line": "黑店也无所谓，兄弟玩的就是黑吃黑啊。"
+        }
+      ]
+    }
+  ]
+}

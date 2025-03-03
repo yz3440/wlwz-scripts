@@ -1,0 +1,497 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "杜从楼上下来，李正在给客人上菜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，这不是杜大财主吗？你们有钱人挺能睡的啊，一觉睡到大中午。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈，你是谁啊，我不认得你呀，咱俩没话说。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对郭"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，请问蕙兰在什么地方？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "问我呀，我跟她也不熟，不认识。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对无双"
+        },
+        {
+          "type": "line",
+          "line": "这位大姐……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊啊啊，对不起，我刚要出去巡街，我什么都没看见，什么都没听见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，你不吃馒头了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对莫"
+        },
+        {
+          "type": "line",
+          "line": "小妹妹……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！你千万别问我哦，我得上学去，否则会迟到的。拜拜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对秀才"
+        },
+        {
+          "type": "line",
+          "line": "这位兄台……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就是一帐户，我不负责看犯人的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰她不是犯人！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭猛的一甩抹布"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在是对不起，这两天我这心里着急，有些失态，对不起对不起。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行行，你也甭解释了啊，你呢，从哪儿来回哪儿去，我们这没功夫伺候你，走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰她就在这里，空气中有她的味道，我都闻出来了，蕙兰，蕙兰！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊喊喊啥啊，再喊我把你抓起来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你凭什么抓我，自家娘子我为什么不能喊啊，她是我老婆我为什么不能喊啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我们店，要喊出去喊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别妨碍我们做生意啊，走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰，老婆，亲爱的，宝贝，甜心，老婆，宝贝……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "厨房里佟与蕙兰在观望，很久以后，杜还在门口喊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "亲爱的，你在哪里呀，蕙兰……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "嗓子哑了，不住咳嗽"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喊啊，你不挺痴情的吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜哇呜哇呜说话"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥啊，大点声！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜还是哇呜哇呜说话，李凑过去听，杜拿起茶壶往口里倒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜烫得哇哇叫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真有不怕烫的啊，哥们你真想过瘾的话我锅里还有热油给你来一勺？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不用这样对待我呀，我对你没有恶意啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对你可是充满了恶意啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对蕙兰那可是一心一意呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对蕙兰也没有三心二意呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰可到最后嫁给了我呀，你是白等一场啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说吧，说这没用了，她现在肯定不能见你了，谁笑到最后，谁笑得最甜！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得蕙兰在我面前老提起你呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她都说我啥了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她说你这个人很好啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "陶醉"
+        },
+        {
+          "type": "line",
+          "line": "那是！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "很善良很正直，对她也很好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "继续陶醉"
+        },
+        {
+          "type": "line",
+          "line": "这她都看出来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她说要是这辈子碰不到我呀，也许就嫁给你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她说，等她熬到七老八十啊，如果再碰不到合适的，就凑合着嫁给你了吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李气得打杜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手住手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拉开大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰，蕙兰，你终于肯见我了？"
+        }
+      ]
+    }
+  ]
+}

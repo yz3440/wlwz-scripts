@@ -1,0 +1,129 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴在招呼客人，无双从楼上下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，这么早就出门啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，大嘴……哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，我这人嘴大胡说八道你也知道啊，昨天晚上我就是好面子，你别往心里去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是啦，女孩子才好面子呢。怕羞，一说话脸就红，你看我的脸蛋红。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你就放我一马吧，你说这么冷的天，我就这么一件衣服，万一真是冻感冒了，把大家都传染不好是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "感冒没关系，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拿出手绢"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这条手绢，是送给你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的假的啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "含情脉脉"
+        },
+        {
+          "type": "line",
+          "line": "我一直想告诉你，我很喜欢你，是刻骨铭心的那种喜欢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "感动"
+        },
+        {
+          "type": "line",
+          "line": "无双……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李突然想打喷嚏，一个喷嚏打下来，才发现，原来是献柯一梦"
+    }
+  ]
+}

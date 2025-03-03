@@ -1,0 +1,267 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": null,
+  "performances": [
+    {
+      "type": "action",
+      "description": "郭蔷薇气哼哼地回到大堂，正要出门，发现老白堵着门口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个大男人，欺负一小女子，难道江湖道义就是这样的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你爱说啥说啥，反正你今天是不能走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "非礼呀！来人哪！非礼呀！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜和小郭跑进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "把妹妹搂在怀里"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这孩子咋这样呢？你姐当年也会这一出。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我姐？我姐才不会呢，我姐以前狠着呢，四大神捕都怕她三分，哪像现在这样啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我倒觉得你姐现在比以前强多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那当然，愣是把一匹狼驯成一只狗，又听话又能看家，能不好吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说啥呢你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有事，我来，小小郭姑娘呀，你这次是为何而来呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指她姐"
+        },
+        {
+          "type": "line",
+          "line": "她能闯，我为什么不能？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，那你就算闯过了，走走走，回家去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我才不回嘛，你这又不是江湖。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那哪才算是江湖啊？什么样的地方才算是江湖啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖……应该是像她说的那样啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是我编的，我哄你玩的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那姬无命是假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那倒不是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "关中大侠是假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也不是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那平谷一点红，天下第一女捕头，上官云顿，金银二老，比武招亲都是假的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都……都是真的，但不是你想象中的那个样子，知道吧？江湖……就是江湖，你明白了没有？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "郭蔷薇摇头"
+        },
+        {
+          "type": "line",
+          "line": "我都说得这么明白，她还是不明白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为你得卜得卜说得太多了，起来。这样吧，明天早上你早一点起，用你的眼睛和心，自己感受一下，什么才叫江湖。"
+        }
+      ]
+    }
+  ]
+}

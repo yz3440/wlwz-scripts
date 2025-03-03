@@ -1,0 +1,507 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来壶酒！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "虚弱地"
+        },
+        {
+          "type": "line",
+          "line": "哎，来了"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白一瘸一拐地走到食客面前，大嘴拿着新买的菜回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，大嘴！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "叫过大嘴往他菜篮里翻东西吃"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋的啦，吃你根黄瓜都不行了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白啊，你真不能怨我，掌柜的吩咐过，没有她的允许，任何人不得进食。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "低声"
+        },
+        {
+          "type": "line",
+          "line": "包括我在内。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "望楼上，对李"
+        },
+        {
+          "type": "line",
+          "line": "她不在啊，兄弟，我一天都没吃饭了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说你没吃，一盘窝头不都你吃了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "全吐了，现在饿得我直抽抽，赶紧的……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝李菜篮里翻"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟站在楼上，咳嗽一声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个，一会下锅前洗干净，注意卫生。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李拎着菜篮朝厨房走，白继续一瘸一拐地跑堂"
+    },
+    {
+      "type": "action",
+      "description": "白正在给客人倒酒，突然想起了什么"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对客人"
+        },
+        {
+          "type": "line",
+          "line": "陈公子吃着呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陈公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，有什么事儿吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "望菜"
+        },
+        {
+          "type": "line",
+          "line": "哎呀点这么多菜，能吃得了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陈公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃不了我打包啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你净扯，这干菜能打包，这汤汤水水咋带呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "陈转身拿出一锅子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "陈公子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看见没有？我带了一砂锅，怎么啦，还有什么问题吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，您接着吃吧"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "看见另一食客点了很多菜，忙走过去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "周掌柜，吃得挺香啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，这菜不错，跟大嘴说一声，最近手艺见长。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看到老白一幅垂涎三尺的样子"
+        },
+        {
+          "type": "line",
+          "line": "怎么，怎么着，坐下吃点儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多不好意思啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳，跟我还客气啥，坐坐坐！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "扯老白坐下，老白半推半就，正准备用餐时，小六进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老白正夹菜准备往口里送"
+        },
+        {
+          "type": "line",
+          "line": "哎哟，周掌柜，好久不见，病好点没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周掌柜",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肺痨早好了，刚得了肝炎，没什么大病，死不了人！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白把筷子一扔，赶紧起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "陈公子，吃好喝好，吃好……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白走到饭桌前，小六拿了一包东西放在上面"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊，手里拿啥啊，这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "桂花枣泥云片糕，邱员外的小外甥，特地从苏州给我带来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊，我记得你不爱吃甜食啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，我吃完甜食牙就疼，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对白笑"
+        },
+        {
+          "type": "line",
+          "line": "所以拿来特地给你们的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢，还是六儿你仗义！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白正准备扯开包装，听到佟一声咳嗽，朝楼上看，佟从上跑下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢小六，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对白"
+        },
+        {
+          "type": "line",
+          "line": "拿来吧。哎呀，想吃吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "白点头"
+        },
+        {
+          "type": "line",
+          "line": "做梦都想吃？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "白不停地点头"
+        },
+        {
+          "type": "line",
+          "line": "那就继续做梦吧，啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "抱着盒子朝楼上走"
+    },
+    {
+      "type": "action",
+      "description": "白饿得身子一软，小六扶起他"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "六啊，我要发财了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "满眼都是金花了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那赶紧坐这儿歇会儿吧，站都站不稳了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扶老白坐下"
+        },
+        {
+          "type": "line",
+          "line": "慢慢点儿。"
+        }
+      ]
+    }
+  ]
+}

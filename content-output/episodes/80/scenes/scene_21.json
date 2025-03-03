@@ -1,0 +1,199 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人相继倒下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，六儿，老白怎么回事啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一掌将大嘴打晕"
+        },
+        {
+          "type": "line",
+          "line": "本来没有想这么快就动手。但是没有办法，杀青散就是这样，一加热就有味道。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说吧，你到底想要啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然想要你了，得知你是盗圣，我高兴的连手心都是痒的。本来想把你拿下，但是没有十足的把握。所以只好下药了，没有想到这个郭姑娘，警惕性这么的差。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别碰她，他们都不是江湖中人。有什么事冲我来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好！白大哥武功确实高强。他们喝了一杯就成这样子了，你竟然喝了两杯还能撑这么久。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不也撑到现在吗？据我所知，杀青散没有解药。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不错，所以我才把我的腿砍伤，咋？还不明白？我告诉你，这不是什么爽肤水，这是一瓶强效的辣椒油。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说罢，将辣椒油到在伤口上，一声惨叫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "剧痛可以使我清醒，这是唯一的解决办法。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你小子还够狠的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当时叫你点我，是试试你的武功。没有想到你武功这么高，说句老实话，真过起招来，三五招我肯定打不过你。——哎，你咋还没倒呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我压根就没喝。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "凌软坐在板凳上"
+        },
+        {
+          "type": "line",
+          "line": "你脑子是不错，但是眼力差了点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有想到，没有想到我这次又是功亏一篑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，你是怎么认出我的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我第一次见到你的时候，我就觉得面熟，所以我进屋之后故意打翻了杯子。没有想到你武功确实高，但是我还是不确定，因为武功高的人实在是太多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "直到你发现我手上这个疤。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不错。"
+        }
+      ]
+    }
+  ]
+}

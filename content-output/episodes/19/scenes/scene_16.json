@@ -1,0 +1,649 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃饭了，吃饭了，吃饭了，开饭了，开饭了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今儿谁结婚啊，做这么多好吃的呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，不要动，等一等秀才。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要等了，再等他菜都凉了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀菜凉了无所谓呀，就怕有些人心凉哦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说就说，你看我干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗬~还想拍我呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她拍你干啥，有这闲工夫多拍两张桌子，比啥都强，是吧大嘴？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿嘿嘿！这桌子够结实了吧？瞧好了啊，嘿，得，妈呀，咋一点事都没有呢，大嘴？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说没事啊，你手咋肿了呢……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手肿正常的，上乘武功都这样，是吧大嘴？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们就笑吧，等我师父来了，你们都得死。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘀咕啥呐，大嘴，谁来呀，谁死啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁死呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我死，我死还不行吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道怕就行，别以为随便练两天，就叫武功了，你那点野狐禅，他吓得住谁呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥叫夜狐禅啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，您来了？谢谢师父赏脚。这位就是我师父，降龙十八掌第五代大师。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位前辈，第几代？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第五代。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "久仰久仰。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别跟我来这套，你刚才说，谁是夜狐禅啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不是我说的，是她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怕了吧，知道怕了是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭嘴，没出息的东西，你净给我丢脸！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，我也不想啊，可那套掌法我使不出来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是你内力不纯，缺乏调理。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那咋办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "待为师给你补一点真气吧！——感觉怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "热，热的发烫。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "冷，冷的冰凉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到底是热还是冷啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又冷又热，时冷时热。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就对了，俗话说得好，在家靠父母，打架靠师父，为师已经为你补足了真气，可以动手了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "动手？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟谁动手啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说咱夜狐禅，咱就跟谁动手啊，记住，一会儿你就使第十招，打完就跑，带着鸡腿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥要跑啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这招他威力大啊，一会儿，这桌子，这墙，这椅子统统毁掉，这房顶可能塌下来，可惜这个菜，出招吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手！这是我的地盘，要打出去打。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说你夜狐禅，你高兴啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她还是个女娃儿，就是嘴贱得很！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁嘴贱啊，也没法跟我比啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位大师第几代？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第五代！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您老大人有大量，犯不着跟她一般见识，就放她一马吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你说呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴哥……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怕了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怕了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你肯定？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我确定一定以及肯定！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好，这次暂且记下，下次再犯，形同此桌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的水曲柳……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "教你武功，不是让你糟蹋东西的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说得多好啊，不愧是前辈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父还没吃饭呢吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，秀才说你出事儿我着急忙慌就过来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，顾客永远是对的，师父永远是饿的，我这就给你做去，做好给你端上来啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛先生",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不不不不用了，我跟你一块去，边做边吃吧。鸡……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后面有活的，现杀现吃，走师父。"
+        }
+      ]
+    }
+  ]
+}

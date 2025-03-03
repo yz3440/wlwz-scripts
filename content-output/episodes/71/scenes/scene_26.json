@@ -1,0 +1,245 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟湘玉趴在床上痛哭，从枕头下摸出一包东西，里面是首饰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这对镯子，是我送给你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "簪花是我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶，那对耳环左边是我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "右边是我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胭脂是我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "水粉是我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，是你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "比划着"
+        },
+        {
+          "type": "line",
+          "line": "我们爱你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "擦眼泪"
+        },
+        {
+          "type": "line",
+          "line": "你们……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天是你生日你忘了？预备起……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "祝你生日快乐！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "闭嘴，你们以为给我送点东西唱首歌，这件事情就算完了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，主意是我出的，本来是想给你个惊喜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "惊喜？我跟你很熟吗？我过生日跟你有关系吗？你以为卖个乖子就能交朋友吗？这样的友情太不值钱了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，我真的没想惹你生气的，听他们说，你是世界上最好的掌柜，最好的姐妹，所以我一直都想认识你。我也有很多朋友，但大部分都是酒肉朋友，说散也就散了。今天来，我主要想亲身体验一下，真正的友情是什么样子的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真正的友情是要用心来换的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "伸手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "很高兴认识你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "两人握手"
+        },
+        {
+          "type": "line",
+          "line": "我也是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "百分之百，耶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "没有想到，还是全军覆没，苦啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家鼓掌"
+    }
+  ]
+}

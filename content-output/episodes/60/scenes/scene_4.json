@@ -1,0 +1,415 @@
+{
+  "type": "normal",
+  "rawDescription": "【东街，昼】",
+  "location": "东街",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭扫街，小贝满地扔传单"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，环保搞不好，小命就难保喽！瞧一瞧看一看了啊！保护大环境……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝你给我回来！我说你怎么又来了？啊啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你问我我问谁啊？——小郭姐姐，你说咱俩得熬到啥时候啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你问我我问谁去呀？算了，我还是甭跟你废话了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扫地"
+        },
+        {
+          "type": "line",
+          "line": "回头让你嫂子看见啊，又该燃烧青春了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂喂喂，你把传单都扫了，那人家怎么拣起来看啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不管！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你！——烦死人了！早知道这样，我当初就应该跟陆师兄回衡山。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早知道这样，我当初就不该回来！你看人家闯荡江湖，那都是刀光剑影、快意恩仇，最不济的也混了个小名声，再瞧我这个，江湖儿女扫大街！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有我哪！人家当掌门，那都是八面威风、呼来喝去，再瞧瞧咱，好不容易混上个五岳盟主吧，跟白当一样！这不，还给人家发小广告呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "发小广告就算不错了，过两天呀，说不定让你发名片。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "发什么名片？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "家政服务，买票打折疏通地沟推销药品。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "探头"
+        },
+        {
+          "type": "line",
+          "line": "快快快，赶紧，有人来了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "燕小六路过"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞧一瞧，看一看了啊，环保搞不好，小命就难保……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过来过来过来……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "捡传单"
+        },
+        {
+          "type": "line",
+          "line": "这发的嘛，谁让你发的，上面写的嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己不会看哪？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不认字，你念给我听。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "保护大环境，节约水资源，环保搞不好，小命就难保。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这嘛意思？嘛是环保？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "环保就是保护环境，那什么……什么意思啊，小郭姐姐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "问你嫂子去。六，来来来。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "耳语"
+        },
+        {
+          "type": "line",
+          "line": "这些呀，都是佟湘玉的主意，跟我们都没关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，我问问她去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快去快去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜要搞嘛呀这是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来，千万别说我们俩告的密啊，要不然我们俩吃不了兜着都的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭做斩首的动作"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明白，擒贼先擒王，即使算帐，也不找你们。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥呢，谁是贼呀，想贼想疯了吧你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快去快去……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小米奔入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好了，不好了……燕捕头，出大事了，你快去看看！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢点说，出嘛大事了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "曹大爷家来个大贼，又砸又抢的，咿呀，快出人命了，你赶快去看看吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈哈哈哈……终于等到贼了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲锋，拔刀"
+        },
+        {
+          "type": "line",
+          "line": "帮我照顾好……照顾好你们自己吧，回头找你们算帐，曹大爷，我来了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "跟小米俩人一块风驰电掣而去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐，咱这传单还继续发吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "发呀！反正咱们也不是主谋。到时候挨板子，你嫂子上！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，瞧一瞧看一看了啊，保护大环境，节约水资源，环保搞不好，小命就难保了……"
+        }
+      ]
+    }
+  ]
+}

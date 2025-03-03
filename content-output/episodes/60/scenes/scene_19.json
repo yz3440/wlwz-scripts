@@ -1,0 +1,239 @@
+{
+  "type": "normal",
+  "rawDescription": "【东街，夜】",
+  "location": "东街",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小米靠墙角睡觉，老白偷偷摸摸出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍"
+        },
+        {
+          "type": "line",
+          "line": "起来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥，现在啥时辰了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "关中时间凌晨两点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没开工呢，早上九点之前，晚上五点之后，来访者恕不接待。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊"
+        },
+        {
+          "type": "line",
+          "line": "哎！白大哥，你是特例，有啥事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对你咋样，你心里清楚吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "清楚，差不多吧，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白不满"
+        },
+        {
+          "type": "line",
+          "line": "特别好，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白伸手指头"
+        },
+        {
+          "type": "line",
+          "line": "极其仗义，跟亲兄弟没两样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那兄弟有难你帮不帮忙？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小米",
+          "description": "小米为难"
+        },
+        {
+          "type": "line",
+          "line": "有酬金！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那先说好了，犯法事咱可不干，咱可是堂堂正正的服务业者。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你啥时候成服务业者了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看，你给我一个铜板，买我一声大爷行行好，然后再送你一笑脸，你说买一送一，是不是服务业者？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，这回大爷给你的可不是小数目，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿出一摞铜钱"
+        },
+        {
+          "type": "line",
+          "line": "钱有的是，就看你帮不帮忙。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小米",
+          "description": "小米表示同意"
+        },
+        {
+          "type": "line",
+          "line": "其实事很简单，你给我找一些丐帮的兄弟，让我挨个抓住了之后痛骂一顿，然后给他们每人三文，你，中介费两文。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有这么好的买卖？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "兄弟，趁早改行吧，现在猎头业更吃香，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把铜钱扔到小米碗里"
+        },
+        {
+          "type": "line",
+          "line": "定钱。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "回屋"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，我的天哪，现在盛传江湖人力资源短缺，看来不是空穴来风啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑出"
+        }
+      ]
+    }
+  ]
+}

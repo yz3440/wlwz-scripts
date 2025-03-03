@@ -1,0 +1,261 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝拿稻草人练暗器，次次不中，有些着急，遂将一把石子全部扔出，恰巧凌从大堂来，接过一块"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姑娘，这飞镖可不是这样练的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "二人站在磨盘附近"
+        },
+        {
+          "type": "line",
+          "line": "啊，那请您教教我，怎么才能把自己的腿砍成那样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，你很幽默嘛，小姑娘我陪你玩一会儿怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得，你还是找别人玩去吧，我还得练功呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小姑娘，我听说华山派的岳松涛，是你的手下败将？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "清清嗓子"
+        },
+        {
+          "type": "line",
+          "line": "那都是往事了，往事就不要提了嘛，那个面瓜，根本不在我的视线之内。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "坐在井上，凌坐磨盘边上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦！没有想到，你年纪虽小口气倒不小。我像你这么大的时候比你谦虚多了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你小时候当过掌门吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不屑"
+        },
+        {
+          "type": "line",
+          "line": "那你当过五岳盟主吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "更没有。但是我围捕过盗圣，而且差一点我就得手了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凌捕头，高手对决，哪怕就差那么一丁丁丁点，那可是生和死的区别喔，只有懦夫才会找这样的借口。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "甩出石子，打倒远处一个葫芦"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "兴奋"
+        },
+        {
+          "type": "line",
+          "line": "你……那个腕力好强哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是腕力是指力，我跟你说，光靠腕力的话很容易打偏的。我小时候练这个功的时候经常挨打。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你家人对你很凶吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小时候很凶，长大以后，就没人管我咧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "长大真好，我也想快点长大。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "凌腾云",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "小姑娘，正所谓，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱起来"
+        },
+        {
+          "type": "line",
+          "line": "岁月如飞刀，刀刀催人老，再回首天荒地老。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "忽然严肃，怅然"
+        },
+        {
+          "type": "line",
+          "line": "有多少人，穷尽一生，想打中靶子，我曾经脱过一次靶，但是我不想再脱第二次了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抬手一镖正中稻草人脑袋"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻！"
+        }
+      ]
+    }
+  ]
+}

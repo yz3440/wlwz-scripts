@@ -1,0 +1,602 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭去拿酒给客人，一身西装的辛普森进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Excuse me，请问哪位找我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "辛普森！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "阁下是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕轻侯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "猴子？Oh my God ！Look at you!"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "问秀才"
+        },
+        {
+          "type": "line",
+          "line": "说啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老天呐，瞧你这德性！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看你那德行！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "翻译他的话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过来让我看看你，哦，都长这么高啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的变化也很不小啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Dear god，我做梦也没有想到能在这见到你，You know what？It's destiny！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你知道吗，这就是命运呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Come on man ，give me a hug！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来把哥们，给个拥抱！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拥抱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥呢这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "猴子呀，这个客栈是你开的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "开门下楼"
+        },
+        {
+          "type": "line",
+          "line": "不是他，是我开的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我们佟掌柜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Nice to meet you!"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抓起手欲啃，被老白点住"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这怎么回事？第一回见面就啃手指头，这不成熊瞎子了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "礼仪，礼仪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把一个碗塞道辛普森嘴下"
+        },
+        {
+          "type": "line",
+          "line": "礼仪让他拿这个，葵花解！"
+        },
+        {
+          "type": "reaction",
+          "reactor": "辛普森",
+          "description": "辛普森瞪眼"
+        },
+        {
+          "type": "line",
+          "line": "误会啊，误会，这样，小郭你跟他说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊哈哈哈，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "学洋腔"
+        },
+        {
+          "type": "line",
+          "line": "辛先生你好！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要叫我先生，My name is Simpson！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么森？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，Simpson，请跟我念一遍，Simpson！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，Simpson。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "注意我这个 p，但拎出来念 p"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "p。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是 p 不是屁了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是屁吗？p 先生，是我把你找来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位姑娘请你好好说话，我是听得懂的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我就长话短说好啦，恩，其实我找你来呢也没有别的意思，恩，就是想……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指佟"
+        },
+        {
+          "type": "line",
+          "line": "还是你说好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不不不，还是你说，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "咬耳朵"
+        },
+        {
+          "type": "line",
+          "line": "我又没有做过媒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我也没做过呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事可是你提出来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，那你是掌柜的，无双的事你不操心谁操心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两位女士，如果是投资的事情的话，那就到此为止了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "投鸡?"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，我手上确实有些闲钱，也在寻找一些投资的项目，但非常抱歉，我对客栈的业务并不了解，所以暂时没有这方面的打算。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁让你投机了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Whatever，在你们国家我学会了一句话，要钱没有，要命一条。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎等等，你们国家？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，对了，忘了告诉大家，我已经入了外籍，不是我不爱国，实在是生活所迫，不瞒大家，我入了外籍之后，心中愧疚难当，不止一次的梦见过长江、珠江、松花江。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么多地方都去过呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也没去过，只是梦到过，每次从梦中哭醒，眼前总是雾蒙蒙的，每当此时，耳边都萦绕着一个凄怨的声音，Come on music，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "回家，马上回家，我需要你……欧~~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "男高音"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "客人吓跑，白、秀才、郭追"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再唱了，听着怪慎人的，我的银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Sorry，我有点失态……请问盥洗室在哪里？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盥洗室？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么大的客栈，连个盥洗室都没有么？I just wanna 洗把脸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，要洗脸是吧，后院有跟我来。"
+        }
+      ]
+    }
+  ]
+}

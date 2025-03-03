@@ -1,0 +1,459 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "南宫正在吹笛子，白下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "奔到南宫面前把阻止她吹笛子"
+        },
+        {
+          "type": "line",
+          "line": "别吹了，难听死了！我问你，你确定这火能消下去吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "确定一定以及肯定！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跑到南宫旁边"
+        },
+        {
+          "type": "line",
+          "line": "呃，你是这个意思吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是是是，再好的人参，它也有过劲儿的时候啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可那万一要是人参精呢？你忘了？咱那人参已经长成人形了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众扮人参"
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，不怕不怕，只要有耐心，总有云开雾散那一天！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，那三五天之内有没有希望嘛?"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "希望，只有在准备的人们手中！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "快速下楼走过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇，掌柜的，你你你不睡了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "睡，但不是现在。我算过了，如果我能活到七十岁，每天睡八个小时，那么我浪费在睡眠上的时间就长达二十万个小时。如果我每天只睡三个小时，那我节省下来的时间，就长达十二万零八千小时，约等于五千三百天，也就是十四年零六个月，这相当于什么你说！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指秀才"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你能多活十四年？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "聪明，十分非常以及 Very 的聪明！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你要一分钟都不睡，你岂不是可以长生不老啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也希望如此，但是身体不允许，人的一生，如此短暂，我不要求自己像太阳一样照耀四方，最起码也要当一个火把，为迷途的人指引方向。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "举着手做拿火把的模样"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是我们不走夜路啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，当然了有个火把更好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "所以说不能再等了，原订计划从现在开始，小郭，我希望你能像爱护这个店一样爱护这个镇，整条东街就交给你了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给郭递\"火把\""
+        },
+        {
+          "type": "line",
+          "line": "如果让我找到一片落叶，这个月的月钱减半！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，喂喂喂，你有没有搞错啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扔\"火把\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝灭火！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝往后倒了碗水"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你放心，这个事儿我会监督她的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，不不不，你还有更重要的事情要做。扫盲工作，势在必行，一个月之内，我希望本镇的居民都能够顺利的背诵三字经，还要通过六级托福，雅思，JRE 考试。不要求他们全面发展，至少让他们懂得孰可为孰不可为，人生识字忧患使，春蚕到死丝方尽，蜡炬成灰泪始干，轻舟已过万重山。作为本镇"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍秀才胳膊"
+        },
+        {
+          "type": "line",
+          "line": "唯一的秀才，你肩上"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍秀才肩膀"
+        },
+        {
+          "type": "line",
+          "line": "的担子不轻，扫盲工作任重而道远！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不就一三字经吗，至于吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啪~还有通过六级托福，雅思以及 JRE 考试！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，我说过吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三字经我会背，人之初，性本善，性相近，习相远……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的任务是散发环保传单，三天之内要让本镇居民人手一份，少一份要拿你是问！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三天，那我还上不上学了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "暂时不上了，嫂子知道，这样对你很不公平，但是你想一想。有多少穷苦的孩子没有书念，有的甚至连饭都吃不上，为了他们美好的明天，牺牲你一个也值了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不光你一个，还有咱大家，陪伴你的，将是同福客栈的每一位伙计。我知道这件事很难，但是我们决不能因为它难就不做了，这是为什么呢，问你呢！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指向白和郭的方向，白郭迅速偏身子，只有南宫没来得及"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我？这得问您呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我的字典里没有'难'这个字，明知山有虎，偏向虎山行，该出手时就出手，舍不得孩子套不着狼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拍桌"
+        },
+        {
+          "type": "line",
+          "line": "这都什么乱七八糟的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "往后院走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "伙计们，不要慌不要怕，我们要向着自己的目标大踏步的出发，我说的出发是现在！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "把郭拉出门，吕和莫伸手，佟对南宫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "请把她的扫帚给她拿出去。"
+        }
+      ]
+    }
+  ]
+}

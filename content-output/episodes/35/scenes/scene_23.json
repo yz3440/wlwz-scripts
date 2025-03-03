@@ -1,0 +1,211 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "假的，全部都是假的。名字是假的，剑法是假的，传说是假的，掌门也是假的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又胡说，你也成假的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我从来就没干过一件掌门该干的事，这难道不是假的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就算啥都是假的，有一样，它肯定是真的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "侠义的精神。你太爷爷，咱先不管他的剑法如何，他可是单批匹马消灭了山贼啊。要不是这样，就单凭一本假的剑谱，怎么会有后来的衡山派？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我太爷爷好歹也剿灭了好多山贼呀，可我呢，我又做了什么呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你帮了我和无双呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀对呀，要不是你的话，我们俩还闹别扭呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果你们俩真的和平和好以及和睦如初的话，就做一个给我看看。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人抱了一下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢也，本掌门正式宣布，红娘行动到此结束。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老人进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我该杀青了，谁负责结帐啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我我，我负责，我负责。说好五十文吗，来，多给十文。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢，以后有这种事还找我啊。不光是剑谱，拳谱刀法我都行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自己留着学吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，点穴啊。画过，我还给取了个特别好听的名字，叫葵花点穴手。后来听说一帮小混混还在那练呢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老人离去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "辱我师门，我跟他拼了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，葵花点穴手。"
+        }
+      ]
+    }
+  ]
+}

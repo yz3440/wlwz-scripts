@@ -1,0 +1,692 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭在洒水，老白在跑堂，秀才在奋笔疾书，小郭看见后又装作去擦酒橱趁机偷看，秀才不让看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你藏什么呢，拿出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没写好呢，写好了再给你看啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抢过来念"
+        },
+        {
+          "type": "line",
+          "line": "风送相思满绣床……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "夜来促织亦成双。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "促织？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是蟋蟀，也就是蛐蛐，成双成对的。就象咱们俩。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "往桌子方向走，边走边念"
+        },
+        {
+          "type": "line",
+          "line": "闲情正在搁笔处，笑看伊人……伊人后面怎么没有了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还没想出来，要不你给个建议？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从楼上下来"
+        },
+        {
+          "type": "line",
+          "line": "我建议——这个月的月钱你们俩都不要领了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大白天的，不好好干活，写那种酸诗有啥用啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你啊大哥，嫌葡萄酸就别流哈喇子，有本事你也给掌柜的写一首去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘿，咱不稀得写那玩意儿，关键还得看行动，是吧玉？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "捏个背先。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好勒。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，这就叫疼人啦，侯哥，来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦哦哦"
+        },
+        {
+          "type": "speaker-action",
+          "description": "伸出脚来"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "形式没有用，关键看内涵"
+        },
+        {
+          "type": "speaker-action",
+          "description": "手上一使劲"
+        },
+        {
+          "type": "line",
+          "line": "这才叫疼人呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀——疼疼疼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "疼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "没笑强笑"
+        },
+        {
+          "type": "line",
+          "line": "疼人就得这样，年轻人多学着点儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不就疼人嘛，谁不会呀"
+        },
+        {
+          "type": "speaker-action",
+          "description": "使劲拧秀才的腿"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊——！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "食客起身欲闪"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不许跑！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "使劲的捏掌柜"
+    },
+    {
+      "type": "action",
+      "description": "老白和小郭五官挪位，越捏越来劲，掌柜和秀才像上刑一般，小六从门外进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回事怎么回事，出嘛事了？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "大家停止喊叫"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有事。你有事儿吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们真没事？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "往里走"
+        },
+        {
+          "type": "line",
+          "line": "那么好，我宣布一个天大的喜讯。刚刚接到上边的通知，曹公公被撤职查办了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人欢呼，众食客出。湘玉想要招呼，展堂拦。小六站在凳子上拿起刀装作弹贝思。大嘴跑出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拉小六"
+        },
+        {
+          "type": "line",
+          "line": "咋的了咋的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "曹公公下台了，他那些党羽全都跟着倒了大霉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，终于等到这一天了。耶！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转向掌柜的"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，为了庆祝这件天大的喜事儿，我能请几天假吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不能，你的探亲假早就用完了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我娘最近身体不大好……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你娘身体就没好过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟掌柜的说话，有你啥关系？——掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，说话就说话不要动手，小心我们展堂点你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "松开。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "点就点，只要能准我假点死我都行，那实在不行我请病假呗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟"
+        },
+        {
+          "type": "speaker-action",
+          "description": "起身看看大嘴口跟眼"
+        },
+        {
+          "type": "line",
+          "line": "病得还不轻，展堂找个大夫来，有病治病，医药费我出，但是没有病，出诊费大嘴出啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "双倍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再说了！"
+        },
+        {
+          "type": "reaction",
+          "reactor": "燕小六",
+          "description": "小六喝水吓一跳"
+        },
+        {
+          "type": "line",
+          "line": "想请假，除非等我死了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摔碗"
+        },
+        {
+          "type": "line",
+          "line": "没人性啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没人性啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在这么大喜的日子里，人家想回去看看自己老娘，有错吗，有错吗，有错吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有错没有错，但是他每个月回去三四趟，没趟至少五六天，这不太合适吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不太合适吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个那个，掌柜的，我保证这是最后一回行了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人都保证了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他每次都保证，有时候还发毒誓咧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道我是个没有信誉的人，但这次我以我的人格起誓。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第三十八次了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我以我的生命起誓。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第六十五次。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抱住小六头"
+        },
+        {
+          "type": "line",
+          "line": "我以我的下一代起誓行了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，等你先有了下一代再说啊。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴往外跑"
+        },
+        {
+          "type": "line",
+          "line": "你上哪去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "到门口拎起篮子"
+        },
+        {
+          "type": "line",
+          "line": "我买菜去。我迟早我生个状元我气死你们。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扭头出门"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "功亏一篑，功亏一篑啊，哎他们要是再晚进来 10 分钟，3 分钟，哪怕 1 分钟，这锅生米我就煮成熟饭！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包大仁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在下殷十三，曹公公的人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喔哟，又来了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放肆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，哎呀，他们请你来给你多少钱吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "钱？能为曹公公效力是我制高的荣耀，区区两个小钱算的了什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得得得得，别跟我罗嗦了，来干嘛来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "取你项上人头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！又改荆柯刺秦啦？好啊，有创意，我喜欢，呵呵呵，越刺激越好啊，千万别手下留情啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就恭敬不如从命了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，小词儿还一套一套的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "殷十三突然出刀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下，你你来真的你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下等一下，你，真的是曹公公的人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "掏牌子"
+        },
+        {
+          "type": "line",
+          "line": "东厂的牌子，你不会没见过吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼哼，这小牌儿做的倒是挺逼真啊，这次这个局，下了不少本钱吧？哎，刀没意思，没有临死前那种紧张，那种压迫感。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你想怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "活活勒死，一面恐慌地看着你，一面挣扎，两个手四处乱抓，就是喊不出声儿来，够刺激吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我平时习惯用匕首。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "包大仁",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要勇于尝试新鲜事物嘛，哎，来来来，这个手拿这头，这个手拿这头，啊，哎，往我脖子上这么一饶，啊，哎，记住，慢慢来，一点一点发力，要有一个循序渐进的过程。哎，对，哎，不是，重了，咳，喘不过气啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要的就是让你喘不过气来，记住我的名字，殷十三！"
+        }
+      ]
+    }
+  ]
+}

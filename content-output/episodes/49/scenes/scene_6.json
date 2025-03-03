@@ -1,0 +1,389 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在对不住，我们莫掌门特别低调，轻易不接受采访。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是不是嫌我们是小报啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有，绝对没有！江湖小报，不是，江湖月报，我们每期都看，落下一期，茶不思饭不香，连生意都没法做了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白大哥……要不，你再帮我想想办法呗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "实在不行，我自己上！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳……那个，等我们出了黑道专版，第一个就找你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思啊？我怎么成黑道的了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盗圣的故事，我姐跟我说了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盗圣怎么啦？这也不是我自己封的，再说，你还不许别人改邪归正啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也没别的意思呀，问题是，我这次的任务，就是采访五岳盟主，那你说我有什么办法？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "办法我已经跟你想过了，你自己看着办吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝和佟下楼，慕容眼前一亮"
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，这位就是莫掌门吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是她！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……实在对不起，莫掌门还得上学，没有时间接受采访。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就一会儿，一小会儿，一小会儿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "借过，借过。不要逼我们耍大牌啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，我还就不怕你不耍呐！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "慕容开始写稿"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这写啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我与五岳盟主的初次会晤，竟然遭到了难以想像的粗暴对待……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁粗暴对待你啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在紧张的对峙之后，爆发了肢体和语言上的冲突，场面一度失控……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你你……你不要胡写，否则对你不客气！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听见没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一名膀大腰圆身形健硕的神秘女子，对笔者进行了惨绝人寰的人身攻击！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "膀大腰圆？身体健硕……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "反应过来"
+        },
+        {
+          "type": "line",
+          "line": "我跟你拼了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在一阵暴风骤雨般的拳打脚踢之后，笔者已是遍体鳞伤，奄奄一息……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "江湖月报的，江湖月报的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……我错了，求求你，高抬贵笔，放了我们吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不管，这里有我呢……展堂，赶紧送她出去！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白把小贝牵走，佟堵住慕容"
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫掌门……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有事跟我说，我是莫掌门的特邀发言人，啊，这个，刚才的误会，请你不要介意，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，你终于肯松口了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有什么问题，问我好了，这里有客人，咱们俩还是上楼吧。"
+        }
+      ]
+    }
+  ]
+}

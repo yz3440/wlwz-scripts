@@ -1,0 +1,368 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白一如既往的跑堂，小小郭从厨房出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盗圣大哥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "把酒端给客人，又回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "以后叫我老白，或者白大哥都行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，白大哥，你这么久不偷，手会痒吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘！有时候会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "被蚊子叮的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你现在当跑堂的，你有没有一种屈辱感啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "屈辱感？啥意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是以前你走到哪里都是大爷，可是现在你要把人家当大爷呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我什么时候当过大爷？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "盗圣耶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哥哥，盗中之圣，不是大爷是什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看来你还是不太了解我呀。不是，你姐是怎么跟你说的？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白幕，小郭一身说书装，字幕：颠倒黑白记"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一拍惊堂木"
+        },
+        {
+          "type": "line",
+          "line": "这位看官你问得好，盗圣是个什么人？盗中之圣！话说抚远将军府有一个御赐的九龙杯，老白留了个条，说我明晚三更来取，抚远将军当即调配了八百精兵，把将军府围得是里三层外三层，到了三更，梆子刚响了一下，九龙杯就在众目睽睽之下，忽然消失了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切回到大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "纯属胡扯！"
+        },
+        {
+          "type": "reaction",
+          "reactor": "客人",
+          "description": "客人吓一跳"
+        },
+        {
+          "type": "line",
+          "line": "哟哟，对不住，对不住，吃着喝着，喝着吃着。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小声"
+        },
+        {
+          "type": "line",
+          "line": "真相是抚远将军自己把杯子摔了，又怕皇上动怒，所以嫁祸到我的头上，这些事我早就跟你姐说明白了，还有什么扬州知府的小妾，江南四大贼王，全都是胡扯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那既然这样，那你为什么要退出江湖呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我退出江湖是因为……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "第二集回放"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你那么怕死，你练武干什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你以为我愿意练？我那都是小时候我父母逼的，如果没有他们，我现在说不定已经成了一个画家。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "画家？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个青年，徜徉在艺术的幻想里，多么美妙啊，那些光影、线条、山水、花鸟，多么高尚和雅致啊。可是现在呢，整天的打打杀杀，漂泊流浪，寄人篱下，衣食不保，还担心被人追捕……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切回到大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就这么简单？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就这么简单！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我姐……居然被这样的理由说服了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个理由难道没有说服力吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对她，可能可以，对我……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "摇头，出"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "难道我说得不好？这不挺有说服力的，这孩子……"
+        }
+      ]
+    }
+  ]
+}

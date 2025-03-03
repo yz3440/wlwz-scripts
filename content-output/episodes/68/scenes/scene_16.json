@@ -1,0 +1,547 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大伙跟辛普森谈判"
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "退聘？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先坐啊，这是无双的意思，我们也没有办法，这些聘礼麻烦你拿回去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Wait，无双在哪里，我要见她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双不想见你，你别着急啊，你看你条件这么好，找谁不行啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Shut up！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吓大的？我告诉你，我们全是从小吓大的，怎么着你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "全是！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "要动手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃力吧，吃力吧？人家说的是住口。冷静点，慢慢说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人人都说，在你们这里做买卖最讲信用，But today，我开了眼界了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "普森，这种事情不是做买卖呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不是？一个买，一个卖，不是买卖是什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你要非得这么说，我们也没啥好说的，大不了你把东西拿走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不远万里回到这里，难道就是受你们的窝囊气吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要点，不要点，坐坐坐。我们确实不是有意的，这种事情还要尊重人家当事人的意愿嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "I don`t care！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Whatever！别老以为就你会英文，我跟你说，旺德福泰瑞宝我也会，你老瞎显摆啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说正事呢，你别老跟着插嘴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对无双是真心的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "但无双对你不是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不信！我要她亲口对我说。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "片刻之后，无双和小六也来了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你回去吧，真的，我们的确不合适。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是你对我说过 I love you，难道你都忘了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是你骗我说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是你还是说了，昨天晚上那一幕，到现在为止，还在我脑海之中不断地重现。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就回去慢慢重现吧，恕不远送啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "OK，既然你不仁，就休怪我不义了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，抬着你那破烂玩意，哪来的回哪去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不急，先让我点点先。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "开箱子"
+        },
+        {
+          "type": "line",
+          "line": "啧啧啧，不对吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不对呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我之前送来的可是波西国的蓝宝石呀，你这是什么呀，蓝玻璃，十文钱一大把。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，你这箱子抬进来，我们从来就没有打开过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不管，我只想要回我原来的东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就是你原来的东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，我之前送来的可是锡兰国的纯金戒指，这什么呀，铜的，还有这个，这个可是爪洼国的翠玉镯，这什么呀，大理石的，还有这个，苏门答腊的玛瑙项链，你们给我换成松香的了，还有这些银子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么看着像是锡的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，合着你小子在这等着我们呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "生意人嘛，防人之心不可无啊。更何况你们在这礼单上面，已经签过字了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，礼单上的字是我签的，怎么样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我听说在你们这里欺诈罪判得很重吧，十两银子就是八十大板，这么多东西，不知道要挨多少板子啊，不过你没关系，练武之人嘛，慢慢挨吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着吓唬我们，娄知县明察秋毫，铁面无私，岂能中你的奸计？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他是我姑父！那个，低调，低调啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "高调高调！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是娄知县的侄！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不着急，这样吧，我给你一天的时间慢慢考虑，是交人，还是交东西，你们看着办吧，See you。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "辛普森出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看看去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄，我们现在怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你忘了师兄以前是干啥的了？不就礼单嘛，我就不信他能藏到地底下去。"
+        }
+      ]
+    }
+  ]
+}

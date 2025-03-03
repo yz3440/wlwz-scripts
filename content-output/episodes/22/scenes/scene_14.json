@@ -1,0 +1,353 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在这等着啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "推老白"
+        },
+        {
+          "type": "line",
+          "line": "老白，醒醒？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看那。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么——他咋出来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我帮他解开的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不想活了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，昨天晚上我跟他聊了一夜，他听了我的劝，以后不会干这行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋劝的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就跟他说呀，人长大了，一切道理不能不明白，子曾经曰过的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小道"
+        },
+        {
+          "type": "line",
+          "line": "小子，我问你，你不干这个靠啥赚钱，啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他怎么还没来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快了，快了，我跟你说啊，千万别让人知道是我让你这么干的，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你放心，为客户保密，是我们最起码的职业道德。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯，还有啊，就是你下手别太重，你别伤着他，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么可能，一旦出手，非死即残。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别别别，那啥，让他受点皮肉之苦就行了，反正你就看着办吧，就别太使劲啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我尽量吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就等着瞧好吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "另一个还没到哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来不及了，看棍！呀——！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "想"
+        },
+        {
+          "type": "line",
+          "line": "这一幕怎么就没让小郭看见呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "想"
+        },
+        {
+          "type": "line",
+          "line": "终于报了一棍之仇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "江小道",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "想"
+        },
+        {
+          "type": "line",
+          "line": "太背了，怎么又让这小子给我点这了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，别让他跑了，我拿绳子去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不住了，我现在还不能给你解穴。"
+        }
+      ]
+    }
+  ]
+}

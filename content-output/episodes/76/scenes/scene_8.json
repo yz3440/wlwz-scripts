@@ -1,0 +1,118 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "四人刚出门，赫然见到有一飞刀插在门柱上，刀还钉着一封信"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊慌失措"
+        },
+        {
+          "type": "line",
+          "line": "这是……老白，老白快出来看啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "出门"
+        },
+        {
+          "type": "line",
+          "line": "怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是小贝的书包带，早上被掌柜的弄断的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "费力的拔出刀"
+        },
+        {
+          "type": "line",
+          "line": "不是绑架不是绑架不是绑架"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人也念叨着\"不是绑架不是绑架\""
+        },
+        {
+          "type": "line",
+          "line": "。耶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "信里写的什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "首先声明这不是绑架。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "之后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莫小贝自愿留在我处，并享受贵宾级待遇，经过友好协商，她愿意有条件回家，具体条件，正在进一步友好协商中，请诸君梢安毋躁，静侯佳音。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人面面相觑，看看四周"
+    }
+  ]
+}

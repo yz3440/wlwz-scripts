@@ -1,0 +1,123 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "本来这事儿我也不想管。可他那个契约是我和小郭逼他签的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你看，我早就说过了吧，这种东西不能乱写。果然写出问题了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，我求求你，求求你，帮帮忙。要不秀才就得坐牢，人家上头有人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要说有人，有神也不行！三千两银子，让我到哪儿给你找去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没钱不还有首饰的么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥首饰？我的首饰早就被老钱和老邢鼓捣走了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说你首饰？我是说那包东西！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行不行。这包东西是上天送给我的礼物。说啥也不能给他！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呦呵，你还真以为是上天送给你的？一笔不义之财。你别糟蹋老天爷了你！行行，你留着吧。脑袋掉了不过碗大的疤，你明天上刑场，我后天就当掌柜的！店的名我都想好了，老白涮肉坊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，回来！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白迅速走回，取走包袱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "折腾死人了！"
+        }
+      ]
+    }
+  ]
+}

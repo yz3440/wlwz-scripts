@@ -1,0 +1,269 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你吵吵啥呀！你把小贝吵起来你负责啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，但我是有感而发！掌柜的她想寻死哪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不！我们不信！掌柜的决不可能做这种傻事！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也不信，但是我发现了一封遗书，从废纸篓里面找出来的，不信你们看……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，我们还是不信！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "缓和"
+        },
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为我不识字儿你给我念念！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "干咳"
+        },
+        {
+          "type": "line",
+          "line": "嗯嗯……那你们听好了啊……\"大家好我轻轻地走了，正如我轻轻地来……\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "再指女寝窗"
+        },
+        {
+          "type": "line",
+          "line": "那儿念去，那儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "\"……挥一挥衣袖……说声 Bye-bye\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白白？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我小名叫\"白白\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "\"另外此事千万别告诉小贝，我怕她难过，再另，有空欢迎来看看我……\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，拉倒吧，我还想多活两年儿呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "\"三另，不来也行，每天想我一百遍就当是赎罪了\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "赎赎啥罪呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这上面没写，我估计吧，是说小贝的罪！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定是小贝的罪！她不是死活要走，掌柜的也不能想不开！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你接着念哪！掌柜的后面说啥了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "\"永别了我的伙计们！永别了我的同福客栈！——你们敬爱的佟掌柜\""
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "三人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘……一、二、三——出来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子！嫂子！嫂子！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭腔"
+        },
+        {
+          "type": "line",
+          "line": "啊～～～！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了！"
+        }
+      ]
+    }
+  ]
+}

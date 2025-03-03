@@ -1,0 +1,179 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的绳子准备好了么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白、李",
+      "performances": [
+        {
+          "type": "line",
+          "line": "准备好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬二人耳朵"
+        },
+        {
+          "type": "line",
+          "line": "……听明白了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明白是明白了，她要不接茬咋办哪？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就嚷嚷，嚷嚷到她接茬为止……开始嚷嚷——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "仿《哈姆雷特》片段"
+        },
+        {
+          "type": "line",
+          "line": "……To be, or not to be: that is the question,Whether 'tis nobler in the mind to suffer,The slings and arrows of outrageous fortune,Or to take arms against a sea of troubles,And by opposing end them? To die: to sleep;No more; and by a sleep to say we end.The heart-ache and the thousand natural shocks.That flesh is heir to, 'tis a consummation,Devoutly to be wish'd. To die, to sleep;To sleep: perchance to dream: ay, there's the rub;For in that sleep of death what dreams may come……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打住！说啥玩意儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你…你不是骂我们呢吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "莎士比亚的经典独白！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁…谁…谁是莎士比亚啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冲镜头"
+        },
+        {
+          "type": "line",
+          "line": "一个跟我们同时代的英国的伟大的戏剧家。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲吕"
+        },
+        {
+          "type": "line",
+          "line": "你整点儿我们能听懂的话呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是，你也得让小贝听懂啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得听懂哈……活着，还是不活，这是个问题……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上那儿嚷嚷去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是默然忍受命运暴虐的毒箭？还是挺身反抗人世无涯的苦难，斗争，将它们扫个干净？这二者哪一种更高贵？……"
+        }
+      ]
+    }
+  ]
+}

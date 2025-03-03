@@ -1,0 +1,93 @@
+{
+  "type": "normal",
+  "rawDescription": "【厨房，昼】",
+  "location": "厨房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不成不成，那么多人，开什么玩笑啊，我见那么多人紧张，我真的不能演讲，我丢不起那脸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎？啥叫丢脸？你这是造福于大家同时教育你自己，这份工作光荣得一塌糊涂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，师姐，我求求你放过我吧，行吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我当初也是这么求你的，你放过我了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……哎呀，我真的不擅长演讲！人越多我越紧张，我连话都说不出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀、哎呀，你不要唉声叹气的，演讲稿我已经帮你准备好了，你先顺一遍，来来来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "南宫",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看稿子"
+        },
+        {
+          "type": "line",
+          "line": "这跟动物保护有关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不懂，先要励志，把气氛煽动起来，再将你那个动物保护，事半功倍。"
+        }
+      ]
+    }
+  ]
+}

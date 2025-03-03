@@ -1,0 +1,91 @@
+{
+  "type": "normal",
+  "rawDescription": "【白布景】",
+  "location": "白布景",
+  "timeOfDay": "",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "武生小白吃糖人走在前，花旦无双跟在其后"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你老跟着我干吗呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我以后能来找你玩儿吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题！一回生。二回熟。咱俩谁跟谁呀，有空常来玩儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我现在就有空。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是说，等我有空。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你什么时候有空啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "推无双"
+        },
+        {
+          "type": "line",
+          "line": "有空的时候自然就有空了 您慢走，不送了啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双走，小白招呼姬无命姬无病，三人分吃糖人"
+    }
+  ]
+}

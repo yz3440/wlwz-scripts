@@ -1,0 +1,528 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "湘玉从柜子里拿出房契"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你真的要把店交给她呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还没有想好，你觉得呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是你决定吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就把店给她好了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把店给她了咱们怎么办啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "店是死的，人是活的，反正咱手头还有钱，到别处再开家店。我听说十八里铺老邢管辖的那片正有店要盘出去……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉啊，你可得想好了，那是赛貂禅！你忘了她以前怎么对咱的了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉开始回想以前的事，切镜头，回忆"
+    },
+    {
+      "type": "action",
+      "description": "赛貂禅拍着偷来的帐本站在楼梯上，湘玉和伙计们站在楼梯口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你把帐本还我，否则我就不客气了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠跑上楼梯和赛站在一起"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我好怕怕呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "应和"
+        },
+        {
+          "type": "line",
+          "line": "我好怕怕哦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "限你们今晚搬出去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "应和"
+        },
+        {
+          "type": "line",
+          "line": "搬出去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说搬就搬，凭啥呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "应和"
+        },
+        {
+          "type": "line",
+          "line": "凭啥呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不听呀，没有关系，我给你念两条，不过听的时候啊，你们一定把自己想象成娄知县，体会那种怒不可遏，欲先杀之而后快的心情。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "应和"
+        },
+        {
+          "type": "line",
+          "line": "的心情……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听好了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "应和"
+        },
+        {
+          "type": "line",
+          "line": "听好了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三月二十六号，酒水十八两四钱，菜肴二十三两五钱，净赚二十六两八钱。税款……居然是零耶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "应和"
+        },
+        {
+          "type": "line",
+          "line": "税款是零！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉回想完毕，回到现实"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，她以前是害过咱们，但事情已经过去那么久了，做人还得往前看嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "向钱看你还管这破事儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我说的是前后的前不是花钱的钱……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "甭管哪个钱，反正你不能胡来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "做人要厚道……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这是厚道吗？你这是假仗义！这个店虽然是你的，可是我们大家的心血都在里头，这么大的事儿你一个人说了不算！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，那就投票决定！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "过了一会儿，大家都到了湘玉的房间，湘玉在大家面前走来走去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "投票前啊，我先声明，我对赛貂禅没有一点好感！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪个赛貂禅？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "原来那个，我现在见了她还有一种大耳刮子抽她的欲望。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，也不知道是谁喊人家姐妹！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "而且还是前世修来的好姐妹耶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了，还不是让你俩给逼出来的。我之所以想帮她赎身，并不是因为我有钱没有地方花了，而是因为她的情况大家也看到了，再这么熬下去迟早会被小翠给折磨死，我希望大家想一下，如果你沦落到这步田地……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我就认命，谁叫我以前作恶多端，这就叫报应！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无所谓，你爱怎么想是你的自由！我决定投赞成票！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我赞成，不在这儿开店，咱们可以到别处开店嘛！这破地方，我早就呆腻了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不赞成，你说咱好不容易在这儿把人头混熟了，要换个新地儿，那咱得多吃多少苦啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，我也反对啊，别人也就算了。赛貂禅！有没有搞错！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我！赞成！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果换作是我的话，我也希望有人来救我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我反对！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对小郭说"
+        },
+        {
+          "type": "line",
+          "line": "我是反对。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭拿过碗给老白一些"
+        },
+        {
+          "type": "line",
+          "line": "我主要怕她耍心眼！江湖险恶，不得不防啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就三票反对，三票赞成。要不。咱等秀才回来再说，好吧？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家同意"
+    }
+  ]
+}

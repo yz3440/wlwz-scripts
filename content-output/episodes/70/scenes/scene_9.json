@@ -1,0 +1,263 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜，佟掌柜，你？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "来到湘玉面前"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要叫我佟掌柜，如果你不嫌弃，以后可以叫我湘玉姐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉姐，我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫个声姐嘛，看她激动的那个样子！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双不屑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不知道啊，在这个世界上，一个人孤孤单单，无依无靠，那是啥感觉……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么会不知道呢！恩……其实也没什么啦！孤独不是那么难以忍受的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "岂止是孤独啊！那种悲伤，那种绝望，吃了上顿没下顿，过了今天没明天呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不哭不哭了，一起吃饭吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不饿。湘玉姐，我问你个问题中吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你问！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你刚才说的那句话是真的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个……自己感觉呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我感觉是真的，我从你的眼神儿里感觉到了！湘玉姐，我求你件事儿中吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥事儿？没有关系，只管说，只要我能办到！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冲过去握住湘玉的手"
+        },
+        {
+          "type": "line",
+          "line": "湘玉姐，我求求你了，把我从小翠手里赎出来吧，这种日子我一天也过不下去了，再熬下去我非死在她手里不中啊，湘玉姐，我求你了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完跪了下来"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有那么严重吧，快起来！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "扶起赛"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不信，你看！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "赛撩起裙子，腿上全是伤，大家都不忍心看了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有抽的，拧的，掐的。脚上，腿上，胳臂上，还有身上。不信我脱了你看！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "赛说完要解腰带，无双，湘玉上去拦，小郭急忙挡住大嘴和老白的视线"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好，不用看不用看了。我知道了，你放心我一定会替你想办法的啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是想办法，是一定啊！湘玉姐！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        },
+        {
+          "type": "line",
+          "line": "要不然，我下半辈子就没法过了，湘玉姐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好的好的，吃饭先吃饭！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完拿了个馒头给赛"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "赛抽泣着啃起了馒头"
+    }
+  ]
+}

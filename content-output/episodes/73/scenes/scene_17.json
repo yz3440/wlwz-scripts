@@ -1,0 +1,227 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭，佟，无双聊天"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真邪门了……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白与秀才进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们俩来得正好，长话短说，这件事情，打算怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "该怎么办就怎么办，大嘴要是想娶那他就娶，他要不想娶，咱总不能赶鸭子上架吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这事儿，得尊重当事人的意愿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当事我，是指酒后失德的李大嘴，还是无辜受骗的柳星雨啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这什么态度啊，又不是我酒后失德了？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭作势打他"
+        },
+        {
+          "type": "line",
+          "line": "当我没说，当我没说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可柳姑娘说了，非嘴哥不嫁，否则就孤独一生啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不是逼着李大嘴逃婚呢嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他敢，小柳哪配不上他了，他不就是一厨子吗有什么了不起的，他以为他谁啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又不是我要逃婚，你干什么呀这是？——但是我确实觉得这事有点蹊跷，一见钟情也就罢了，见了第一面就哭着喊着要嫁，这确实有点猛，别人我信，李大嘴……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴怎么啦，萝卜青菜各有所爱，连你都有人要"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "佟干咳"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白气得一拍桌子"
+        },
+        {
+          "type": "line",
+          "line": "——当我没说过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你觉得呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别的我不知道，我只是觉得柳姑娘太可怜了，一个人孤零零地闯荡江湖，好不容易找到一个值得托付一生的人结果又是，落花有意流水无情，就像汪洋中的一条小舟，在惊涛骇浪中颠沛流离粉身碎骨，她那颗脆弱的心像被无数双大手轮番摧残着蹂躏挤压……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人盯着无双"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "接着挤呀，你当是挤牛奶呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可柳姑娘真的很可怜呢，我还有师兄罩着，她连师兄都没有，被人骗了，也不知道找谁哭诉去"
+        },
+        {
+          "type": "reaction",
+          "reactor": "吕秀才",
+          "description": "吕威胁状"
+        },
+        {
+          "type": "line",
+          "line": "也当我没说啰"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要不先这样啊，我跟展堂先去打探一下，如果柳姑娘确实是出身清白，咱们再做大嘴的工作也不迟嘛！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人同意，佟拉过老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走。"
+        }
+      ]
+    }
+  ]
+}

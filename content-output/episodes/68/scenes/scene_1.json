@@ -1,0 +1,421 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭打开首饰包让无双挑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双你喜欢什么随便挑啊，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "从小贝手里抢首饰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万不要跟我客气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭你这是干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你帮我那么大的忙"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把无双拉过来"
+        },
+        {
+          "type": "line",
+          "line": "要没有你我跟秀才就完了。你随便挑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了算了，我也是随口说两句吗，没有什么的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你拿我当外人是不是？无双，是姐妹你就挑，反正我的首饰多的是，挑挑挑"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，无双姐，甭跟他客气，这是你应得的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，小贝说得对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那，那我要这个吧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个不行，这是我十八岁的生日礼物，是有特殊意义的…"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是那是……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "又拿起一件"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个也不行，这是我外婆送给我娘，我娘又送给我的……很漂亮吧，有历史价值。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那这个是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个更不行了，这是秀才送给我的第一件首饰，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "软"
+        },
+        {
+          "type": "line",
+          "line": "有纪念意义的……随便挑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要这镯子……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是掌柜的打赌输给我的，有文献价值哟，挑挑挑……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那这个……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个是我从左家庄淘回来的，国外进口的冒牌货，中看不中用啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有关系的啦，只要心意在就可以的啦。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人用尽全力抢簪子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个真的不太适合你，无双……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双最终没抢过小郭"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个真得不太合适……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就算了，算了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双挥挥手，欲走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你挑嘛，你随便挑嘛……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你到底什么意思，愿不愿意送给人家吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么不愿意送给人家了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "挑来挑去，哪个都想送，哪个都舍不得，最后挑中一个镯子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，上好的翡翠镯子，虽然裂了个小口"
+        },
+        {
+          "type": "speaker-action",
+          "description": "比划"
+        },
+        {
+          "type": "line",
+          "line": "这样戴就看不见了嘛……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了不用了，我哪天要巡街万一镯子给碎了，那就不太合适了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "碎了我再送你一样嘛，从今以后，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给无双戴镯子"
+        },
+        {
+          "type": "line",
+          "line": "我的东西就是你的东西——除了秀才啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐你可真仗义，哈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就叫姐妹，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "笑看无双"
+        },
+        {
+          "type": "line",
+          "line": "好好看啊，行，戴上镯子美去吧！不要说谢谢，否则我跟你急，去吧去吧"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把无双推出去"
+        },
+        {
+          "type": "line",
+          "line": "小心镯子啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还挺美啊。人家给了你一辈子幸福，你到好就给了一镯子，而且还是破的，什么人呐！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把被一甩"
+        },
+        {
+          "type": "line",
+          "line": "睡觉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切~"
+        }
+      ]
+    }
+  ]
+}

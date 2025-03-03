@@ -1,0 +1,287 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫小贝悄悄进门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打酒"
+        },
+        {
+          "type": "line",
+          "line": "莫小贝……莫掌门？过来过来过来。哎呀，以为躲着我就不用抄书了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "撒娇"
+        },
+        {
+          "type": "line",
+          "line": "小郭姐姐！我都抄了那么多遍了！再说那个三字经我早就背得滚瓜烂熟了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说好了八百遍，少一遍都不行。这就是你偷东西离家出走的代价。还剩五百遍了，很快的，啊！去吧，去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天哪，五百遍啊，小郭姐姐，你知道绝望的感觉吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "绝望就是再也没有人给你好脸儿，再也没有人给你买糖葫芦吃，再也没有人让你睡安生觉……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再也不想理你了啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我理你，一会儿我就过去检查你啊，抄不好打回去重写！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹芙妹，这样对小贝是不是太严厉了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你帮她抄了，抄五百遍资治通鉴，抄完了我就放过她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，小贝都绝望了呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "绝望，小丫头片子她懂什么叫绝望呀？别说她了，你长这么大你绝望过？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "绝望，有过那么一回。我答应一个戏班子帮他们写剧本。好几十人等着我开工，他们催得越急我写得越慢，脑子跟八宝粥似的，咕嘟咕嘟稀里胡涂的，每写一句话太阳穴就狂跳一下，后脑勺跟着发蒙，全身上下使不出一丝力气，那种想哭哭不出来那种感觉，真是没法说。我现在都落下病根了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "乱抖动"
+        },
+        {
+          "type": "line",
+          "line": "神经性抽搐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁叫你不自量力，不会写就别学着人家接活呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道写剧本那么难啊，那种大难临头无处可逃的绝望……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴拿菜盘出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，别绝望了，有那功夫帮我把菜端出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，大嘴，你有没有那种绝望的感觉呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啊，我天天都绝望了，你想啊，蕙兰在外面吃苦受累的，你说我在这儿啥也帮不上忙，绝望透了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你一天不提蕙兰你会死啊你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你一天不吃饭你会死啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你开玩笑，你急什么啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不许你提蕙兰。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞧你那样，你别白日做梦了，蕙兰早就不要你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥玩意啊，你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就说，咋了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别说了，人家还干活呢。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "蕙兰进，咳嗽，音乐起《相思河畔》"
+    }
+  ]
+}

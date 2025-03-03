@@ -1,0 +1,217 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "桌子板凳还有其他装饰摆设都放在这里，堆得乱七八糟，掌柜的眉开眼笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我的神呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是看这家具太脏，又是油，又是灰的，我就把它搬出来洗一洗嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你呀，大姐，又不是衣服，你洗它干什么呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小声"
+        },
+        {
+          "type": "line",
+          "line": "再说又不是什么好木头，泡烂了你赔呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了，小小郭姑娘也是一番好意嘛，只要东西没有丢，就是最好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻，不愧是传说中的佟掌柜耶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么是传说中的啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我姐在家老说你呀，把你夸得跟一朵花一样。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭在旁边心神不定，生怕妹妹说错了什么似的"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "乐"
+        },
+        {
+          "type": "line",
+          "line": "还夸我，真是稀奇啊。小郭，你最近皮肤也不错。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "乐"
+        },
+        {
+          "type": "line",
+          "line": "是啊是啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜呀，我真的很佩服你，你看你一个寡妇吧，吃了那么多苦，受了那么多累，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭和掌柜的脸都慢慢沉下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是你还是念念不忘，妄图寻找第二春哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咳！你少废话了，赶紧把这些桌椅板凳给我搬回去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "搬凳子进屋"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冷冰冰的对小郭"
+        },
+        {
+          "type": "line",
+          "line": "第二春？还妄图？啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "怕"
+        },
+        {
+          "type": "line",
+          "line": "意思就是……我得加倍努力的干活。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿俩花瓶，从掌柜身边过的时候下意识的躲了一下"
+        },
+        {
+          "type": "line",
+          "line": "你不要踹我啊，宋代青花瓷。"
+        }
+      ]
+    }
+  ]
+}

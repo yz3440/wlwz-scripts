@@ -1,0 +1,201 @@
+{
+  "type": "normal",
+  "rawDescription": "【客房，昼】",
+  "location": "客房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "柳在整理东西，大嘴进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘴哥——你是来赶我走的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那天晚上的事情，你真的一点点都想不起来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳姑娘，你听我的，你先坐，你先坐啊，我跟你说，我这人脑子不是特别好使。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也不是很聪明，要不然的话我怎么会看上你的呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还穷呢，我不是一般的穷啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有关系，嫁鸡随鸡嫁狗随狗嘛，只要能跟你在一起一日三餐粗茶淡饭我别无他求啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可我还是个没前途的厨子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还是个即将退役的条子呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "条子？这是黑话吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘴哥，什么都不要讲了，只要你愿意娶我，受再多的委屈吃再多的苦我都愿意。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也知道，我心里有别人了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "忘掉她！给我一点时间，我会让你彻底地忘掉她，相信我！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴脑海里出现与蕙兰跳恰恰的一幕：自从在同福客栈见到你，恰恰恰，就象那春风吹进心头里，我要轻轻地告诉你，不要将我忘记，恰恰……"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "跳起来"
+        },
+        {
+          "type": "line",
+          "line": "不不不，柳姑娘，我这人脑子一根筋呐，没有蕙兰我宁可一辈子不娶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "柳星雨",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她有什么好的吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "柳追着靠近李"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "躲闪"
+        },
+        {
+          "type": "line",
+          "line": "我也不知道啊，哎，停停停，实在对不住啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "朝柳鞠了一个躬"
+        },
+        {
+          "type": "line",
+          "line": "抱歉，抱歉！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "李逃出客房，柳遗憾地叹气"
+    }
+  ]
+}

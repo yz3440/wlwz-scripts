@@ -1,0 +1,296 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "赛在打水洗衣服，小郭打着哈欠拿着脸盆从屋里走出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会吧，赛掌柜？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "提着装满衣服的木盆走了过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么时候来的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭姑娘，好久不见，你还好吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，哇塞，你这身打扮太前卫了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别取笑我了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪有取笑你，真的真的，现在外面是不是很流行这么穿啊？我好久都没有出门有点跟不上潮流。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟不上……跟不上就别跟了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，你这条裙子在哪里买的？料子好特别啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，这就是一般的粗布，麻的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "麻的好啊，麻的透气而且手感相当不错的！这里面一定搀了丝我一摸就摸出来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你头上插的这是什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这，这就是一般的竹筷子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇塞，感觉不是一般的特别，现在是不是流行自然风？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，自然就是美嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，你脸上的这两团红晕是怎么弄上去的？感觉好自然呐！不会是胭脂吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……应该不会是吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我告诉你啊，我觉得你肤色也没有原来那么白了！现在是不是流行黄脸？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我的脸真的很黄吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不但黄而且很粗糙！现在的流行我真是有点搞不懂了，现在是不是流行病态美？那我明天也去试试看，啧，但是我的脸形好象弄黄了不太好看！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "赛开始感伤"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇塞，哇塞哇塞哇塞，你眼睛在泛光唉！该不会是戴了传说中的隐形眼睛吧？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "赛貂禅",
+          "description": "赛的眼睛开始湿润"
+        },
+        {
+          "type": "line",
+          "line": "哇塞，你该不会是在哭吧？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小翠来到了后院，看见了小郭和赛"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吭吭，果然是在聊天！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边说边拍手里的棍儿"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭和赛站了起来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "赛貂禅",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊，真的没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小翠",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看你是欠打！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说完，小翠又开始追着打赛！两人从后院跑了出去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇塞，现在这个也是流行啊？"
+        }
+      ]
+    }
+  ]
+}

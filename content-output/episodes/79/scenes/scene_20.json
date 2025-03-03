@@ -1,0 +1,197 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "朋友们，我们要走了啊，谢谢大家。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人送别，大嘴站在角落里"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走到大嘴面前"
+        },
+        {
+          "type": "line",
+          "line": "你不想跟我说再见吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，再见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你好象还有最后一根针吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等我想起愿望的时候我会去找你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在呢，任何愿望都可以的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "抱过大嘴"
+    },
+    {
+      "type": "action",
+      "description": "众人尖叫"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰再见，一路顺风……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实，刚才那不是我的愿望。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，别装了，谁不知道你小子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真的，其实我，其实我就想跟他，我……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "小声嘟囔"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说啥，你大点声儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就想跟他跳个舞。就我俩见面的时候跳的那个，恰恰恰！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，那还不简单啊，我们陪你跳啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自从在同福客栈见到你，就像那春风吹进心窝里，我要轻轻告诉你，不要把我忘记，恰恰恰……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "边跳边唱"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇塞，你们都有伴儿！——小米哥哥，跳支舞……"
+        }
+      ]
+    }
+  ]
+}

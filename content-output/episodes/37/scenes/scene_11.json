@@ -1,0 +1,217 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大家的好意无双心领了，可我必须得走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就为了那穷秀才，你至于吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，我只是觉得这样的比赛没有意义。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭和秀才入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那哪种比赛有意义啊，你要是敢说，我就敢比。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你都输了还比啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "切~~刚才那两局不算，重新比。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥不算呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冲无双"
+        },
+        {
+          "type": "line",
+          "line": "就凭公理二字！是我的就是我的，不是我的白给我也不要，如果你不拿出你的真本事，好好跟我比一场，明天我就回京城。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一路顺风，恕不远送。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回家以后呢，我的第一件事，就是去报案。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "报啥案呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "冲大嘴"
+        },
+        {
+          "type": "line",
+          "line": "有位朋友曾经买过私盐，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲掌柜"
+        },
+        {
+          "type": "line",
+          "line": "有位朋友曾经销过贼赃，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲小贝"
+        },
+        {
+          "type": "line",
+          "line": "还有一位小朋友老是叫别人帮她写作文哦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我可是你那头儿的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，你别怕，六扇门不管写作文的事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀老白，你说他们管不管抓贼呢，盗圣？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "双，跟她比，我还就不信了！谁怕谁呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，跟她比，灭灭她威风。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，哎呀~我知道你不敢比，没关系，我给你一晚上的时间，你慢慢考虑，明天一早，成就成了，不成就算了，反正他们几位的生死，就全在你的手里啦。"
+        }
+      ]
+    }
+  ]
+}

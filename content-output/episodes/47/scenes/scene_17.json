@@ -1,0 +1,355 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "湘玉在门边站着，韩娟和老何拿着包袱下楼来。湘玉示意小贝，小贝点头做 OK 神情"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，娟儿啊，再住两天吧，好不容易来一趟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算了你那么忙，我就不给你添乱了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪有添乱嘛，我忙得过来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是不会给你机会反击的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥叫反击嘛？这话我就听不懂了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听不懂就算了，无论如何我这次来还是很开心的，真的很开心。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也是……不管你信不信。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我信——那我就是个傻子！走了走了，走了啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "祝你一路顺风啊！小贝，快跟姐姐说再见呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦对对对。姐姐再见啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "乖喔，好好学习，不要调皮喔！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，爷爷再见！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爷？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个，姐姐，你有空常来玩儿，记得把姐夫也带来喔！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐姐，姐夫？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个，你帮我转告姐夫，等我长大以后也要嫁一个像他一样，又高又帅而且又年轻的大侠！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又……又……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又是一个艳阳天，再不赶路更待何时！走了走了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有啊，告诉姐夫武功差点儿没关系，伶牙俐齿也不是毛病嘛，让他千万别自卑！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "伶伶伶……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这可不是我说的啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我我我是她……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她一外人，你跟她说这干嘛！走了走了啊，走了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她相公就就就是我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "的儿！我都跟她说过了，走了走了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我我我自己走。你你你留这儿！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老何怒，自己走了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老何，你去哪儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 何",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你你管不着！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老何。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人回，韩娟回"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这下你高兴了吧？满意了吧？做梦都能笑醒了吧！哼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "愣着干啥，赶紧出去追！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老何！老何！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘻嘻嘻，露馅了吧！哈哈哈……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟心有不忍"
+    }
+  ]
+}

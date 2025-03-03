@@ -1,0 +1,819 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "杨欲走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，等等等，你这就要走了，你也不跟大嘴打声招呼了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得没有这个必要了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你好歹跟人家说一声嘛。——你放心，大嘴已经对你彻底没有兴趣了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "希望如此。哎，你知道最近的万永李票庄在哪儿吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "最近的呀，好象十八里铺有一家吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴出，端着菜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Hello，may I help you？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我身上没零钱了，就剩这几张银票了，最近的钱庄离这都有二百多里。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，想换点碎银子是吧？自己想办法吧。呵哈哈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我去我去，正好掌柜的要我到十八里铺买点香去，五十两够了吧，行，那我先去了啊，大嘴，你看看店啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，怎么的，想吃点啥啊"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "随便，有没有红烧牛肉面？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想吃面啊，有啊，八文钱一碗，你得付现钱，不然就得饿着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你原来在我心里呀，是这么大"
+        },
+        {
+          "type": "speaker-action",
+          "description": "比划"
+        },
+        {
+          "type": "line",
+          "line": "，现在，就这么大。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你原来在我心里呀这么大，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "比划"
+        },
+        {
+          "type": "line",
+          "line": "，现在"
+        },
+        {
+          "type": "speaker-action",
+          "description": "吹口气"
+        },
+        {
+          "type": "line",
+          "line": "，没了，呵呵呵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我倒是挺喜欢你的幽默感的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没跟你开玩笑，真的，我现在对你一点感觉都没有了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看着我，注视着我的眼睛，不要分神"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哼"
+        },
+        {
+          "type": "line",
+          "line": "你撒谎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰同志，你感觉不要这么好嘛，你是不错，但比你好的有的是，你信不信，我现在往门口我摆一 Pose，吹个口哨，那女孩一堆一堆往我身上扑啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，那你现在就出去找个给我看看，你要是找着了，我就信了你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看那个，感觉好象还不错哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太胖了，你说我俩一对胖子，结果生出一搞相扑的。活不到四十岁就得归西……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个挺瘦的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个瘦是瘦，就是太难看了……那家伙，脸煞白，眼睛还乌黑的，这半夜醒过来还不得吓死谁。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个那个？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别瞎指，人家才十三。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个是成年呐，快看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个倒是成年，儿子都快结婚了，我刚好，娶回来直接当爷爷了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个，那个，快看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，太丑了，一脸苦相，那家伙一看就克夫……那个倒是喜庆，你看你看，就是一天到晚就知道傻笑……那个更不行了，那家伙太严肃了，一脸国仇家恨的，你看你看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了吧，还挑肥拣瘦的，就你这条件，人家不挑你就不错了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别逗了，你不喜欢我，不意味着别人也不喜欢我呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你找个女朋友给我看看？——要么这样，第一个经过的女性，你就……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还必须是得未婚，还得漂亮，还得贤蕙，还得知道疼人……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘘，好象来人了，好好表现，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿玫瑰花给大嘴"
+        },
+        {
+          "type": "line",
+          "line": "不要让我看扁了啊，快去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双走了过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀我的妈呀，干嘛，你让我过去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个漂亮吗？贤蕙吗？是不是未婚啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "兔子还不吃窝边草呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别，认怂了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "认怂？你瞧好吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴对无双一个劲使眼色"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊"
+        },
+        {
+          "type": "line",
+          "line": "是不是出了什么事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，我就觉得这么漂亮的花应该配你这么漂亮的人，我给你插上啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "两人拥抱，悄声"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "店里是不是来了什么人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没什么人啊……哎呀，别，危险！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "果然出事了，来了几个人，武功怎么样，有没有人质，我师兄呢，有没有被敌人制服？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先别急啊，先保持这样，尽量显得咱俩亲密一点儿，说点好听的，麻痹敌人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说，我说什么好听的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说你喜欢我，着重表现你对我的爱慕之情，大声点，说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，我试试啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "甜言蜜语什么的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "柔"
+        },
+        {
+          "type": "line",
+          "line": "大嘴哥哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "柔"
+        },
+        {
+          "type": "line",
+          "line": "无双美眉……就这样，挺好的啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大声"
+        },
+        {
+          "type": "line",
+          "line": "你想说什么你就说吧，没有人会笑话你的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六路过，躲在墙角偷看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行，我说不来，我浑身都起鸡皮疙瘩了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你一定要坚持住啊，咱们店里人的生命全掌握在你的手里了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴大嘴我爱你，就象老鼠爱大米！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么的，你还得着重表现一下你的眼神，还有你的语气什么的，我跟你说，你只有自己先自信了，别人才会相信的，啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿出票"
+        },
+        {
+          "type": "line",
+          "line": "我跟你说，这有两张贵宾票，你先拿去，如果你说得好的话，还有奖励，哎，开始吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "原来秀才给我念过一首诗，我特别喜欢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好啊，念出来，大大声念，大声念。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那一月，我转过所有经筒，不为超度，只为触摸你的指纹。那一年，我磕长头拥抱尘埃，不为朝佛，只为贴着了你的温暖。那一世，我翻遍十万大山，不为修来世，只为路中能与你相遇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说，说，你咋脸红呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我脸红了吗？我没有，我没有脸红，我，我缺氧，我一定是缺氧了，我喘不过气，我还头晕。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "哭着逃走了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你干嘛呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我找你，店里出事了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你是不是中毒了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有中毒啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的脸怎么红得跟猴屁股似的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "脸红吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "把脉"
+        },
+        {
+          "type": "line",
+          "line": "你脉也跳得那么快，怎么了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有吧，还好了，你不要管我了，赶紧把人救出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "交给我了，哎呀呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你说实话吧，店里没事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嘛玩意儿？"
+        }
+      ]
+    }
+  ]
+}

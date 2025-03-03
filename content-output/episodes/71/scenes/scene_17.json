@@ -1,0 +1,67 @@
+{
+  "type": "normal",
+  "rawDescription": "【厨房，昼】",
+  "location": "厨房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "莫小贝采访大嘴，录象模式，小贝拿麦克风采访"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "李大嘴先生，请你简单谈一下你对金湘玉的看法？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "推开莫小贝"
+        },
+        {
+          "type": "line",
+          "line": "干活呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "机器给着呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个她这个人吧特别豪爽，仗义，为朋友肯两肋插刀，跟她相处呢，就是一种享受，就好像是春天中的苞米，粒不大，但是特有嚼头，总之，这辈子能交上她这么一个朋友，一个字，值！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢。"
+        }
+      ]
+    }
+  ]
+}

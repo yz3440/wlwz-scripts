@@ -1,0 +1,275 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄啊，掌柜的怎么样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大夫说，她受了惊吓，虚火稍微有点旺，休息两天就好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我告诉你啊，你下次再敢这样……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦哦哦…你就当场废我武功，无双绝无怨言的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "来客人，老白急忙上前迎"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "客官里边请啊，里边请。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎…你这什么口音啊？师兄啊，你不会就一直这么装下去了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不装下去怎么办呀？现在不管怎么说还有一层窗户纸，这层窗户纸能不捅就不捅，省得麻烦。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉病泱泱得从楼上下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "哟，掌柜的，你怎么不在屋好好躺着，你看，你怎么说下来就下来了啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "急忙上前搀扶"
+        },
+        {
+          "type": "line",
+          "line": "哟哟～～慢点儿，慢点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，我自己会走，小郭，赶紧去准备马车。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "准备马车？你要上哪儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到十八里铺呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再不去就真的来不及了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊啊啊这这……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，是这样，我听说我和那个人长得蛮像的，你不要去了，你直接看我好了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊哈对对对……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看你？你算老几啊？让开！没有功夫跟你废话，快走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你想见就见好了，呦，看你，那么憔悴，快去打扮打扮吧，我们给你准备马车去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "南方口音"
+        },
+        {
+          "type": "line",
+          "line": "是呀是呀，秀才秀才，过来扶掌柜的进房啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才跑来扶掌柜的进房"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有没有搞错，到十八里铺，看谁去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不咋的，都这个时候了，你跟着添什么乱呐你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄我错了嘛，不过你放心啊，我捅的篓子，我负责把他收拾好，决不给大家添麻烦的，嗯，我想想啊……"
+        }
+      ]
+    }
+  ]
+}

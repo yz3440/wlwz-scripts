@@ -1,0 +1,531 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "无双拉着老白说事情。"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白甩胳膊，挨桌去伺候客人，无双紧跟着"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄，我真的不是故意的嘛，早知道这样打死我也不教她。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "过来，我问你，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉无双到榆木桌旁"
+        },
+        {
+          "type": "line",
+          "line": "你都教到哪儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "认穴和指法都教完了，身法教了一半，步法教了三分之一。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "心法呢？心法也教了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍无双的头"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝学东西可快了，我随便一教她就会了。以她现在的武功，跟小六动手，她不出两招。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "完了，彻底完了，现在想废她武功都来不及了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那怎么办啊？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "天真"
+        },
+        {
+          "type": "line",
+          "line": "要不我把她手指头给撅了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我把你手指头撅了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "委屈"
+        },
+        {
+          "type": "line",
+          "line": "那我这么糊涂，我现在怎么办嘛。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐立不安"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "进客栈"
+        },
+        {
+          "type": "line",
+          "line": "老白，快给我倒杯水。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝呢？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双倒水"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        },
+        {
+          "type": "line",
+          "line": "小贝压根儿就没去书院！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那她去哪儿了？我从东街转到西街，南亭找到北桥，我连西凉河我都去过了，连个人影都没有啊。但是我看到河面上有个大窟窿啊。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "老白和无双",
+          "description": "听得老白和无双直冒冷汗"
+        },
+        {
+          "type": "line",
+          "line": "我开玩笑的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "都什么时候了你怎么还有心思开玩笑啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "怒"
+        },
+        {
+          "type": "line",
+          "line": "到底有没有窟窿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "边说边笑"
+        },
+        {
+          "type": "line",
+          "line": "有有有，但人家那是为了钓鱼凿开的。外面都围着砖块呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀，小贝万一掉进去怎么办？冰刀这么快，她一时刹不住，然后就噗嗵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，别胡说八道了，没事儿。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭喝水"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "外头没有，说不定上谁家玩去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大白天的，她不上学人家也不上学？你以为谁都跟咱家小孩一样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "看看楼上有没有动静，轻声道"
+        },
+        {
+          "type": "line",
+          "line": "我跟你们说啊，这件事千万别让湘玉知道，要不然都得完蛋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说得轻巧，那回头掌柜的问我要人，我拿谁给她去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从厨房来"
+        },
+        {
+          "type": "line",
+          "line": "哎，你啥时候回来的？小贝呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "呛水，拍老白"
+        },
+        {
+          "type": "line",
+          "line": "老白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "小贝刚才回来了，然后我批评她几句，我看孩子挺虚心的，就让她上课去了，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "掌柜的",
+          "description": "掌柜的露出怀疑的眼神"
+        },
+        {
+          "type": "line",
+          "line": "那你要找她我现在就给你找去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的坐下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这样，你先上楼歇会儿消消气，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉掌柜的上楼"
+        },
+        {
+          "type": "line",
+          "line": "来来来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "上楼"
+        },
+        {
+          "type": "line",
+          "line": "找去啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找找。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的走两步回头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先上去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的回屋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么办，怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "过了一会，众人都到大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在是紧急情况，天黑之前，务必把小贝给我找回来，咱们进行地毯式搜索。咱们四个分东南西北分头去找。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，你留下陪湘玉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "摆手"
+        },
+        {
+          "type": "line",
+          "line": "不不，我还是去找吧，我又不会说谎。回头逼问起来，我要露馅儿的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那倒也是，咱这里谁最会撒谎？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人看老白"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好吧，我留下，你们快去快回。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人出门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小心啊。"
+        }
+      ]
+    }
+  ]
+}

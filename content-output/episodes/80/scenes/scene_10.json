@@ -1,0 +1,235 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的，无双，小贝三人收拾玉米，小郭从大堂进后院"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，见到凌捕头了，感觉怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "两个字，无聊。我这辈子就没见过这么自恋的人。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "坐井上"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要胡说了，那是误会。我觉得凌捕头还是不错的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那跟小六比起来呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有可比性。他俩根本就不是一个路子上的人。小六是只草鸡，人家就是孔雀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哈哈，你别逗了嫂子，你说小六是只草鸡，这个我同意，这不假，那人最多也就是个芦花鸡。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，就冲你这句话，这个月糖葫芦我包了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "与小郭击掌"
+        },
+        {
+          "type": "line",
+          "line": "耶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对无双"
+        },
+        {
+          "type": "line",
+          "line": "你要是不放心的话，可以先接触一下再说嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万不要接触啊，无双你信我一句话，这个人就是个绣花枕头，金玉其外败絮其中。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了行了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白从大堂进后院"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要真是那样的话就好了。湘玉赶紧收拾东西，快。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "收拾啥呀？你咋还想走呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再不走就来不及了，小贝收拾东西，快快。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家又没有认出来你，看把你吓的那个样子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说啊，这小子绝不是个善茬，从他的眼神里就能看出来跟刀一样，看得我浑身不自在。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是你的心理作用，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看老白渴望的眼神"
+        },
+        {
+          "type": "line",
+          "line": "行了行了，回屋再说，你这个人呐。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对无双三人"
+        },
+        {
+          "type": "line",
+          "line": "干活啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快快，收拾东西，快。"
+        }
+      ]
+    }
+  ]
+}

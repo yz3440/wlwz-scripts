@@ -1,0 +1,614 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大堂，无双和小郭把老白摇醒"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "醒醒，醒醒！~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来先喝杯浓茶解解酒啊，你再擦擦脸醒醒神儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自己来，昨天是什么酒啊，怎么劲儿这么大呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是一般的老白干啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "……微加了一点蒙汗药，不多就一点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哪儿来得蒙汗药？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不顾小郭在一旁使眼色，打手势，指着小郭"
+        },
+        {
+          "type": "line",
+          "line": "她的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "药是我的，但她亲手拆的包。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是她亲手下的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "指着老白"
+        },
+        {
+          "type": "line",
+          "line": "他亲口喝得…"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指楼上"
+        },
+        {
+          "type": "line",
+          "line": "她亲口吩咐的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对就是她，用心何其狠毒，简直是令人发指啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对发指。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉给我下蒙汗药，为什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她脑子糊涂呀，我们都劝她，她不听怎么办啦，搞得我们也很被动的是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "咬牙切齿"
+        },
+        {
+          "type": "line",
+          "line": "祝无双！你给我老实交待，到底怎么回事？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄我错了啦！你废了我武功好了！这破事，已经越来越麻烦了！无双已经没有办法收拾了！早知道这样，当初打死我我也不会编这种无聊的话，现在掌柜的要去京城……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，好了好了，别哭，好好说话！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的要跟你去京城，然后把店卖了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去京城？我什么时候说我要去京城啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她以为你要去京城送死了呗，就想把店卖了，通通路子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不过你也不要急，她心里还是有你的呀，她昨天晚上亲口跟我说得，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "学湘玉口音"
+        },
+        {
+          "type": "line",
+          "line": "该上刀山上刀山，该滚钉板滚钉板，实在捞不出来，我就跟他一起死，也算是对他尽心了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "喜"
+        },
+        {
+          "type": "line",
+          "line": "这真是她这么说得？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你也不要高兴的太早，掌柜的要知道真相，不定发多大脾气呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "发就发，只要她心里有我什么都好办。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，师兄，接下来的事，就看你的喽，好好干，没错的"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完准备溜走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我站住，在我没脱罪之前你哪儿都不许去"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭准备溜走"
+        },
+        {
+          "type": "line",
+          "line": "还有你，去，把他们都给我叫来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "片刻之后，大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呆会等她下来啊，你们先帮我旁敲侧击，等她口风松了以后我再坦白，如果她要是发脾气，诸位帮我多劝着点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那要是劝不住怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "劝不住…那咱就跟她对这干，咱们人多力量大，我就不相信咱们这么多人，还吵不过她一个人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小姑奶奶我求求你消停点啊，小郭，赶紧去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭跑上楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "苍天保佑，如果这回成了，我发誓我这辈子滴酒不沾。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭搀着湘玉从楼上下来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果是卖店的事儿，就请大家不要说了，我主意已定，请大家放心啊，卖了店之后遣散费我一分钱都不会少你们的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，这不是钱的问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊是啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "王先生，这二钱银子你拿去吧，多了我也没有，再换个工作去吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白下了下决心"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你管我叫啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我，展堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看着我，认真看着我。——很像，但你绝不是他。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "眼睛是不会骗人的，你长得很像他，口音学的也不错，但是眼神不对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋不对啦，这不挺对的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂每次看我的时候，眼中充满了温柔和怜惜，这个人不像。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，不是，我刚才心态不好，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白低头调整"
+        },
+        {
+          "type": "line",
+          "line": "这回呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的是怜惜，不是色咪咪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我酝酿一下情绪啊，再来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，我知道你们都不想让我卖这个店，所以想出来这个办法哄我，你们的好意湘玉心领了，但是他一天不脱身我就一天过不安稳，我上辈子欠他的，我认了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完转身出门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嫂子你去哪儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜访钱夫人，她不是很想要我这个店吗？给她就是了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "说完走了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "自言自语"
+        },
+        {
+          "type": "line",
+          "line": "湘玉，玉……"
+        }
+      ]
+    }
+  ]
+}

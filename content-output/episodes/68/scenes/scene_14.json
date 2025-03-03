@@ -1,0 +1,651 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的和小郭愁眉苦脸"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你呀，有没有搞错嘛，她让你推你就推？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你懂个啥？这种事情还得尊重人家自己的意愿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "推是可以，问题是有没有可能是无双不好意思，怕咱笑她？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不可能，辛普森那个样子，你们又不是没见过，无双怎么会呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家哪样了？别的不说，就冲人家那份对乡土的眷恋，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍秀才"
+        },
+        {
+          "type": "line",
+          "line": "你有吗，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍老白"
+        },
+        {
+          "type": "line",
+          "line": "你有吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "下楼"
+        },
+        {
+          "type": "line",
+          "line": "早啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去巡街啊。对了，掌柜的，那件事就拜托你了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放心，去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "进门"
+        },
+        {
+          "type": "line",
+          "line": "这么早上哪里去呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去巡街。对了，I love you 啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "秀才楞"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我踩着你了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "I love you too，早去早回啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再见啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "普森，来得正好，我找你有事呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "小声"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的，我跟你说，你知道无双刚才跟他说什么吗？I love you 就是我爱你呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那个辛普森说 I love you too，就是我也爱你呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说啥来着，我说啥来着？无双就是不好意思，我打小看她长大的，她脾气我能不了解吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个无双……普森你坐啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐坐坐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我已经坐上了，不过我还细想郑重地站起来告诉大家，我这次是送聘礼来的。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大伙笑"
+    },
+    {
+      "type": "action",
+      "description": "片刻之后，几个箱子已经搬到屋里"
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是礼单，你先点点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好说好说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双还没同意呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家都互道老虎油了，你还想怎么样，你少给我添乱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别添乱！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跟小郭抢礼单"
+        },
+        {
+          "type": "line",
+          "line": "我没看呢，我没看呢。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "被小郭咬住手"
+        },
+        {
+          "type": "line",
+          "line": "见笑，见笑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "念"
+        },
+        {
+          "type": "line",
+          "line": "波斯国的蓝宝石……等会，普森，这个是什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是阿拉伯数字，这是一，这是零，后面两个零，就是一百，三个零，就是一千，四个零，也就是一万，以此类推。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那多麻烦呀，直接写一万不就得了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Sorry，这是国际上最流行的一个计算方式。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在在国外做大买卖，都是用阿拉伯数字。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "接过礼单"
+        },
+        {
+          "type": "line",
+          "line": "波斯国的蓝宝石，一百颗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "我万能的神呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "锡兰国的纯金戒指，二百枚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "我果然是个穷人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爪洼国的翠玉镯，三百对。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "这日子没有办法过了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "苏门答腊的玛瑙项链，四百串？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白同样一副不可思议的表情"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "杀了我，现在就杀了我……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "古里国的白银，五千两？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "虚弱的"
+        },
+        {
+          "type": "line",
+          "line": "不要再念了……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "强装镇静"
+        },
+        {
+          "type": "line",
+          "line": "一共就这么点啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不够还有，我可以马上回去准备。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "够了，够了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "如果是这样的话，就麻烦你在这个收据上面签个字。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好说好说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "商人嘛，方便入账。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然当然。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有，另外，帮我转告一下无双，等我订完酒席之后，我马上过来娶她过门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，好啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不着急啊，你慢慢准备着，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "大舌头"
+        },
+        {
+          "type": "line",
+          "line": "慢走，到时候千万别忘了请我们啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "辛普森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一定一定，那我先走了，See you。"
+        }
+      ]
+    }
+  ]
+}

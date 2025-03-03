@@ -1,0 +1,133 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大家都在等对杨蕙兰的审问，小郭小贝出来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，审得咋样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家死活就是不肯说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，没用的，甭管怎么问，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拍李大嘴"
+        },
+        {
+          "type": "line",
+          "line": "你们家蕙兰就是一句'我根本就不认识什么杜子俊，从来没见过也从来没听说过'。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姓杜的，你听见没有？人家根本不认识你，连听都没听过你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花点穴手。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "点住大嘴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我嫂子啊，还在里边谈着呢，不过啊，我估计没什么用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰对我们好像有抵触情绪啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话，把你莫名其妙捆起来，你不抵触？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "事到如今，只能当面对质了，这是解决问题的唯一办法了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对大嘴"
+        },
+        {
+          "type": "line",
+          "line": "葵花解穴手！"
+        }
+      ]
+    }
+  ]
+}

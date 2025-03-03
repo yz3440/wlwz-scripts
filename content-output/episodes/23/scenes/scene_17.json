@@ -1,0 +1,717 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真不愧是大侠呀，瞧那气势。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他在屋里干啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗手呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，那是要杀人呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你可算来了，人呢人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "诸位都放心，十八里铺和左家庄的捕快，全都到齐了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那他们在哪儿呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都在牢里埋伏着呢，就等他一来，到时候把牢门一关，盾牌一挡，插翅都难飞。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就你一个人，听说他的剑法高得很。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有用的，这次全是长兵器，还有弩箭，他要是敢来，横竖那都是一死。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋才来呢，可想你了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这儿有什么吃的没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，有有有，您想吃什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃什么无所谓，只要干净就行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干净，绝对干净，您想啊，那苍蝇都让您——能不干净？我这就给您弄去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我给您做饭去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗手啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，洗手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这儿是不是从来不擦桌子啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的，刚刚擦过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打盆水来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "叫你看看什么叫真正的干净。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一点红很专业地擦桌子"
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都来看看吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别动，洗完手再摸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚洗的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你用什么洗的，要用我这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是我自己配的洗手液。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥液？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去污能力超强，而且不伤手，关键是洗过以后——会留下淡淡的余香。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇——你这是怎么配的？我也想配几瓶去……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，这是我独家密方，不过，如果你喜欢，可以拿一瓶去试一试。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有这个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这瓶也是洗手的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是洗头发的，洗发护法合二为一，而且还有去屑功能。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的手可真巧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这算什么呀，关键我最得意的作品是这一瓶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "名字现在还没有取好，暂时叫洗面奶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好名字啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说这瓶东西呀，洗脸、护肤、去黑头，这是三合一呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥是黑头？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是你鼻头上的一粒一粒小黑点儿——难道你平时没注意过吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊，我还真没有注意过，你帮我看看……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，我还有事情要做，你们等着，大概也就半个时辰，回来一定给你们做一个黑亮护理。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早点儿回来啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "一点红",
+      "performances": [
+        {
+          "type": "line",
+          "line": "洗头啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等你喔！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小六小六！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我能不能跟你谈一下下？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "待会儿再说，没看我正忙着呢吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我就一小下，一小下……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你烦不烦呐，你有那功夫，把你那黑头挤了去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么黑头啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是你鼻子上的小黑点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？有吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啊有啊，还多得很，你看……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个女孩子家，脏成这样，你恶不恶心？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "告诉你们，我先走了，有什么事儿，及时向我汇报！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你慢点走啊，不要伤害他啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "上楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去洗头，我去洗头……"
+        }
+      ]
+    }
+  ]
+}

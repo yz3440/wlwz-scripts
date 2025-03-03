@@ -1,0 +1,131 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人围坐在榆木桌旁"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明天就是决赛了，你到底打算怎么弄吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就这么弄吧，反正也没剩几只鸡了，都是自己人的，明天随便比一场，比完就颁奖。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那要得不上奖咋办呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得不上奖就算他运气不好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那不行，韦掌柜是花了大钱的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "柳掌柜少花钱了？人家连镇铺之宝都拿出来了呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人家钱掌柜可是咱老主顾啊。人家还说了，如果这把得不上奖，人家以后就不来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他爱来不来，咱们又不缺他一个客人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好咧。本来挺好的一件事情，活活让你们给弄恶心了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么就恶心了，都是熟人，给点儿面子吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "面子面子面子，他们要的是面子，可他们丢掉的，恰恰也是面子。你问问他们，这些奖品他们真的需要吗？他们缺这俩个钱吗？为了这个可有可无的比赛，至于吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲老白"
+        },
+        {
+          "type": "line",
+          "line": "起来，参加比赛，靠的是实力，而不是面子。麻烦转告他们，既然敢比就不要怕输，靠这种卑劣的手段，即使赢了，心里能舒服吗？这种奖品，拿回去有意义吗？这种虚招子，骗得了别人骗得了自己吗？还有你们，都好好的想一想。"
+        }
+      ]
+    }
+  ]
+}

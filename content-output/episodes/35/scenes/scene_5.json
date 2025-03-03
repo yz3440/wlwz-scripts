@@ -1,0 +1,361 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，昼】",
+  "location": "客栈外",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跑啊，你倒是跑啊？你不号称练过那个草上飞吗？你飞一个我看看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你，你这是不对的，子曾经曰过……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少废话，今天这戏你要是不好好给我演，别说书，就连衣裳我也敢给你撕，信不信？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "信信信，不过你得先把那本论语还我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给，咱可说好了啊，擒住之后，千万别放手，等我到了再放啊。明白了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "明白了，我尽力而为吧。你可别抱太大希望。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我相信你的能力。来了来了，就那边那个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姑娘请留步。在下闸北陆小哄。交个朋友好吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小朋友，有些事情呢，等你长大再说啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，很好，香山无影脚"
+        },
+        {
+          "type": "speaker-action",
+          "description": "被无双擒住"
+        },
+        {
+          "type": "line",
+          "line": "放开我，放开我，我、我要爆料。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，姐姐对八卦没有兴趣耶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这是真东西，不是炒作，有人抢我的书，逼我出手擒住你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦！谁这么无聊啊，来说给我听听。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你等着，你只要让我擒住，她马上就来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，那你打算怎么擒我呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站在这别动。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "香山无影脚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可不得了了，出大事了。来人哪，救人哪。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕秀才？这事是他叫你干的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没错，从头到尾都是她。千万别说是我告的密啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题。哎，你要不要换个姿势站一下？这有点累。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不行不行，得等她来了才能放。否则，我死定了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是外面那个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就是你说的恶霸？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕先生，救救我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊啊，你等着啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "拉过小冬"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小孩，过来过来，不听话你。你哪个书院的？几年级了？姓什么叫什么？啊？家庭住址在哪，说说说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别装了，这么大人还玩儿这把戏。有意思吗？有意思吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你你你什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你卑鄙，你无耻。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "邱小冬！你不要书了你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邱小冬",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你自己留着看吧。"
+        }
+      ]
+    }
+  ]
+}

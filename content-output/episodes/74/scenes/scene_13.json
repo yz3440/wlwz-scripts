@@ -1,0 +1,195 @@
+{
+  "type": "normal",
+  "rawDescription": "【厨房，昼】",
+  "location": "厨房",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "大嘴在切菜，老白进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我问你，无双怎么得罪你了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有啊，无双人挺好的。多好的姑娘啊，人见人爱的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说是不说，葵花点……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说我说我说，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "左顾右盼后"
+        },
+        {
+          "type": "line",
+          "line": "你就叫无双给我做身衣裳就行了，料子我出，她动手就行了，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你自己咋不说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟小郭打了个赌，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，牛肚跟猪肚之间的区别还是挺大的啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊啊啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就我个人而言呢我比较喜欢牛肚，炒着吃涮着吃都行。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我刚才说哪儿了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你跟小郭打了个赌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，我跟小郭打了个赌，具体情况你就不用知道了，反正你就让无双给我做件衣裳就行了。但必须得是她亲手给我做的，最关键的是，事后别人问起来，她必须得说是她自觉自愿的。那……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭突然进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵，李大嘴，你觉得这样有意思吗？啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我，我，我没耍赖，老白他……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打断"
+        },
+        {
+          "type": "line",
+          "line": "少废话，姑念你是初犯，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出一张黄牌"
+        },
+        {
+          "type": "line",
+          "line": "一张黄牌！三次黄牌直接罚下场！"
+        }
+      ]
+    }
+  ]
+}

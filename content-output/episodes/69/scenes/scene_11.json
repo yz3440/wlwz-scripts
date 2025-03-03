@@ -1,0 +1,367 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "context": null,
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪了，不是韩娟那能是谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打哈欠"
+        },
+        {
+          "type": "line",
+          "line": "爱谁谁，不就一封信，不信不就完了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打哈欠"
+        },
+        {
+          "type": "line",
+          "line": "不是信和不信的问题。要光是诅咒，我倒也无所谓。这封信表明有人要害我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你啊大姐，人家想害你，会用这么弱智的招数吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这也不好说，你不要再睡咧，你帮我想一下，谁跟我有仇？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的仇人那多了去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是不是我的好姐妹呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你的好姐妹又不光我一个，再说你的仇人我怎么会知道？这种事，你最好问无双。人家毕竟是捕快，而且脾气又好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不是把她给得罪了嘛。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "进来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就知道你没睡，有空吗，咱俩聊聊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "瞧这觉悟，主动请聊。快坐快坐。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "打哈欠，倒茶"
+        },
+        {
+          "type": "line",
+          "line": "这才叫好姐妹啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对韩娟"
+        },
+        {
+          "type": "line",
+          "line": "喝茶，你俩慢聊啊，没事不要叫我，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对湘玉"
+        },
+        {
+          "type": "line",
+          "line": "有事也别叫我。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你站着干吗？我又不是外人。快坐！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "看着湘玉"
+        },
+        {
+          "type": "line",
+          "line": "就这样，别动。我给你捋捋头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大晚上的，捋什么头呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你忘了啊，咱俩小时候就互相梳头。那时候你的头发是又黑又亮。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拔一根湘玉的头发揣倒怀里"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦哎呦，轻点儿，轻点儿，行行行我自己会捋啊。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "韩娟",
+          "description": "韩娟把头发藏进怀里"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不梳头，我给你剪剪指甲。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有事儿吧你，韩娟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿啊，我能有什么事儿，手给我。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "给湘玉剪指甲"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "半晌过去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "韩娟把指甲收了起来"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这是干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，指甲多脏啊。回头我揣好给它扔出去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，扔地上就行了，明天有人扫。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，那多不卫生啊。你就甭管了，明天呐交给我就行了。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "湘玉",
+          "description": "湘玉打哈欠"
+        },
+        {
+          "type": "line",
+          "line": "你困啦？那我就不打扰了，明天见啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "韩娟推门出去了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "自言自语"
+        },
+        {
+          "type": "line",
+          "line": "就这么走了，那我的仇人咋办呀？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "站起来"
+        },
+        {
+          "type": "line",
+          "line": "小郭，小郭……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "开门出去"
+        }
+      ]
+    }
+  ]
+}

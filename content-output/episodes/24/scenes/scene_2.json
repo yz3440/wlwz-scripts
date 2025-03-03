@@ -1,0 +1,59 @@
+{
+  "type": "normal",
+  "rawDescription": "【街口，昼】",
+  "location": "街口",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "算卦了，算卦，算……算卦了，算卦。算卦，算卦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我看你是想找骂。谁让你进来的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "阴阳五行，十卦九灵啊！算一卦吧，不灵不给钱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "灵了我也没钱给。出去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她都敢欺负我啊？这日子没法过了！"
+        }
+      ]
+    }
+  ]
+}

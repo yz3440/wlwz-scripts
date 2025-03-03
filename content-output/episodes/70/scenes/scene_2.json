@@ -1,0 +1,285 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿笔边写边念叨"
+        },
+        {
+          "type": "line",
+          "line": "生命中有你，有你……啧，有你跟没有你有啥区别，光让我写你自己咋不写！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "说完将纸揉成一团，扔到了门旁，老白进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，咋的了？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "捡起纸团"
+        },
+        {
+          "type": "line",
+          "line": "写的啥呀这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你没有关系。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "念"
+        },
+        {
+          "type": "line",
+          "line": "生命中有你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还给我！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "将纸夺了过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，终于知道给我写情书了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说是给你写的呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是呀，那你生命中有谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭！见我给无双写信，把她气的，非让我给她写。十篇！我又不是秀才，写字用不着动脑子。憋了一个晚上了，连一篇都没有写出来，烦死人了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "早说啊，这种事啊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就包在你身上了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别逗了，我又不是大嘴，啥事都往自己身上揽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不帮忙就赶紧出去吧。明天一早我就要交给她呢。没有功夫跟你说话了，出去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "建议不想听了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥建议啊？你说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小时侯写作文啊，我们先生不要求质量只要求字数，所以在这方面，咱是专家啊！凑字数有这么几个秘诀，第一，字体一定要潦草，比如说刚才你写到生命中有你时，写不下去了，你就一阵狂草，反正她也看不明白，到时候问起来呢，你就说忘了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好主意，还有呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "第二，一定要说圈话，就是一句话翻来覆去地来回说，就像喝醉酒了一样。到时候她问起你，你就说，当时写得太激动了，情绪失去了控制！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，展堂，你真是个小天才，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "捏老白脸"
+        },
+        {
+          "type": "line",
+          "line": "淘气！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦呦……疼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有就是千万别凑满十篇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "满了十篇她知道你在凑字数。就这三点，对付小郭绰绰有余，写吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "湘玉喜，老白拍湘玉肩膀出"
+    }
+  ]
+}

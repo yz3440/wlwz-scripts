@@ -1,0 +1,323 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人等着钱夫人的到来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么才来呀，等你好久了。来，坐坐坐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "坐。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "摆开架势，钱夫人有些不自然，二人坐下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这是契约，你先看看，有啥问题呀提前讲。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没有问题，给你当丫鬟是我的荣幸。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还是先看看吧。这是两千两银票你也验验。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用验了，我们信得过钱夫人。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人冷笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那好啊，那咱们就别废话了，房契地契。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的从秀才手中接过房契地契，交给钱夫人，钱夫人欲接，掌柜的又拿回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个店我可以给你，但是我有一个条件。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱夫人起身，走到掌柜的对面座位坐下"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟湘玉，你现在没有资格跟我谈条件，知道吧？我肯帮你，那也是看人小贝的面子上，你可别给鼻子上脸，得寸进尺。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就算咧，我们自己想办法弄钱。小郭，送钱夫人出去吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭递给钱夫人契约"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下，啥条件，说吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "帮我下一张房地契的收据。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "收据呀，没问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "必须用左手。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "左手，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "想了想"
+        },
+        {
+          "type": "line",
+          "line": "呵呵，佟掌柜呀，我能问问这是为啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不能，秀才。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走至钱夫人跟前"
+        },
+        {
+          "type": "line",
+          "line": "纸笔都准备好了，墨也磨好了，您慢写。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "左手。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱夫人接过笔，蘸墨，僵住颤抖"
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不会写，我不是左撇子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "写的难看没关系，我们又不拿去卖钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你只管放心大胆的写，不会写我可以教你呀。第一句是，尊敬的朋友你们好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "钱夫人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "故作镇静"
+        },
+        {
+          "type": "line",
+          "line": "佟湘玉，本来呢我是可以帮你的，既然你这么不识抬举，那别怪我无情。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坏笑"
+        },
+        {
+          "type": "line",
+          "line": "钱夫人您的银票。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "钱夫人慢走。恕不远送。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "钱夫人出客栈，老白跟上"
+    }
+  ]
+}

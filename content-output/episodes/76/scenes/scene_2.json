@@ -1,0 +1,301 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，昼】",
+  "location": "客栈门口",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝奔小道跑去，路过小米处"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "佟掌柜早。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝跑回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又惹你嫂子生气了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你有关系吗？烦人劲儿，你那么爱管闲事为什么不去当包打听？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "包打听，俗俗俗，现在都叫信息咨询师。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "懒得给你废话了，我先撤了，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "刚要走，转身对小米"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "千万别跟我嫂子说你见过我啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，需不需要我留意一下你嫂子的动向？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你有那么好心吗？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "坐地上"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没说免费。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说呢嘛，想要什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那得看具体工作量。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我跟你说，没什么工作量。就是让你帮看看我嫂子，能生气到什么程度。晚饭回来之前，向我通报。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "中，那你给我分配一下具体指标。然后我好根据她愤怒的程度来分级。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦行，你看啊，第一级呢，应该是开始唠叨嘴里；第二级呢，满屋乱转；第三级呢，这个脑门血管都要爆出来了，而且能清楚听见，咬牙的声音；第四级，呆坐着不动，阴沉着脸，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小米",
+          "description": "小米叹气"
+        },
+        {
+          "type": "line",
+          "line": "对对对，就像你这样喘粗气；第五级呢，就是开始笑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "笑？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是哪种冷笑，像我这样你看啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "冷笑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪慎人的，以前没有见过她这样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "今天晚上也许就能见到，如果达到第三级，你马上到我书院通报一声，让我有个心里准备，那要到了第四级，第四级，你呢，赶快给我准备点干粮，我好出去躲两天。到了第五级，麻烦你跟你们葛长老说一声，我莫小贝愿意加入你们丐帮。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那欢迎欢迎。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "二人握手，小贝甩脸子"
+        },
+        {
+          "type": "line",
+          "line": "行，你先去吧。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小贝",
+          "description": "小贝起身准备走"
+        },
+        {
+          "type": "line",
+          "line": "回来，回来，刚才还没有谈报酬呢，十文钱一天。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "哽咽"
+        },
+        {
+          "type": "line",
+          "line": "十文钱，那你还不如去抢呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那给你打个八折，八文钱。先预付三文，你不会连三文钱都拿不出来吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁说的，你等着，我给你拿，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "蹲下"
+        },
+        {
+          "type": "line",
+          "line": "千万别把咱俩这次对话告诉别人。否则我有权拒付余款喔。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "奔回客栈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "五文钱还整个余款。累不累呀。"
+        }
+      ]
+    }
+  ]
+}

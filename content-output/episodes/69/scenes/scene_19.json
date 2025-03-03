@@ -1,0 +1,351 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白追到大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "往门外跑，小六堵住门口"
+        },
+        {
+          "type": "line",
+          "line": "官爷，我把银子还给你，请你们原谅我，我这也是生活所迫嘛，你看，牙都没了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是啥生活所迫啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不牙口都破了吗？吃不了肉了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我老实点！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师父，是不是他们逼你这样做的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是。我原来就是打杂的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "打啥杂啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "抹桌子的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么个马卓子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没什么指望了，想哄点小钱，喝点小酒，过过小日子，娶个小媳妇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你终于承认了，那你那些个大神通……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥神通啊，那全是小把戏嘛。装神弄鬼，跟变戏法差不多。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了吧，别糟蹋人变戏法的了。我问你，你能把那碗变没吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴递过来一个碗"
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我能把碗里的饭变没了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人不屑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你能从这墙穿过去吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我能从这桌子底下钻过去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我一边儿去！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行了，使你自己个走啊，还是我？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我自己走，我自己走，不用你背。爷，您这边请。回头等我到牢里，还得指望您关照我呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走吧走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎马卓子，抹布拿着。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "扔过一块抹布"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "到里面接着抹吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "马卓子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这回我一拿着心就踏实了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小六把他拎走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "韩娟",
+      "performances": [
+        {
+          "type": "line",
+          "line": "合着折腾这么久，都是瞎胡闹！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃一堑长一智嘛。展堂，你们先回避一下。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥？——好好好，你们聊你们聊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大家都退出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒壶茶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，来了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "归根结底啥叫迷信？先迷而后信。先把你给弄迷糊了，叫你不信也得信。比如说那封信，就是利用了人们对未知的恐惧。再不就是那个障眼法，比如伸手下油锅。大多数迷信活动利用的都是这一点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从门外进来"
+        },
+        {
+          "type": "line",
+          "line": "噢，怪不得让我回避了，这不都是我的话吗？现学现卖是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我自己也会说啊。要破除迷信只有一句话，不迷就不会信，不信就不会迷。这句话你说了没有？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈外，夜】",
+  "location": "客栈外",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕先生——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "读书——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我唯一的爱好是读书。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你舔手指干嘛呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "翻书啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位先生多亏了你，否则我就摔死了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位兄弟，你知不知道，未经允许擅自寻死，是违法的……那已经触犯了大明律——"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会很严重吧？受什么惩罚？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会很严重啦~最多就是当街问斩。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先知道摔死算了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你果然想寻死，真是公堂有路你不走，大狱无门你偏来投，束手就擒吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放着我来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来者何人？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她是我未婚妻，刚才就是她把我推下来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃~不是，我们在上面闹着玩，他一不小心就滚下来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯哪~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯~我明白了~打是亲骂是爱，是不是那个意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "官人是过来人——明察秋毫……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不敢当，保护百姓，维护治安，既是职责，也是义务嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说得好，请问高姓大名？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "风……来无影去无踪的风，在下告辞，后会有期。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "后会有期。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "追风又回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么又回来了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思，打听一下，知不知道同福客栈怎么走？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道~看那块牌子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！哎呀！哇塞~赶紧去帮我开个房间！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没问题，没问题。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "追风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎哎，有没有发票，我要手写的那种。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然有了，正规生意——来客了，客官里边请。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "客官你走好哦，来，你小心台阶……"
+        }
+      ]
+    }
+  ]
+}

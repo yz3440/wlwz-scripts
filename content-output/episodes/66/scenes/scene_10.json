@@ -1,0 +1,191 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的坐床上生闷气，小郭端着餐盘摸进来，一脸谄媚"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟哟哟，这不是郭大女侠吗，快点放下，这种小事情怎么敢烦劳您哪？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，我错了，我承认那些话是我说的，可我实在没辙呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没有辙，那些话谁逼你说的？拷打你，审问你，还是拿刀架着你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你听我跟你解释，我那个妹妹吧，她从小就爱缠着我，我干嘛她就干嘛，我上哪她也上哪，我说话办事啥样吧，她就照着学，上次我回家，她就一直缠着我要给她讲故事，我这一高兴吧，我就……你也知道，说书嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就好好说嘛，第二春是咋回事情？还还那个抠门小气唠叨？你啥意思嘛你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我……那是为了增加戏剧效果嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，戏剧效果，那我一定是苦情戏了吧？一个不甘寂寞的中年寡妇，不知廉耻的缠着人家青春正茂的小白脸不放，对不对？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没那么夸张，掌柜的，呆会下去我就跟她解释清楚，你先吃点啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "给掌柜的夹菜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少来，这件事情已经在我脆弱的心灵上蒙上了一层抹不去的阴影，不要想就这么过去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "笑容"
+        },
+        {
+          "type": "line",
+          "line": "那你还想怎么样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "你还敢跟我耍态度了你？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭吓一跳"
+        },
+        {
+          "type": "reaction",
+          "reactor": "李大嘴",
+          "description": "大嘴进"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，不好了，小郭她妹还有无双在底下打起来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "继续谄笑"
+        },
+        {
+          "type": "line",
+          "line": "打起来了……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "反应过来"
+        },
+        {
+          "type": "line",
+          "line": "打起来了？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "三人奔出"
+    }
+  ]
+}

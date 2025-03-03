@@ -1,0 +1,323 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "佟捧着一饭过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来吃饭了吃饭了，小贝过来，过来"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝蹦蹦跳跳过来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还学会跑堂呢。展堂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吃饭呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，来了"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "一瘸一拐的进大堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "鞋穿得还习惯吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "习惯，刚开始穿有点挤，现在咋更挤了呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，我忘了告诉你了，这双靴子有点缩水"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白吃惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "汗出得越多，靴子就越小，所有你千万要注意啊，不要让你的脚丫子出汗，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊？！——那我注意吧，来来来，吃饭吧"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人正准备拿馒头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等一下，今天有一个小节目，我特意准备的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就赶紧的，再不出门可就迟到了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听好了啊，在你最饿的时候，面前有一盘白面馒头，还有，等一下啊"
+        },
+        {
+          "type": "speaker-action",
+          "description": "往柜台走，拿出窝头"
+        },
+        {
+          "type": "line",
+          "line": "一盘馊了的窝头，你会选哪一个？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人捂住鼻子，恶心"
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "肯定是……白面馒头了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭、大嘴、秀才、无双纷纷选择白面馒头，刚好拿完了馒头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "馊窝头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "因为没有白面馒头了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你心里面想选哪一个啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那跟他们一样，白面馒头呗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我劝你慎重啊，选择正确答案能够获得脱靴子的机会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "馊窝头，就它了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "太好了，一个都不许剩下啊，否则就前功尽弃了，吃吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人不怀好意的笑，老白望着窝窝头，开始唱"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "（唱）手里呀捧着窝窝头……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "（唱）菜里没有一滴油。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白艰难地咽下一口口的窝窝头，众人一个劲地吃菜"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱吃菜吧，吃菜。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白面馒头香啊！"
+        }
+      ]
+    }
+  ]
+}

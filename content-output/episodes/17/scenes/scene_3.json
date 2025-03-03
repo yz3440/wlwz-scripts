@@ -1,0 +1,388 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，夜】",
+  "location": "后院",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那，就在大嘴他们屋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他们咋睡到这个屋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他们自己要求的，——嫌客房太贵。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三个人挤一个屋，不难受吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这算啥啊，晚饭的时候，三个人还分一个馒头呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "能是谁呢？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "郭芙蓉",
+          "description": "小郭敲门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "三位大侠，我们佟掌柜求见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "三人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师妹。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁是你师妹？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衡山后学祝小芸有礼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就你有礼，我们都没礼？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢，你们是衡山派的呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "在下陆一鸣。这位周敦儒周师弟，这位祝小芸祝师弟。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小芸撩撩头发"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位是师弟呀？——你们找小贝干啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当掌门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自从我们莫掌门去世以后，衡山派群龙无首，这回我们请她回去，执掌门派。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们都是前辈的师兄，包括你。文才武略啥都比她强，你们为啥不另选一个呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我们选了呀，可一选就打，打了再选，选了又打。两年下来就剩我们仨了 。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就从你们仨里头选呗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "三人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你什么意思啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没意思……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没意思是什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就随便说了一句真的没意思……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "衡山派历史悠久威名显赫，当我们的掌门怎么会没意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我真的是没什么意思……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就叫言者无心听者有意呀。祝师弟你是不是也想当掌门呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要血口喷人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "连一招平沙落雁都使不会，你还想当掌门，做梦吧你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "周师兄欺人太甚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看看终于露出真面目了吧。来来来，用你那宝剑杀了俺吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都闭嘴。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "周敦儒",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怕了吧，祝小姐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝小芸",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他逼我的。看剑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "陆一鸣",
+      "performances": [
+        {
+          "type": "line",
+          "line": "住手，好吧，来吧，看剑吧。"
+        }
+      ]
+    }
+  ]
+}

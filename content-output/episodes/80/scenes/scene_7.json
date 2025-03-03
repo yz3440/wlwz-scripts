@@ -1,0 +1,285 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的正在化妆，响起敲门声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是无双吧？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双推门，抱着一个大包袱入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么知道是我啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是咱们店里唯一一个进门之前先敲门的人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找我有事吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩……我给小六做了件袍子，你交给他，就说是你做的啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋不自己给他呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我懒得跟他说话了，说走就走。连招呼也不打，什么人嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，他这一走，以后大家见面的机会就少了。有啥心里话，还是当面说开了比较好吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没什么话跟他说。——这袍子先放你这儿，你千万别忘了给他啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双出，掌柜打开包裹看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀！还是无双的手巧，哎呀你说这么好的姑娘，咋就没有人要呢！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白突然推门进来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，我想过了，这回咱必须得走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "疑惑"
+        },
+        {
+          "type": "line",
+          "line": "上哪儿去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "汉中，你不正想回家过年看看吗？我陪你。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白坐下"
+        },
+        {
+          "type": "line",
+          "line": "凌腾云这一来，我还怎么混呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俺们家一到过年就有好多捕快来拜年。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "放个包裹入柜"
+        },
+        {
+          "type": "line",
+          "line": "留在这儿只需要对付一个，回到汉中呢就是一堆，俺爹肯定带着你到处显摆。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "模仿佟老爹语调"
+        },
+        {
+          "type": "line",
+          "line": "这是我的女婿，哈哈……一身的武功，对咧，把你那个葵花点穴手耍一耍瞧一瞧。怎么办？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耍就耍，在哪儿当猴耍也比在这儿担惊受怕的强。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "坐下"
+        },
+        {
+          "type": "line",
+          "line": "呀，你咋忘了呢？咱有免罪金牌。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "走来走去"
+        },
+        {
+          "type": "line",
+          "line": "免罪，但它免不了惊，一听到他的名字，我现在就出一身冷汗，一见着他我又得是一身冷汗，这大冬天的你忍心把我活活冻死吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好、好吧，我先征求一下小贝的意见。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不用问了，小贝正收拾东西呢。你也赶紧收拾，马车我都准备好了，明儿一早咱就起程，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "收拾，我看看小贝去。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白出屋，掌柜的沉思"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "无双出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，无双，你急忙慌上哪儿去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "巡街啊，噢，午饭我不回来吃了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你站住，巡街咋不带刀呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀？哎，我刀放哪了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说你啥记性啊，这么大姑娘了做事咋丢三落四的呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先把你们家湘玉姐伺候好再说吧，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，你还敢顶嘴了，你信不信我一指头我戳……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打断"
+        },
+        {
+          "type": "line",
+          "line": "展堂，人家好歹也是个捕快嘛。大姑娘的，给她留点面子嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎！还是湘玉姐明事理，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "冲白嗔"
+        },
+        {
+          "type": "line",
+          "line": "走了啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！裤腿卷成这样你就好意思出去？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双坐在门槛上卷裤腿"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你现在到底怎么回事儿？做事丢三落四的，心里寻思啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪有啊！我前面干活就忘了卷下来嘛！小 case 啦小 case。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "转身欲出"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀！你不带刀啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀……哎，我前面是不是找刀来着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刀还是小事啊，你看看你这衣裳，这都脏成什么样了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那又怎么样啊，脏了就卷进去嘛，反正我是巡街又不是逛街。哎呀，穿那么漂亮干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还有这头发，这头发上还有杂毛呢！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "老白上去抚"
+        },
+        {
+          "type": "line",
+          "line": "哎呀还分叉！还有这鞋，这鞋底全是泥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁鞋底没有泥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要忘了，你学过轻功，鞋尖上有点泥还说得过去，鞋后跟上都有泥这就说不过去了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哟，那能说明个啥嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说明她心散了。心散了，走路就会失去重心，鞋后跟就会着地。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对祝"
+        },
+        {
+          "type": "line",
+          "line": "你老实交待，你最近心里想啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说没有就没有。以后我的事你少管。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你——"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "被佟扯住"
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒茶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从祝手里抢过茶壶"
+        },
+        {
+          "type": "line",
+          "line": "人家喝茶呢？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟对祝笑"
+    }
+  ]
+}

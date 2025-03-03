@@ -1,0 +1,292 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，凌家确实很厉害，还救过我的命。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白边擦酒坛子边听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "惊奇"
+        },
+        {
+          "type": "line",
+          "line": "啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十年前呀，我跟俺爹去西安看花灯。刚刚入夜，满街都是行人，我一不小心就被人群给冲散了，就哭着找俺爹，忽然一个蒙面的黑衣大汉冲了过来。一把将我抱在怀里。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "奇怪的表情"
+        },
+        {
+          "type": "line",
+          "line": "哇噻！哎哎哎，不对呀，十年前你多大呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "多大？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十二岁啊，"
+        },
+        {
+          "type": "action",
+          "description": "众人无语"
+        },
+        {
+          "type": "line",
+          "line": "十四岁。"
+        },
+        {
+          "type": "action",
+          "description": "众人沉默"
+        },
+        {
+          "type": "line",
+          "line": "也有可能十六岁，我记不太清楚了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "真笨，把你现在的岁数减去十不就清楚了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急，起身"
+        },
+        {
+          "type": "line",
+          "line": "你还想不想听故事了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "陪个笑脸"
+        },
+        {
+          "type": "line",
+          "line": "想想想，接着说接着说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我当时吓的不行，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "抓着老白的手"
+        },
+        {
+          "type": "line",
+          "line": "还没有来得及喊非礼呀，嘴就被那个人堵上了。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白用手堵住掌柜的的嘴"
+        },
+        {
+          "type": "line",
+          "line": "我挣扎了两下，"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白锁住掌柜的的喉"
+        },
+        {
+          "type": "line",
+          "line": "就这个样子。那个人就用他的拇指食指还有中指，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "手比画着"
+        },
+        {
+          "type": "line",
+          "line": "按在了我的咽喉。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "直接说锁喉不就得了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是锁喉，说时迟那时快，只听见嗖嗖两声，那个蒙面大汉一声惨嚎，捂着手就逃走了，后来我才知道，那是凌家兄弟在追捕盗贼，那个贼本来想拿我当人质，凌家兄弟嗖嗖发射暗器，把我才救了下来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呦，那你没想过以身相许什么的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想许呀，人家倒是肯要啊。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "老白将抹布摔在桌上"
+        },
+        {
+          "type": "line",
+          "line": "要也不给，平生最讨厌捕快。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "拿刀"
+        },
+        {
+          "type": "line",
+          "line": "你嘛意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "又没有说你，展堂你不会是吃醋吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会，我没事，跑堂了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呜哇呜哇，呜哇呜哇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就会添乱，啥事都不会干，干活去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "倒酒。"
+        }
+      ]
+    }
+  ]
+}

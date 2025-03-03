@@ -1,0 +1,99 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈口，昼夜】",
+  "location": "客栈口",
+  "timeOfDay": "昼夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师傅，这边有家客栈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您慢点，咱们先在这歇会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "甭歇了，这算什么，想当年给先皇炖佛跳墙的时候，我是七天七夜没合眼呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "结果还给炖煳了。——您这都说过八百多回了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你这小子——哟哟哟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还是留神您那腰吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "诸葛孔方",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这腰唉……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "清 风",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱们先上那边坐一会去。"
+        }
+      ]
+    }
+  ]
+}

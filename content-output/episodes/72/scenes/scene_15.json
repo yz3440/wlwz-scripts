@@ -1,0 +1,237 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白胃痛，痛苦地跑堂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，展堂，胃里还难受吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚刚吃的全吐了"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "佟朝他走去"
+        },
+        {
+          "type": "line",
+          "line": "——我不是故意想吐的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道，一口气吃了那么多还是馊的，真难为你了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展尝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，废话别说了，我这靴子能脱了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想脱就脱吧"
+        },
+        {
+          "type": "reaction",
+          "reactor": "白展堂",
+          "description": "展堂欲脱靴"
+        },
+        {
+          "type": "line",
+          "line": "——反正我以再也不会送东西给你了"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "停止脱靴，满脸委屈"
+        },
+        {
+          "type": "line",
+          "line": "你不是说了吗？选择正确答案就可以脱靴子？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "正确答案是馊窝头啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要你不疯不傻不聋不瞎，每个人都会选白面馒头，只有你会选那种答案。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白无奈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀你的品味还真够怪的，我这个正常人确实不能够理解。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "走到柜台前，记帐"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，我错了，我真知道错了，早知道这样打死我我也不选馊窝头，我也不选她们了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你真的知道错了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道错了，大错特错了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你还会不会犯同样的错误啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "同类错误决不再犯，我对天发誓。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想脱就脱吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白赶紧脱靴。佟拿过他的靴子朝楼上走"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那一会我穿啥啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要么穿这一双要么光脚，你自己选吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "……鞋拿来吧。"
+        }
+      ]
+    }
+  ]
+}

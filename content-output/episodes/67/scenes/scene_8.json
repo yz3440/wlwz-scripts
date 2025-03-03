@@ -1,0 +1,327 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人模拟老白的招数"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听好了啊，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指小郭"
+        },
+        {
+          "type": "line",
+          "line": "你，就是你爹，秀才还是秀才，我还是我，小贝是你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这什么意思啊，你到底想干嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "模拟一下，看看效果，过来过来。小贝，开始。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "爹，哇噻，人家想死你了啦"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉这小郭的手做亲昵状"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恩啦啦啦~我跟我爹根本就不可能这么说话，小贝。最多也就是，爹，你来啦，呵呵呵~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "傻笑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个我会，爹，你来啦，呵呵呵~~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "傻笑"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "伯父好，在下姓吕，吕轻侯，双口吕，幸会幸会"
+        },
+        {
+          "type": "speaker-action",
+          "description": "握手，老白赶紧点住"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "使劲握"
+        },
+        {
+          "type": "line",
+          "line": "行啊侯哥，这都没事儿，那就休怪老夫不客气了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "打圆场，握住小郭手"
+        },
+        {
+          "type": "line",
+          "line": "哎呀，这就是传说当中的郭巨侠呀，妈呀，我崇拜你不是一天两天啦……——怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么怎么样？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我先给秀才点住，让他撑过第一关，在你爹刚要发力的时候，我立马过来接手，怎么样。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，妙计啊老白！这条就算过了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "下面说第二条~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是说握完手就完了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "握手是第一关，接下来就是"
+        },
+        {
+          "type": "speaker-action",
+          "description": "模拟"
+        },
+        {
+          "type": "line",
+          "line": "小吕啊，你练的是哪派武功啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无门无派，无师自通的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "模拟"
+        },
+        {
+          "type": "line",
+          "line": "那也就是自学成才啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也可以这么说，子曾经曰过~（嗯？）谁是子？子是谁？没听说过。练武我觉得最重要的就是讲究那种内练一口气，外练筋骨皮，只要能做到内外兼修，就什么妖魔鬼怪就都不在话下了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "模拟"
+        },
+        {
+          "type": "line",
+          "line": "哈哈哈哈，说得好，那咱俩比划比划~"
+        },
+        {
+          "type": "speaker-action",
+          "description": "秀才倒大嘴和展堂迅速拽起来"
+        },
+        {
+          "type": "line",
+          "line": "喂喂喂，你说，你接着往下说啊，不内外兼修吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "刚刚过了握手那关，现在还得比划比划~这什么爹呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我爸爸就从来不跟人比划……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那实在不行，还是撤好了！三十六计走为上，他要问起来，就说我们俩去旅游好了，谅他也不敢把你们怎么着，收拾东西"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "两人各自迅速跑回自己的房间"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上哪旅游？找掌柜的！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂、大嘴、小贝去找掌柜的……"
+    }
+  ]
+}

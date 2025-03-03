@@ -1,0 +1,279 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你跑这么快干嘛？我保证不打你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "求求你，求求你，别缠我，烦死了，我这两天很倒霉的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "只要你跟无双接道个歉，我立马放过你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭什么呀？我做错什么了呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，很好，哼哼哼哼，香山无影脚。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呀呀哎哎。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小贝，放手。听见没有。小孩还欺负大人了，象话吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你去转告祝无双，想叫我道歉，下辈子吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我站住。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你给我站住。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀呀呀，这干啥呢这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "才回来，人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人，您老这，这儿。慢点儿，慢点儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老爷子，您老今年贵庚啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不贵，五文钱一张画。只关画，不管裱，谢绝侃价。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对湘玉"
+        },
+        {
+          "type": "line",
+          "line": "耳朵不好使，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老人"
+        },
+        {
+          "type": "line",
+          "line": "他是问你多大岁数？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我只会画画，不会数数。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就先画起来，先画起来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "画不了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咋了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这个胃里头没食啊。我饿了好几天了，我这一哆嗦呀，手没劲，我拿不住笔呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这就叫人给你弄去啊。想吃点啥？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们这有没有，那没走油的走油肉啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怪不得这老头这么胖，——你就不怕消化不良？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "老 人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凉了你热热不就成了嘛。不我在乎啊，什么酱肘子，什么火爆腰花。你都招呼呀，去，赶紧做去。"
+        },
+        {
+          "type": "line",
+          "line": "哎，送楼上来给我。"
+        }
+      ]
+    }
+  ]
+}

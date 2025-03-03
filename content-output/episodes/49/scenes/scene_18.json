@@ -1,0 +1,377 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，夜】",
+  "location": "女寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "慕容四处看看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这屋，平时都谁收拾啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有时候是我，有时候是小贝。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说说，你家里那么好的条件你不呆，跑到这儿来吃苦受罪来？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "还不是都是因为他？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一个娇生惯养的富家千金，为了吕大侠，不惜抛开一切，千里迢迢赶到这里，这是何等的魅力啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等会等会，咱能不能实话实说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这不是实话吗？富家千金对吗？娇生惯养对吗？抛开一切为了他对吗？那我说的都对吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对，对，那下一个问题！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你喜欢他什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "换个问题……把喜欢换成讨厌！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，你讨厌他什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "自怜自艾、自私自利，心里从来就没有别人！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "举个例子说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "举个例子，我问他，如果从天而降二十五两银子，问他怎么花，你知道他怎么回答的吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回答？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他竟然要把白马书院从里到外整修一遍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再苦不能苦孩子，再穷不能穷教育，这两句朴实而有力的话语，一直回荡在吕大侠那忧国忧民的心中。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻，又来了，慕容姑娘，你能不能听我把话说完啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，你说你说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又接着问他，如果是二百五十两，他会怎么花，你知道他又怎么回答吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么回答？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他要把西凉河的河堤从里到外都整修一遍！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "为了百姓安居，为了商户乐业，他倾家荡产也在所不辞！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇噻，慕容姑娘，我觉得你这样很不好耶！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊……不好意思，我这职业习惯，你继续！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又接着问他，如果是二千万两银子，他会怎么花……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上缴国库——你怎么不写了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说实话，我不知道该怎么写，像他这种博大的胸怀，已经超出了我的描述能力了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是，你夸他我不反对啊，但你照死了夸，我觉得有点不太合适了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是说真的，谁都会作白日梦，谁都想着 '夸嚓'有一天一笔巨额财神砸在你头上，然后你就花天酒地、纸醉金迷，那你说说，谁有他那么无私啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他……他谁都想到了，连门口的小叫花子都有双银筷子，就我什么都没有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那才能证明他无私啊，先人后己，先公后私，把自己的需求和利益放到最后一位！你说说，这样的人不是大侠，还有谁是大侠？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可是……这样的男朋友，你要吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "慕容子",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "羞"
+        },
+        {
+          "type": "line",
+          "line": "我当然要……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起啊，名草有主了！下一个问题。"
+        }
+      ]
+    }
+  ]
+}

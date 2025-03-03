@@ -1,0 +1,649 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀妈呀，这啥玩意儿那么红啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我给我，不是我的不是我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "红不啦叽的，啥玩意啊这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我给我，不是我的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来来来来，我看看我看看，这要是你的就麻烦了，这姑娘腰身够细的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去去，她送你这干啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我也不知道，硬要塞给我，不收也不好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦，这姑娘的性格还挺开朗的嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "挺开朗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "郭小姐不会因此有啥意见吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我能有什么意见，就是觉得有点不卫生。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么不卫生了吗，我觉得蛮卫生的呀，哎，闻起来香喷喷的呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，小六，小六你来了，来来来，进来坐呀，快进来坐呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你怎么又来了，我就不坐了，改天再聊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "亲小六"
+        },
+        {
+          "type": "line",
+          "line": "——走吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，你小子跑什么呀？你脸咋了？咋这么红呀？咋回事儿？谁打的？——六六六……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，邢捕头，我正好找你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，不准跨进来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这不，外地丐帮来了两个朋友，你帮我招待一下，都是咱圈里人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥我招待呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对众人"
+        },
+        {
+          "type": "line",
+          "line": "哎，邢捕头这一路你知道是咋……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你能不能换个新鲜点儿的招？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "招不在新，管用就行。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，放这儿就行。你们忙去吧，我自己来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不用再给你做俩菜去？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用不用，够了够了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "有啥事儿说话呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "知道了，我跟你讲啊，我不叫，都不准出来！要不然我不给饭钱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，老邢，人都进去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "进去了，赶紧赶紧的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我给你介绍介绍，这是大周，这是小刘。这位邢捕头，是刚入帮的兄弟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大 周",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你几袋呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你没关系，赶紧吃完赶紧走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大 周",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你是咋说话的？这两位都是圈儿里有头脸的人物，看见大周那身上的袋子没有？装上米，能把东街的米埔搬空了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没别的意思。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你啥意思啊？你欺负谁啊？不就是一桌饭吗？是哪个没有吃过呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你瞧你瞧，小刘生气了吧。这么大人咋一点规矩都不懂？这么多年江湖杂混的？说起来还是个捕头呢？朝廷俸禄都喂哪儿去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你们还有完没完？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好小子，敢以下犯上不是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再来劲把你们全逮起来！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "回来，别走。想逮人不是？给，逮我走。回来审起来的时候，别怪兄弟不留口德！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，二位，坐坐。都自家兄弟，别伤了和气，吃着喝着，喝着吃着，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来吃，兄弟们，不要客气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这还差不多。哎，你这把刀不错啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "当然了。你小心点。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，太好了。我正好要去昆明一趟，拿着这把刀，正好防身呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这是官刀啊，官刀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "要的就是官刀，要不能够吓得住谁呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大 周",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你带刀，那我带啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你随便招呼。——我看这个靴子不错，穿上它，逃跑肯定快啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大 周",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这靴子结实不结实？这底子行么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这肯定结实嘛。这可是官靴。哎呀，你这个小兄弟不错，找个机会，给他升个袋。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听听听听，小邢，还不敢快谢谢人家小刘。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我谢谢小刘，我谢谢您全家，我谢谢你祖宗十八代。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用客气嘛，都是兄弟哥们儿。哎，你这个腰带是啥料做的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大 周",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这帽子不错，装米我看正合适。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "正好可以帮我捆袋子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "大 周",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个料子不错。这个料子很好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小 刘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "裤子，脱脱脱。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走吧。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "唱）沧海笑，滔滔两岸潮……"
+    },
+    {
+      "type": "dialog",
+      "speaker": "邢育森",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我这是造的什么孽呀？"
+        }
+      ]
+    }
+  ]
+}

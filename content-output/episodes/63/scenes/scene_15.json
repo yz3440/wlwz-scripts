@@ -1,0 +1,821 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "老白坐在门口无聊，掌柜下楼"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，有什么吩咐啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吩咐不敢当，建议倒是有一个，我付你工钱，可不是让你坐到这游手好闲的。来来来，把毛巾搭上，干你的活去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，我的活具体是指？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跑堂，没有干过？但总见过吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "见过，见过，松江也有好多饭馆。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那就赶紧跑起来吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "绕着桌子跑"
+        },
+        {
+          "type": "line",
+          "line": "一二一，一二一……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，你这是干啥嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你不是让我跑起来吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，想玩是吧？你爱咋跑咋跑，我绝不拦着你，要不要给你当拉拉队呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "委屈"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，你说些什么我一句都听不明白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听不明白就说明你玩的还不够疯。你现在就出门。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "然后呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从这里跑到东街，买个烧饼再跑回来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "咱们店里没有烧饼啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是为了锻炼你呀，跑堂最需要的就是脚力。我数到三十，你不回来就不要想吃晚饭。各就各位，预备，一，二，三！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白冲出去，差点把刚进门的小六和无双撞个跟头"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白这着急忙慌的干嘛去这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他想跟我玩，我奉陪到底。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，这人都回来了，你就不要再玩了吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，是他先出招的，我怎么可能不接招呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先歇会，我先找他谈谈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "无双，我知道你也是好意，但我跟他……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "老白又蹿回来"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，掌柜的！我忘记了，您没有给我钱啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从存钱罐里拿出几个铜子给老白，老白又跑出去"
+        },
+        {
+          "type": "line",
+          "line": "哦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你到底要折腾到什么时候吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不是我，是他，他想玩到啥时候我就奉陪到啥时候，看谁耗得过谁。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "背景音乐，快板的《江湖》，老白被掌柜使唤得跑来跑去，到最后无双和小六都不耐烦了，老白还在一趟一趟跑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "疲惫不堪的"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，镜子买回来啦，你还有什么吩咐啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干得不错嘛，坐下喝口茶吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谢谢掌柜的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "喝完茶再去趟十八里铺啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "噗——咳咳咳"
+        },
+        {
+          "type": "reaction",
+          "reactor": "无双",
+          "description": "无双在后边拍"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，你这好象有点狠了啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "手扶着老白的肩"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，你这样糟践人有意思吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哟，我的伙计，我想怎么使唤，跟你有关系吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "推开无双的手"
+        },
+        {
+          "type": "line",
+          "line": "哟，你注意一下，注意一下……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，人心可都是肉长的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那是你们，我的心是铁打的。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对老白"
+        },
+        {
+          "type": "line",
+          "line": "愣着干啥，不想吃晚饭了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "想吃晚饭，但是你没跟我说还要买什么。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这回不买啥了，帮我捎个口信，到十八里铺找一下邢捕头，对他说呀，人家想死他了，啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好的呀，好的呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也顺便帮我说一声，我也想死他了。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "众人鄙视"
+        },
+        {
+          "type": "line",
+          "line": "嗯……回来我自己去一趟吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我就去了啊，邢捕头姓邢是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对呀，你就跟他说我备了女儿红，日夜等着他呢，啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "把信给老白"
+        },
+        {
+          "type": "line",
+          "line": "来，把这个捎给他吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抢过信撕了"
+        },
+        {
+          "type": "line",
+          "line": "捎什么捎啊？师兄，你出来，出来呀！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拽老白"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，这小姑娘，你怎么回事啊？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双把老白拽到街上，小六追出来，掌柜也站在门口看"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄你醒醒啊！她已经不是以前的她了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁呀？你刚才管我叫什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄啊，你以前耳朵不挺好使的吗？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "无双",
+          "description": "被无双瞪了一眼"
+        },
+        {
+          "type": "line",
+          "line": "你们聊，你们聊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些日子，你受了这么多的苦，谁关心过你，谁惦记过你，谁心疼过你？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我呀！"
+        },
+        {
+          "type": "reaction",
+          "reactor": "无双",
+          "description": "又被无双瞪了一眼"
+        },
+        {
+          "type": "line",
+          "line": "还有大家，除了她。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指掌柜的"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "经历了这么多事，哪个才是真心对你的，你难道一点都看不出来吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思啊，你说什么我一句都听不明白。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，不说了，走，咱们走。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拽着老白要走"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住！我家的伙计，你凭啥带他走呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "老白要说话，被无双拦住"
+        },
+        {
+          "type": "line",
+          "line": "你家的？那我请问，他签卖身契了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，话不能这么说，人家一个愿打，一个愿挨，你一个局外人跟着瞎搀和嘛？清官难断家务事。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "家务事？一个是青梅竹马的师妹，一个是恩断义绝的旧情，哪个亲啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我觉得当然是师妹亲啦……当然，这是我自己的看法。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼哼，祝姑娘，没有看出来你还有这一手嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要老是这样的话呢，我还有两手，三手，十手，百手，一千手，一万手等着你呢。"
+        },
+        {
+          "type": "reaction",
+          "reactor": "两人",
+          "description": "两人怒目而视"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "耳语"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，人家是捕快，咱们好汉不吃眼前亏呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟你又不熟，不要老咱们咱们的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "师兄啊，话都说到这个份上了，你还不明白？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我明白了，终于明白了。你们搞错人啦！所以你们刚才说的什么话我都听不明白。我长得很像你那个师兄是吧？他姓什么，叫什么，多大年纪了，以前干什么的，现在在哪？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "无双",
+          "description": "无双甩手走人"
+        },
+        {
+          "type": "line",
+          "line": "小姑娘，跟你说话呢，怎么忽然就走啦？你好没有礼貌啊！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对掌柜"
+        },
+        {
+          "type": "line",
+          "line": "掌柜的，你能不能再给我一张纸？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "纸？你要写啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是让我给老邢捎个口信吗？刚才那张纸让她给撕掉了，给再给我抿一张好吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，你去把柴禾劈了吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好的呀。"
+        }
+      ]
+    }
+  ]
+}

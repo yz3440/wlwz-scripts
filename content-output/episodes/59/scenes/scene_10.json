@@ -1,0 +1,175 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，夜】",
+  "location": "佟寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的、掌柜的，不好啦。出大事了，快醒醒、醒醒，别睡了，老白要走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走？他要上哪儿去啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是那个南宫，支了一个损招，说是要什么千年人参，老白他就……唉呀，你赶紧起来，这是最后的机会了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，我这就起。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不成，我还想听最后一遍。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇赛，你没有没搞错嘛？也、也行，老白一会要过来跟你告别，到时后你见好就收啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我知道了，等他说完话，我就缓缓地睁开眼睛，展堂，你的湘玉回来了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "白展堂背着包袱入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，你这么快就收拾好了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先出去吧，我跟湘玉道个别。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，我出个远门，但我保证我马上就回来。我不在的日子，你……你只要知道，我每天、每分钟、每秒钟都想着你，这就足够了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟湘玉欲醒，白展堂一顿点穴"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我封住了你手阳明大肠经和足阳明胃经，总之该封住的地方我都封住了。这样即使不吃不喝，你也不会饿坏了胃肠。我走了，乖乖的等我回来。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小郭在门外急，老白出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭，保重啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "噢、噢，保重。"
+        }
+      ]
+    }
+  ]
+}

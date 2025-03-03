@@ -1,0 +1,279 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生。您这是要去哪儿啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我散散步。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您带着行李散步啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么多年习惯了，我走到哪儿带到哪儿。做人不能忘本呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您那天眼，啥时候开啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要着急，明天再说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不着急，但我心急。姻缘是人生大事啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊！你要出大事了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么大事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "眉心黑，仇人追。三个月，最多不超过半年，你将有血光之灾！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我经常有血光之灾，被打的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这次不同，有掉脑袋的可能。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "先生，你得救救我啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我救不了你，我救不了你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要学会自救，自救，你懂么？回到房间去，把头埋到被窝里。默念一百遍金刚经。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "金刚经我不会念。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你救念道德经。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这我会。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "记住了，默念一百遍，一遍不能少，一遍不能多。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我这就去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白眉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀。你"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对展堂"
+        },
+        {
+          "type": "line",
+          "line": "让开。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对白眉"
+        },
+        {
+          "type": "line",
+          "line": "白眉先生，你算的——太准了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你放手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把她带回去，洗洗赶紧睡觉！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "对白眉"
+        },
+        {
+          "type": "line",
+          "line": "白眉先生，楼上请。来来。"
+        }
+      ]
+    }
+  ]
+}

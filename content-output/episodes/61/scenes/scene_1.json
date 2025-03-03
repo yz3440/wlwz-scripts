@@ -1,0 +1,872 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "众人围桌僵立，镜头循环捕捉每人神态心声，画外音"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "左顾右盼"
+        },
+        {
+          "type": "line",
+          "line": "有没有搞错？分手也可以随便说的？长没长脑子啊大姐！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "落魄心虚"
+        },
+        {
+          "type": "line",
+          "line": "天呐，我都胡说了些什么呀？天呐天呐天呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "痴盯着白"
+        },
+        {
+          "type": "line",
+          "line": "老白果然是条汉子，听到这种话居然一点反应都没有，佩服佩服"
+        },
+        {
+          "type": "speaker-action",
+          "description": "颌首"
+        },
+        {
+          "type": "line",
+          "line": "……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "隐藏惊愕"
+        },
+        {
+          "type": "line",
+          "line": "我被甩了！我被甩了？我被甩了我被甩了？！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "呆呆出神"
+        },
+        {
+          "type": "line",
+          "line": "真羡慕他们，连分手的场面都那么大，我和慧兰啥动静都没有，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "微叹"
+        },
+        {
+          "type": "line",
+          "line": "就这么分了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "斜瞟白、佟"
+        },
+        {
+          "type": "line",
+          "line": "如果他们打起来我帮谁呀？帮嫂子的话白大哥点我，帮白大哥的话我嫂子又不高兴，干脆谁都不帮、看白戏好了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "若有所思"
+        },
+        {
+          "type": "line",
+          "line": "说好就好说散就散，如果这就是所谓的爱情，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "恶心"
+        },
+        {
+          "type": "line",
+          "line": "嗯——我宁可不要！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "垂下目光"
+        },
+        {
+          "type": "line",
+          "line": "老天爷我求求你把时间倒回去，我愿意付出任何代价……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心神不宁"
+        },
+        {
+          "type": "line",
+          "line": "现在怎么办？怎么办？怎么办？怎么办呐？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "会心微笑"
+        },
+        {
+          "type": "line",
+          "line": "都这时候了还这么镇定、这么自信、这么胸有成竹老白呀你真是我的 Super Star……！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "见吕连使眼色"
+        },
+        {
+          "type": "line",
+          "line": "你个死秀才那是什么眼神？你爱的人在这儿那呐，看过来看过来看过来……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "蕙兰你在哪儿？"
+        },
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "自从在同福客栈见～到你～就像那春风吹进心～窝里～……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不耐烦"
+        },
+        {
+          "type": "line",
+          "line": "啧，都寻思什么呐？再不开打我可退票了啊，开打！开打开打呀！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "神驰遐迩"
+        },
+        {
+          "type": "line",
+          "line": "哎呀…如果我有这么好的一个男人，我一定会珍惜他，爱护他！把他当个宝一样。每天关在家里不让他出门。只许陪我一个人说话。只许吃我一个人做的饭——哎？那我为什么不直接养只狗呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "十分烦躁"
+        },
+        {
+          "type": "line",
+          "line": "有没有搞错，十分钟就那么僵着，不说也不动，痒也不敢挠，汗也不敢擦，还让不让人活了嘛！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "敬佩"
+        },
+        {
+          "type": "line",
+          "line": "老白，我已经没话说了，为了表示我对你的崇敬之情，以后子曾经曰过改成老白曾经曰过。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "唱"
+        },
+        {
+          "type": "line",
+          "line": "归来吧，归来哟，浪迹天涯的娘子，归来吧，归来哟……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "开打，开打，开打，开打呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "思索"
+        },
+        {
+          "type": "line",
+          "line": "斑点狗倒是不错，很忠心，每天得遛太麻烦了！哎京吧不用遛，我又不太喜欢；萨摩吧，就怕夏天掉毛；沙皮不掉毛，哎呀，可是怕养不熟哎……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "思索"
+        },
+        {
+          "type": "line",
+          "line": "不行，我必须说点什么，可我说啥呀？都让人甩了还有啥好说的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "岂求地看白"
+        },
+        {
+          "type": "line",
+          "line": "对不起啊，展堂，我收回刚才的话你听见咧吗？摩西摩西啊巴 C U……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "环顾众人"
+        },
+        {
+          "type": "line",
+          "line": "跪下说她应该会心软吧？问题是当着这么多人能咋跪呀？To 跪 Or Not To 跪，这是个问题……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "动摇"
+        },
+        {
+          "type": "line",
+          "line": "实在不行，我给你跪下总行了吧……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跪！必须得跪……要脸有啥用？幸福才是关键！……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "目露决心"
+        },
+        {
+          "type": "line",
+          "line": "那我可真的给你跪下了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "抿着嘴唇"
+        },
+        {
+          "type": "line",
+          "line": "湘玉等着我，这就来了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟、白同时上前躬身，额头相撞"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "欢呼雀跃"
+        },
+        {
+          "type": "line",
+          "line": "Oh……！终于打起来啦！打起来了！打起来了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人忍痛触额伏在桌前"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干嘛呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我嫂子和白大哥……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "切声"
+        },
+        {
+          "type": "line",
+          "line": "小贝！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃——我什么都没看见，也没听见啊——我玩去了啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "夺路跑出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，佟掌柜"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拉开白"
+        },
+        {
+          "type": "line",
+          "line": "你！去那边摆造型去！——佟掌柜这些传单是不是你让人发的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我……咋了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这就对了，跟我衙门里走一趟啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥呀？"
+        },
+        {
+          "type": "reaction",
+          "reactor": "佟湘玉",
+          "description": "佟抬眼看白"
+        },
+        {
+          "type": "line",
+          "line": "嗯哼，我是替大家问的……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "凭啥？娄知县看见这传单当时就急了！嘛叫'环保搞不好，小命就难保'？这威胁谁呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没有威胁谁呀……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "'小命'都'难保'了还没威胁谁？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我是一片好意，小六……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行了，佟掌柜，嘛也别说了，看在往日的情分上，我不给你戴铐子，你好自为之啊，走！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "唉唉唉，！六儿！六儿……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "开口求我，我马上动手！求你了，快点儿求我呀……！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "都这个时候了，你就眼睁睁地看着，看来你对我的感情也不过如此！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟转身随燕出，白僵直"
+    },
+    {
+      "type": "action",
+      "description": "切镜头，郭芙蓉复回"
+    },
+    {
+      "type": "action",
+      "description": "众人围坐郭大门入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "气死我了！你有没有搞错啊？人都被带走了你怎么什么都不说啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说什么呀？——差不多得了？到此为止？我说话人小六也得能听呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白展堂那可是你唯一的女朋友！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是前女友！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她那是气话呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你咋知道那就是气话呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我、我跟秀才以前也分手过呀，现在不是好好的嘛啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，那都是我牺牲尊严换回来的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托 N 次，那是我牺牲尊严换来的行不行？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托 N+1 次——你什么时候牺牲过尊严啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼！要不要我找一个污点证人出来啊？无双……？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯…说正事儿呢别跑题啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说正事儿哈……那老白你打算怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我打算——呆着。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呆到什么时候嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她啥时候回来，我就呆到什么时候！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，师兄你别说气话，你赶紧想想办法……！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我想什么办法？我去劫狱去？把她弄出来继续祸害大家？我决心已定，这回一定要给她个教训，挨板子没关系，打瘫了我养她一辈子！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "注意点儿，秀才在呢。请大家放心，不管她是否真心跟我分手，我对她永远不离不弃。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白你说你这话你咋不早说呢？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说了！——画外音，你们听不见——观众知道。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人面面相觑"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥啥啥？啥？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小贝翻箱倒柜，听见屋外有人说话，走到门口偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好一个葵花点穴手啊，无双，恭喜你啊，教了这么好的一个徒弟啊。"
+        }
+      ]
+    }
+  ]
+}

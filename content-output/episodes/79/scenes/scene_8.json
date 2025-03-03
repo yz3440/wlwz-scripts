@@ -1,0 +1,517 @@
+{
+  "type": "normal",
+  "rawDescription": "【后院，昼】",
+  "location": "后院",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "全是水泡，你这人也真是的，喝水之前不会先试试水温呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我哪知道那是滚开的水呀。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人都在房里偷听"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来，喝口凉水，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "杜接过，一口咽与此下去"
+        },
+        {
+          "type": "line",
+          "line": "别往下咽。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你早说啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再喝一口，等水变温了以后再吐出来啊，回头我让他们找点药给你擦擦啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不用了，咱家里有药。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就赶快回去，别给人家找麻烦了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你呢，你就给我说实话吧，到底发生了什么事啊？你为什么要离家出走呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "现在说这个，还有意义吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "说，必须得说，你说了我马上就走，一分钟我都不耽误你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上回你去广阳府查帐，你刚一走，你娘就领着人过来了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，千躲万躲也没躲过她呀，没事，你说，你接着说。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她一来就说，我是子俊的娘，我就赶紧道歉，说我们还没来得及办喜事，所以没去拜会，可她说没必要了，你已经有十九个姨太太了，这个数字很吉利，没必要再多了，说完就拿出首饰和银票，让我赶紧拿着钱滚蛋。连行李都不让收拾，多好的婆婆呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "十九个？十九个？我的娘呐，我连想都不敢想啊，这种鬼话你也相信？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我信，即使没这这么多，也不会少到哪儿去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我对天发誓，只有你一个呀。不错，我娘原先也给我物色过好多，都被我拒绝了，直到碰上你呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "演技还挺不错啊，连眼睛都会骗人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我骗你干什么呀？你为什么老不相信我呢？我说过，你是我第一个也是最后一个。我要说一句瞎话，天打雷劈！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他早该天打雷劈了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人忙捂着他的嘴巴"
+    },
+    {
+      "type": "action",
+      "description": "二人听到，换到女寝，众人跑出来，跟到房屋门口"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，你怎么就是不相信我呢？这些事都是我娘干的呀，我娘这个人呀，也许是不喜欢江湖中人，所以她才对你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别说了，就算你没骗我，那你有什么打算？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "换个房子，咱去广阳府或者是十八里铺，只要离这铜岭远远的，她肯定找不着咱俩呀。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没做错事，干嘛要躲着她呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "可她毕竟是我亲娘啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那又怎么样，她不喜欢我，你也不喜欢我吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从小到在，我所有的事都是我娘一手包办的，包括生意也是她一手操持的，我看起来好象是很风光的样子，其实我除了听她的话，我是一点特长都没有啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就没想过要反抗吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我怎么没想过呀，我也反抗过呀，可是每次只要稍不遂她意，她就又哭又闹，骂我不孝顺啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也就是说，只要我躲起来，你就可以忠孝两全了。如果现在我让你选，要她还是要我，你一定会选她，我没有说错吧？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴憋不住了跑进屋里"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你要是个爷们就干点爷们该干的事儿，你不稀罕她，自然有人稀罕！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大哥，我亲哥！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没那么大！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我亲弟弟！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你占谁便宜呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你别闹了行不行，你别掺和了行不行？她已经名花有主了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "名花是用来欣赏的，不是用来东躲西藏的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，我们的事情你就别操心啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，我觉得他说得很有道理呀，其实我早就想和我娘谈清楚了。这么的吧，我现在就回去和我娘谈谈去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等等，要是谈不拢那怎么办呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你那里还有些钱吧，我想这些钱咱做个小生意。维持生计是没有问题的，只要能和你在一块，对我来说，什么都无所谓，自从你走了之后，我才真正的知道，什么是人生中最重要的东西。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "兰……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "俊……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "兰……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "大嘴长叹一声，知趣的走了"
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "把门带上。——其实你这些朋友真是不错啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是……"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，夜】",
+  "location": "男寝",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这个办法，是个高人教给我的，现在还不知道有没有用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那没事儿，你试吧，我全力配合。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你就配合一下啊，来，把脚放到床上去，你眼睛闭着啊。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "催眠"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "问世间是否此山最高，有仇的娃子像块宝，天若有仇天亦老，恨你恨到忘不了，忘不了。告诉我，你现在看到了什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "人呐，全都是人呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是被你杀掉的那些人吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对对对，有智清大师，有冲虚道长，还有那齐大学士，还有那倒霉的关中大侠。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放松，放松，放松，他们在干什么呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都围着我转呐转呐，哎呀，都在狞笑啊，满身是血呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别怕别怕！就当那是番茄酱！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "躲开，哎呀，躲开呀，别靠近我！别靠近我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "放松，放松，别害怕别怕，他们没有恶意，他们来就是想找你玩儿。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "公孙乌龙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，找我玩什么呀，我又跟他们不熟。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "一回生二回熟啊，对不对？去，去，靠近他们，跟他们敬个礼，握握手，世世代代好朋友。去吧，去吧！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "公孙乌龙发出鼾声"
+    }
+  ]
+}

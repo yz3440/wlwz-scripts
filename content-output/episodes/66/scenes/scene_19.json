@@ -1,0 +1,169 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "小郭擦桌子，小小郭进门，姐俩都是闽语"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "阿姐，你为什么要骗我？为什么呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我什么时候骗你了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这些大事这些传奇，都是你编出来的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "也不都是编的啦……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "反应过来"
+        },
+        {
+          "type": "line",
+          "line": "你……说普通话。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "姐，我好不容易鼓足勇气从家里闯出来，就是为了想看看你说的江湖啊，可是你还……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，行了行了，我错了还不行吗？我要不说得夸张一点，你能放过我吗？乖啦乖啦……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀不要碰我！早知道是这样，我就不应该溜出来。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊，想明白啦？想明白就赶紧回去，省得你爹你娘担心你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我不，反正都是编的，那你为什么要留在这里？这里到底有什么好的嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "故事是故事，现实是现实，反正我这过得挺好，挺开心的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你每天扫扫地，擦擦桌子，还经常挨骂，这有什么好开心的嘛？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不是我，你不会明白的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭蔷薇",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，姐，我不明白那你就快点告诉我呀，这里到底有什么好的嘛，还有，你为什么愿意忍受这种生活呀？姐，你就快告诉我呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你不要着急嘛，让我想想嘛，为什么……"
+        },
+        {
+          "type": "speaker-action",
+          "description": "忽然沉吟，迷茫"
+        },
+        {
+          "type": "line",
+          "line": "对呀，为什么？"
+        }
+      ]
+    }
+  ]
+}

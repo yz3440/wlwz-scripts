@@ -1,0 +1,368 @@
+{
+  "type": "normal",
+  "rawDescription": "【客栈门口，夜】",
+  "location": "客栈门口",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "恭胳膊僵直，腿还能走动"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭长老？你的胳膊？白展堂！我跟你……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "他胳膊没事儿，就是被我点住了，回去休息一晚就没事儿了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看来我真是老啦！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭长老，话不能这么说，俗话说得好，拳怕少壮嘛。中了我的葵花点穴手还能继续活动的，您是第一个。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "少来你这个虚招子啊！对了，我再问一遍，你叫啥来着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "白、展、堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "我只听说过白斩鸡，没听说过白展堂。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "心理活动"
+        },
+        {
+          "type": "line",
+          "line": "哼，谁让您是丐帮的人呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "恭长张",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看来，长江后浪推前浪，我真的该到退休的年龄了，别跟着我，我能走……还跟着我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "恭长老，您慢走啊……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "见恭离去，白吐血倒地，小米急忙来搀"
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你没事儿吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好一招……亢龙有悔……！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白！老白！……快来人呐！快来人！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "吕、郭、佟相继跑出"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼！还是舍不得我吧？放开我！让我一个人静悄悄的，离开这无情无义的人世间……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "金蝉脱壳！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "再胡说我翻脸！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小米你说！刚才发生什么事儿？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小米！说！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃……我刚才正睡着呢，突然被吵醒，呃……就看见老白一个人，自言自语、又打又闹……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小米？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呃，我正想扶他呢，他就躺地上，我还以为他发羊癫疯呢。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你这人怎么这样？睁着眼睛说瞎话，你就不怕天打雷劈？！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "天打雷劈的恐怕是善于做秀的阁下吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白玩儿砸了吧？哈哈哈。爱情三十六计呀，留着哄小孩儿去吧你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "吕秀才！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟我没关系，小郭那人你也知道，严刑逼供"
+        },
+        {
+          "type": "reaction",
+          "reactor": "小郭",
+          "description": "小郭把秀才拎回去"
+        },
+        {
+          "type": "line",
+          "line": "唉！疼疼疼！干嘛？疼……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "给我滚一边去！我问你，你刚才为什么说谎？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "老白，那恭长老是我找来的，把你打成这样，哎呀，那佟掌柜还不得找我算帐？我不招他都呆不下去了，我要招他我咋混呢？人在江湖身不由己，你多担待！来，来我这儿躺会儿！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你那儿我不去。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "小米",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都成叫花子了，还嫌饭馊？你来吧！老白你吃点啥不吃？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拿走！这味儿太大了……"
+        }
+      ]
+    }
+  ]
+}

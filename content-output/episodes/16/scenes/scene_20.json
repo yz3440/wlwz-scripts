@@ -1,0 +1,167 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "范大娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么呀？这是？我的银子呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "您看好了啊，这包东西要是低于一万两银子，我再搭你一人头。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "范大娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我要你人头干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你往这儿看。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "范大娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我去估个价。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你把契约留下！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "范大娘",
+      "performances": [
+        {
+          "type": "line",
+          "line": "等我估完价再说！好好好，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "掏出契约"
+        },
+        {
+          "type": "line",
+          "line": "给你。以后想写了就再来找我。我上面有人。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "都是我不好，不争气，写不出她要的东西，让你们也跟着我受委屈。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，你别以为你那么说，我就能放了你啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你想怎么样啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你就给我踏踏实实的写，什么时候写完呢，什么时候算完。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我还写？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你赶紧写吧，掌柜的等着看呐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的也喜欢看我写的东西啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那倒不是，掌柜的打算把这些出一本书，然后拿出书的钱，补她首饰的亏空。"
+        }
+      ]
+    }
+  ]
+}

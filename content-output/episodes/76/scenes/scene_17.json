@@ -1,0 +1,227 @@
+{
+  "type": "normal",
+  "rawDescription": "【佟寝，昼】",
+  "location": "佟寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "掌柜的屋里被老白翻的乱七八糟，老白正翻床底"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "一看"
+        },
+        {
+          "type": "line",
+          "line": "呀，咋回事情？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "起身"
+        },
+        {
+          "type": "line",
+          "line": "你这屋咋这么乱呢？还有耗子。好好收拾收拾啊，晚上我过来检查。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "欲出门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，到底咋回事情？你在找什么东西啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我找首饰。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "佟走到梳妆台，拿出首饰"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找胭脂呢"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的又拿出胭脂"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "找古董花瓶——找啥都忘了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "掌柜的拿起花瓶"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "展堂，咱俩以前是怎么约定的？不管发生任何事情都不能欺骗对方吧？这是相处的底线，咱俩之间难道连这点默契都没有了吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉，我真没想骗你，那我说了你别生气啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你先说嘛。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "恳求状"
+        },
+        {
+          "type": "line",
+          "line": "我需要一千两银子有急用。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用途？——你不说我是不可能给你的。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好，我说，这一千两银子啊，"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "二人坐在桌旁"
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我打算买商票。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "商市都快崩盘了，你还敢买商票？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "内部消息，大户坐庄一天赚三倍。当天进出，一千直接变三千。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "全是蒙人的，大鱼吃小鱼，小鱼吃虾米。咱们这些小虾米，就不要做那个发财的梦了。行了行了，看这个屋子乱的，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "厉声"
+        },
+        {
+          "type": "line",
+          "line": "以后你再敢乱翻小心我翻脸啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "再次恳求"
+        },
+        {
+          "type": "line",
+          "line": "湘玉我真没想骗你，这钱我有急用。我现在没时间跟你解释，但是我向你保证我不是用在歪道上。你先把钱借给我，回头有时间，我原原本本一个字都不落的给你解释清楚，行吗？"
+        }
+      ]
+    }
+  ]
+}

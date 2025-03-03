@@ -1,0 +1,429 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "音乐、计时器依旧，镜头依次特写众人吃饭状昏死桌旁，祝无双、展堂快步引殷十三入，在门前做出请的姿势，殷十三对二人一笑，去探众人鼻息，祝无双心急地张嘴等待"
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "line",
+          "line": "漂亮，真漂亮。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "走吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "姑娘要是来我们东厂发展，肯定大有可为。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "是是是，夜长梦多此地不宜久留啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "等一下，你俩不一块走吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "我不回去了，我要和无双浪迹天涯，督公那边什么都别说……希望你能成全！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "既然是这个样子，我想跟你拜个把子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "苍天在上，厚土为证，^%&^%^&%*&^&^%，你我就是兄弟了，别过！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "既然是兄弟，总应该喝杯酒吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "喝酒喝酒……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "我先干为敬。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "丹顶红啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "哎呀！我没下酒里下菜里了！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "好。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "好！恕不远送。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "再……来……一……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "一杯一杯……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "什么一杯呀！那个，咱们今天先不喝了，后会有期啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "慢速"
+        },
+        {
+          "type": "line",
+          "line": "自己人……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "快速"
+        },
+        {
+          "type": "line",
+          "line": "滚啊！不不不……恕不远送。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "殷十三",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "超慢的京剧叫板"
+        },
+        {
+          "type": "line",
+          "line": "后——会——有——期！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "以超慢的京剧步迈出客栈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花解穴手！师兄，葵花解穴手！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这么长时间呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "快快快，解穴解穴！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "葵花解！葵花解！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "下一步怎么办啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，明天会有两队锦衣卫过来，护送我和老包回京城。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你明天就要走啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "展 堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，夜长梦多，早点走也好啊！只要老包肯交出书信，很快也就结案了。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "展堂上楼，无双追上，众人吃饭，秀才还没解穴，众人没注意"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎哎，展大哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要吃了，上楼！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "发现秀才依旧昏倒"
+        },
+        {
+          "type": "line",
+          "line": "妈呀，忘了，咋把他忘了呢！葵花解！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "字幕：04:00:00"
+    },
+    {
+      "type": "action",
+      "description": "时间到，闹钟声，秀才醒来继续吃饭"
+    }
+  ]
+}

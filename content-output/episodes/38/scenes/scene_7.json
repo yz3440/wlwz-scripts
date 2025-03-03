@@ -1,0 +1,33 @@
+{
+  "type": "normal",
+  "rawDescription": "【女寝，昼】",
+  "location": "女寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "谁允许你出门的？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我去看大夫！我现在脑袋疼，头晕恶心。两眼冒金星，浑身还没劲……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "小贝跑出"
+    }
+  ]
+}

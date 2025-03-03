@@ -1,0 +1,141 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，还是家里好啊，紫藤床垫，加厚的绫罗枕头，丝绵的，往上那么一靠，那叫一个阿斗！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啥意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "乐不思蜀啊！不过这种感觉，你们这辈子是理解不了啦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就你一个人知道享受，我们都是大老粗。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "听你这意思，您是不因以为耻反引以为荣啊。哎我说你会不会按摩呀？行行，你该干嘛干嘛去吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "去去，赶紧算帐去。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双进"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "挽秀才"
+        },
+        {
+          "type": "line",
+          "line": "秀才，忙着呢？可辛苦了啊。这一脑门子汗，给你擦擦，你别动啊。侯哥，以后不管你是渴了还是累了……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我就喝红牛——喝一口，剩下的都给你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不，咱俩一起喝，一滴都不给别人留，啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "跟我斗，还嫩点啊！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "手！以后再让我看见你跟她眉来眼去，小心你的眼珠子！给我洗了！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "注：以上蓝色部分在台湾版 20DVD 中为 37 集内容"
+    }
+  ]
+}

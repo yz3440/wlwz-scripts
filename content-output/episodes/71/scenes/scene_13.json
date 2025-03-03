@@ -1,0 +1,187 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不好意思，让大家久等了"
+        },
+        {
+          "type": "speaker-action",
+          "description": "走下楼，柔声"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "屋里没人，佟转身要上楼，外面传来大家的声音，一伙人簇拥着一名女子进屋"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "打扮得还不错，还算有点品味，长相，也不过如此吗，皮肤虽然白，过两年就黄了，眼睛不是很大，鼻子也不够挺，人中不够长，嘴角下垂颧骨偏高，这些可都是克夫相。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "燕小六",
+      "performances": [
+        {
+          "type": "line",
+          "line": "湘玉姐，你老问佟掌柜，我跟你说，这佟掌柜是七侠镇最年轻的寡妇，人缘特好，从来没人说她克夫……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "急"
+        },
+        {
+          "type": "line",
+          "line": "怎么说话呐这是？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "哎呀！还是展堂知道护食……"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "悄悄的"
+        },
+        {
+          "type": "line",
+          "line": "这要让湘玉听见还不跟你急了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "她那么小心眼不怕给你穿小鞋呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人笑，佟湘玉生气"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我啥时候给人穿过小鞋呀？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人抬头，看见楼上的掌柜，惊"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，大白天穿成这样，你赶着过盂兰节啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "担心"
+        },
+        {
+          "type": "line",
+          "line": "湘玉啊，你没事吧？啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我没事啊，我很好啊，下面的朋友，你们好吗？"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人郁闷"
+    },
+    {
+      "type": "dialog",
+      "speaker": "金湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这位就是佟掌柜吧，我姓金。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "伸手欲握"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "跟她握手就代表欢迎她来，回头不好翻脸，可是不握手又显得我小心眼，握还是不握，又是一个大问题……"
+        }
+      ]
+    }
+  ]
+}

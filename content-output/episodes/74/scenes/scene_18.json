@@ -1,0 +1,207 @@
+{
+  "type": "normal",
+  "rawDescription": "【男寝，昼】",
+  "location": "男寝",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "妈呀，幸好是个梦……干啥说幸好啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Morning。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "Morning，"
+        },
+        {
+          "type": "speaker-action",
+          "description": "W"
+        },
+        {
+          "type": "line",
+          "line": "——我摸你干啥啊，秀才，你晚上做梦，梦到过无双没？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "梦没梦到跟你有什么关系啊，你问这干吗呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "梦跟现实都是反的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那得看什么梦了，日有所思，夜有所梦。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "出"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "无双进，拿一碗粥"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，无双来了，赶紧坐坐，哎呀，你也起得这么早啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，大嘴……哥。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "不好意思"
+        },
+        {
+          "type": "line",
+          "line": "哎，呵呵……你这碗粥不是给我的吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是啊，大嘴……哥，你趁热吃吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，那我不客气了啊。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿过粥一喝，猛的吐出来"
+        },
+        {
+          "type": "line",
+          "line": "你放了多少盐呐？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不多啊，猪舌头是要用盐腌一下的，不然满嘴乱跑。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀，无双，我这人嘴大，你也知道是吧。昨晚我那是胡说八道，你别往心里去。我求求你放我一马，回头我给你烧高香啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我又没死，你烧什么高香啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行，我也不说了，说得越多错得越多，就这么着吧。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "站住，啊，说了我那么多坏话，就这么完啦？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你想怎么的？"
+        }
+      ]
+    }
+  ]
+}

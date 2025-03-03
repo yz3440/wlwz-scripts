@@ -1,0 +1,160 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，夜】",
+  "location": "大堂",
+  "timeOfDay": "夜",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "杨与杜跑回客栈"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "总算回来了，小郭已经把车马给你们准备好了，你们俩拿着行李，赶紧走，从后门走。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杨蕙兰",
+      "performances": [
+        {
+          "type": "line",
+          "line": "对不起，每次总是给你们添麻烦。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "别说废话了，赶紧把衣裳换了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "杜子俊",
+      "performances": [
+        {
+          "type": "line",
+          "line": "换衣服干什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "白展堂",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你穿得这么好一出门就得让人认出来，赶紧上楼换衣服。"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "众人七嘴八舌，大嘴坐在门口，失魂落魄"
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴，你没事吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事，走就走吧，反正不是我的，丢了也不心疼。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "得了吧，你看那眼圈都红了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你个小丫头片子你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你个大痴情种子。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你说啥呢，我要真痴情的话我能让她走啊。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "这才叫真情啊，为了她的幸福，你牺牲自己。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "其实，我对蕙兰也就那么回事"
+        },
+        {
+          "type": "reaction",
+          "reactor": "众人",
+          "description": "大家嘘他"
+        },
+        {
+          "type": "line",
+          "line": "不管怎么说，她也是个逃犯呐，是不是，你说她从大牢里逃出来，我跟着她没吃没喝的，满世界乱跑……"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "杜子俊娘出场"
+    }
+  ]
+}

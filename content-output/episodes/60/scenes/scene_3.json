@@ -1,0 +1,565 @@
+{
+  "type": "normal",
+  "rawDescription": "【大堂，昼】",
+  "location": "大堂",
+  "timeOfDay": "昼",
+  "context": "",
+  "performances": [
+    {
+      "type": "action",
+      "description": "客人进门"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "客官请！来来，吃点啥呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "来一木须肉，再来一大盘鸡。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "好好好，坐啊！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "祝进来，佟迎上去"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你可算来了，赶紧下厨房给我炒个木须肉！少放点盐啊，快去！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "推祝"
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，我还在当班呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就当是微服私访体察民情吧！我一个人实在是忙不过来，快去吧！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "祝无双",
+      "performances": [
+        {
+          "type": "line",
+          "line": "大嘴呢，还有我师兄，还有秀才呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎，秀才，你在干啥呢？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "忙着备课呢！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不要再备了，现在就开始扫盲！时间可不等人啊伙计！还愣着干啥，赶紧扫去呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哦好"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎呀无双，帮帮忙帮帮忙！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "转悠了一会儿，对刚来的两食客笑"
+        },
+        {
+          "type": "line",
+          "line": "嘿嘿~吃着呢~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "菜都没上吃什么呀，吃你呀？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "转身"
+        },
+        {
+          "type": "line",
+          "line": "赶紧的呀！嘿嘿——您认字吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客乙",
+      "performances": [
+        {
+          "type": "line",
+          "line": "什么意思？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "就是说，您会背三字经吗？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不会背就不让吃饭是怎么着？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "不不不，不可能，不背我教你，免费教，包教包会！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客甲",
+      "performances": [
+        {
+          "type": "line",
+          "line": "用不着，不就三字经吗，过来我告诉你！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我有病？你才有病呢！哎，干吗！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "食客拉这秀才要打人，郭芙蓉冲入"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "干什么呢，排山倒海~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "食客",
+      "performances": [
+        {
+          "type": "line",
+          "line": "啊~~"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "切镜头，佟湘玉开会"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "教训呀，血一般的教训！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是他们先动手的！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "芙妹是为了救我！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我可以证明，整个过程那些客人都告诉我了，他们说是他们抓着秀才，饿~A 型 B 型 AB 型 O 型都有！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "胡说啥呢！不不不，发生这种情况最该怪的——"
+        },
+        {
+          "type": "speaker-action",
+          "description": "指吕、郭，两人躲，突然变指自己"
+        },
+        {
+          "type": "line",
+          "line": "就是我。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕、郭",
+      "performances": [
+        {
+          "type": "line",
+          "line": "嗯？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "是我误判了形势才造成这个局面。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的，你终于想明白了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我本来就不应该让你们俩离得那么近，虽说男女搭配，干活不累，但是我的字典里没有累这个字！从现在起，小郭去扫西街！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "拜托你啊，我连东街都没有扫完呐！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那你跑到天井干啥去了？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "那我扫帚坏了，回来换一把！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "所以你就应该好好反省一下，整个一个上午连一条小街都没有扫干净，还有什么脸面自称江湖儿女啊？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我拜托你啊大姐，你见过哪个江湖儿女去扫大街的呀！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "看来不动点真格的是不行了。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哎~~你想干什么！"
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "description": "握小郭手"
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "怎么样，感觉到了没有？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "感…感觉到什么？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "从我内心深处散发出来的一股灼人的热度！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "废话！你吃了千年人参，我们又没吃！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "我说的不是人参，而是人生。每个人的人生都掌握在自己的手中，所谓少小不努力，老大徒伤悲；明日复明日，明日何其多，多行不义必自弊，必有一款适合你，你瞅准了，蓝天六必治，C~"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "行行行，我怕了你了！西街是吧？"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "你记住，你扫的不是地，而是你那颗蒙尘的心！"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哼，对，我们都是蒙尘的心，就你，出淤泥而不染，居茅厕而不臭！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "拿了扫帚出门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "吕秀才",
+      "performances": [
+        {
+          "type": "line",
+          "line": "掌柜的您放心，我知道你热血沸腾，我这就追赶朝阳去！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "做骑摩托车状出门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "呵呵~嫂子你忙啊，我去开拓人生去了！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "做骑马状出门"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "门外喊"
+        },
+        {
+          "type": "line",
+          "line": "瞧一瞧看一看啊，环保搞不好，小命就难保……"
+        }
+      ]
+    }
+  ]
+}
