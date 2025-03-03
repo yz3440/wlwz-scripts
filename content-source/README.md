@@ -4,7 +4,7 @@ This folder contains the original community-created scripts for the hit Chinese 
 
 ## Files
 
-- [`《武林外传》全剧本.pdf`](./《武林外传》全剧本.pdf) (My Own Swordsman full script): The original community-compiled screenplay in PDF format, created in 2007 by over 30 dedicated fans who transcribed all 80 episodes from the official DVDs.
+- [`《武林外传》全剧本.pdf`](./《武林外传》全剧本.pdf) (My Own Swordsman full script): The original community-compiled screenplay in PDF format, created in 2007 by over 30 dedicated fans who transcribed all 80 episodes from the official DVDs. Original post on Baidu Tieba: [link](https://tieba.baidu.com/p/232817165?see_lz=1).
 - [`《武林外传》全剧本.txt`](./《武林外传》全剧本.txt): A plain text conversion of the original PDF file, preserving the content while making it more accessible for text processing.
 - [`community-scripts-audited.txt`](./community-scripts-audited.txt): An improved version with consistency edits that standardizes word choices and notation styles that varied across different contributors in the original compilation.
 
