@@ -1,5 +1,6 @@
 import csv
 import difflib
+import zhconv
 
 
 def read_tsv(file_path):
@@ -19,11 +20,21 @@ def read_tsv(file_path):
             try:
                 row["frame"] = int(row["frame"])
             except Exception:
-                pass
+                continue
             try:
                 row["time"] = int(row["time"])
             except Exception:
-                pass
+                continue
+
+            row["text"] = row["text"].strip()
+            # filter out all the symbols
+            import re
+
+            row["text"] = re.sub(r"[^\w\s]", "", row["text"])
+
+            # convert to simplified chinese
+            row["text"] = zhconv.convert(row["text"], "zh-cn")
+
             rows.append(row)
     return rows
 
@@ -88,6 +99,7 @@ def cluster_subtitles(rows, similarity_threshold=0.8):
         if current_cluster is None:
             current_cluster = {
                 "text": text,
+                "text_list": [text],
                 "start_time": time,
                 "end_time": time,
                 "frames": [row],
@@ -98,11 +110,13 @@ def cluster_subtitles(rows, similarity_threshold=0.8):
                 current_cluster["text"], text, threshold=similarity_threshold
             ):
                 current_cluster["end_time"] = time
+                current_cluster["text_list"].append(text)
                 current_cluster["frames"].append(row)
             else:
                 clusters.append(current_cluster)
                 current_cluster = {
                     "text": text,
+                    "text_list": [text],
                     "start_time": time,
                     "end_time": time,
                     "frames": [row],
@@ -131,6 +145,10 @@ def ms_to_srt_time(ms):
     return f"{hours:02}:{minutes:02}:{seconds:02},{milliseconds:03}"
 
 
+def frame_to_ms(frame, fps):
+    return int(frame * 1000 / fps)
+
+
 def clusters_to_srt(clusters):
     """
     Converts subtitle clusters to a single SRT-formatted string.
@@ -140,8 +158,15 @@ def clusters_to_srt(clusters):
     srt_entries = []
     for i, cluster in enumerate(clusters, start=1):
         start = ms_to_srt_time(cluster["start_time"])
-        end = ms_to_srt_time(cluster["end_time"])
-        text = cluster["text"]
+
+        unit_ms = frame_to_ms(1, 25)
+        real_end_time = cluster["end_time"] + unit_ms
+        end = ms_to_srt_time(real_end_time)
+
+        # text = cluster["text"]
+        # find the most common text in the cluster
+        text = max(cluster["text_list"], key=cluster["text_list"].count)
+
         srt_entry = f"{i}\n{start} --> {end}\n{text}\n"
         srt_entries.append(srt_entry)
     return "\n".join(srt_entries)
