@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Launch SRT Video Check Tool</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 40px;
+        background-color: #f5f5f5;
+        color: #333;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        background-color: white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        color: #007bff;
+        margin-top: 0;
+      }
+      p {
+        line-height: 1.6;
+      }
+      .card {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 20px;
+        margin-bottom: 20px;
+      }
+      .card h2 {
+        margin-top: 0;
+        color: #333;
+      }
+      pre {
+        background-color: #f5f5f5;
+        padding: 10px;
+        border-radius: 4px;
+        overflow-x: auto;
+      }
+      code {
+        font-family: monospace;
+      }
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        margin-top: 10px;
+      }
+      .button:hover {
+        background-color: #0056b3;
+      }
+      .note {
+        background-color: #fff8e8;
+        border-left: 4px solid #ffe066;
+        padding: 10px 15px;
+        margin: 20px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>SRT Video Check Tool</h1>
+
+      <p>
+        This tool helps you check and edit SRT subtitle files against video
+        files. Due to browser security restrictions, local video files must be
+        accessed through a web server.
+      </p>
+
+      <div class="note">
+        <p>
+          <strong>Important:</strong> Before using this tool, you need to set up
+          a local server to serve the files correctly.
+        </p>
+      </div>
+
+      <div class="card">
+        <h2>Option 1: Python Simple Server</h2>
+        <p>
+          If you have Python installed, open a terminal/command prompt and run:
+        </p>
+        <pre><code>cd /path/to/wlwz-scripts
+python -m http.server</code></pre>
+        <p>Then click the button below:</p>
+        <a
+          href="http://localhost:8000/srt-video-check/"
+          class="button"
+          target="_blank"
+          >Open with Python Server (Port 8000)</a
+        >
+      </div>
+
+      <div class="card">
+        <h2>Option 2: Node.js http-server</h2>
+        <p>If you have Node.js installed, you can use http-server:</p>
+        <pre><code>npm install -g http-server
+cd /path/to/wlwz-scripts
+http-server</code></pre>
+        <p>Then click the button below:</p>
+        <a
+          href="http://localhost:8080/srt-video-check/"
+          class="button"
+          target="_blank"
+          >Open with http-server (Port 8080)</a
+        >
+      </div>
+
+      <div class="card">
+        <h2>Option 3: Direct File Access (May Not Work)</h2>
+        <p>
+          Some browsers may allow direct file access, but this is not
+          recommended and may not work correctly:
+        </p>
+        <a href="index.html" class="button"
+          >Try Direct Access (Not Recommended)</a
+        >
+      </div>
+
+      <p>
+        For more information and troubleshooting, please refer to the
+        <a href="README.md">README</a> file.
+      </p>
+    </div>
+  </body>
+</html>

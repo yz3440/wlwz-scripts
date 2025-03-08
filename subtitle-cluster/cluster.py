@@ -3,6 +3,9 @@ import difflib
 import zhconv
 
 
+ignore_before_time = 79560
+
+
 def read_tsv(file_path):
     """
     Reads a TSV file and returns a list of dictionaries.
@@ -35,6 +38,8 @@ def read_tsv(file_path):
             # convert to simplified chinese
             row["text"] = zhconv.convert(row["text"], "zh-cn")
 
+            if row["time"] < ignore_before_time:
+                continue
             rows.append(row)
     return rows
 
