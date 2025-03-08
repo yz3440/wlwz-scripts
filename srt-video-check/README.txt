@@ -6,6 +6,7 @@ This tool helps you check and edit SRT subtitle files against video files. It al
 
 - Select episodes from the video metadata
 - Display videos with dimmed regions except for the subtitle bounding box
+- See current subtitle text displayed below the video with subtitle-style formatting
 - Adjust video brightness and contrast with collapsible controls
 - Drag & drop SRT files for editing
 - Edit subtitle text inline
@@ -46,18 +47,20 @@ This tool helps you check and edit SRT subtitle files against video files. It al
 1. Select an episode from the dropdown menu
 2. Drag and drop an SRT file onto the designated area at the bottom (or use the file input)
 3. The video will load and the subtitle area will be highlighted
-4. To adjust video visibility:
+4. The current subtitle text will appear below the video with white text and black outline
+5. To adjust video visibility:
    - Click the "Video Adjustments" button below the video
    - Use the brightness and contrast sliders as needed
    - Click the button again to hide the controls when done
-5. Navigate between subtitles using:
+6. Navigate between subtitles using:
    - Up/down arrow keys (↑/↓)
    - The "Previous Subtitle" and "Next Subtitle" buttons
-6. Edit subtitle text directly in the text area
-7. Delete subtitles using:
+7. Edit subtitle text directly in the text area
+   - Changes to the text will immediately update the subtitle preview below the video
+8. Delete subtitles using:
    - The × button on the subtitle card
    - Cmd+Backspace (Mac) or Ctrl+Backspace (Windows/Linux) for the current subtitle
-8. Click "Save SRT" to download the edited file
+9. Click "Save SRT" to download the edited file
 
 ### Video Controls
 
@@ -70,10 +73,19 @@ Below the video player, you'll find a toggle button for video adjustment control
 
 These controls are particularly helpful when working with videos that are too dark or have low contrast, making subtitle placement difficult to see.
 
+### Subtitle Preview
+
+Between the video and controls, you'll see a subtitle preview area that:
+- Shows the currently selected subtitle text
+- Formats text in white with a black outline, similar to standard video subtitles
+- Updates in real-time as you edit the subtitle text
+- Helps visualize how the subtitle will appear on the video
+
 ### Layout
 
 The tool features a vertical layout with:
 - Video player at the top of the screen
+- Subtitle preview display showing the current subtitle text
 - Collapsible video controls for brightness and contrast
 - Subtitle controls and horizontally scrollable subtitle cards in the middle
 - File drop area at the bottom for loading new SRT files

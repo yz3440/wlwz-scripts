@@ -3,6 +3,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const episodeSelect = document.getElementById('episode-select');
   const videoWrapper = document.getElementById('video-wrapper');
   const videoPlayer = document.getElementById('video-player');
+  const currentSubtitleDisplay = document.getElementById(
+    'current-subtitle-display'
+  );
+  const currentSubtitleText = document.getElementById('current-subtitle-text');
   const videoControlsToggle = document.getElementById('video-controls-toggle');
   const videoControlsContainer = document.getElementById(
     'video-controls-container'
@@ -94,6 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!episodeNumber) {
       videoWrapper.classList.add('hidden');
       videoControlsToggle.classList.add('hidden');
+      currentSubtitleDisplay.classList.add('hidden');
       return;
     }
 
@@ -260,6 +265,7 @@ document.addEventListener('DOMContentLoaded', () => {
         srtControls.classList.remove('hidden');
         srtEditor.classList.remove('hidden');
         setCurrentSubtitle(0);
+        currentSubtitleDisplay.classList.remove('hidden');
       } else {
         alert('No subtitles found in the file');
       }
@@ -303,6 +309,11 @@ document.addEventListener('DOMContentLoaded', () => {
       textArea.rows = 3;
       textArea.addEventListener('change', (e) => {
         subtitles[index].text = e.target.value;
+
+        // Update the display if this is the current subtitle
+        if (index === currentSubtitleIndex) {
+          currentSubtitleText.textContent = e.target.value;
+        }
       });
 
       entry.appendChild(entryHeader);
@@ -379,6 +390,10 @@ document.addEventListener('DOMContentLoaded', () => {
       left: Math.max(0, scrollPosition),
       behavior: 'auto', // Changed from 'smooth' to 'auto' for instant scrolling
     });
+
+    // Update subtitle display
+    currentSubtitleText.textContent = subtitles[index].text;
+    currentSubtitleDisplay.classList.remove('hidden');
 
     // Focus the text area
     const textArea = currentEntry.querySelector('.srt-text');
