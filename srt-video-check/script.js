@@ -175,25 +175,68 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // SRT parsing functions
   function parseSRT(content) {
-    const blocks = content.trim().split(/\r?\n\r?\n/);
+    // First normalize line endings and trim the content
+    const normalizedContent = content
+      .replace(/\r\n/g, '\n')
+      .replace(/\r/g, '\n')
+      .trim();
+
+    // Use a more robust regex that handles multiple consecutive newlines
+    // This will split on one or more empty lines
+    const blocks = normalizedContent.split(/\n{2,}/);
     const parsed = [];
 
     blocks.forEach((block) => {
-      const lines = block.split(/\r?\n/);
-      if (lines.length >= 3) {
-        const index = parseInt(lines[0].trim());
-        const timecodes = lines[1].trim();
-        const text = lines.slice(2).join('\n');
+      // Skip empty blocks
+      if (!block.trim()) return;
 
-        const [startTime, endTime] = parseTimecodes(timecodes);
+      const lines = block.split(/\n/);
+      // Ensure we have at least 2 lines (index and timecode)
+      if (lines.length >= 2) {
+        // Try to parse the index as an integer
+        const indexLine = lines[0].trim();
+        let index;
+        try {
+          index = parseInt(indexLine);
+          if (isNaN(index)) throw new Error('Invalid index');
+        } catch (e) {
+          console.warn(`Skipping block with invalid index: ${indexLine}`);
+          return;
+        }
 
-        parsed.push({
-          index,
-          startTime,
-          endTime,
-          text,
-          timecodes,
-        });
+        // Look for a line containing the timecode separator ' --> '
+        let timecodeLineIndex = -1;
+        for (let i = 1; i < lines.length; i++) {
+          if (lines[i].includes(' --> ')) {
+            timecodeLineIndex = i;
+            break;
+          }
+        }
+
+        // If no valid timecode line was found, skip this block
+        if (timecodeLineIndex === -1) {
+          console.warn(`Skipping block ${index}: No valid timecode found`);
+          return;
+        }
+
+        const timecodes = lines[timecodeLineIndex].trim();
+        const text = lines.slice(timecodeLineIndex + 1).join('\n');
+
+        try {
+          const [startTime, endTime] = parseTimecodes(timecodes);
+
+          parsed.push({
+            index,
+            startTime,
+            endTime,
+            text,
+            timecodes,
+          });
+        } catch (e) {
+          console.warn(
+            `Skipping block ${index} due to timecode parsing error: ${e.message}`
+          );
+        }
       }
     });
 
@@ -201,13 +244,37 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function parseTimecodes(timecode) {
-    const [start, end] = timecode.split(' --> ');
-    return [timeToSeconds(start), timeToSeconds(end)];
+    const parts = timecode.split(' --> ');
+    if (parts.length !== 2) {
+      throw new Error(`Invalid timecode format: ${timecode}`);
+    }
+    return [timeToSeconds(parts[0]), timeToSeconds(parts[1])];
   }
 
   function timeToSeconds(timeString) {
-    const [time, milliseconds] = timeString.split(',');
+    if (!timeString) {
+      throw new Error('Empty timestring');
+    }
+
+    const parts = timeString.split(',');
+    if (parts.length !== 2) {
+      throw new Error(
+        `Invalid time format (missing milliseconds): ${timeString}`
+      );
+    }
+
+    const [time, milliseconds] = parts;
     const [hours, minutes, seconds] = time.split(':').map(Number);
+
+    if (
+      isNaN(hours) ||
+      isNaN(minutes) ||
+      isNaN(seconds) ||
+      isNaN(parseInt(milliseconds))
+    ) {
+      throw new Error(`Invalid time components in: ${timeString}`);
+    }
+
     return (
       hours * 3600 + minutes * 60 + seconds + parseInt(milliseconds) / 1000
     );
@@ -358,7 +425,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // Set the current subtitle and update UI with improved scrolling
+  // Set the current subtitle and update UI
   function setCurrentSubtitle(index) {
     if (index < 0 || index >= subtitles.length) {
       return;
@@ -401,9 +468,12 @@ document.addEventListener('DOMContentLoaded', () => {
       textArea.focus();
     }
 
-    // Seek video to subtitle start time but pause it
+    // Seek video to the middle point between the start and end time of the subtitle
     if (videoPlayer.readyState >= 2) {
-      videoPlayer.currentTime = subtitles[index].startTime;
+      const startTime = subtitles[index].startTime;
+      const endTime = subtitles[index].endTime;
+      const middleTime = startTime + (endTime - startTime) / 2;
+      videoPlayer.currentTime = middleTime;
       videoPlayer.pause();
     }
   }

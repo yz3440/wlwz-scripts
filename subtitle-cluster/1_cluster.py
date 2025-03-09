@@ -3,7 +3,7 @@ import difflib
 import zhconv
 
 
-ignore_before_time = 79560
+ignore_before_time = 0
 
 
 def read_tsv(file_path):
