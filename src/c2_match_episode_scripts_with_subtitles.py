@@ -465,7 +465,9 @@ def post_process_matches(
     return fixed_matches
 
 
-def validate_srt_matches(episode_number: int) -> None:
+def validate_srt_matches(
+    episode_number: int, srt_path: str = None, log_path: str = None
+) -> None:
     """
     Validate the SRT matches and generate a log file
     - Find indices that don't have a match result
@@ -473,10 +475,16 @@ def validate_srt_matches(episode_number: int) -> None:
     """
     print(f"Validating matches for Episode {episode_number}")
 
-    # Get paths
-    episode_path = get_output_episode_path(episode_number)
-    srt_path = os.path.join(episode_path, "subtitles_with_id.srt")
-    log_path = os.path.join(episode_path, "subtitles_with_id.log")
+    # Get paths if not provided
+    if srt_path is None or log_path is None:
+        episode_path = get_output_episode_path(episode_number)
+        matching_dir = os.path.join(episode_path, "matching")
+
+        if srt_path is None:
+            srt_path = os.path.join(matching_dir, "subtitles_with_id.srt")
+
+        if log_path is None:
+            log_path = os.path.join(matching_dir, "subtitles_with_id.log")
 
     # Load SRT file
     srt_data = pysrt.open(srt_path, encoding="utf-8")
@@ -579,7 +587,16 @@ def process_episode(episode_number: int, consolidate_scenes: bool = True) -> Non
     episode_path = get_output_episode_path(episode_number)
     script_path = os.path.join(episode_path, "script.json")
     srt_path = os.path.join(episode_path, "subtitles.srt")
-    output_script_path = os.path.join(episode_path, "script_w_id.json")
+
+    # Create matching directory
+    matching_dir = os.path.join(episode_path, "matching")
+    os.makedirs(matching_dir, exist_ok=True)
+    print(f"Created matching directory: {matching_dir}")
+
+    # Update output paths to use matching directory
+    output_script_path = os.path.join(matching_dir, "script_w_id.json")
+    output_srt_path = os.path.join(matching_dir, "subtitles_with_id.srt")
+    output_log_path = os.path.join(matching_dir, "subtitles_with_id.log")
 
     # Step 1: Consolidate scene scripts if requested
     if consolidate_scenes:
@@ -634,19 +651,17 @@ def process_episode(episode_number: int, consolidate_scenes: bool = True) -> Non
         line_id_map[srt_idx] = script_lines[script_idx]["lineId"]
 
     # Add line IDs to SRT file
-    new_srt_path = os.path.join(episode_path, "subtitles_with_id.srt")
-
     for i, sub in enumerate(srt_data):
         if i in line_id_map:
             sub.text = f"{sub.text} [{line_id_map[i]}]"
 
-    srt_data.save(new_srt_path, encoding="utf-8")
+    srt_data.save(output_srt_path, encoding="utf-8")
 
-    print(f"Saved SRT with line IDs to {new_srt_path}")
+    print(f"Saved SRT with line IDs to {output_srt_path}")
     print(f"Matched {len(matches)} out of {len(srt_lines)} SRT lines")
 
-    # Validate the matches
-    validate_srt_matches(episode_number)
+    # Validate the matches and save the log to the matching directory
+    validate_srt_matches(episode_number, output_srt_path, output_log_path)
 
 
 def main() -> None:
