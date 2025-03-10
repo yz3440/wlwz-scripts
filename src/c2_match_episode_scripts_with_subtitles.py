@@ -9,14 +9,95 @@ import heapq
 import pysrt
 from difflib import SequenceMatcher
 
-from utils.constants import (
-    TOTAL_EPISODES,
-    get_output_episode_path,
-    EPISODES_OUTPUT_PATH,
-)
+from utils.constants import TOTAL_EPISODES, CONTENT_OUTPUT_PATH, get_output_episode_path
+from utils.utils import Scene, find_all_scenes
+from utils.parser import llm_parse_scene, extract_json, find_missing_parts
 
-# Episodes to process
-EPISODES_TO_PROCESS = [1]  # Change this to process different episodes
+# Episodes to process - change this to process different episodes
+EPISODES_TO_PROCESS = [1]
+
+
+def is_scene_parsed_successfully(scene: Scene) -> bool:
+    """
+    Check if a scene has been parsed successfully
+    """
+    # if json file does not exist, failed
+    if not os.path.exists(scene.parsed_scene_json_path):
+        return False
+
+    # if missing text parts file exists, failed
+    if os.path.exists(scene.missing_text_parts_path):
+        return False
+
+    # if parsing error result file exists, failed
+    if os.path.exists(scene.parsing_error_result_path):
+        return False
+
+    return True
+
+
+def consolidate_scene_scripts(episode_number: int) -> Optional[Dict]:
+    """
+    Consolidate individual scene scripts into a single episode script
+    Returns the consolidated script dictionary or None if consolidation failed
+    """
+    print(f"Consolidating scene scripts for Episode {episode_number}")
+
+    # Find all scenes
+    all_scenes = find_all_scenes()
+
+    # Group scenes by episode number
+    episode_scenes = {}
+    for scene in all_scenes:
+        if scene.episode_number not in episode_scenes:
+            episode_scenes[scene.episode_number] = []
+        episode_scenes[scene.episode_number].append(scene)
+
+    # Sort scenes by scene number
+    if episode_number in episode_scenes:
+        episode_scenes[episode_number].sort(key=lambda x: x.scene_number)
+    else:
+        print(f"No scenes found for Episode {episode_number}")
+        return None
+
+    # Check if all scenes were parsed successfully
+    is_all_scenes_parsed_successfully = True
+    for scene in episode_scenes[episode_number]:
+        if not is_scene_parsed_successfully(scene):
+            is_all_scenes_parsed_successfully = False
+            break
+
+    if not is_all_scenes_parsed_successfully:
+        print("Not all scenes parsed successfully, skipping...")
+        return None
+
+    episode_output_path = get_output_episode_path(episode_number)
+
+    # Consolidate parsed scenes into a list of dictionaries
+    scenes_dicts = []
+    for scene in episode_scenes[episode_number]:
+        with open(scene.parsed_scene_json_path, "r", encoding="utf-8") as f:
+            scene_dict = json.load(f)
+        scene_dict = {"sceneNumber": scene.scene_number, **scene_dict}
+        scenes_dicts.append(scene_dict)
+
+    # Get episode name from original script
+    episode_original_script_path = os.path.join(episode_output_path, "script.txt")
+    with open(episode_original_script_path, "r", encoding="utf-8") as f:
+        episode_name = f.read().split("\n")[0]
+
+    consolidated_script = {
+        "name": episode_name,
+        "episodeNumber": episode_number,
+        "scenes": scenes_dicts,
+    }
+
+    consolidated_script_path = os.path.join(episode_output_path, "script.json")
+    with open(consolidated_script_path, "w", encoding="utf-8") as f:
+        json.dump(consolidated_script, f, indent=2, ensure_ascii=False)
+
+    print(f"Consolidated script saved to {consolidated_script_path}")
+    return consolidated_script
 
 
 def clean_text(text: str) -> str:
@@ -28,6 +109,11 @@ def clean_text(text: str) -> str:
 
     # Split by punctuation and rejoin with spaces
     parts = re.split(r"[（）—().,!?;:，。！？；：、…~【】…''" "]", text)
+    # remove empty parts
+    parts = [part for part in parts if part]
+    # strip parts
+    parts = [part.strip() for part in parts]
+
     return " ".join(parts).strip()
 
 
@@ -480,9 +566,12 @@ def validate_srt_matches(episode_number: int) -> None:
     )
 
 
-def process_episode(episode_number: int) -> None:
+def process_episode(episode_number: int, consolidate_scenes: bool = True) -> None:
     """
-    Process an episode to match its script with subtitles
+    Process an episode:
+    1. Optionally consolidate scene scripts
+    2. Generate line IDs for the script
+    3. Match subtitles with script lines
     """
     print(f"Processing Episode {episode_number}")
 
@@ -492,11 +581,24 @@ def process_episode(episode_number: int) -> None:
     srt_path = os.path.join(episode_path, "subtitles.srt")
     output_script_path = os.path.join(episode_path, "script_w_id.json")
 
-    # Load script
-    with open(script_path, "r", encoding="utf-8") as f:
-        script_data = json.load(f)
+    # Step 1: Consolidate scene scripts if requested
+    if consolidate_scenes:
+        script_data = consolidate_scene_scripts(episode_number)
+        if script_data is None:
+            print(
+                f"Failed to consolidate scenes for Episode {episode_number}, skipping..."
+            )
+            return
+    else:
+        # Load existing script
+        if not os.path.exists(script_path):
+            print(f"Script file not found for Episode {episode_number}, skipping...")
+            return
 
-    # Generate line IDs and save as script_w_id.json
+        with open(script_path, "r", encoding="utf-8") as f:
+            script_data = json.load(f)
+
+    # Step 2: Generate line IDs and save as script_w_id.json
     script_with_ids = generate_line_ids(script_data)
 
     with open(output_script_path, "w", encoding="utf-8") as f:
@@ -504,8 +606,13 @@ def process_episode(episode_number: int) -> None:
 
     print(f"Saved script with IDs to {output_script_path}")
 
-    # Extract lines from script
+    # Step 3: Extract lines from script
     script_lines = extract_lines_from_script(script_with_ids)
+
+    # Check if SRT file exists
+    if not os.path.exists(srt_path):
+        print(f"SRT file not found for Episode {episode_number}, skipping matching...")
+        return
 
     # Load SRT
     srt_data = pysrt.open(srt_path, encoding="utf-8")
@@ -546,8 +653,34 @@ def main() -> None:
     """
     Main function to process all specified episodes
     """
+    # Check if we need to consolidate scene scripts
+    consolidate_scenes = (
+        input("Do you want to consolidate scene scripts first? (y/n): ").lower().strip()
+        == "y"
+    )
+
+    # Allow user to specify episodes to process
+    if (
+        input("Do you want to specify which episodes to process? (y/n): ")
+        .lower()
+        .strip()
+        == "y"
+    ):
+        try:
+            episodes_input = input(
+                "Enter episode numbers separated by commas (e.g., 1,2,3): "
+            )
+            episodes = [int(ep.strip()) for ep in episodes_input.split(",")]
+            if episodes:
+                global EPISODES_TO_PROCESS
+                EPISODES_TO_PROCESS = episodes
+        except ValueError:
+            print("Invalid input. Using default episodes.")
+
+    print(f"Processing episodes: {EPISODES_TO_PROCESS}")
+
     for episode_number in EPISODES_TO_PROCESS:
-        process_episode(episode_number)
+        process_episode(episode_number, consolidate_scenes)
 
 
 if __name__ == "__main__":

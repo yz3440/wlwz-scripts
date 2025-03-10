@@ -361,7 +361,7 @@
               "type": "line",
               "line": "在那呢…… 在那…… 到那了…… 在那 ……",
               "lineId": "ep1-s3-l15",
-              "textToMatch": "在那呢   在那   到那了   在那"
+              "textToMatch": "在那呢 在那 到那了 在那"
             }
           ]
         },
@@ -599,7 +599,7 @@
               "type": "line",
               "line": "哎呀……妈呀……",
               "lineId": "ep1-s4-l11",
-              "textToMatch": "哎呀  妈呀"
+              "textToMatch": "哎呀 妈呀"
             }
           ]
         },
@@ -1691,7 +1691,7 @@
               "type": "line",
               "line": "没有……妈呀咋办呐？",
               "lineId": "ep1-s20-l5",
-              "textToMatch": "没有  妈呀咋办呐"
+              "textToMatch": "没有 妈呀咋办呐"
             }
           ]
         },
@@ -2669,7 +2669,7 @@
               "type": "line",
               "line": "救命啊……杀人啦……",
               "lineId": "ep1-s24-l1",
-              "textToMatch": "救命啊  杀人啦"
+              "textToMatch": "救命啊 杀人啦"
             }
           ]
         },
@@ -2805,7 +2805,7 @@
               "type": "line",
               "line": "惧……据说明天有雨！",
               "lineId": "ep1-s24-l12",
-              "textToMatch": "惧  据说明天有雨"
+              "textToMatch": "惧 据说明天有雨"
             }
           ]
         },
@@ -2977,7 +2977,7 @@
               "type": "line",
               "line": "我说……展堂全靠你了。",
               "lineId": "ep1-s24-l26",
-              "textToMatch": "我说  展堂全靠你了"
+              "textToMatch": "我说 展堂全靠你了"
             }
           ]
         },
@@ -3210,7 +3210,7 @@
               "type": "line",
               "line": "来啦来啦……不要敲了，我这是榆木门，敲坏了你赔呀。",
               "lineId": "ep1-s25-l1",
-              "textToMatch": "来啦来啦  不要敲了 我这是榆木门 敲坏了你赔呀"
+              "textToMatch": "来啦来啦 不要敲了 我这是榆木门 敲坏了你赔呀"
             }
           ]
         },
@@ -4692,7 +4692,7 @@
               "type": "line",
               "line": "爹……救我……",
               "lineId": "ep1-s27-l30",
-              "textToMatch": "爹  救我"
+              "textToMatch": "爹 救我"
             }
           ]
         }
@@ -5032,7 +5032,7 @@
               "type": "line",
               "line": "咳咳……内力还在……",
               "lineId": "ep1-s29-l26",
-              "textToMatch": "咳咳  内力还在"
+              "textToMatch": "咳咳 内力还在"
             },
             {
               "type": "speaker-action",
@@ -5064,7 +5064,7 @@
               "type": "line",
               "line": "哎哎哎……放下，放下。",
               "lineId": "ep1-s29-l28",
-              "textToMatch": "哎哎哎  放下 放下"
+              "textToMatch": "哎哎哎 放下 放下"
             }
           ]
         },
@@ -5276,6 +5276,18 @@
           ]
         },
         {
+          "type": "dialog",
+          "speaker": "白展堂",
+          "performances": [
+            {
+              "type": "line",
+              "line": "葵花点穴手。",
+              "lineId": "ep1-s30-l8",
+              "textToMatch": "葵花点穴手"
+            }
+          ]
+        },
+        {
           "type": "action",
           "description": "小郭与老白同时使出排山倒海与葵花点穴手，小郭被点住"
         },
@@ -5286,7 +5298,7 @@
             {
               "type": "line",
               "line": "你都给我排成这样了，还排啊，还有没点人性啊，啊？",
-              "lineId": "ep1-s30-l8",
+              "lineId": "ep1-s30-l9",
               "textToMatch": "你都给我排成这样了 还排啊 还有没点人性啊 啊"
             }
           ]
@@ -5476,7 +5488,7 @@
               "type": "line",
               "line": "欠钱不还啦。到时候通缉令到处一贴……不过你倒是无所谓，你二皮脸。",
               "lineId": "ep1-s31-l14",
-              "textToMatch": "欠钱不还啦 到时候通缉令到处一贴  不过你倒是无所谓 你二皮脸"
+              "textToMatch": "欠钱不还啦 到时候通缉令到处一贴 不过你倒是无所谓 你二皮脸"
             }
           ]
         },
@@ -5776,7 +5788,7 @@
               "type": "line",
               "line": "你连杂役都干不好……大嘴，还想当女侠呢，呵呵。",
               "lineId": "ep1-s31-l37",
-              "textToMatch": "你连杂役都干不好  大嘴 还想当女侠呢 呵呵"
+              "textToMatch": "你连杂役都干不好 大嘴 还想当女侠呢 呵呵"
             }
           ]
         },
@@ -6407,7 +6419,7 @@
               "type": "line",
               "line": "是……你啥时候成顾客了？",
               "lineId": "ep1-s32-l19",
-              "textToMatch": "是  你啥时候成顾客了"
+              "textToMatch": "是 你啥时候成顾客了"
             }
           ]
         },
@@ -6479,7 +6491,7 @@
               "type": "line",
               "line": "我上的茅房……你吃的美食……",
               "lineId": "ep1-s32-l25",
-              "textToMatch": "我上的茅房  你吃的美食"
+              "textToMatch": "我上的茅房 你吃的美食"
             }
           ]
         },
@@ -7024,7 +7036,7 @@
               "type": "line",
               "line": "大山的子孙哟——爱太阳喽，太阳那个爱着哟——山里的人哟，哟哟哟！",
               "lineId": "ep1-s33-l31",
-              "textToMatch": "大山的子孙哟  爱太阳喽 太阳那个爱着哟  山里的人哟 哟哟哟"
+              "textToMatch": "大山的子孙哟 爱太阳喽 太阳那个爱着哟 山里的人哟 哟哟哟"
             }
           ]
         }
@@ -7260,7 +7272,7 @@
               "type": "line",
               "line": "本来也没有多少——那就更加不能容忍了！",
               "lineId": "ep1-s34-l18",
-              "textToMatch": "本来也没有多少  那就更加不能容忍了"
+              "textToMatch": "本来也没有多少 那就更加不能容忍了"
             }
           ]
         },
@@ -7597,7 +7609,7 @@
               "type": "line",
               "line": "我早就觉得这个店子太小了，桌子就这么几张，板凳就这么几条……呀你接着说",
               "lineId": "ep1-s35-l22",
-              "textToMatch": "我早就觉得这个店子太小了 桌子就这么几张 板凳就这么几条  呀你接着说"
+              "textToMatch": "我早就觉得这个店子太小了 桌子就这么几张 板凳就这么几条 呀你接着说"
             }
           ]
         },
@@ -7993,7 +8005,7 @@
               "type": "line",
               "line": "啊……这个，回头再说啊。你就说第二点吧。",
               "lineId": "ep1-s35-l51",
-              "textToMatch": "啊  这个 回头再说啊 你就说第二点吧"
+              "textToMatch": "啊 这个 回头再说啊 你就说第二点吧"
             }
           ]
         },
