@@ -9,6 +9,20 @@
       "description": "小郭学猫叫"
     },
     {
+      "type": "action",
+      "description": "小声"
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "上。"
+        }
+      ]
+    },
+    {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [

@@ -533,6 +533,20 @@
           "description": "小郭学猫叫"
         },
         {
+          "type": "action",
+          "description": "小声"
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "上。"
+            }
+          ]
+        },
+        {
           "type": "dialog",
           "speaker": "郭芙蓉",
           "performances": [
@@ -612,6 +626,16 @@
         {
           "type": "action",
           "description": "桌子底下，小贝被老白捂着嘴。"
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "放开我，放开我。"
+            }
+          ]
         },
         {
           "type": "dialog",
@@ -5466,7 +5490,7 @@
           "performances": [
             {
               "type": "line",
-              "line": "是……你啥时候成顾客了？"
+              "line": "是呀……你啥时候成顾客了？"
             }
           ]
         },

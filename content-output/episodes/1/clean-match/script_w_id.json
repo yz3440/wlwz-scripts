@@ -621,13 +621,29 @@
           "description": "小郭学猫叫"
         },
         {
+          "type": "action",
+          "description": "小声"
+        },
+        {
+          "type": "dialog",
+          "speaker": "郭芙蓉",
+          "performances": [
+            {
+              "type": "line",
+              "line": "上。",
+              "lineId": "ep1-s5-l1",
+              "textToMatch": "上"
+            }
+          ]
+        },
+        {
           "type": "dialog",
           "speaker": "郭芙蓉",
           "performances": [
             {
               "type": "line",
               "line": "拜托你手脚就不能利索一点儿！",
-              "lineId": "ep1-s5-l1",
+              "lineId": "ep1-s5-l2",
               "textToMatch": "拜托你手脚就不能利索一点儿"
             }
           ]
@@ -639,7 +655,7 @@
             {
               "type": "line",
               "line": "我又不是故意的。再说咱又不是贼，干吗放着正道不走非走房梁啊？",
-              "lineId": "ep1-s5-l2",
+              "lineId": "ep1-s5-l3",
               "textToMatch": "我又不是故意的 再说咱又不是贼 干吗放着正道不走非走房梁啊"
             }
           ]
@@ -651,7 +667,7 @@
             {
               "type": "line",
               "line": "这就叫江湖。",
-              "lineId": "ep1-s5-l3",
+              "lineId": "ep1-s5-l4",
               "textToMatch": "这就叫江湖"
             }
           ]
@@ -663,7 +679,7 @@
             {
               "type": "line",
               "line": "你老说江湖江湖，什么是江湖啊？",
-              "lineId": "ep1-s5-l4",
+              "lineId": "ep1-s5-l5",
               "textToMatch": "你老说江湖江湖 什么是江湖啊"
             }
           ]
@@ -675,7 +691,7 @@
             {
               "type": "line",
               "line": "江湖，就是江湖。",
-              "lineId": "ep1-s5-l5",
+              "lineId": "ep1-s5-l6",
               "textToMatch": "江湖 就是江湖"
             }
           ]
@@ -715,12 +731,24 @@
         },
         {
           "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "放开我，放开我。",
+              "lineId": "ep1-s6-l2",
+              "textToMatch": "放开我 放开我"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
           "speaker": "白展堂",
           "performances": [
             {
               "type": "line",
               "line": "危险危险。",
-              "lineId": "ep1-s6-l2",
+              "lineId": "ep1-s6-l3",
               "textToMatch": "危险危险"
             }
           ]
@@ -732,7 +760,7 @@
             {
               "type": "line",
               "line": "不放我咬了！",
-              "lineId": "ep1-s6-l3",
+              "lineId": "ep1-s6-l4",
               "textToMatch": "不放我咬了"
             }
           ]
@@ -748,7 +776,7 @@
             {
               "type": "line",
               "line": "哎呀妈呀，掌柜的你看你小姑子呀！",
-              "lineId": "ep1-s6-l4",
+              "lineId": "ep1-s6-l5",
               "textToMatch": "哎呀妈呀 掌柜的你看你小姑子呀"
             }
           ]
@@ -760,7 +788,7 @@
             {
               "type": "line",
               "line": "要是我哥还活着早一剑砍过来了。",
-              "lineId": "ep1-s6-l5",
+              "lineId": "ep1-s6-l6",
               "textToMatch": "要是我哥还活着早一剑砍过来了"
             }
           ]
@@ -776,7 +804,7 @@
             {
               "type": "line",
               "line": "哎呀，你咋说话呢，没大没小的。",
-              "lineId": "ep1-s6-l6",
+              "lineId": "ep1-s6-l7",
               "textToMatch": "哎呀 你咋说话呢 没大没小的"
             }
           ]
@@ -788,7 +816,7 @@
             {
               "type": "line",
               "line": "嫂子你光说我不说他啊。",
-              "lineId": "ep1-s6-l7",
+              "lineId": "ep1-s6-l8",
               "textToMatch": "嫂子你光说我不说他啊"
             }
           ]
@@ -800,7 +828,7 @@
             {
               "type": "line",
               "line": "老白，一只猫就把你给吓成了这样，你以后咋跑堂守夜？",
-              "lineId": "ep1-s6-l8",
+              "lineId": "ep1-s6-l9",
               "textToMatch": "老白 一只猫就把你给吓成了这样 你以后咋跑堂守夜"
             }
           ]
@@ -812,7 +840,7 @@
             {
               "type": "line",
               "line": "你一做饭的厨子有你啥事，做饭去！",
-              "lineId": "ep1-s6-l9",
+              "lineId": "ep1-s6-l10",
               "textToMatch": "你一做饭的厨子有你啥事 做饭去"
             }
           ]
@@ -824,7 +852,7 @@
             {
               "type": "line",
               "line": "此言差矣，子曾经曰过……",
-              "lineId": "ep1-s6-l10",
+              "lineId": "ep1-s6-l11",
               "textToMatch": "此言差矣 子曾经曰过"
             }
           ]
@@ -836,7 +864,7 @@
             {
               "type": "line",
               "line": "去，算你的帐去。",
-              "lineId": "ep1-s6-l11",
+              "lineId": "ep1-s6-l12",
               "textToMatch": "去 算你的帐去"
             }
           ]
@@ -848,7 +876,7 @@
             {
               "type": "line",
               "line": "坐下，我跟你们说啊，最近咱们镇上，可被这雌雄双煞搞得人心惶惶，心惊胆战。",
-              "lineId": "ep1-s6-l12",
+              "lineId": "ep1-s6-l13",
               "textToMatch": "坐下 我跟你们说啊 最近咱们镇上 可被这雌雄双煞搞得人心惶惶 心惊胆战"
             }
           ]
@@ -6417,9 +6445,9 @@
           "performances": [
             {
               "type": "line",
-              "line": "是……你啥时候成顾客了？",
+              "line": "是呀……你啥时候成顾客了？",
               "lineId": "ep1-s32-l19",
-              "textToMatch": "是 你啥时候成顾客了"
+              "textToMatch": "是呀 你啥时候成顾客了"
             }
           ]
         },
