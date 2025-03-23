@@ -221,17 +221,13 @@
       "performances": [
         {
           "type": "line",
-          "line": "消失"
-        },
-        {
-          "type": "speaker-action",
-          "description": "秀才消失"
+          "line": "消失！"
         }
       ]
     },
     {
       "type": "action",
-      "description": "！"
+      "description": "秀才消失"
     },
     {
       "type": "dialog",
@@ -433,10 +429,7 @@
         }
       ]
     },
-    {
-      "type": "action",
-      "description": "！"
-    },
+
     {
       "type": "action",
       "description": "秀才醒满头大汗惊醒"

@@ -27,20 +27,20 @@
       "speaker": "邢育森",
       "performances": [
         {
+          "type": "line",
+          "line": "是我，是我。"
+        },
+        {
           "type": "speaker-action",
           "description": "客气的"
         },
         {
           "type": "line",
-          "line": "郭女侠，昨天的事儿对不住了啊"
+          "line": "郭女侠，昨天的事儿对不住了啊！"
         },
         {
           "type": "speaker-action",
           "description": "抱拳，小六在一旁附和"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -92,15 +92,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "六儿，你不是饿了吗"
+          "line": "六儿，你不是饿了吗……"
         },
         {
           "type": "speaker-action",
           "description": "要给小六"
-        },
-        {
-          "type": "line",
-          "line": "……"
         }
       ]
     },

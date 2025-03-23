@@ -125,6 +125,16 @@
       ]
     },
     {
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "没事儿，来。"
+        }
+      ]
+    },
+    {
       "type": "action",
       "description": "小贝帮小郭把脚搁到盆里"
     },
@@ -205,15 +215,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "来，小郭姐姐"
+          "line": "来，小郭姐姐……"
         },
         {
           "type": "speaker-action",
           "description": "要帮小郭洗脚"
-        },
-        {
-          "type": "line",
-          "line": "……"
         }
       ]
     },
@@ -327,15 +333,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "掌柜的"
+          "line": "掌柜的……"
         },
         {
           "type": "speaker-action",
           "description": "哭了"
-        },
-        {
-          "type": "line",
-          "line": "……"
         }
       ]
     },

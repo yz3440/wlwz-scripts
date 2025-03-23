@@ -248,16 +248,12 @@
       "performances": [
         {
           "type": "line",
-          "line": "小贝，姐姐没事儿，就是有点发烧而已"
+          "line": "小贝，姐姐没事儿，就是有点发烧而已……"
         },
         {
           "type": "reaction",
           "reactor": "莫小贝",
           "description": "小贝摸小郭额头"
-        },
-        {
-          "type": "line",
-          "line": "……"
         }
       ]
     },
@@ -277,16 +273,12 @@
       "performances": [
         {
           "type": "line",
-          "line": "不信你摸啊"
+          "line": "不信你摸啊……"
         },
         {
           "type": "reaction",
           "reactor": "佟湘玉",
           "description": "掌柜摸小郭额头"
-        },
-        {
-          "type": "line",
-          "line": "……"
         }
       ]
     },
@@ -770,16 +762,12 @@
       "performances": [
         {
           "type": "line",
-          "line": "谁说的，刚才不是下得挺好的吗"
+          "line": "谁说的，刚才不是下得挺好的吗！"
         },
         {
           "type": "reaction",
           "reactor": "郭芙蓉",
           "description": "小郭咳"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -1028,15 +1016,11 @@
         },
         {
           "type": "line",
-          "line": "给我留着？以为这样就能拿住我了"
+          "line": "给我留着？以为这样就能拿住我了？"
         },
         {
           "type": "speaker-action",
           "description": "经典的八字手势"
-        },
-        {
-          "type": "line",
-          "line": "？"
         }
       ]
     },
@@ -1056,15 +1040,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "再找点症状喽，我警告你啊你要再敢出卖我，小心我"
+          "line": "再找点症状喽，我警告你啊你要再敢出卖我，小心我……"
         },
         {
           "type": "speaker-action",
           "description": "装出要拍小贝"
-        },
-        {
-          "type": "line",
-          "line": "……"
         }
       ]
     },
@@ -1244,16 +1224,12 @@
         },
         {
           "type": "line",
-          "line": "……人呢，人都到哪去啦"
+          "line": "……人呢，人都到哪去啦？"
         },
         {
           "type": "reaction",
           "reactor": "郭芙蓉",
           "description": "小郭观察变化"
-        },
-        {
-          "type": "line",
-          "line": "？"
         }
       ]
     },

@@ -142,7 +142,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "走！掌柜的"
+          "line": "走！掌柜的。"
         },
         {
           "type": "speaker-action",
@@ -150,25 +150,18 @@
         }
       ]
     },
-    {
-      "type": "action",
-      "description": "。"
-    },
+
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "哎哟"
+          "line": "哎哟！"
         },
         {
           "type": "speaker-action",
           "description": "小郭捂腿"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -240,15 +233,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "行"
+          "line": "行！"
         },
         {
           "type": "speaker-action",
           "description": "出门"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -290,15 +279,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "我拿完东西就走啊"
+          "line": "我拿完东西就走啊。"
         },
         {
           "type": "speaker-action",
           "description": "把桌子上的纸拿走"
-        },
-        {
-          "type": "line",
-          "line": "。"
         }
       ]
     },
@@ -342,15 +327,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "那可是方圆五百里最好的书院，规矩多着呢，就是报名费就得三钱银子。要是我考不上，我嫂子非跟我急了不可，没准儿让白大哥收拾我呢"
+          "line": "那可是方圆五百里最好的书院，规矩多着呢，就是报名费就得三钱银子。要是我考不上，我嫂子非跟我急了不可，没准儿让白大哥收拾我呢！"
         },
         {
           "type": "speaker-action",
           "description": "转身叹着气出去"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -458,15 +439,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "看看"
+          "line": "看看！"
         },
         {
           "type": "speaker-action",
           "description": "把纸上的字给小贝看"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -578,7 +555,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "嘿嘿，没想到这么快就落我手里了！看我怎么收拾你，跟我算帐"
+          "line": "嘿嘿，没想到这么快就落我手里了！看我怎么收拾你，跟我算帐！"
         },
         {
           "type": "speaker-action",
@@ -586,13 +563,9 @@
         },
         {
           "type": "line",
-          "line": "！"
+          "line": "孔仲尼……"
         }
       ]
-    },
-    {
-      "type": "action",
-      "description": "孔仲尼"
     }
   ]
 }

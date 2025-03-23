@@ -26,14 +26,8 @@
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "……"
-        }
-      ]
+      "type": "action",
+      "description": "吕秀才摇头"
     },
     {
       "type": "dialog",
@@ -86,18 +80,8 @@
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "吕秀才",
-      "performances": [
-        {
-          "type": "line",
-          "line": "……"
-        },
-        {
-          "type": "speaker-action",
-          "description": "欲拿掉纱布"
-        }
-      ]
+      "type": "action",
+      "description": "郭芙蓉把纱布塞到吕秀才口中，吕秀才欲拿掉纱布"
     },
     {
       "type": "dialog",

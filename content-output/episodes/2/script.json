@@ -706,16 +706,12 @@
           "performances": [
             {
               "type": "line",
-              "line": "小贝，姐姐没事儿，就是有点发烧而已"
+              "line": "小贝，姐姐没事儿，就是有点发烧而已……"
             },
             {
               "type": "reaction",
               "reactor": "莫小贝",
               "description": "小贝摸小郭额头"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -735,16 +731,12 @@
           "performances": [
             {
               "type": "line",
-              "line": "不信你摸啊"
+              "line": "不信你摸啊……"
             },
             {
               "type": "reaction",
               "reactor": "佟湘玉",
               "description": "掌柜摸小郭额头"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -1228,16 +1220,12 @@
           "performances": [
             {
               "type": "line",
-              "line": "谁说的，刚才不是下得挺好的吗"
+              "line": "谁说的，刚才不是下得挺好的吗！"
             },
             {
               "type": "reaction",
               "reactor": "郭芙蓉",
               "description": "小郭咳"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -1486,15 +1474,11 @@
             },
             {
               "type": "line",
-              "line": "给我留着？以为这样就能拿住我了"
+              "line": "给我留着？以为这样就能拿住我了？"
             },
             {
               "type": "speaker-action",
               "description": "经典的八字手势"
-            },
-            {
-              "type": "line",
-              "line": "？"
             }
           ]
         },
@@ -1514,15 +1498,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "再找点症状喽，我警告你啊你要再敢出卖我，小心我"
+              "line": "再找点症状喽，我警告你啊你要再敢出卖我，小心我……"
             },
             {
               "type": "speaker-action",
               "description": "装出要拍小贝"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -1702,16 +1682,12 @@
             },
             {
               "type": "line",
-              "line": "……人呢，人都到哪去啦"
+              "line": "……人呢，人都到哪去啦？"
             },
             {
               "type": "reaction",
               "reactor": "郭芙蓉",
               "description": "小郭观察变化"
-            },
-            {
-              "type": "line",
-              "line": "？"
             }
           ]
         },
@@ -2391,8 +2367,18 @@
           "description": "小郭哭了"
         },
         {
-          "type": "action",
-          "description": "小贝内心：这一回难不成是真的"
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "speaker-action",
+              "description": "画外音"
+            },
+            {
+              "type": "line",
+              "line": "这一回难不成是真的"
+            }
+          ]
         },
         {
           "type": "dialog",
@@ -2534,6 +2520,16 @@
           ]
         },
         {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "没事儿，来。"
+            }
+          ]
+        },
+        {
           "type": "action",
           "description": "小贝帮小郭把脚搁到盆里"
         },
@@ -2614,15 +2610,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "来，小郭姐姐"
+              "line": "来，小郭姐姐……"
             },
             {
               "type": "speaker-action",
               "description": "要帮小郭洗脚"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -2736,15 +2728,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "掌柜的"
+              "line": "掌柜的……"
             },
             {
               "type": "speaker-action",
               "description": "哭了"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -2831,6 +2819,16 @@
         {
           "type": "action",
           "description": "小贝进来，小郭不知道是谁"
+        },
+        {
+          "type": "dialog",
+          "speaker": "莫小贝",
+          "performances": [
+            {
+              "type": "line",
+              "line": "小郭姐姐。"
+            }
+          ]
         },
         {
           "type": "dialog",
@@ -3022,15 +3020,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "不应该呀……葵花点穴手"
+              "line": "不应该呀……葵花点穴手！"
             },
             {
               "type": "speaker-action",
               "description": "又点小郭"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -3074,15 +3068,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "你真是太客气了！葵花点穴手"
+              "line": "你真是太客气了！葵花点穴手！"
             },
             {
               "type": "speaker-action",
               "description": "再点小郭"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -3150,29 +3140,15 @@
         },
         {
           "type": "dialog",
-          "speaker": "白展堂",
-          "performances": [
-            {
-              "type": "line",
-              "line": "真的？"
-            }
-          ]
-        },
-        {
-          "type": "dialog",
           "speaker": "郭芙蓉",
           "performances": [
             {
               "type": "line",
-              "line": "真的，不信你看，哎呀你看"
+              "line": "真的真的，不信你看，哎呀你看"
             },
             {
               "type": "speaker-action",
               "description": "活动脚"
-            },
-            {
-              "type": "line",
-              "line": "——"
             }
           ]
         },
@@ -3298,15 +3274,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "小郭姐姐，你放心啊，我一定会医好你的肝病，你等着啊"
+              "line": "小郭姐姐，你放心啊，我一定会医好你的肝病，你等着啊……"
             },
             {
               "type": "speaker-action",
               "description": "跑出去"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -3671,11 +3643,11 @@
             },
             {
               "type": "line",
-              "line": "从今天起，抹布不离身，扫帚不离手"
+              "line": "从今天起，抹布不离身，笤帚不离手"
             },
             {
               "type": "speaker-action",
-              "description": "扫帚放到右手"
+              "description": "笤帚放到右手"
             },
             {
               "type": "line",
@@ -3794,15 +3766,11 @@
             },
             {
               "type": "line",
-              "line": "，我这儿是客栈又不是垃圾站，给你一柱香，收拾不完，不要想吃晚饭"
+              "line": "我这儿是客栈又不是垃圾站，给你一柱香，收拾不完，不要想吃晚饭！"
             },
             {
               "type": "speaker-action",
               "description": "香供到关公像前"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -3816,15 +3784,11 @@
             },
             {
               "type": "line",
-              "line": "如果勤劳也是一种错误，那我就马上改掉好了"
+              "line": "如果勤劳也是一种错误，那我就马上改掉好了~"
             },
             {
               "type": "speaker-action",
               "description": "把扫帚放一边"
-            },
-            {
-              "type": "line",
-              "line": "~"
             }
           ]
         },
@@ -3834,7 +3798,7 @@
           "performances": [
             {
               "type": "line",
-              "line": "勤劳都成这样了，懒起来还不成猪窝了"
+              "line": "勤劳都成这样了，懒起来还不成猪窝了！"
             },
             {
               "type": "speaker-action",
@@ -3842,7 +3806,7 @@
             },
             {
               "type": "line",
-              "line": "！从今天起抹布不离身，扫帚不离手，这是店规知道了吧！"
+              "line": "从今天起抹布不离身，笤帚不离手，这是店规知道了吧！"
             }
           ]
         },
@@ -4185,15 +4149,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "这个不急，我怀疑这里边有东西"
+              "line": "这个不急，我怀疑这里边有东西……"
             },
             {
               "type": "speaker-action",
               "description": "指菜"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -4299,15 +4259,11 @@
             },
             {
               "type": "line",
-              "line": "你做梦！我现在就跟你去衙门，你今天把话给我说清楚了！走"
+              "line": "你做梦！我现在就跟你去衙门，你今天把话给我说清楚了！走。"
             },
             {
               "type": "speaker-action",
               "description": "拉老邢走"
-            },
-            {
-              "type": "line",
-              "line": "——"
             }
           ]
         },
@@ -4373,15 +4329,11 @@
             },
             {
               "type": "line",
-              "line": "你们…姑奶奶我不干啦！走开"
+              "line": "你们…姑奶奶我不干啦！走开！"
             },
             {
               "type": "speaker-action",
               "description": "把扫帚一摔，推开大嘴向后院走去"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -4410,15 +4362,11 @@
             },
             {
               "type": "line",
-              "line": "这哪买的个丫头，反了教儿了还！信不信"
+              "line": "这哪买的个丫头，反了教儿了还！信不信！"
             },
             {
               "type": "speaker-action",
               "description": "拔刀，客人跑掉"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -4538,15 +4486,11 @@
             },
             {
               "type": "line",
-              "line": "佟掌柜啊，郭巨侠的千金，怎么能在你这儿打杂呢"
+              "line": "佟掌柜啊，郭巨侠的千金，怎么能在你这儿打杂呢？"
             },
             {
               "type": "speaker-action",
               "description": "挠后脑勺"
-            },
-            {
-              "type": "line",
-              "line": "？"
             }
           ]
         },
@@ -4705,15 +4649,11 @@
             },
             {
               "type": "line",
-              "line": "我错了，这是邢捕头的赔礼你先拿着"
+              "line": "我错了，这是邢捕头的赔礼你先拿着……"
             },
             {
               "type": "speaker-action",
               "description": "把装着鸡腿的碗给小郭"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -4727,15 +4667,11 @@
             },
             {
               "type": "line",
-              "line": "就这么点东西呀"
+              "line": "就这么点东西呀。"
             },
             {
               "type": "speaker-action",
               "description": "开吃"
-            },
-            {
-              "type": "line",
-              "line": "。"
             }
           ]
         },
@@ -4821,15 +4757,11 @@
             },
             {
               "type": "line",
-              "line": "那你现在在哪儿呢，有句名言，可你还是没有听说过，有人的地方就叫江湖。在江湖上走动，各有各的难处，吃点苦都是应该的"
+              "line": "那你现在在哪儿呢，有句名言，可你还是没有听说过，有人的地方就叫江湖。在江湖上走动，各有各的难处，吃点苦都是应该的。"
             },
             {
               "type": "speaker-action",
               "description": "倒茶"
-            },
-            {
-              "type": "line",
-              "line": "。"
             }
           ]
         },
@@ -5194,20 +5126,20 @@
           "speaker": "邢育森",
           "performances": [
             {
+              "type": "line",
+              "line": "是我，是我。"
+            },
+            {
               "type": "speaker-action",
               "description": "客气的"
             },
             {
               "type": "line",
-              "line": "郭女侠，昨天的事儿对不住了啊"
+              "line": "郭女侠，昨天的事儿对不住了啊！"
             },
             {
               "type": "speaker-action",
               "description": "抱拳，小六在一旁附和"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -5259,15 +5191,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "六儿，你不是饿了吗"
+              "line": "六儿，你不是饿了吗……"
             },
             {
               "type": "speaker-action",
               "description": "要给小六"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -5542,7 +5470,7 @@
           "performances": [
             {
               "type": "line",
-              "line": "走！掌柜的"
+              "line": "走！掌柜的。"
             },
             {
               "type": "speaker-action",
@@ -5551,24 +5479,16 @@
           ]
         },
         {
-          "type": "action",
-          "description": "。"
-        },
-        {
           "type": "dialog",
           "speaker": "郭芙蓉",
           "performances": [
             {
               "type": "line",
-              "line": "哎哟"
+              "line": "哎哟！"
             },
             {
               "type": "speaker-action",
               "description": "小郭捂腿"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -5640,15 +5560,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "行"
+              "line": "行！"
             },
             {
               "type": "speaker-action",
               "description": "出门"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -5690,15 +5606,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "我拿完东西就走啊"
+              "line": "我拿完东西就走啊。"
             },
             {
               "type": "speaker-action",
               "description": "把桌子上的纸拿走"
-            },
-            {
-              "type": "line",
-              "line": "。"
             }
           ]
         },
@@ -5742,15 +5654,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "那可是方圆五百里最好的书院，规矩多着呢，就是报名费就得三钱银子。要是我考不上，我嫂子非跟我急了不可，没准儿让白大哥收拾我呢"
+              "line": "那可是方圆五百里最好的书院，规矩多着呢，就是报名费就得三钱银子。要是我考不上，我嫂子非跟我急了不可，没准儿让白大哥收拾我呢！"
             },
             {
               "type": "speaker-action",
               "description": "转身叹着气出去"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -5858,15 +5766,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "看看"
+              "line": "看看！"
             },
             {
               "type": "speaker-action",
               "description": "把纸上的字给小贝看"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -5978,7 +5882,7 @@
           "performances": [
             {
               "type": "line",
-              "line": "嘿嘿，没想到这么快就落我手里了！看我怎么收拾你，跟我算帐"
+              "line": "嘿嘿，没想到这么快就落我手里了！看我怎么收拾你，跟我算帐！"
             },
             {
               "type": "speaker-action",
@@ -5986,13 +5890,9 @@
             },
             {
               "type": "line",
-              "line": "！"
+              "line": "孔仲尼……"
             }
           ]
-        },
-        {
-          "type": "action",
-          "description": "孔仲尼"
         }
       ]
     },
@@ -6502,6 +6402,16 @@
         },
         {
           "type": "dialog",
+          "speaker": "燕小六",
+          "performances": [
+            {
+              "type": "line",
+              "line": "师父！"
+            }
+          ]
+        },
+        {
+          "type": "dialog",
           "speaker": "白展堂",
           "performances": [
             {
@@ -6571,15 +6481,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "不为什么，想写就写喽"
+              "line": "不为什么，想写就写喽！"
             },
             {
               "type": "speaker-action",
               "description": "手里转手绢"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -6641,15 +6547,11 @@
             },
             {
               "type": "line",
-              "line": "真是太棒了"
+              "line": "真是太棒了！"
             },
             {
               "type": "speaker-action",
               "description": "猛拍小郭腿一下"
-            },
-            {
-              "type": "line",
-              "line": "！"
             }
           ]
         },
@@ -6773,15 +6675,11 @@
           "performances": [
             {
               "type": "line",
-              "line": "人家是搞老庄的，老庄"
+              "line": "人家是搞老庄的，老庄……"
             },
             {
               "type": "speaker-action",
               "description": "用普通话"
-            },
-            {
-              "type": "line",
-              "line": "……"
             }
           ]
         },
@@ -6875,15 +6773,11 @@
             },
             {
               "type": "line",
-              "line": "你们负责给她做好饭啊"
+              "line": "你们负责给她做好饭啊。"
             },
             {
               "type": "speaker-action",
               "description": "笑着走了"
-            },
-            {
-              "type": "line",
-              "line": "。"
             }
           ]
         },

@@ -28,6 +28,16 @@
     },
     {
       "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "line",
+          "line": "小郭姐姐。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
         {
@@ -216,15 +226,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "不应该呀……葵花点穴手"
+          "line": "不应该呀……葵花点穴手！"
         },
         {
           "type": "speaker-action",
           "description": "又点小郭"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -268,15 +274,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "你真是太客气了！葵花点穴手"
+          "line": "你真是太客气了！葵花点穴手！"
         },
         {
           "type": "speaker-action",
           "description": "再点小郭"
-        },
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },
@@ -342,31 +344,18 @@
         }
       ]
     },
-    {
-      "type": "dialog",
-      "speaker": "白展堂",
-      "performances": [
-        {
-          "type": "line",
-          "line": "真的？"
-        }
-      ]
-    },
+
     {
       "type": "dialog",
       "speaker": "郭芙蓉",
       "performances": [
         {
           "type": "line",
-          "line": "真的，不信你看，哎呀你看"
+          "line": "真的真的，不信你看，哎呀你看"
         },
         {
           "type": "speaker-action",
           "description": "活动脚"
-        },
-        {
-          "type": "line",
-          "line": "——"
         }
       ]
     },
@@ -492,15 +481,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "小郭姐姐，你放心啊，我一定会医好你的肝病，你等着啊"
+          "line": "小郭姐姐，你放心啊，我一定会医好你的肝病，你等着啊……"
         },
         {
           "type": "speaker-action",
           "description": "跑出去"
-        },
-        {
-          "type": "line",
-          "line": "……"
         }
       ]
     },

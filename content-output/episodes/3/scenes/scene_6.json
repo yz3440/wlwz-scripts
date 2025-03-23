@@ -6,26 +6,16 @@
   "context": "",
   "performances": [
     {
-      "type": "action",
-      "description": "老白的声音响起"
-    },
-    {
       "type": "dialog",
-      "speaker": "",
+      "speaker": "白展堂",
       "performances": [
+        {
+          "type": "speaker-action",
+          "description": "从画面外叫"
+        },
         {
           "type": "line",
           "line": "吕秀才，郭芙蓉！"
-        }
-      ]
-    },
-    {
-      "type": "dialog",
-      "speaker": "",
-      "performances": [
-        {
-          "type": "line",
-          "line": "！"
         }
       ]
     },

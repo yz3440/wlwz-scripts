@@ -315,8 +315,18 @@
       "description": "小郭哭了"
     },
     {
-      "type": "action",
-      "description": "小贝内心：这一回难不成是真的"
+      "type": "dialog",
+      "speaker": "莫小贝",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "画外音"
+        },
+        {
+          "type": "line",
+          "line": "这一回难不成是真的"
+        }
+      ]
     },
     {
       "type": "dialog",

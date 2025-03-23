@@ -114,14 +114,8 @@
       ]
     },
     {
-      "type": "dialog",
-      "speaker": "众人",
-      "performances": [
-        {
-          "type": "line",
-          "line": "……"
-        }
-      ]
+      "type": "action",
+      "description": "众人尝试劝阻"
     },
     {
       "type": "dialog",
