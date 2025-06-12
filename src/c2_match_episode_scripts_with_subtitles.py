@@ -318,7 +318,11 @@ def match_srt_with_script_recursive(
         return {}
 
     # If the range is small enough, use direct matching instead of recursive approach
-    if end_srt_idx - start_srt_idx <= 5 or end_script_idx - start_script_idx <= 5:
+    threshold = 10
+    if (
+        end_srt_idx - start_srt_idx <= threshold
+        or end_script_idx - start_script_idx <= threshold
+    ):
         return match_range(
             srt_lines,
             script_lines,

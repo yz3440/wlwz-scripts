@@ -209,7 +209,17 @@
     },
     {
       "type": "action",
-      "description": "大嘴娘给大嘴刺字，李大嘴：娘娘娘别别别哎哎哎疼疼疼"
+      "description": "大嘴娘给大嘴刺字"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘娘娘别别别哎哎哎疼疼疼"
+        }
+      ]
     }
   ]
 }

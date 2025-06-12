@@ -515,7 +515,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "三个四我还就不信了，再来！"
+          "line": "好，我还就不信了，再来！"
         }
       ]
     },
@@ -883,6 +883,16 @@
     },
     {
       "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "娘，给您"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
       "speaker": "大嘴娘",
       "performances": [
         {
@@ -1108,6 +1118,16 @@
     {
       "type": "action",
       "description": "众人去送"
+    },
+    {
+      "type": "dialog",
+      "speaker": "李大嘴",
+      "performances": [
+        {
+          "type": "line",
+          "line": "慢走。"
+        }
+      ]
     },
     {
       "type": "dialog",
