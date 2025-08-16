@@ -180,8 +180,12 @@
       "speaker": "白展堂",
       "performances": [
         {
+          "type": "line",
+          "line": "葵花点穴手。"
+        },
+        {
           "type": "speaker-action",
-          "description": "葵花点穴手"
+          "description": "点住小郭"
         },
         {
           "type": "line",
@@ -288,8 +292,12 @@
       "speaker": "白展堂",
       "performances": [
         {
+          "type": "line",
+          "line": "葵花解穴手。"
+        },
+        {
           "type": "speaker-action",
-          "description": "葵花解穴手"
+          "description": "解开小郭"
         }
       ]
     },
@@ -300,6 +308,28 @@
         {
           "type": "line",
           "line": "我不恨你，我们永远都支持你。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "莫小贝、郭芙蓉",
+      "performances": [
+        {
+          "type": "line",
+          "line": "耶！"
+        },
+        {
+          "type": "speaker-action",
+          "description": "互相击掌"
+        },
+        {
+          "type": "line",
+          "line": "走。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "跳着回到客栈"
         }
       ]
     }

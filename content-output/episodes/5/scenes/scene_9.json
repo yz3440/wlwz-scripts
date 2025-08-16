@@ -138,6 +138,20 @@
       ]
     },
     {
+      "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "尖叫"
+        },
+        {
+          "type": "line",
+          "line": "啊！"
+        }
+      ]
+    },
+    {
       "type": "action",
       "description": "小郭兴奋的倒下，掌柜的搀扶着"
     },

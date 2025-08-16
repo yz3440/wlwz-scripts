@@ -15,7 +15,15 @@
       "performances": [
         {
           "type": "line",
-          "line": "来了来了。这是什么呀。"
+          "line": "来来来了。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "从白展堂那接过扳指"
+        },
+        {
+          "type": "line",
+          "line": "哇塞，这是什么呀。"
         }
       ]
     },

@@ -25,6 +25,16 @@
     },
     {
       "type": "dialog",
+      "speaker": "众人",
+      "performances": [
+        {
+          "type": "line",
+          "line": "哇。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
       "speaker": "邢育森",
       "performances": [
         {
@@ -229,7 +239,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "恩。"
+          "line": "嗯。"
         }
       ]
     },

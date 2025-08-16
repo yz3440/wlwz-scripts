@@ -209,7 +209,11 @@
       "performances": [
         {
           "type": "line",
-          "line": "me too。"
+          "line": "我也是。"
+        },
+        {
+          "type": "speaker-action",
+          "description": "读作 me too"
         }
       ]
     },
@@ -239,7 +243,7 @@
       "performances": [
         {
           "type": "line",
-          "line": "恩。"
+          "line": "嗯。"
         }
       ]
     },

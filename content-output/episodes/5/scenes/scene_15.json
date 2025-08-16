@@ -162,12 +162,27 @@
         {
           "type": "line",
           "line": "我觉得你与其坐在这只什么都不干跟自己较劲，还不如主动出击，用行动来证明自己。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "佟湘玉",
+      "performances": [
+        {
+          "type": "speaker-action",
+          "description": "对小郭竖大拇指"
         },
         {
-          "type": "reaction",
-          "reactor": "佟湘玉",
-          "description": "掌柜的对小郭竖大拇指"
-        },
+          "type": "line",
+          "line": "小郭。"
+        }
+      ]
+    },
+    {
+      "type": "dialog",
+      "speaker": "郭芙蓉",
+      "performances": [
         {
           "type": "line",
           "line": "俗话说得好呀，该出手时就出手，再不出手，他们就把你看瘪了。"
@@ -175,7 +190,7 @@
         {
           "type": "reaction",
           "reactor": "佟湘玉",
-          "description": "掌柜的惊讶"
+          "description": "惊讶"
         },
         {
           "type": "line",
